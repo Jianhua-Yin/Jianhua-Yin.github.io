@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jianhua&#39;s Blog</title>
+  <title>Hua Echo</title>
   <icon>https://www.huaecho.cn/icon.png</icon>
-  <subtitle>Chemyinjh@126.com</subtitle>
+  <subtitle>Homepage of Jianhua Yin</subtitle>
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-04-12T14:52:37.274Z</updated>
+  <updated>2024-04-12T06:45:20.384Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
-    <name>Jianhua Yin</name>
+    <name>Chemyinjh</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Test</title>
-    <link href="https://www.huaecho.cn/2024/04/12/Test.html"/>
-    <id>https://www.huaecho.cn/2024/04/12/Test.html</id>
-    <published>2024-04-12T14:18:08.000Z</published>
-    <updated>2024-04-12T14:52:37.274Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/1.png&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
