@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-04-12T06:45:20.384Z</updated>
+  <updated>2024-04-12T18:42:09.729Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Processing Two-Dimensional Powder Diffraction Data with Dioptas</title>
+    <link href="https://www.huaecho.cn/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html"/>
+    <id>https://www.huaecho.cn/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html</id>
+    <published>2024-04-12T18:42:09.000Z</published>
+    <updated>2024-04-12T18:42:09.729Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -38,27 +51,25 @@
   </entry>
   
   <entry>
-    <title>EXAFS Theoty</title>
-    <link href="https://www.huaecho.cn/2024/04/10/EXAFS-Theoty.html"/>
-    <id>https://www.huaecho.cn/2024/04/10/EXAFS-Theoty.html</id>
+    <title>XAFS Theoty</title>
+    <link href="https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html"/>
+    <id>https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html</id>
     <published>2024-04-09T18:20:14.000Z</published>
-    <updated>2024-04-12T18:28:45.056Z</updated>
+    <updated>2024-04-12T18:37:17.489Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Theory&quot;&gt;Theory&lt;/h2&gt;
-&lt;p&gt;ceshi&lt;br&gt;
-&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot; display=&quot;true&quot;&gt;&lt;svg style=&quot;vertical-align: -0.025ex;&quot;</summary>
+    <summary type="html">&lt;h2</summary>
         
       
     
     
     
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
   </entry>
   

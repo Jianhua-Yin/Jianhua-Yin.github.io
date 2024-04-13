@@ -1,5 +1,6 @@
-https://www.huaecho.cn/2024/04/10/EXAFS-Theoty.html
+https://www.huaecho.cn/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html
+https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html
 https://www.huaecho.cn/about/index.html
 https://www.huaecho.cn/2024/04/12/hello-world.html
 https://www.huaecho.cn/
-https://www.huaecho.cn/tags/EXAFS/
+https://www.huaecho.cn/tags/XAFS/

@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.huaecho.cn/2024/04/10/EXAFS-Theoty.html</loc>
+    <loc>https://www.huaecho.cn/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html</loc>
     
     <lastmod>2024-04-12</lastmod>
     
@@ -31,15 +40,15 @@
 
   <url>
     <loc>https://www.huaecho.cn/</loc>
-    <lastmod>2024-04-12</lastmod>
+    <lastmod>2024-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.huaecho.cn/tags/EXAFS/</loc>
-    <lastmod>2024-04-12</lastmod>
+    <loc>https://www.huaecho.cn/tags/XAFS/</loc>
+    <lastmod>2024-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

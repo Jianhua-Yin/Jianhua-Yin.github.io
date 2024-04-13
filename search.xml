@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>EXAFS Theoty</title>
-    <url>/2024/04/10/EXAFS-Theoty.html</url>
-    <content><![CDATA[<h2 id="Theory">Theory</h2>
-<p>ceshi<br>
-<mjx-container class="MathJax" jax="SVG" display="true"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="0.98ex" height="1.025ex" role="img" focusable="false" viewBox="0 -442 433 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g></g></g></svg></mjx-container></p>
-]]></content>
-      <tags>
-        <tag>EXAFS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/04/12/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -29,5 +18,19 @@
 <figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Processing Two-Dimensional Powder Diffraction Data with Dioptas</title>
+    <url>/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>XAFS Theoty</title>
+    <url>/2024/04/10/XAFS-Theoty.html</url>
+    <content><![CDATA[<h2 id="Theory">Theory</h2>
+]]></content>
+      <tags>
+        <tag>XAFS</tag>
+      </tags>
   </entry>
 </search>
