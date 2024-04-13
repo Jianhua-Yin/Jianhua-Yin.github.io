@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Processing Two-Dimensional Powder Diffraction Data with Dioptas</title>
-    <url>/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>XAFS Theoty</title>
     <url>/2024/04/10/XAFS-Theoty.html</url>
     <content><![CDATA[<h2 id="Theory">Theory</h2>
@@ -13,6 +8,11 @@
       <tags>
         <tag>XAFS</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Processing Two-Dimensional Powder Diffraction Data with Dioptas</title>
+    <url>/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
