@@ -64,6 +64,9 @@ Use the poetry package manager to create a working environment by typing:</p>
 <h3 id="Integration-Procedure">Integration Procedure</h3>
 <h3 id="Exporting-Data">Exporting Data</h3>
 <h3 id="References">References</h3>
+<p>[1] <a href="https://doi.org/10.1080/08957959.2015.1059835">Prescher, Clemens, and Vitali B. Prakapenka. “DIOPTAS: A Program for Reduction of Two-Dimensional X-Ray Diffraction Data and Data Exploration.” High Pressure Research 35, no. 3 (2015): 223–30. doi:10.1080/08957959.2015.1059835.</a></p>
+<p>[2]<a href="https://dioptas.readthedocs.io/en/stable/index.html">Dioptas 0.4.0 documentation</a></p>
+<p>[3]<a href="https://github.com/Dioptas/Dioptas">github.com/Dioptas/Dioptas.git</a></p>
 <script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
