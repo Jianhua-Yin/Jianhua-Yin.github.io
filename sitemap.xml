@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html</loc>
+    
+    <lastmod>2024-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huaecho.cn/2023/08/02/Use%20Dioptas%20for%20Efficient%202D%20Powder%20Diffraction%20Data%20Reduction.html</loc>
     
     <lastmod>2024-04-14</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://www.huaecho.cn/2018/09/07/hello-world.html</loc>
-    
-    <lastmod>2024-04-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html</loc>
     
     <lastmod>2024-04-14</lastmod>
     
@@ -61,7 +61,14 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/tags/Tools/</loc>
+    <loc>https://www.huaecho.cn/tags/EXAFS/</loc>
+    <lastmod>2024-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/XANES/</loc>
     <lastmod>2024-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -81,6 +88,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
+    <lastmod>2024-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/</loc>
+    <lastmod>2024-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Tools/</loc>
+    <lastmod>2024-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
