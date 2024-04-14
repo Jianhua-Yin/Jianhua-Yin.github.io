@@ -3,5 +3,7 @@ https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html
 https://www.huaecho.cn/about/index.html
 https://www.huaecho.cn/2024/04/12/hello-world.html
 https://www.huaecho.cn/
-https://www.huaecho.cn/tags/Tools-Powder-Diffraction-X-ray-Scattering/
 https://www.huaecho.cn/tags/XAFS-Core-level-spectrum/
+https://www.huaecho.cn/tags/Tools/
+https://www.huaecho.cn/tags/Powder-Diffraction/
+https://www.huaecho.cn/tags/X-ray-Scattering/
