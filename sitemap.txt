@@ -1,6 +1,7 @@
+https://www.huaecho.cn/2024/04/13/Use%20Dioptas%20for%20Efficient%202D%20Powder%20Diffraction%20Data%20Reduction.html
 https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html
-https://www.huaecho.cn/2024/04/13/Processing-Two-Dimensional-Powder-Diffraction-Data-with-Dioptas.html
 https://www.huaecho.cn/about/index.html
 https://www.huaecho.cn/2024/04/12/hello-world.html
 https://www.huaecho.cn/
-https://www.huaecho.cn/tags/XAFS/
+https://www.huaecho.cn/tags/Tools-Powder-Diffraction-X-ray-Scattering/
+https://www.huaecho.cn/tags/XAFS-Core-level-spectrum/
