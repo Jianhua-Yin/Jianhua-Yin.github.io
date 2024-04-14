@@ -6,6 +6,7 @@
     <content><![CDATA[<img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%">
 <p>Dioptas is an awesome GUI program based on <em>Python</em>, designed for the fast data reduction of <em><strong>Powder X-ray Diffraction images</strong></em>. It provides the capability of <strong>calibrating</strong>, <strong>integrating</strong>, <strong>creating masks</strong>, showing multiple pattern overlays and display phases line positions.</p>
 <img src="https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png" alt="Dioptas_Modules" title="Dioptas_Modules" width="60%">
+<span id="more"></span>
 <h2 id="Program-dependencies">Program dependencies</h2>
 <figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">Python 3.9+</span><br><span class="line">pyFAI</span><br></pre></td></tr></tbody></table></figure>
 <h2 id="Distribution">Distribution</h2>
@@ -39,23 +40,21 @@ use the poetry package manager to create a working environment by typing:</p>
 <h3 id="Getting-Started">Getting Started</h3>
 <p>Basic Mouse Operations</p>
 <ul>
-<li>
-<p><strong>Left Drag</strong> Zooms into the selected area.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif" alt="Left Drag" title="Left Drag" width="60%"></p>
-</li>
-<li>
-<p><strong>Right Click</strong> Zoom out.<br>
-<img src="" alt="Right Click" title="Right Click" width="60%"></p>
-</li>
-<li>
-<p><strong>Right Double Click</strong> Completely Zoom out.<br>
-<img src="" alt="Right Double Click" title="Right Double Click" width="60%"></p>
-</li>
-<li>
-<p><strong>Mouse Wheel</strong> Zoom in and zoom out based on the current cursor position.<br>
-<img src="" alt="Mouse Wheel" title="Mouse Wheel" width="60%"></p>
-</li>
+<li><strong>Left Drag</strong> Zooms into the selected area.</li>
 </ul>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif" alt="Left Drag" title="Left Drag" width="60%">
+<ul>
+<li><strong>Right Click</strong> Zoom out.</li>
+</ul>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightclick.gif" alt="Right Click" title="Right Click" width="60%">
+<ul>
+<li><strong>Right Double Click</strong> Completely Zoom out.</li>
+</ul>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdclick.gif" alt="Right Double Click" title="Right Double Click" width="60%">
+<ul>
+<li><strong>Mouse Wheel</strong> Zoom in and zoom out based on the current cursor position.</li>
+</ul>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/mousewheel.gif" alt="Mouse Wheel" title="Mouse Wheel" width="60%">
 <p><strong>Let’s start by loading the image data.</strong></p>
 <h3 id="Calibration-Procedure">Calibration Procedure</h3>
 <h4 id="Preparation">Preparation</h4>
@@ -70,6 +69,17 @@ use the poetry package manager to create a working environment by typing:</p>
         <tag>Tools</tag>
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theoty</title>
+    <url>/2024/04/10/XAFS-Theoty.html</url>
+    <content><![CDATA[<h2 id="Theory">Theory</h2>
+<p><img src="https://oss.huaecho.cn/blogimage/1.png" alt=""></p>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
       </tags>
   </entry>
   <entry>
@@ -90,16 +100,5 @@ use the poetry package manager to create a working environment by typing:</p>
 <figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 <script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-  </entry>
-  <entry>
-    <title>XAFS Theoty</title>
-    <url>/2024/04/10/XAFS-Theoty.html</url>
-    <content><![CDATA[<h2 id="Theory">Theory</h2>
-<p><img src="https://oss.huaecho.cn/blogimage/1.png" alt=""></p>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-      </tags>
   </entry>
 </search>

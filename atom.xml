@@ -69,16 +69,12 @@
     <link href="https://www.huaecho.cn/2023/08/02/Use%20Dioptas%20for%20Efficient%202D%20Powder%20Diffraction%20Data%20Reduction.html"/>
     <id>https://www.huaecho.cn/2023/08/02/Use%20Dioptas%20for%20Efficient%202D%20Powder%20Diffraction%20Data%20Reduction.html</id>
     <published>2023-08-02T08:42:09.000Z</published>
-    <updated>2024-04-14T09:38:31.173Z</updated>
+    <updated>2024-04-14T09:49:05.874Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot;</summary>
-        
-      
+    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
+&lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;em&gt;&lt;strong&gt;Powder X-ray Diffraction images&lt;/strong&gt;&lt;/em&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;/p&gt;
+&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png&quot; alt=&quot;Dioptas_Modules&quot; title=&quot;Dioptas_Modules&quot; width=&quot;60%&quot;&gt;</summary>
     
     
     
