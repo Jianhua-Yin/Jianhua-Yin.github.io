@@ -71,7 +71,7 @@
     <link href="https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html"/>
     <id>https://www.huaecho.cn/2024/04/10/XAFS-Theoty.html</id>
     <published>2024-04-09T18:20:14.000Z</published>
-    <updated>2024-04-13T17:52:29.743Z</updated>
+    <updated>2024-04-14T06:52:17.890Z</updated>
     
     
       
@@ -87,7 +87,9 @@
     
     
     
-    <category term="XAFS,Core level spectrum" scheme="https://www.huaecho.cn/tags/XAFS-Core-level-spectrum/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
   </entry>
   
