@@ -536,7 +536,7 @@ mjx-container[display="true"] + br {
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">Edited on</span>
-      <time title="Modified: 2024-04-14 16:15:53" itemprop="dateModified" datetime="2024-04-14T16:15:53+08:00">2024-04-14</time>
+      <time title="Modified: 2024-04-14 16:42:12" itemprop="dateModified" datetime="2024-04-14T16:42:12+08:00">2024-04-14</time>
     </span>
 
   
@@ -560,7 +560,7 @@ mjx-container[display="true"] + br {
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">Word count in article: </span>
-      <span>126</span>
+      <span>194</span>
     </span>
     <span class="post-meta-item" title="Reading time">
       <span class="post-meta-item-icon">
@@ -592,9 +592,18 @@ mjx-container[display="true"] + br {
 <p>Binary programs for Windows, macOS, and Linux can be downloaded from the following link:</p>
 <figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas/releases</span><br></pre></td></tr></tbody></table></figure>
 <p><strong>pip</strong></p>
-<p>Install the all the dependencies for <em>Dioptas</em></p>
-<p><strong>poetry</strong></p>
+<p>Install the all the dependencies for <em>Dioptas</em> by pip package manager:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">pip install dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run Dioptas</span></span><br><span class="line">dioptas</span><br></pre></td></tr></tbody></table></figure>
+<p><strong>poetry</strong><br>
+use the poetry package manager to create a working environment by typing:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">create new environment</span></span><br><span class="line">poetry install</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Activate the environment</span></span><br><span class="line">poetry shell</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run dioptas</span></span><br><span class="line">dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run the dioptas without activating the environment</span></span><br><span class="line">poetry run dioptas</span><br></pre></td></tr></tbody></table></figure>
 <h2 id="Procedure">Procedure</h2>
+<pre class="mermaid">flowchart LR
+    A(Load Image Data) --&gt;B(Calibration)
+    B --&gt; C(Marks)
+    C --&gt; D(Integration)
+    D --&gt; E(Export Data)
+    D --&gt;A</pre>
 <h3 id="Overview">Overview</h3>
 <h3 id="Getting-Started">Getting Started</h3>
 <h3 id="Calibration-Procedure">Calibration Procedure</h3>
@@ -677,6 +686,8 @@ mjx-container[display="true"] + br {
 
   
 
+  <script class="next-config" data-name="mermaid" type="application/json">{"enable":true,"theme":{"light":"default","dark":"dark"},"js":{"url":"https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/mermaid/10.7.0/mermaid.min.js","integrity":"sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="}}</script>
+  <script src="/js/third-party/tags/mermaid.js"></script>
 
 
   <script src="/js/third-party/fancybox.js"></script>
