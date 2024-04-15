@@ -38,11 +38,35 @@
   </entry>
   
   <entry>
+    <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
+    <link href="https://www.huaecho.cn/Tools/2312659861.html"/>
+    <id>https://www.huaecho.cn/Tools/2312659861.html</id>
+    <published>2023-08-02T08:42:09.000Z</published>
+    <updated>2024-04-15T06:25:15.108Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
+&lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;em&gt;&lt;strong&gt;Powder X-ray Diffraction images&lt;/strong&gt;&lt;/em&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    
+    <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>XAFS Theory</title>
     <link href="https://www.huaecho.cn/Core-level-spectrum/618690954.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/618690954.html</id>
-    <published>2024-04-09T18:20:14.000Z</published>
-    <updated>2024-04-15T02:28:31.689Z</updated>
+    <published>2022-12-09T18:20:14.000Z</published>
+    <updated>2024-04-15T06:25:54.450Z</updated>
     
     
     <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
@@ -60,30 +84,6 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <link href="https://www.huaecho.cn/Tools-Dioptas/2312659861.html"/>
-    <id>https://www.huaecho.cn/Tools-Dioptas/2312659861.html</id>
-    <published>2023-08-02T08:42:09.000Z</published>
-    <updated>2024-04-15T06:24:01.018Z</updated>
-    
-    
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
-&lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;em&gt;&lt;strong&gt;Powder X-ray Diffraction images&lt;/strong&gt;&lt;/em&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="-Tools -Dioptas" scheme="https://www.huaecho.cn/categories/Tools-Dioptas/"/>
-    
-    
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
-    
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
-    
-    <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
     
   </entry>
   
