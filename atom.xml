@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-04-15T06:25:15.108Z</updated>
+  <updated>2024-04-15T07:52:16.446Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <link href="https://www.huaecho.cn/Tools/2312659861.html"/>
-    <id>https://www.huaecho.cn/Tools/2312659861.html</id>
+    <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861.html"/>
+    <id>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</id>
     <published>2023-08-02T08:42:09.000Z</published>
-    <updated>2024-04-15T06:25:15.108Z</updated>
+    <updated>2024-04-15T07:52:16.446Z</updated>
     
     
     <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
@@ -30,6 +30,8 @@
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="Dioptas" scheme="https://www.huaecho.cn/categories/Tools/Dioptas/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -42,10 +44,10 @@
   
   <entry>
     <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
-    <link href="https://www.huaecho.cn/uncategorized/2230252193.html"/>
-    <id>https://www.huaecho.cn/uncategorized/2230252193.html</id>
+    <link href="https://www.huaecho.cn/Tools/pdfgetxns3/2230252193.html"/>
+    <id>https://www.huaecho.cn/Tools/pdfgetxns3/2230252193.html</id>
     <published>2023-07-15T11:17:45.000Z</published>
-    <updated>2024-04-15T06:27:57.610Z</updated>
+    <updated>2024-04-15T07:53:05.505Z</updated>
     
     
       
@@ -58,15 +60,23 @@
     
     
     
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="pdfgetxns3" scheme="https://www.huaecho.cn/categories/Tools/pdfgetxns3/"/>
+    
+    
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
     
   </entry>
   
   <entry>
     <title>XAFS Theory</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/618690954.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/618690954.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
     <published>2022-12-09T18:20:14.000Z</published>
-    <updated>2024-04-15T06:25:54.450Z</updated>
+    <updated>2024-04-15T07:53:23.297Z</updated>
     
     
     <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
@@ -75,6 +85,8 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
     
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
@@ -89,10 +101,10 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.huaecho.cn/Tools/1243066710.html"/>
-    <id>https://www.huaecho.cn/Tools/1243066710.html</id>
+    <link href="https://www.huaecho.cn/Tools/Hexo/1243066710.html"/>
+    <id>https://www.huaecho.cn/Tools/Hexo/1243066710.html</id>
     <published>2018-09-07T04:42:00.000Z</published>
-    <updated>2024-04-15T02:28:31.688Z</updated>
+    <updated>2024-04-15T07:49:02.198Z</updated>
     
     
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
@@ -100,6 +112,8 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="Hexo" scheme="https://www.huaecho.cn/categories/Tools/Hexo/"/>
     
     
   </entry>
