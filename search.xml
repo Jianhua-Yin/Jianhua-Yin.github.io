@@ -1,99 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
-      <link href="/uncategorized/2230252193.html"/>
-      <url>/uncategorized/2230252193.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>XAFS Theory</title>
-      <link href="/Core-level-spectrum/618690954.html"/>
-      <url>/Core-level-spectrum/618690954.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  <span id="more"></span><h2 id="Theory">Theory</h2><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%"><img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
+    <url>/Tools/2312659861.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%">
+<p>Dioptas is an awesome GUI program based on <em>Python</em>, designed for the fast data reduction of <em><strong>Powder X-ray Diffraction images</strong></em>. It provides the capability of <strong>calibrating</strong>, <strong>integrating</strong>, <strong>creating masks</strong>, showing multiple pattern overlays and display phases line positions.</p>
+<span id="more"></span>  
+<h2 id="Program-dependencies">Program dependencies</h2>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">Python 3.9+</span><br><span class="line">pyFAI</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="Distribution">Distribution</h2>
+<p><strong>Maintainer</strong></p>
+<p>Clemens Prescher (<a href="mailto:clemens.prescher@gmail.com">clemens.prescher@gmail.com</a>)</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="Installation">Installation</h2>
+<p><strong>Executables</strong></p>
+<p>Binary programs for Windows, macOS, and Linux can be downloaded from the following link:</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas/releases</span><br></pre></td></tr></tbody></table></figure>
+<p><strong>pip</strong></p>
+<p>Install the all the dependencies for <em>Dioptas</em> by pip package manager:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">pip install dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run Dioptas</span></span><br><span class="line">dioptas</span><br></pre></td></tr></tbody></table></figure>
+<p><strong>poetry</strong><br>
+Use the poetry package manager to create a working environment by typing:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">create new environment</span></span><br><span class="line">poetry install</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Activate the environment</span></span><br><span class="line">poetry shell</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run dioptas</span></span><br><span class="line">dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run the dioptas without activating the environment</span></span><br><span class="line">poetry run dioptas</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="Procedure">Procedure</h2>
+<h3 id="Overview">Overview</h3>
+<p>Dioptas has three different modules which can all be accessed by the lab indicators on the <em><strong>left side</strong></em> of the user interface: <strong>Calibration</strong>, <strong>Mask</strong>, <strong>Integration</strong>.</p>
+<ul>
+<li><strong>Calibration Module</strong> This module is used to calibrate the detector geometry.</li>
+<li><strong>Mask Module</strong> This module allows users to select regions that need to be excluded from the image integration.</li>
+<li><strong>Integration Module</strong> This module displays the image and integrated pattern. It can overlay different patterns and show the line positions of phases.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png?imageMogr2/format/avif" alt="Dioptas_Modules" title="Dioptas_Modules" width="60%"></li>
+</ul>
+<hr>
+<h3 id="Getting-Started">Getting Started</h3>
+<h4 id="Basic-Mouse-Operations">Basic Mouse Operations</h4>
+<div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">Left Drag</a></li><li class="tab"><a href="#unique-name-2">Right Click</a></li><li class="tab"><a href="#unique-name-3">Right Double Click</a></li><li class="tab"><a href="#unique-name-4">Mouse Wheel</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><ul>
+<li><strong>Left Drag</strong> Zooms into the selected area.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif?imageMogr2/format/avif" alt="Left Drag" title="Left Drag" width="60%"></li>
+</ul></div><div class="tab-pane" id="unique-name-2"><ul>
+<li><strong>Right Click</strong> Zoom out.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightclick.gif?imageMogr2/format/avif" alt="Right Click" title="Right Click" width="60%"></li>
+</ul></div><div class="tab-pane" id="unique-name-3"><ul>
+<li><strong>Right Double Click</strong> Completely Zoom out.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdclick.gif?imageMogr2/format/avif" alt="Right Double Click" title="Right Double Click" width="60%"></li>
+</ul></div><div class="tab-pane" id="unique-name-4"><ul>
+<li><strong>Mouse Wheel</strong> Zoom in and zoom out based on the current cursor position.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/mousewheel.gif?imageMogr2/format/avif" alt="Mouse Wheel" title="Mouse Wheel" width="60%"></li>
+</ul></div></div></div>
+<h4 id="Image-Color-Scale-and-Contrast">Image Color Scale and Contrast</h4>
+<p>The image color scale and contrast can be adjusted by sliding the color bar and right-clicking to change the color group.</p>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/colorscal.gif?imageMogr2/format/avif" alt="Color Scale and Constrast" title="Color Scale and Constrast" width="60%">  
+<h3 id="Workflow">Workflow</h3>
+<pre class="mermaid">flowchart LR
+    A(Load Image Data) --&gt;B(Calibration)
+    B --&gt; C(Mask)
+    C --&gt; D(Integration)
+    D --&gt; E(Export Data)
+    D --&gt;A</pre>
+<p>Let's start by loading the image data.<br>
+Click the <button type="button"><strong>Load file</strong></button> button the on the upper right side of the interface to begin the process.</p>
+<div class="tabs" id="unique-name"><ul class="nav-tabs"></ul><div class="tab-content"></div></div>
+<h3 id="Exporting-Data">Exporting Data</h3>
+<h3 id="References">References</h3>
+<blockquote>
+<p>[1] <a href="https://doi.org/10.1080/08957959.2015.1059835">Prescher, Clemens, and Vitali B. Prakapenka. “DIOPTAS: A Program for Reduction of Two-Dimensional X-Ray Diffraction Data and Data Exploration.” High Pressure Research 35, no. 3 (2015): 223–30. doi:10.1080/08957959.2015.1059835.</a><br>
+[2] <a href="https://dioptas.readthedocs.io/en/stable/index.html">Dioptas 0.4.0 documentation</a><br>
+[3] <a href="https://github.com/Dioptas/Dioptas">github.com/Dioptas/Dioptas.git</a></p>
+</blockquote>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
-          
-          <category> Core level spectrum </category>
-          
+        <category>Tools</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> XAFS </tag>
-            
-            <tag> Core level spectrum </tag>
-            
-            <tag> EXAFS </tag>
-            
-            <tag> XANES </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-      <link href="/Tools/2312659861.html"/>
-      <url>/Tools/2312659861.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%"><p>Dioptas is an awesome GUI program based on <em>Python</em>, designed for the fast data reduction of <em><strong>Powder X-ray Diffraction images</strong></em>. It provides the capability of <strong>calibrating</strong>, <strong>integrating</strong>, <strong>creating masks</strong>, showing multiple pattern overlays and display phases line positions.</p><span id="more"></span>  <h2 id="Program-dependencies">Program dependencies</h2><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Python 3.9+</span><br><span class="line">pyFAI</span><br></pre></td></tr></tbody></table></figure><h2 id="Distribution">Distribution</h2><p><strong>Maintainer</strong></p><p>Clemens Prescher (<a href="mailto:clemens.prescher@gmail.com">clemens.prescher@gmail.com</a>)</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas</span><br></pre></td></tr></tbody></table></figure><h2 id="Installation">Installation</h2><p><strong>Executables</strong></p><p>Binary programs for Windows, macOS, and Linux can be downloaded from the following link:</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas/releases</span><br></pre></td></tr></tbody></table></figure><p><strong>pip</strong></p><p>Install the all the dependencies for <em>Dioptas</em> by pip package manager:</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">pip install dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run Dioptas</span></span><br><span class="line">dioptas</span><br></pre></td></tr></tbody></table></figure><p><strong>poetry</strong><br>Use the poetry package manager to create a working environment by typing:</p><figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">create new environment</span></span><br><span class="line">poetry install</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Activate the environment</span></span><br><span class="line">poetry shell</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run dioptas</span></span><br><span class="line">dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run the dioptas without activating the environment</span></span><br><span class="line">poetry run dioptas</span><br></pre></td></tr></tbody></table></figure><h2 id="Procedure">Procedure</h2><h3 id="Overview">Overview</h3><p>Dioptas has three different modules which can all be accessed by the lab indicators on the <em><strong>left side</strong></em> of the user interface: <strong>Calibration</strong>, <strong>Mask</strong>, <strong>Integration</strong>.</p><ul><li><strong>Calibration Module</strong> This module is used to calibrate the detector geometry.</li><li><strong>Mask Module</strong> This module allows users to select regions that need to be excluded from the image integration.</li><li><strong>Integration Module</strong> This module displays the image and integrated pattern. It can overlay different patterns and show the line positions of phases.<br><img src="https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png?imageMogr2/format/avif" alt="Dioptas_Modules" title="Dioptas_Modules" width="60%"></li></ul><hr><h3 id="Getting-Started">Getting Started</h3><h4 id="Basic-Mouse-Operations">Basic Mouse Operations</h4><div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">Left Drag</a></li><li class="tab"><a href="#unique-name-2">Right Click</a></li><li class="tab"><a href="#unique-name-3">Right Double Click</a></li><li class="tab"><a href="#unique-name-4">Mouse Wheel</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><ul><li><strong>Left Drag</strong> Zooms into the selected area.<br><img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif?imageMogr2/format/avif" alt="Left Drag" title="Left Drag" width="60%"></li></ul></div><div class="tab-pane" id="unique-name-2"><ul><li><strong>Right Click</strong> Zoom out.<br><img src="https://oss.huaecho.cn/blogimage/Dioptas/rightclick.gif?imageMogr2/format/avif" alt="Right Click" title="Right Click" width="60%"></li></ul></div><div class="tab-pane" id="unique-name-3"><ul><li><strong>Right Double Click</strong> Completely Zoom out.<br><img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdclick.gif?imageMogr2/format/avif" alt="Right Double Click" title="Right Double Click" width="60%"></li></ul></div><div class="tab-pane" id="unique-name-4"><ul><li><strong>Mouse Wheel</strong> Zoom in and zoom out based on the current cursor position.<br><img src="https://oss.huaecho.cn/blogimage/Dioptas/mousewheel.gif?imageMogr2/format/avif" alt="Mouse Wheel" title="Mouse Wheel" width="60%"></li></ul></div></div></div><h4 id="Image-Color-Scale-and-Contrast">Image Color Scale and Contrast</h4><p>The image color scale and contrast can be adjusted by sliding the color bar and right-clicking to change the color group.</p><img src="https://oss.huaecho.cn/blogimage/Dioptas/colorscal.gif?imageMogr2/format/avif" alt="Color Scale and Constrast" title="Color Scale and Constrast" width="60%">  <h3 id="Workflow">Workflow</h3><pre class="mermaid">flowchart LR    A(Load Image Data) --&gt;B(Calibration)    B --&gt; C(Mask)    C --&gt; D(Integration)    D --&gt; E(Export Data)    D --&gt;A</pre><p>Let's start by loading the image data.<br>Click the <button type="button"><strong>Load file</strong></button> button the on the upper right side of the interface to begin the process.</p><div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">Calibration</a></li><li class="tab"><a href="#unique-name-2">Mask</a></li><li class="tab"><a href="#unique-name-3">Integration</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><h3 id="Calibration-Procedure">Calibration Procedure</h3><p>The calibration procedure aim to correct the detector geometry.</p><h4 id="Preparation">Preparation</h4><p>First, click the <button type="button"><strong>Calibration</strong></button> button located on the <strong>left side</strong> of the window to enter calibration mode.<br>The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong> be defined based on the experimental setup and detector used.</p><img src="https://oss.huaecho.cn/blogimage/Dioptas/calpara.png?imageMogr2/format/avif" alt="Calibration Parameter" title="Calibration Parameter" width="60%"><p>Required Parameter Setting:</p><ul><li>Calibrant (standard complex)</li><li>wavelength</li><li>pixel width</li><li>pixel height</li><li>Distance (the program will automatically refine the value)</li></ul><h4 id="Peak-Picking">Peak Picking</h4><p>After selecting the 'Calibration Parameter', Dioptas requires an initial guess for the ring positions to determine the correct geometry. Select several points on each diffraction ring to proceed.<br>If the default <strong>automatic peak search</strong> is enabled, simply left-click the first diffraction ring as shown in this figure. Zooming in on the image will help accurately target the first ring.<br><img src="?imageMogr2/format/avif" alt="" title="" width="50%"><br>If the automatic peak searching fails, you can try the following alternatives:</p><ul><li>Perform the automatic search on the second, third, or subsequent rings.</li><li>Choose the <strong>single peak search</strong> option.<br><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></li></ul><h4 id="Calibration">Calibration</h4></div><div class="tab-pane" id="unique-name-2"><h3 id="Mask-Creation">Mask Creation</h3><p>Create a mask to exclude areas that are not needed.</p></div><div class="tab-pane" id="unique-name-3"><h3 id="Integration-Procedure">Integration Procedure</h3><p>The core component of Dioptas.</p></div></div></div><h3 id="Exporting-Data">Exporting Data</h3><h3 id="References">References</h3><blockquote><p>[1] <a href="https://doi.org/10.1080/08957959.2015.1059835">Prescher, Clemens, and Vitali B. Prakapenka. “DIOPTAS: A Program for Reduction of Two-Dimensional X-Ray Diffraction Data and Data Exploration.” High Pressure Research 35, no. 3 (2015): 223–30. doi:10.1080/08957959.2015.1059835.</a><br>[2] <a href="https://dioptas.readthedocs.io/en/stable/index.html">Dioptas 0.4.0 documentation</a><br>[3] <a href="https://github.com/Dioptas/Dioptas">github.com/Dioptas/Dioptas.git</a></p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      
-      
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Two Dimensional XRD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
+XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
+<span id="more"></span>
+<h2 id="Theory">Theory</h2>
+<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
+<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
-          
-          <category> Tools </category>
-          
+        <category>Core level spectrum</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Powder Diffraction </tag>
-            
-            <tag> X-ray Scattering </tag>
-            
-            <tag> Two Dimensional XRD </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/Tools/1243066710.html"/>
-      <url>/Tools/1243066710.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      
-      
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/Tools/1243066710.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
-          
-          <category> Tools </category>
-          
+        <category>Tools</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
+  <entry>
+    <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
+    <url>/uncategorized/2230252193.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+  </entry>
 </search>
