@@ -81,8 +81,8 @@ If the automatic peak searching fails, you can try the following alternatives:</
 <li>Perform the automatic search on the second, third, or subsequent rings.</li>
 <li>Choose the <strong>single peak search</strong> option.</li>
 </ul>
-<div class="tabs" id="peak-picking"><ul class="nav-tabs"><li class="tab active"><a href="#peak-picking-1">automatic peak search</a></li><li class="tab"><a href="#peak-picking-2">single peak search</a></li></ul><div class="tab-content"><div class="tab-pane active" id="peak-picking-1"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div><div class="tab-pane" id="peak-picking-2"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div></div></div>
-#### Calibration</div><div class="tab-pane" id="data-reduction-2"><h3 id="Mask-Creation">Mask Creation</h3>
+<div class="tabs" id="peak-picking"><ul class="nav-tabs"><li class="tab active"><a href="#peak-picking-1">automatic peak search</a></li><li class="tab"><a href="#peak-picking-2">single peak search</a></li></ul><div class="tab-content"><div class="tab-pane active" id="peak-picking-1"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div><div class="tab-pane" id="peak-picking-2"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div></div></div>  
+<h4 id="Calibration">Calibration</h4></div><div class="tab-pane" id="data-reduction-2"><h3 id="Mask-Creation">Mask Creation</h3>
 <p>Create a mask to exclude areas that are not needed.</p></div><div class="tab-pane" id="data-reduction-3"><h3 id="Integration-Procedure">Integration Procedure</h3>
 <p>The core component of Dioptas.</p></div></div></div>
 <h3 id="Exporting-Data">Exporting Data</h3>
