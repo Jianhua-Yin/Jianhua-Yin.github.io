@@ -76,12 +76,13 @@ The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong>
 <h4 id="Peak-Picking">Peak Picking</h4>
 <p>After selecting the 'Calibration Parameter', Dioptas requires an initial guess for the ring positions to determine the correct geometry. Select several points on each diffraction ring to proceed.<br>
 If the default <strong>automatic peak search</strong> is enabled, simply left-click the first diffraction ring as shown in this figure. Zooming in on the image will help accurately target the first ring.<br>
+<img src="?imageMogr2/format/avif" alt="" title="" width="50%"><br>
 If the automatic peak searching fails, you can try the following alternatives:</p>
 <ul>
 <li>Perform the automatic search on the second, third, or subsequent rings.</li>
-<li>Choose the <strong>single peak search</strong> option.</li>
+<li>Choose the <strong>single peak search</strong> option.<br>
+<img src="?imageMogr2/format/avif" alt="" title="" width="50%"></li>
 </ul>
-<div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">single peak search</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div></div></div>  
 <h4 id="Calibration">Calibration</h4></div><div class="tab-pane" id="unique-name-2"><h3 id="Mask-Creation">Mask Creation</h3></div><div class="tab-pane" id="unique-name-3"><h3 id="Integration-Procedure">Integration Procedure</h3></div></div></div>
 <h3 id="Exporting-Data">Exporting Data</h3>
 <h3 id="References">References</h3>
@@ -120,6 +121,11 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
       </tags>
   </entry>
   <entry>
+    <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
+    <url>/uncategorized/2230252193.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/Tools/1243066710.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -141,10 +147,5 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
       <categories>
         <category>Tools</category>
       </categories>
-  </entry>
-  <entry>
-    <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
-    <url>/uncategorized/2230252193.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
   </entry>
 </search>
