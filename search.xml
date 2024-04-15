@@ -95,10 +95,12 @@ The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong>
   <entry>
     <title>XAFS Theoty</title>
     <url>/Core-level-spectrum/XAFS-Theoty.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
+XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
+<span id="more"></span>
 <h2 id="Theory">Theory</h2>
-<p><img src="https://oss.huaecho.cn/blogimage/1.png?imageMogr2/format/avif" alt=""></p>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
+<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
       </categories>
