@@ -103,30 +103,6 @@ If the automatic peak searching fails, you can try the following alternatives:</
       </tags>
   </entry>
   <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/618690954.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
-XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
-<span id="more"></span>
-<h2 id="Theory">Theory</h2>
-<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
-<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
-    <url>/uncategorized/2230252193.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/Tools/1243066710.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -148,5 +124,29 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
       <categories>
         <category>Tools</category>
       </categories>
+  </entry>
+  <entry>
+    <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
+    <url>/uncategorized/2230252193.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
+XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
+<span id="more"></span>
+<h2 id="Theory">Theory</h2>
+<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
+<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
   </entry>
 </search>
