@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
+    
+    <lastmod>2024-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/about/index.html</loc>
+    
+    <lastmod>2024-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</loc>
     
     <lastmod>2024-04-15</lastmod>
@@ -20,27 +38,9 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
-    
-    <lastmod>2024-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/Tools/Hexo/1243066710.html</loc>
     
     <lastmod>2024-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/about/index.html</loc>
-    
-    <lastmod>2024-04-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -149,14 +149,14 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
+    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
