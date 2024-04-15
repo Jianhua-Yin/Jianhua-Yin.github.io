@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/618690954.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
-XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
-<span id="more"></span>
-<h2 id="Theory">Theory</h2>
-<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
-<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
     <url>/Tools/2312659861.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%">
@@ -77,7 +58,7 @@ Use the poetry package manager to create a working environment by typing:</p>
     D --&gt; E(Export Data)
     D --&gt;A</pre></div>
 <p>Let's start by loading the image data.<br>
-Click the <button type="button"><strong>Load file</strong></button> button the on the upper right side of the interface to begin the process.</p>
+Click the <button type="button"><strong>Load file</strong></button> button the on the <mark class="label success">upper right</mark> side of the interface to begin the process.</p>
 <div class="tabs" id="data-reduction"><ul class="nav-tabs"><li class="tab active"><a href="#data-reduction-1">Calibration</a></li><li class="tab"><a href="#data-reduction-2">Mask</a></li><li class="tab"><a href="#data-reduction-3">Integration</a></li></ul><div class="tab-content"><div class="tab-pane active" id="data-reduction-1"><h3 id="Calibration-Procedure">Calibration Procedure</h3>
 <p>The calibration procedure aim to correct the detector geometry.</p>
 <h4 id="Preparation">Preparation</h4>
@@ -119,6 +100,25 @@ If the automatic peak searching fails, you can try the following alternatives:</
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
         <tag>Two Dimensional XRD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
+XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
+<span id="more"></span>
+<h2 id="Theory">Theory</h2>
+<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
+<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
