@@ -1644,6 +1644,7 @@ pre code {
   color: #b6b6b6;
   display: inline-block;
   margin: 0 5px;
+  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @keyframes icon-animate {
   0%, 100% {
