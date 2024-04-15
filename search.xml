@@ -62,7 +62,7 @@ Click the <button type="button"><strong>Load file</strong></button> button the o
 <div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">Calibration</a></li><li class="tab"><a href="#unique-name-2">Mask</a></li><li class="tab"><a href="#unique-name-3">Integration</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><h3 id="Calibration-Procedure">Calibration Procedure</h3>
 <p>The callibration procedure aim to correct the detector geometry.</p>
 <h4 id="Preparation">Preparation</h4>
-<p>First, click the <button type="button"><strong>Calibration</strong></button> button to enter calibration mode.<br>
+<p>First, click the <button type="button"><strong>Calibration</strong></button> button located on the <strong>left side</strong> of the window to enter calibration mode.<br>
 The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong> be defined based on the experimental setup and detector used.</p>
 <img src="https://oss.huaecho.cn/blogimage/Dioptas/calpara.png?imageMogr2/format/avif" alt="Calibration Parameter" title="Calibration Parameter" width="60%">
 <p>Required Parameter Setting:</p>
@@ -74,6 +74,14 @@ The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong>
 <li>Distance (the program will automatically refine the value)</li>
 </ul>
 <h4 id="Peak-Picking">Peak Picking</h4>
+<p>After selecting the 'Calibration Parameter', Dioptas requires an initial guess for the ring positions to determine the correct geometry. Select several points on each diffraction ring to proceed.<br>
+If the default <strong>automatic peak search</strong> is enabled, simply left-click the first diffraction ring as shown in this figure. Zooming in on the image will help accurately target the first ring.<br>
+If the automatic peak searching fails, you can try the following alternatives:</p>
+<ul>
+<li>Perform the automatic search on the second, third, or subsequent rings.</li>
+<li>Choose the <strong>single peak search</strong> option.</li>
+</ul>
+<div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1">single peak search</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></div></div></div>  
 <h4 id="Calibration">Calibration</h4></div><div class="tab-pane" id="unique-name-2"><h3 id="Mask-Creation">Mask Creation</h3></div><div class="tab-pane" id="unique-name-3"><h3 id="Integration-Procedure">Integration Procedure</h3></div></div></div>
 <h3 id="Exporting-Data">Exporting Data</h3>
 <h3 id="References">References</h3>
@@ -90,25 +98,6 @@ The <em>wavelength</em> and <em>pixel width/height</em> <strong>have to</strong>
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
         <tag>Two Dimensional XRD</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/XAFS-Theory.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
-XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
-<span id="more"></span>
-<h2 id="Theory">Theory</h2>
-<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
-<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -133,6 +122,25 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
       <categories>
         <category>Tools</category>
       </categories>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/XAFS-Theory.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%">
+XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  
+<span id="more"></span>
+<h2 id="Theory">Theory</h2>
+<img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_example0.png?imageMogr2/format/avif" alt="" title="" width="50%">
+<img src="https://oss.huaecho.cn/blogimage/XAFS/EXAFS_example1.png?imageMogr2/format/avif" alt="" title="" width="50%"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
   </entry>
   <entry>
     <title>pdfgetxns3: Advanced Data Reduction for Pair Distribution Function Analysis</title>
