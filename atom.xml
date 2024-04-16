@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-04-16T05:05:16.887Z</updated>
+  <updated>2024-04-16T05:11:49.576Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861.html"/>
     <id>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</id>
     <published>2023-08-02T08:42:09.000Z</published>
-    <updated>2024-04-16T05:05:16.887Z</updated>
+    <updated>2024-04-16T05:11:49.576Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/webp&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
+    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
 &lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;em&gt;&lt;strong&gt;Powder X-ray Diffraction images&lt;/strong&gt;&lt;/em&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;/p&gt;</summary>
     
     
@@ -76,10 +76,10 @@
     <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
     <published>2022-12-09T18:20:14.000Z</published>
-    <updated>2024-04-15T07:53:23.297Z</updated>
+    <updated>2024-04-16T05:12:09.410Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
+    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/webp&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
 XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.</summary>
     
     
