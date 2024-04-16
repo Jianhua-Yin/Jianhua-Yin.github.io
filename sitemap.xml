@@ -56,27 +56,6 @@
 
   
   <url>
-    <loc>https://www.huaecho.cn/tags/Powder-Diffraction/</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/tags/XAFS/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,6 +78,27 @@
   
   <url>
     <loc>https://www.huaecho.cn/tags/XANES/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/Powder-Diffraction/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -156,7 +156,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
