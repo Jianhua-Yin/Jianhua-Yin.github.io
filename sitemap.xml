@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
+    <loc>https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/Tools/pdfgetxns3/2230252193.html</loc>
+    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -81,6 +81,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.huaecho.cn/tags/Small-angle-Scattering/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -91,14 +98,14 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/pdfgetxns3/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
