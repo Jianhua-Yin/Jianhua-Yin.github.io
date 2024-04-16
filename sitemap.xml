@@ -142,13 +142,6 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
-    <lastmod>2024-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,6 +150,13 @@
   
   <url>
     <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
     <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
