@@ -4,7 +4,7 @@
   <url>
     <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
     
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,71 +49,71 @@
 
   <url>
     <loc>https://www.huaecho.cn/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.huaecho.cn/tags/Powder-Diffraction/</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/tags/XAFS/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/tags/Core-level-spectrum/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/tags/EXAFS/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/tags/XANES/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/Powder-Diffraction/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/tags/Pair-Distribution-Function/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/tags/Total-Scattering/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -122,42 +122,42 @@
   
   <url>
     <loc>https://www.huaecho.cn/categories/Tools/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/categories/Core-level-spectrum/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/categories/Tools/pdfgetxns3/</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
-    <lastmod>2024-04-15</lastmod>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
+    <lastmod>2024-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
+    <lastmod>2024-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
