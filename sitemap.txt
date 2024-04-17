@@ -10,6 +10,6 @@ https://www.huaecho.cn/tags/Pair-Distribution-Function/
 https://www.huaecho.cn/tags/Total-Scattering/
 https://www.huaecho.cn/tags/Small-angle-Scattering/
 https://www.huaecho.cn/categories/Tools/
+https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/
 https://www.huaecho.cn/categories/Tools/Dioptas/
 https://www.huaecho.cn/categories/Tools/Hexo/
-https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/
