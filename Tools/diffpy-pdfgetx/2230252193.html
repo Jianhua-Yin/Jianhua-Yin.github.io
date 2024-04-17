@@ -425,14 +425,14 @@ Department of Applied Physics and Applied Mathematics</p>
 <li>Extracting the total scattering pair distribution function (PDF) from the diffraction data (e.g., using <em>diffpy.pdfgetx</em>)</li>
 <li>Modeling analysis of the PDFs (e.g., using <em>RMCProfile</em>, <em>DISCUS</em>).</li>
 </ul>
-<p>diffpy.pdfgetx can readily process hundreds of powder diffraction patterns within a few seconds. With an ad hoc data reduction and correction algorithm, pdfgetxns3 requires little user input, generates PDFs in a fraction of a second, and can be straightforwardly automated to batch process thousands of PDFs.</p>
+<p>diffpy.pdfgetx can readily process hundreds of powder diffraction patterns within a few seconds. With an <em>ad hoc</em> data reduction and correction algorithm, pdfgetxns3 requires little user input, generates PDFs in a fraction of a second, and can be straightforwardly automated to batch process thousands of PDFs.</p>
 <h3 id="Workflow">Workflow</h3>
-<p><strong>Ensure</strong> that the two-dimensional data have been correctly azimuthally integrated and that multiple frames have been summed or averaged to obtain a one-dimensional profile of intensity versus Q or intensity versus <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex;" xmlns="http://www.w3.org/2000/svg" width="2.192ex" height="1.618ex" role="img" focusable="false" viewBox="0 -705 969 715"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D703" d="M35 200Q35 302 74 415T180 610T319 704Q320 704 327 704T339 705Q393 701 423 656Q462 596 462 495Q462 380 417 261T302 66T168 -10H161Q125 -10 99 10T60 63T41 130T35 200ZM383 566Q383 668 330 668Q294 668 260 623T204 521T170 421T157 371Q206 370 254 370L351 371Q352 372 359 404T375 484T383 566ZM113 132Q113 26 166 26Q181 26 198 36T239 74T287 161T335 307L340 324H145Q145 321 136 286T120 208T113 132Z"></path></g></g></g></svg></mjx-container>.</p>
+<p><strong>Ensure</strong> that the two-dimensional data have been correctly <em>azimuthally integrated</em> and that multiple frames have been summed or averaged to obtain a one-dimensional profile of intensity versus Q or intensity versus <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex;" xmlns="http://www.w3.org/2000/svg" width="2.192ex" height="1.618ex" role="img" focusable="false" viewBox="0 -705 969 715"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D703" d="M35 200Q35 302 74 415T180 610T319 704Q320 704 327 704T339 705Q393 701 423 656Q462 596 462 495Q462 380 417 261T302 66T168 -10H161Q125 -10 99 10T60 63T41 130T35 200ZM383 566Q383 668 330 668Q294 668 260 623T204 521T170 421T157 371Q206 370 254 370L351 371Q352 372 359 404T375 484T383 566ZM113 132Q113 26 166 26Q181 26 198 36T239 74T287 161T335 307L340 324H145Q145 321 136 286T120 208T113 132Z"></path></g></g></g></svg></mjx-container>.</p>
 <div class="note info no-icon"><pre class="mermaid">flowchart LR
     A(Load .chi Data) --&gt;B(Configuration)
     B --&gt; C(Command)
     C --&gt; D(Export Data)
-    C --|Refine|--&gt; B</pre></div>
+    C --Refine parameter--&gt; B</pre></div>
 <h3 id="Get-Started">Get Started</h3>
 <h4 id="Preparation">Preparation</h4>
 <mark class="label success">.chi file</mark> The TwoTheta data or QA or Qnm data 
@@ -481,7 +481,7 @@ The <strong>Critial Options</strong> for PDFs calculation:</p>
 <tbody>
 <tr>
 <td><mark class="label primary">dataformat</mark></td>
-<td>TwoTheta or QA or Qnm</td>
+<td>twotheta or QA or Qnm</td>
 </tr>
 <tr>
 <td><mark class="label primary">wavelength</mark></td>
@@ -502,13 +502,24 @@ The <strong>Critial Options</strong> for PDFs calculation:</p>
 </tbody>
 </table>
 <h4 id="Run">Run</h4>
-<p>Have a try. The structure of command of pdfgerxns3 is</p>
+<p>The structure of command of pdfgerxns3 is</p>
 <figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pdfgerx3 [options] inputN</span><br></pre></td></tr></tbody></table></figure>
 <p>Options control the program, and 'inputN' specifies the total scattering data in a <mark class="label success">.chi file</mark>.</p>
-<figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgerx3</span></span><br><span class="line">pdfgetx3 --verbode=info -t gr FileName.chi --plot=fq,gr</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgern3</span></span><br><span class="line">pdfgetn3 --verbode=info -t gr FileName.chi --plot=fq,gr</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgets3</span></span><br><span class="line">pdfgets3 --verbode=info -t gr FileName.chi --plot=fq,gr</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">--verbose=info    -<span class="built_in">print</span> the information</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">-t gr   save the gr data (PDFs data)</span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">--plot=fq,gr    plot f(q) and g(r) also can plot i(q) and s(q)</span></span><br></pre></td></tr></tbody></table></figure>
-<img src="https://oss.huaecho.cn/blogimage/diff.pdfgetx3/pdfgerstart.gif?imageMogr2/format/avif" alt="" title="" width="50%">
-Now, the program has finished, and we have obtained the PDFs with the file name extersion <mark class="label success">.gr</mark>.
-pdfgetxns3 enters an IPython session in interactive mode. For more about interactive mode, refer to Section **Interactive Mode**.
+<pre><code class="language-shell">#for pdfgerx3
+pdfgetx3 --verbode=info -t gr FileName.chi --plot=fq,gr
+#for pdfgern3
+pdfgetn3 --verbode=info -t gr FileName.chi --plot=fq,gr
+#for pdfgets3
+pdfgets3 --verbode=info -t gr FileName.chi --plot=fq,gr
+
+#--verbose=info    -print the information
+#-t gr   save the gr data (PDFs data)
+#--plot=fq,gr    plot f(q) and g(r) also can plot i(q) and s(q)
+</code></pre>
+<p>Have a try.<br>
+<img src="https://oss.huaecho.cn/blogimage/diff.pdfgetx3/pdfgerstart.gif?imageMogr2/format/avif" alt="" title="" width="50%"><br>
+Now, the program has finished, and we have obtained the PDFs with the file name extersion <mark class="label success">.gr</mark>.<br>
+pdfgetxns3 enters an IPython session in interactive mode. For more about interactive mode, refer to Section <strong>Interactive Mode</strong>.</p>
 <h3 id="Input">Input</h3>
 <h3 id="Command">Command</h3>
 <h3 id="Output">Output</h3>
