@@ -439,19 +439,66 @@ Department of Applied Physics and Applied Mathematics</p>
 <figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">go to the file data path</span></span><br><span class="line">cd /path/mydata</span><br></pre></td></tr></tbody></table></figure>
 <h4 id="Generate-the-Configuration">Generate the Configuration</h4>
 <p>We should create the configuration file for the programs.<br>
-The default name for config files,<br>
-| pdfgetx3 | pdfgetn3 | pdfgers3 |<br>
-| pdfgerx3.cfg | pdfgetn3.cfg | pdfgets3.cfg |<br>
-| .pdfgetx3.cfg | .pdfgetn3.cfg | .pdfgets3.cfg |<br>
-If a configuration file is not specified with the command, the program will search for <strong>pdfgetx3.cfg</strong> or <strong>.pdfgetx3.cfg</strong> to load.</p>
+The default name for config files,</p>
+<table>
+<thead>
+<tr>
+<th>pdfgetx3</th>
+<th>pdfgetn3</th>
+<th>pdfgers3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pdfgerx3.cfg</td>
+<td>pdfgetn3.cfg</td>
+<td>pdfgets3.cfg</td>
+</tr>
+<tr>
+<td>.pdfgetx3.cfg</td>
+<td>.pdfgetn3.cfg</td>
+<td>.pdfgets3.cfg</td>
+</tr>
+<tr>
+<td>If a configuration file is not specified with the command, the program will search for <strong>pdfgetx3.cfg</strong> or <strong>.pdfgetx3.cfg</strong> to load.</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgerx3</span></span><br><span class="line">pdfgetx3 --createconfig=pdfgetx3.cfg</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgern3</span></span><br><span class="line">pdfgetn3 --createconfig=pdfgetn3.cfg</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash"><span class="keyword">for</span> pdfgets3</span></span><br><span class="line">pdfgets3 --createconfig=pdfgets3.cfg</span><br></pre></td></tr></tbody></table></figure>
 <p>Open the config file with a text editor. The lines that start with a hash mark <strong>#</strong> are comments and are exclueded.<br>
-The <strong>Critial options</strong> for PDFs calculation:<br>
-| <mark class="label primary">dataformat</mark> | TwoTheta or QA or Qnm |<br>
-| <mark class="label primary">wavelength</mark> | Required for TwoTheta Data. Radiation wavelength |<br>
-| <mark class="label primary">composition</mark> | Chemical composition of the specimen |<br>
-| <mark class="label primary">qmaxinst</mark> | Q boundary of the instrument |<br>
-| <mark class="label primary">qmax</mark> | Q cutoff range for Fourier Tansform |</p>
+The <strong>Critial options</strong> for PDFs calculation:</p>
+<table>
+<thead>
+<tr>
+<th>Options</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><mark class="label primary">dataformat</mark></td>
+<td>TwoTheta or QA or Qnm</td>
+</tr>
+<tr>
+<td><mark class="label primary">wavelength</mark></td>
+<td>Required for TwoTheta Data. Radiation wavelength</td>
+</tr>
+<tr>
+<td><mark class="label primary">composition</mark></td>
+<td>Chemical composition of the specimen</td>
+</tr>
+<tr>
+<td><mark class="label primary">qmaxinst</mark></td>
+<td>Q boundary of the instrument</td>
+</tr>
+<tr>
+<td><mark class="label primary">qmax</mark></td>
+<td>Q cutoff range for Fourier Tansform</td>
+</tr>
+</tbody>
+</table>
 <h3 id="Input">Input</h3>
 <h3 id="Command">Command</h3>
 <h3 id="Output">Output</h3>
