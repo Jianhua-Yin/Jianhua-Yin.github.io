@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hua Notes</title>
+  <title>Hua&#39;s Notes</title>
   <icon>https://www.huaecho.cn/icon.png</icon>
   <subtitle>The Online Note by Jianhua Yin</subtitle>
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
