@@ -98,13 +98,6 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
-    <lastmod>2024-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,6 +106,13 @@
   
   <url>
     <loc>https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
