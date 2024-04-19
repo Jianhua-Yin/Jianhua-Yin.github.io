@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html</loc>
+    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</loc>
+    <loc>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -93,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/tags/Coherent-Scattering/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/tags/XAFS/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,7 +121,21 @@
   </url>
   
   <url>
+    <loc>https://www.huaecho.cn/tags/X-ray-Scattering/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/tags/Coherent-Scattering/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -145,13 +145,6 @@
   
   <url>
     <loc>https://www.huaecho.cn/categories/Tools/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/categories/Pattern/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -172,7 +165,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/</loc>
+    <loc>https://www.huaecho.cn/categories/Pattern/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -186,7 +179,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Pattern/Powder-Diffraction/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,6 +187,13 @@
   
   <url>
     <loc>https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Pattern/Powder-Diffraction/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
