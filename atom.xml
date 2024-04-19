@@ -24,8 +24,8 @@
     <updated>2024-04-19T08:43:46.595Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;Total Scattering Resource&quot; title=&quot;Total Scattering Resource&quot; width=&quot;50%&quot;&gt;
-&lt;p&gt;diffpy.pdfgetx3 is an advanced and powderful software for converting &lt;strong&gt;Powder Diffraction&lt;/strong&gt; data to Total Scattering atomic &lt;strong&gt;Pair Distribution Funtions&lt;/strong&gt;. In addtion, it can also help us to extrat the PDFs from small-angle scattering(&lt;em&gt;SAS&lt;/em&gt;). The program include three command line programs PDFgetx3, PDFgetN3 and PDFgetS3 for processing &lt;strong&gt;X-ray&lt;/strong&gt;, &lt;strong&gt;Nertron&lt;/strong&gt;, and &lt;strong&gt;Small-angle diffraction&lt;/strong&gt; data respectively.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;Total Scattering Resource&quot; title=&quot;Total Scattering Resource&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;diffpy.pdfgetx3 is an advanced and powderful software for converting &lt;strong&gt;Powder Diffraction&lt;/strong&gt; data to Total Scattering atomic &lt;strong&gt;Pair Distribution Funtions&lt;/strong&gt;. In addtion, it can also help us to extrat the PDFs from small-angle scattering(&lt;em&gt;SAS&lt;/em&gt;). The program include three command line programs PDFgetx3, PDFgetN3 and PDFgetS3 for processing &lt;strong&gt;X-ray&lt;/strong&gt;, &lt;strong&gt;Nertron&lt;/strong&gt;, and &lt;strong&gt;Small-angle diffraction&lt;/strong&gt; data respectively.&lt;br&gt;</summary>
     
     
     
@@ -49,11 +49,11 @@
     <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861.html"/>
     <id>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</id>
     <published>2023-06-30T08:42:09.000Z</published>
-    <updated>2024-04-19T08:43:27.683Z</updated>
+    <updated>2024-04-19T09:21:05.756Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;
-&lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;em&gt;&lt;strong&gt;Powder X-ray Diffraction images&lt;/strong&gt;&lt;/em&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed for the fast data reduction of &lt;strong&gt;&lt;em&gt;Powder X-ray Diffraction images&lt;/em&gt;&lt;/strong&gt;. It provides the capability of &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;, &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and display phases line positions.&lt;br&gt;</summary>
     
     
     
@@ -75,11 +75,10 @@
     <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
     <published>2022-07-10T06:20:14.000Z</published>
-    <updated>2024-04-19T08:43:32.611Z</updated>
+    <updated>2024-04-19T09:21:10.127Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
-XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;br&gt;XAFS is an element-specific spectroscopy in which measurements are made by tuning the X-ray energy at and above a selected core-level binding energy of a specified element. Although XAFS is a well-established technique providing reliable and useful information about the chemical and physical environment of the probe atom, its requirement of an energytunable X-ray source means it is primarily done with synchrotron radiation sources and so is somewhat less common than other spectroscopic analytical methods. XAFS spectra are especially sensitive to the oxidation state and coordination chemistry of the selected element.  &lt;/p&gt;</summary>
     
     
     
@@ -103,10 +102,10 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
     <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html"/>
     <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html</id>
     <published>2020-06-25T03:59:17.000Z</published>
-    <updated>2024-04-19T09:09:21.551Z</updated>
+    <updated>2024-04-19T09:16:56.829Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif&quot; alt=&quot;powderdiffraction&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;  
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif&quot; alt=&quot;powderdiffraction&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;  &lt;/p&gt;
 &lt;p&gt;Powder diffraction is an awesome technique using &lt;em&gt;X-ray&lt;/em&gt;, &lt;em&gt;neutron&lt;/em&gt;, or &lt;em&gt;electron&lt;/em&gt; diffraction on powder or microcrystalline samples for structural characterization of materials. Single crystal analysis is the preferred method for determining crystal structures, but when suitable single crystals are unavailable, powder diffraction is an effective alternative. Unlike single crystal analysis, powder diffraction also provides information on bulk material and microstructural properties. Nowadays, Powder diffraction continues to be a crucial tool in the characterization of materials.&lt;/p&gt;</summary>
     
     
@@ -132,7 +131,7 @@ XAFS is an element-specific spectroscopy in which measurements are made by tunin
     <updated>2024-04-18T17:12:59.940Z</updated>
     
     
-    <summary type="html">&lt;img src=&quot;https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif&quot; alt=&quot;hexo&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif&quot; alt=&quot;hexo&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
