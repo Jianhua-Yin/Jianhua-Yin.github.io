@@ -56,7 +56,7 @@
 <meta property="og:image" content="https://oss.huaecho.cn/blogimage/Dioptas/singesave.gif?imageMogr2/format/avif">
 <meta property="og:image" content="https://oss.huaecho.cn/blogimage/Dioptas/savadiprj.png?imageMogr2/format/avif">
 <meta property="article:published_time" content="2023-06-30T08:42:09.000Z">
-<meta property="article:modified_time" content="2024-04-19T12:44:15.854Z">
+<meta property="article:modified_time" content="2024-04-19T12:46:55.173Z">
 <meta property="article:author" content="Chemyinjh">
 <meta property="article:tag" content="Powder Diffraction">
 <meta property="article:tag" content="X-ray Scattering">
@@ -405,12 +405,18 @@ width/height</em> <strong>have to</strong> be defined based on the
 experimental setup and detector used.
 <img src="https://oss.huaecho.cn/blogimage/Dioptas/calpara.png?imageMogr2/format/avif" alt="Calibration Parameter" title="Calibration Parameter" width="60%"></p>
 <p><a class="btn" href="#">Start values</a><br>
-<strong>Required</strong> Parameter Setting:<br>
-- <mark class="label warning">Calibrant</mark> (standard complex)<br>
-- <mark class="label warning">wavelength</mark><br>
-- <mark class="label warning">pixel size (width, height)</mark><br>
-- Approximate <mark class="label warning">Distance</mark> (the program
-will automatically refine the value)</p>
+<strong>Required</strong> Parameter Setting:</p>
+<ul>
+<li><mark class="label warning">Calibrant</mark> (standard
+complex)<br>
+</li>
+<li><mark class="label warning">wavelength</mark><br>
+</li>
+<li><mark class="label warning">pixel size (width, height)</mark><br>
+</li>
+<li>Approximate <mark class="label warning">Distance</mark> (the program
+will automatically refine the value)</li>
+</ul>
 <h4 id="peak-picking">Peak Picking</h4>
 <p><a class="btn" href="#">Peak Selection</a><br>
 After selecting the 'Calibration Parameter', Dioptas requires an initial
@@ -428,14 +434,17 @@ that current peak number belongs to the corresponding clicked ring.
 </p>
 </div>
 <p><img src="https://oss.huaecho.cn/blogimage/Dioptas/ringindex.png?imageMogr2/format/avif" alt="RingIndexRight" title="make sure that current peak number belongs to the corresponding clicked ring" width="50%"></p>
-If the default <strong>automatic peak search</strong> is enabled, simply
-left-click the first diffraction ring as shown in this figure. Zooming
-in on the image will help accurately target the first ring.<br>
+<p>If the default <strong>automatic peak search</strong> is enabled,
+simply left-click the first diffraction ring as shown in this figure.
+Zooming in on the image will help accurately target the first
+ring.<br>
 If the automatic peak searching fails, we can try the following
-alternatives:<br>
-- Perform the automatic search on the second, third, or subsequent
-rings. - Choose the <strong>single peak search</strong> option.<br>
-
+alternatives:</p>
+<ul>
+<li>Perform the automatic search on the second, third, or subsequent
+rings.</li>
+<li>Choose the <strong>single peak search</strong> option.</li>
+</ul>
 <div id="peak-picking" class="tabs">
 <ul class="nav-tabs">
 <li class="tab active">
@@ -574,15 +583,21 @@ pattern, compare multiple pattern to each other, perform background
 subtraction and compare pattern peak positions and intensities to the
 ones of known phases.</p>
 <h4 id="bathch-processing">Bathch Processing</h4>
-<p><a class="btn" href="#">Image</a><br>
-- Check the <mark class="label warning">autoprocess</mark><br>
-- Click the <button type="button"><strong>...</strong></button> to set
-an input folder</p>
+<p><a class="btn" href="#">Image</a></p>
+<ul>
+<li>Check the <mark class="label warning">autoprocess</mark><br>
+</li>
+<li>Click the <button type="button"><strong>...</strong></button> to set
+an input folder</li>
+</ul>
 <p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autoimage.png?imageMogr2/format/avif" alt="atutoimage" title="" width="50%"></p>
-<p><a class="btn" href="#">Pattern</a><br>
-- Check the <mark class="label warning">autocreate</mark><br>
-- Click the <button type="button"><strong>...</strong></button> to set
-an output folder</p>
+<p><a class="btn" href="#">Pattern</a></p>
+<ul>
+<li>Check the <mark class="label warning">autocreate</mark><br>
+</li>
+<li>Click the <button type="button"><strong>...</strong></button> to set
+an output folder</li>
+</ul>
 <p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autopattern.png?imageMogr2/format/avif" alt="autopattern" title="" width="50%"></p>
 <p>There are two mode for browing,</p>
 <ul>
