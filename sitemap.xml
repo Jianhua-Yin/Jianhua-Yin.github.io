@@ -107,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/tags/XAFS/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,6 +134,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.huaecho.cn/tags/Two-Dimensional-XRD/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -158,14 +158,7 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
+    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -179,7 +172,14 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/categories/Core-level-spectrum/</loc>
+    <loc>https://www.huaecho.cn/categories/Tools/Hexo/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/categories/Tools/Dioptas/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
