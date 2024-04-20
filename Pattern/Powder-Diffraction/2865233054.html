@@ -36,7 +36,7 @@
 <meta property="og:image" content="https://oss.huaecho.cn/blogimage/powderdiffraction/therory/cover/bragg2.png?imageMogr2/format/avif">
 <meta property="og:image" content="https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html?imageMogr2/format/avif">
 <meta property="article:published_time" content="2020-06-25T03:59:17.000Z">
-<meta property="article:modified_time" content="2024-04-20T14:30:35.373Z">
+<meta property="article:modified_time" content="2024-04-20T14:40:36.406Z">
 <meta property="article:author" content="Chemyinjh">
 <meta property="article:tag" content="Powder Diffraction">
 <meta property="article:tag" content="X-ray Scattering">
@@ -69,8 +69,7 @@
 <link rel="stylesheet" href="https://oss.huaecho.cn/css/math/katex.min.css">
 
 <link rel="stylesheet" href="https://oss.huaecho.cn/css/math/style.css">
-<!-- hexo injector head_end end --><link rel="alternate" href="/atom.xml" title="Hua's Notes" type="application/atom+xml">
-<style>mjx-container[jax="SVG"] {
+<!-- hexo injector head_end end --><style>mjx-container[jax="SVG"] {
   direction: ltr;
 }
 
@@ -182,7 +181,8 @@ mjx-container[display="true"] {
 mjx-container[display="true"] + br {
   display: none;
 }
-</style></head>
+</style><link rel="alternate" href="/atom.xml" title="Hua's Notes" type="application/atom+xml">
+</head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
   <div class="headband"></div>
@@ -502,6 +502,8 @@ directly related to the vectors that define the crystallographic
 planes.</p>
 </div>
 <h5 id="derivation-1">Derivation</h5>
+<p>The defination of scattering vecor is</p>
+<p><span class="math display"><mjx-container class="MathJax" jax="SVG" display="true"><svg style="vertical-align: -0.375ex;" xmlns="http://www.w3.org/2000/svg" width="10.685ex" height="1.945ex" role="img" focusable="false" viewbox="0 -694 4722.6 859.6"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D489" d="M477 56Q477 48 479 46T490 43Q522 45 544 75T577 140Q582 156 585 159T605 162H611H622Q642 162 642 148Q642 138 632 114T602 62T550 13T478 -8Q429 -8 394 17T358 83Q358 95 395 199T433 350Q433 400 394 400H388H383Q335 400 291 363Q256 332 236 298Q233 293 202 170T169 40Q160 18 141 5T99 -8Q70 -8 58 9T45 39Q45 51 116 336L188 622H184Q183 622 179 622T169 623T157 624T146 624T136 624T131 625Q119 628 119 642Q119 647 123 661T129 679Q133 684 144 685T220 690Q293 694 307 694Q324 694 328 679Q328 672 294 540Q286 507 278 473T264 420L260 403Q260 400 269 408Q327 451 393 451H401H410Q425 451 439 450T476 442T515 424T544 391T556 337Q556 286 517 179T477 56Z"/></g><g data-mml-node="mo" transform="translate(945.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"/></g><g data-mml-node="mi" transform="translate(2001.6,0)"><path data-c="1D494" d="M140 290Q140 311 148 336T176 388T235 433T326 451H336Q355 451 373 449T418 439T460 412T476 363Q476 333 456 311T406 289Q384 289 371 302T357 335Q357 351 364 364T379 384L386 391Q386 392 381 394T362 398T330 400Q299 400 278 393T247 373T235 352T232 335Q232 322 242 312Q258 299 315 290T403 260Q457 224 457 167Q457 152 453 134T435 90T397 43T330 7T229 -8Q133 -8 95 22T57 91Q57 127 81 152T139 177Q161 177 177 164T194 121Q189 80 153 56Q179 43 236 43Q275 43 303 52T343 75T361 101T366 124Q366 148 338 161T272 180T232 186Q187 198 164 227T140 290Z"/></g><g data-mml-node="mo" transform="translate(2754.8,0)"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"/></g><g data-mml-node="msub" transform="translate(3755,0)"><g data-mml-node="mi"><path data-c="1D494" d="M140 290Q140 311 148 336T176 388T235 433T326 451H336Q355 451 373 449T418 439T460 412T476 363Q476 333 456 311T406 289Q384 289 371 302T357 335Q357 351 364 364T379 384L386 391Q386 392 381 394T362 398T330 400Q299 400 278 393T247 373T235 352T232 335Q232 322 242 312Q258 299 315 290T403 260Q457 224 457 167Q457 152 453 134T435 90T397 43T330 7T229 -8Q133 -8 95 22T57 91Q57 127 81 152T139 177Q161 177 177 164T194 121Q189 80 153 56Q179 43 236 43Q275 43 303 52T343 75T361 101T366 124Q366 148 338 161T272 180T232 186Q187 198 164 227T140 290Z"/></g><g data-mml-node="mn" transform="translate(564,-150) scale(0.707)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"/></g></g></g></g></svg></mjx-container></span></p>
 <p><img src="?imageMogr2/format/avif" alt title width="50%"></p>
 <h3 id="ewald-construction">Ewald Construction</h3>
 <h2 id="neutron">Neutron</h2>
@@ -512,7 +514,8 @@ planes.</p>
 Diffraction and Structural Characterization of Materials</em>.
 2005.<br>
 [2] R. E. Dinnebier, S. J. L. Billinge. <em>Powder Diffraction: Theory
-and Practice. Edited</em>. The Royal Society of Chemistry, 10 Mar 2008.
+and Practice. Edited</em>. The Royal Society of Chemistry, 10 Mar
+2008.<br>
 [3] Rohrer, Gregory S. <em>Structure and Bonding in Crystalline
 Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
 </blockquote>
