@@ -10,6 +10,7 @@ Allow: /categories/
 Allow: /tags/ 
 Allow: /about/
 Allow: /article/
-Sitemap: sitemap.xml
+Sitemap: https://www.huaecho.cn/sitemap.xml
+Sitemap: https://www.huaecho.cn/baidusitemap.xml
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow,noarchive"> 
