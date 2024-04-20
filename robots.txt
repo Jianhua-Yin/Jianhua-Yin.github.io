@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /lib/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /images/
+Disallow: /postmap/
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /about/
+Allow: /article/
+Sitemap: sitemap.xml
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow,noarchive"> 
