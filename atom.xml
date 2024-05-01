@@ -198,8 +198,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/dd36b5d.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/dd36b5d.html</id>
+    <link href="https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html"/>
+    <id>https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html</id>
     <published>2023-01-20T11:07:01.000Z</published>
     <updated>2023-07-31T11:40:23.000Z</updated>
     
@@ -215,7 +215,9 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="FDMNES" scheme="https://www.huaecho.cn/categories/Tools/FDMNES/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
@@ -238,8 +240,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/7cac8507.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/7cac8507.html</id>
+    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
+    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
     <published>2023-01-17T14:50:10.000Z</published>
     <updated>2023-07-27T14:00:46.000Z</updated>
     
@@ -255,7 +257,9 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="FEFF" scheme="https://www.huaecho.cn/categories/Tools/FEFF/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
