@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2023-07-15T11:17:45.000Z</updated>
+  <updated>2023-08-07T15:35:27.000Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,6 +15,120 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Modeling Pair Distribution Functions Using DISCUC</title>
+    <link href="https://www.huaecho.cn/Tools/DISCUC/4072560629.html"/>
+    <id>https://www.huaecho.cn/Tools/DISCUC/4072560629.html</id>
+    <published>2023-08-07T15:35:27.000Z</published>
+    <updated>2023-08-07T15:35:27.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://oss.huaecho.cn/css/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="DISCUC" scheme="https://www.huaecho.cn/categories/Tools/DISCUC/"/>
+    
+    
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    
+    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <link href="https://www.huaecho.cn/Tools/RMCProfile/1047009510.html"/>
+    <id>https://www.huaecho.cn/Tools/RMCProfile/1047009510.html</id>
+    <published>2023-08-01T16:31:53.000Z</published>
+    <updated>2023-08-01T16:31:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://oss.huaecho.cn/css/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="RMCProfile" scheme="https://www.huaecho.cn/categories/Tools/RMCProfile/"/>
+    
+    
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Modeling Pair Distribution Functions Using PDFgui</title>
+    <link href="https://www.huaecho.cn/Tools/PDFgui/2228582188.html"/>
+    <id>https://www.huaecho.cn/Tools/PDFgui/2228582188.html</id>
+    <published>2023-07-15T16:25:08.000Z</published>
+    <updated>2023-07-15T16:25:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://oss.huaecho.cn/css/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/categories/Tools/PDFgui/"/>
+    
+    
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
+    
+  </entry>
   
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -83,6 +197,86 @@ display phases line positions.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
+    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/dd36b5d.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/dd36b5d.html</id>
+    <published>2023-01-20T11:07:01.000Z</published>
+    <updated>2023-07-31T11:40:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://oss.huaecho.cn/css/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    
+    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    
+    <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
+    
+    <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/7cac8507.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/7cac8507.html</id>
+    <published>2023-01-17T14:50:10.000Z</published>
+    <updated>2023-07-27T14:00:46.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://oss.huaecho.cn/css/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    
+    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    
+    <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
+    
+    <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>XAFS Theory</title>
     <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
@@ -127,7 +321,7 @@ selected element.&lt;/p&gt;</summary>
     <updated>2023-08-25T09:44:21.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif&quot; alt=&quot;Understand the Pattern&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif&quot; alt=&quot;Understand the Pattern&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The best way to understand how structure information is encoded in a
 powder diffraction pattern is to view it as a series of discrete
 diffraction peaks(Bragg reflections) &lt;em&gt;superimposed&lt;/em&gt; over a
