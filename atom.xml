@@ -65,7 +65,7 @@ for the fast data reduction of &lt;strong&gt;&lt;em&gt;Powder X-ray Diffraction
 images&lt;/em&gt;&lt;/strong&gt;. It provides the capability of
 &lt;strong&gt;calibrating&lt;/strong&gt;, &lt;strong&gt;integrating&lt;/strong&gt;,
 &lt;strong&gt;creating masks&lt;/strong&gt;, showing multiple pattern overlays and
-display phases line positions.</summary>
+display phases line positions.&lt;/p&gt;</summary>
     
     
     
@@ -116,6 +116,38 @@ selected element.&lt;/p&gt;</summary>
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Understanding of Powder Diffraction Patterns</title>
+    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html"/>
+    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html</id>
+    <published>2020-07-01T09:25:11.000Z</published>
+    <updated>2023-08-25T09:44:21.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif&quot; alt=&quot;Understand the Pattern&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The best way to understand how structure information is encoded in a
+powder diffraction pattern is to view it as a series of discrete
+diffraction peaks(Bragg reflections) &lt;em&gt;superimposed&lt;/em&gt; over a
+consecutive background. Despite the background can provide infomation
+about the crystallinity of the specimen and a few other material
+properties, the primary focus in analyzing material structure remains on
+the Bragg reflection peaks.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Pattern" scheme="https://www.huaecho.cn/categories/Pattern/"/>
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Pattern/Powder-Diffraction/"/>
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    
+    <category term="Coherent Scattering" scheme="https://www.huaecho.cn/tags/Coherent-Scattering/"/>
     
   </entry>
   
