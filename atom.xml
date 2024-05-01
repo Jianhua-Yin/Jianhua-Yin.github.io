@@ -48,9 +48,9 @@
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
     
   </entry>
   
@@ -124,9 +124,9 @@
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
@@ -285,6 +285,34 @@ display phases line positions.&lt;/p&gt;</summary>
     <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html</id>
     <published>2022-10-03T12:31:12.000Z</published>
+    <updated>2023-05-03T15:31:12.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif&quot; alt=&quot;Artemis Software&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;There are several advanced techniques and strategies in EXAFS
+analysis, including multi-weight fitting, multi-data fitting, and the
+application of constraint restraints, among others.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html</id>
+    <published>2022-10-03T12:10:12.000Z</published>
     <updated>2023-05-03T15:31:12.000Z</updated>
     
     
