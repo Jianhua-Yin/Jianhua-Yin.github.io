@@ -18,8 +18,8 @@
   
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <link href="https://www.huaecho.cn/Tools-2DCOS/1364141d.html"/>
-    <id>https://www.huaecho.cn/Tools-2DCOS/1364141d.html</id>
+    <link href="https://www.huaecho.cn/Tools/2DCOS/1364141d.html"/>
+    <id>https://www.huaecho.cn/Tools/2DCOS/1364141d.html</id>
     <published>2023-11-26T15:06:33.000Z</published>
     <updated>2023-11-26T15:06:33.000Z</updated>
     
@@ -35,7 +35,9 @@
     
     
     
-    <category term="-[Tools,2DCOS]" scheme="https://www.huaecho.cn/categories/Tools-2DCOS/"/>
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="2DCOS" scheme="https://www.huaecho.cn/categories/Tools/2DCOS/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
