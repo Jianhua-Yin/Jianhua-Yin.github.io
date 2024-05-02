@@ -23,11 +23,14 @@
 
 
 
-    <meta property="og:type" content="article">
+    <meta name="description" content="Several criteria for determining the optimal fit are listed here, including statistical criteria, closeness of fit, and physical reasonableness.">
+<meta property="og:type" content="article">
 <meta property="og:title" content="Identifying Quality EXAFS Data Fitting: Statistical Methods">
 <meta property="og:url" content="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html">
 <meta property="og:site_name" content="Hua&#39;s Notes">
+<meta property="og:description" content="Several criteria for determining the optimal fit are listed here, including statistical criteria, closeness of fit, and physical reasonableness.">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif">
 <meta property="article:published_time" content="2022-10-03T12:10:12.000Z">
 <meta property="article:modified_time" content="2023-05-03T15:31:12.000Z">
 <meta property="article:author" content="Chemyinjh@126.com">
@@ -35,6 +38,7 @@
 <meta property="article:tag" content="Core level spectrum">
 <meta property="article:tag" content="EXAFS">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif">
 
 
 <link rel="canonical" href="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html">
@@ -109,7 +113,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           Table of Contents
@@ -122,6 +126,8 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#statistical-criterion"><span class="nav-number">1.</span> <span class="nav-text">Statistical Criterion</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#number-of-independent-points"><span class="nav-number">1.1.</span> <span class="nav-text">Number of Independent Points</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#measurement-uncertainty"><span class="nav-number">1.2.</span> <span class="nav-text">Measurement Uncertainty</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#reduced-chi2"><span class="nav-number">1.3.</span> <span class="nav-text">Reduced \(\chi^2\)</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#closeness-criterion"><span class="nav-number">2.</span> <span class="nav-text">Closeness Criterion</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#r-factor"><span class="nav-number">2.1.</span> <span class="nav-text">R-Factor</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#hamilton-test"><span class="nav-number">2.2.</span> <span class="nav-text">Hamilton Test</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#precision-criterion"><span class="nav-number">3.</span> <span class="nav-text">Precision Criterion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#data-ranges"><span class="nav-number">4.</span> <span class="nav-text">Data Ranges</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#agreement-outside-the-fitted-range"><span class="nav-number">5.</span> <span class="nav-text">Agreement outside the fitted
+range</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#stability"><span class="nav-number">6.</span> <span class="nav-text">Stability</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#physically-possibility"><span class="nav-number">7.</span> <span class="nav-text">Physically Possibility</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#defensibility-of-model"><span class="nav-number">8.</span> <span class="nav-text">Defensibility of Model</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -245,7 +251,114 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css">
+    <div class="post-body" itemprop="articleBody"><link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif" alt="Identify Quality EXAFS Cover" title width="50%"></p>
+<p>Several criteria for determining the optimal fit are listed here,
+including statistical criteria, closeness of fit, and physical
+reasonableness.</p>
+<span id="more"></span>
+<h2 id="statistical-criterion">Statistical Criterion</h2>
+<h3 id="number-of-independent-points">Number of Independent Points</h3>
+<p>Resolve peaks in the FT <span class="math inline">\(\Delta
+R=\frac{\pi}{2\left(k_{\max }-k_{\min }\right)}\)</span><br>
+<span class="math inline">\(N_{\text {ind }}=\frac{\left(R_{\max
+}-R_{\min }\right)}{\Delta R}=\frac{2\left(k_{\max }-k_{\min
+}\right)\left(R_{\max }-R_{\min }\right)}{\pi}\)</span> Stern Formula
++2</p>
+<ul>
+<li>ideally packed</li>
+<li>a first-shell fit</li>
+</ul>
+<h3 id="measurement-uncertainty">Measurement Uncertainty</h3>
+<h3 id="reduced-chi2">Reduced <span class="math inline">\(\chi^2\)</span></h3>
+<p><span class="math inline">\(\chi_v^2=\frac{N_{i n d}}{v N}
+\sum_{i=1}^N \frac{\left(\text { data }_i-f i
+t_i\right)^2}{\varepsilon_{i \text { random }}^2}\)</span></p>
+<p>When fitting the FT of EXAFS, this equation is applied to the real
+and imaginary parts of the FT, and the results added together to give
+<span class="math inline">\(\chi^2_v\)</span>. comparing two fits to the
+same data</p>
+<ul>
+<li>different number or identity of parameters</li>
+<li>different rang of FT</li>
+</ul>
+<p><span class="math inline">\(\chi^2_v\)</span> should not be compared
+for two fits for which the measurement uncertainty is expected to be
+significantly different.</p>
+<ul>
+<li>should not be used to compare two otherwise identically constructed
+fits that are made on different ranges of <span class="math inline">\(\chi(k)\)</span> taken from the same data set</li>
+<li>have no way to know that systematic error varies from one part of
+<span class="math inline">\(\chi(k)\)</span> to another of from one
+sample to another</li>
+</ul>
+<h2 id="closeness-criterion">Closeness Criterion</h2>
+<h3 id="r-factor">R-Factor</h3>
+<p><span class="math inline">\(R=\frac{\sum_{i=1}^N\left(\text { data
+}_i-f i t_i\right)^2}{\sum_{i=1}^N\left(\text { data
+}_i\right)^2}\)</span></p>
+<ul>
+<li>as long as the signal-to-noise ratio (S/N) of the data is good, the
+R-factor of adequate fits can be expected to be not more than <strong>a
+few percent</strong></li>
+</ul>
+<table>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><strong>R-Factor</strong></th>
+<th style="text-align: center;"><strong>Interpretation</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\textcolor{green}{&lt;0.02}\)</span></td>
+<td style="text-align: center;">Good enough</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">\(0.02-0.05\)</span></td>
+<td style="text-align: center;">Model has some details wrong / Data with
+low quality. Nevertheless, consistent with a broadly correct model.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(0.05-0.10\)</span></td>
+<td style="text-align: center;">Serious flaws in model / Data with very
+low quality</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">\(\textcolor{red}{&gt;0.10}\)</span></td>
+<td style="text-align: center;">Model may be entirely incorrect</td>
+</tr>
+</tbody>
+</table>
+<h3 id="hamilton-test">Hamilton Test</h3>
+<p>Property - only appropriate for comparing two fits on the same <span class="math inline">\(k\)</span>- and <span class="math inline">\(R\)</span>-ranges - There is no different between
+applying the Hamilton Test to <span class="math inline">\(\chi^2\)</span> <span class="math inline">\(\chi^2_v\)</span> <span class="math inline">\(R\)</span>-factor - Changes in the theoretical
+standards used by the model can often be accounted for as if they were
+changes in parameters</p>
+<p>Procedure - Compute the ratio of the <span class="math inline">\(R\)</span>-factor, <strong><span class="math inline">\(r=\frac{R_1-factor}{R_2-factor}\)</span></strong>
+- Take half of the lower bound of the number of degrees of freedom of
+the closer fit, <strong><span class="math inline">\(a=\frac{N_{idp}-Free\,
+parameters}{2}\)</span></strong> - Take half of the number of free
+parameters that have to be added to switch from one fit to the other,
+<strong><span class="math inline">\(b=\frac{Added free
+patameters}{2}\)</span></strong> - Calculate the regularized incomplete
+beta function, <strong><span class="math inline">\(I_r(a,
+b)=\frac{\int_0^r t^{a-1}(1-t)^{b-1} d t}{\int_0^1 t^{a-1}(1-t)^{b-1} d
+t}\)</span></strong></p>
+<h2 id="precision-criterion">Precision Criterion</h2>
+<p>For the parameters that do help answer the questions you are studying
+<strong>Correlations</strong><br>
+- A high correlation between a pair of parameters can explain why the
+uncertainties for those parameters are large</p>
+<h2 id="data-ranges">Data Ranges</h2>
+<h2 id="agreement-outside-the-fitted-range">Agreement outside the fitted
+range</h2>
+<h2 id="stability">Stability</h2>
+<h2 id="physically-possibility">Physically Possibility</h2>
+<h2 id="defensibility-of-model">Defensibility of Model</h2>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">
     </div>
 
