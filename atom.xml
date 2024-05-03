@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2023-11-26T15:06:33.000Z</updated>
+  <updated>2024-05-03T13:36:43.829Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Evolutionary Algorithm for EXAFS analysis</title>
+    <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
+    <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
+    <published>2024-02-09T13:18:22.000Z</published>
+    <updated>2024-05-03T13:36:43.829Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed
+for the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
+(EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
+nanocrystalline materials. This tool facilitates detailed studies of the
+atomic-scale structure within these materials, leveraging advanced
+simulation techniques to enhance the understanding of their
+properties.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="EvAX Code" scheme="https://www.huaecho.cn/categories/Tools/EvAX-Code/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="Evolutionary Algorithm" scheme="https://www.huaecho.cn/tags/Evolutionary-Algorithm/"/>
+    
+  </entry>
   
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
