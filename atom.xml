@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-03T13:36:43.829Z</updated>
+  <updated>2024-05-03T13:37:48.307Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
     <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
     <published>2024-02-09T13:18:22.000Z</published>
-    <updated>2024-05-03T13:36:43.829Z</updated>
+    <updated>2024-05-03T13:37:48.307Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed
 for the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
 (EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
@@ -116,9 +116,9 @@ nanoparticles.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
     
   </entry>
   
@@ -152,9 +152,9 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
