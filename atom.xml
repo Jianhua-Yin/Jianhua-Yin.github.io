@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-03T13:37:48.307Z</updated>
+  <updated>2024-05-01T15:18:22.000Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -21,12 +21,15 @@
     <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
     <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
     <published>2024-02-09T13:18:22.000Z</published>
-    <updated>2024-05-03T13:37:48.307Z</updated>
+    <updated>2024-05-01T15:18:22.000Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed
-for the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
+&lt;p&gt;&lt;strong&gt;EvAX code is designed for the RMC-like analysis of
+well-defined structures, such as nanocrystalline materials.
+&lt;/strong&gt;&lt;br&gt;
+The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed for
+the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
 (EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
 nanocrystalline materials. This tool facilitates detailed studies of the
 atomic-scale structure within these materials, leveraging advanced
@@ -47,6 +50,8 @@ properties.&lt;/p&gt;</summary>
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="Evolutionary Algorithm" scheme="https://www.huaecho.cn/tags/Evolutionary-Algorithm/"/>
+    
+    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
   </entry>
   
@@ -116,9 +121,9 @@ nanoparticles.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
@@ -144,6 +149,8 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     <category term="RMCProfile" scheme="https://www.huaecho.cn/categories/Tools/RMCProfile/"/>
     
     
+    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
+    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -152,9 +159,9 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
     
   </entry>
   
@@ -481,7 +488,7 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <updated>2023-05-03T15:31:12.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif&quot; alt=&quot;Identify Quality EXAFS Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif&quot; alt=&quot;Identify Quality EXAFS Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Several criteria for determining the optimal fit are listed here,
 including statistical criteria, closeness of fit, and physical
 reasonableness.&lt;/p&gt;</summary>
@@ -509,7 +516,7 @@ reasonableness.&lt;/p&gt;</summary>
     <updated>2024-02-09T10:30:29.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif&quot; alt=&quot;Key Parameters in EXAFS Fitting Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif&quot; alt=&quot;Key Parameters in EXAFS Fitting Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Five parameters related to the EXAFS equation are commonly allowed to
 vary during fitting procedures: the half path length &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: 0;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1.873ex&quot; height=&quot;1.545ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -683 828 683&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D437&quot; d=&quot;M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;, the degeneracy &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: 0;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.009ex&quot; height=&quot;1.545ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -683 888 683&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D441&quot; d=&quot;M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;, the mean square relative
 displacement(MSRD) &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.28ex&quot; height=&quot;1.912ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -833.9 1007.6 844.9&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;msup&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D70E&quot; d=&quot;M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(604,363) scale(0.707)&quot;&gt;&lt;path data-c=&quot;32&quot; d=&quot;M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;,the
