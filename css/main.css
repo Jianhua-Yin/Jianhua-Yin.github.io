@@ -1295,6 +1295,35 @@ pre code {
 .use-motion .menu-item {
   visibility: hidden;
 }
+.book-mark-link {
+  border-bottom: 0;
+  position: fixed;
+  top: -10px;
+  transition: top 0.3s;
+  right: 30px;
+}
+@media (max-width: 991px) {
+  .book-mark-link {
+    right: 20px;
+  }
+}
+@media (max-width: 991px) {
+  .book-mark-link {
+    display: none;
+  }
+}
+.book-mark-link::before {
+  color: #222;
+  font-size: 32px;
+  line-height: 1;
+  content: '\f02e';
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+}
+.book-mark-link:hover,
+.book-mark-link-fixed {
+  top: -2px;
+}
 .sidebar-inner {
   color: #999;
   padding: 18px 10px;
@@ -1719,6 +1748,26 @@ pre code {
   .pagination {
     margin-top: 40px;
   }
+}
+.back-to-top {
+  font-size: 12px;
+  margin: 8px -10px -20px;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+.back-to-top span {
+  margin-right: 8px;
+}
+.back-to-top .fa {
+  text-align: center;
+  width: 26px;
+}
+.back-to-top.back-to-top-on {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.back-to-top.back-to-top-on:hover {
+  opacity: 0.8;
 }
 .reading-progress-bar {
   --progress: 0;
@@ -2646,6 +2695,13 @@ header.header {
 }
 .links-of-author-item a:hover {
   background: var(--body-bg-color);
+}
+.back-to-top {
+  background: var(--body-bg-color);
+  margin: -4px -10px -18px;
+}
+.back-to-top.back-to-top-on {
+  margin-top: 16px;
 }
 .main-inner .sub-menu,
 .main-inner .post-block,

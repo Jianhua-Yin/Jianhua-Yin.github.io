@@ -10,7 +10,7 @@
   <id>https://www.huaecho.cn/</id>
   
   <author>
-    <name>Chemyinjh@126.com</name>
+    <name>Jianhua Yin</name>
     
   </author>
   
@@ -427,8 +427,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <link href="https://www.huaecho.cn/uncategorized/ea3abef5.html"/>
-    <id>https://www.huaecho.cn/uncategorized/ea3abef5.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html</id>
     <published>2022-12-02T17:16:24.000Z</published>
     <updated>2022-12-04T03:25:30.000Z</updated>
     
@@ -449,6 +449,18 @@ biology.&lt;/p&gt;</summary>
     
     
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    <category term="RIXS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/RIXS/"/>
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    
+    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    
+    <category term="RXES" scheme="https://www.huaecho.cn/tags/RXES/"/>
     
   </entry>
   

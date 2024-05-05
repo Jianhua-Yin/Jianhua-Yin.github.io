@@ -3,6 +3,7 @@ Disallow: /lib/
 Disallow: /js/
 Disallow: /lib/
 Disallow: /images/
+Disallow: /thirdcssjs/
 Allow: /
 Allow: /archives/
 Allow: /categories/
@@ -11,5 +12,7 @@ Allow: /about/
 Allow: /article/
 Allow: /Tools/
 Allow: /Core-level-spectrum/
+Allow: /page/
+Allow: /pattern/
 Sitemap: https://www.huaecho.cn/sitemap.xml
 Sitemap: https://www.huaecho.cn/baidusitemap.xml
