@@ -311,157 +311,6 @@ fit</td>
       </tags>
   </entry>
   <entry>
-    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <url>/Tools/FDMNES/dd36b5d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FDMNES</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
-<p>Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.</p>
-<span id="more"></span>
-<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
-2D correlation spectroscopy</h2>
-<h3 id="history-of-2d-cos">History of 2D COS</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
-<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
-Spectra</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
-<h3 id="cases">Cases</h3>
-<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
-correlation spectroscopy</h2>
-<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
-Correlation Analysis</h2>
-<h2 id="software-for-2d-correlation-analysis">Software for 2D
-correlation Analysis</h2>
-<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
-with XAS</h2>
-<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
-of XAS</h2>
-<h2 id="references">References</h2>
-<details class="note default no-icon"><summary><p>Reference</p>
-</summary>
-<ol type="1">
-<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
-analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
-Journal of Polymer Research 25(4).<br>
-</li>
-<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
-electrochemical reaction of lithium with CoO by two-dimensional soft
-X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
-XAS− Raman correlation analysis." The Journal of Physical Chemistry B
-107(24): 5806-5811.<br>
-</li>
-<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
-spectroscopy and two-dimensional correlation spectroscopy to the
-electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
-molecular structure 799(1-3): 91-95.<br>
-</li>
-<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
-Co-MCM-41 and the formation of size-controllable subnanometer Co
-clusters." J Phys Chem B 109(6): 2285-2294.<br>
-</li>
-<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
-hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
-magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
-</li>
-<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
-spectroscopy studies of polymer blends: conformational changes and
-specific interactions in blends of atactic polystyrene and poly (2,
-6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
-103(32): 6704-6712.<br>
-</li>
-<li>Noda, I. (1993). "Generalized two-dimensional correlation method
-applicable to infrared, Raman, and other types of spectroscopy." Applied
-Spectroscopy 47(9): 1329-1336.<br>
-</li>
-<li>Noda, I. (2000). "Determination of two-dimensional correlation
-spectra using the Hilbert transform." Applied Spectroscopy 54(7):
-994-999.<br>
-</li>
-<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
-Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
-</li>
-<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
-spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
-</li>
-<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
-and its application in vibrational spectroscopy using Matlab." Tech.
-Comput. Prague: 978-980.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
-Spectroscopy." The Journal of Physical Chemistry A 104(27):
-6380-6387.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
-Wavenumber− Wavenumber Correlations of Temperature-Dependent
-Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
-Journal of Physical Chemistry A 104(27): 6388-6394.<br>
-</li>
-<li>Sui, H., et al. (2017). "Determination of the radiation resistance
-order of high explosives by the two dimensional correlation X-ray
-photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
-Research Section B: Beam Interactions with Materials and Atoms 406:
-496-500.<br>
-</li>
-<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
-hetero-spectral correlation analysis for the fingerprint identification
-of humic acid functional groups for hexavalent chromium retention." RSC
-Adv 8(7): 3522-3529.<br>
-</li>
-<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
-spectroscopy: applications in vibrational and optical spectroscopy. John
-Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
-</li>
-<li>Haider, P., et al. (2005). "Application of the generalized 2D
-correlation analysis to dynamic near-edge X-ray absorption spectroscopy
-data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
-</li>
-<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
-the American Chemical Society 111(21): 8116-8118.</li>
-</ol>
-
-</details>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>2DCOS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>2D Correlation Analysis</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Evolutionary Algorithm for EXAFS analysis</title>
     <url>/Tools/EvAX-Code/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1313,6 +1162,157 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
+    <url>/Tools/FDMNES/dd36b5d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FDMNES</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Application of Two-dimensional correlation Analysis in XAS</title>
+    <url>/Tools/2DCOS/1364141d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
+<p>Initially developed approximately 30 years ago in NMR spectroscopy,
+two-dimensional spectroscopy facilitated the visualization of complex
+spectra characterized by numerous overlapping peaks by distributing them
+across a second dimension. While NMR remains the predominant technique
+in two-dimensional spectroscopy, this approach has been extended to
+other forms, proving particularly useful across various spectroscopic
+techniques.</p>
+<span id="more"></span>
+<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
+2D correlation spectroscopy</h2>
+<h3 id="history-of-2d-cos">History of 2D COS</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
+<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
+Spectra</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
+<h3 id="cases">Cases</h3>
+<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
+correlation spectroscopy</h2>
+<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
+Correlation Analysis</h2>
+<h2 id="software-for-2d-correlation-analysis">Software for 2D
+correlation Analysis</h2>
+<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
+with XAS</h2>
+<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
+of XAS</h2>
+<h2 id="references">References</h2>
+<details class="note default no-icon"><summary><p>Reference</p>
+</summary>
+<ol type="1">
+<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
+analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
+Journal of Polymer Research 25(4).<br>
+</li>
+<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
+electrochemical reaction of lithium with CoO by two-dimensional soft
+X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
+XAS− Raman correlation analysis." The Journal of Physical Chemistry B
+107(24): 5806-5811.<br>
+</li>
+<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
+spectroscopy and two-dimensional correlation spectroscopy to the
+electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
+molecular structure 799(1-3): 91-95.<br>
+</li>
+<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
+Co-MCM-41 and the formation of size-controllable subnanometer Co
+clusters." J Phys Chem B 109(6): 2285-2294.<br>
+</li>
+<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
+hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
+magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
+</li>
+<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
+spectroscopy studies of polymer blends: conformational changes and
+specific interactions in blends of atactic polystyrene and poly (2,
+6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
+103(32): 6704-6712.<br>
+</li>
+<li>Noda, I. (1993). "Generalized two-dimensional correlation method
+applicable to infrared, Raman, and other types of spectroscopy." Applied
+Spectroscopy 47(9): 1329-1336.<br>
+</li>
+<li>Noda, I. (2000). "Determination of two-dimensional correlation
+spectra using the Hilbert transform." Applied Spectroscopy 54(7):
+994-999.<br>
+</li>
+<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
+Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
+</li>
+<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
+spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
+</li>
+<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
+and its application in vibrational spectroscopy using Matlab." Tech.
+Comput. Prague: 978-980.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
+Spectroscopy." The Journal of Physical Chemistry A 104(27):
+6380-6387.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
+Wavenumber− Wavenumber Correlations of Temperature-Dependent
+Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
+Journal of Physical Chemistry A 104(27): 6388-6394.<br>
+</li>
+<li>Sui, H., et al. (2017). "Determination of the radiation resistance
+order of high explosives by the two dimensional correlation X-ray
+photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
+Research Section B: Beam Interactions with Materials and Atoms 406:
+496-500.<br>
+</li>
+<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
+hetero-spectral correlation analysis for the fingerprint identification
+of humic acid functional groups for hexavalent chromium retention." RSC
+Adv 8(7): 3522-3529.<br>
+</li>
+<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
+spectroscopy: applications in vibrational and optical spectroscopy. John
+Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
+</li>
+<li>Haider, P., et al. (2005). "Application of the generalized 2D
+correlation analysis to dynamic near-edge X-ray absorption spectroscopy
+data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
+</li>
+<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
+the American Chemical Society 111(21): 8116-8118.</li>
+</ol>
+
+</details>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>2DCOS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>2D Correlation Analysis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
     <url>/Tools/FEFF/7cac8507.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><span id="more"></span>
@@ -1532,35 +1532,6 @@ capabilities, enhancing its utility and ease of use for researchers.</p>
       </tags>
   </entry>
   <entry>
-    <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
-<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
-emerging excitation spectroscopy technique developed over the past
-decade. Leveraging the coupling of photons with the majority of degrees
-of freedom that determine material properties—including lattice, charge,
-spin, and orbitals—RIXS spectra can observe various excitations such as
-phonons, magnons, orbitons, and electronic level transitions, thereby
-providing rich physical information. Additionally, RIXS inherits the
-advantages of X-ray techniques, allowing its application in the
-measurement of low-dimensional materials and small samples. These
-benefits have positioned RIXS technology as a valuable tool in fields
-such as condensed matter physics, materials science, chemistry, and
-biology.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>RIXS</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>RXES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Modeling Pair Distribution Functions Using RMCProfile</title>
     <url>/Tools/RMCProfile/1047009510.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
@@ -1606,6 +1577,51 @@ the Bragg reflection peaks.</p>
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
         <tag>Coherent Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Principles of Resonant inelastic X-ray Scattering</title>
+    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
+<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
+emerging excitation spectroscopy technique developed over the past
+decade. Leveraging the coupling of photons with the majority of degrees
+of freedom that determine material properties—including lattice, charge,
+spin, and orbitals—RIXS spectra can observe various excitations such as
+phonons, magnons, orbitons, and electronic level transitions, thereby
+providing rich physical information. Additionally, RIXS inherits the
+advantages of X-ray techniques, allowing its application in the
+measurement of low-dimensional materials and small samples. These
+benefits have positioned RIXS technology as a valuable tool in fields
+such as condensed matter physics, materials science, chemistry, and
+biology.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>RIXS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>RXES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -2417,50 +2433,6 @@ you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9
       </categories>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/XAFS/618690954.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/webp" alt="" title="" width="50%"></p>
-<p>XAFS is an element-specific spectroscopy in which measurements are
-made by tuning the X-ray energy at and above a selected core-level
-binding energy of a specified element. Although XAFS is a
-well-established technique providing reliable and useful information
-about the chemical and physical environment of the probe atom, its
-requirement of an energytunable X-ray source means it is primarily done
-with synchrotron radiation sources and so is somewhat less common than
-other spectroscopic analytical methods. XAFS spectra are especially
-sensitive to the oxidation state and coordination chemistry of the
-selected element.</p>
-<span id="more"></span>
-<h2 id="theory">Theory</h2>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
     <url>/Tools/diffpy-pdfgetx/2230252193.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif" alt="Total Scattering Resource" title="Total Scattering Resource" width="50%"></p>
@@ -2836,6 +2808,34 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Total Scattering</tag>
         <tag>Powder Diffraction</tag>
         <tag>Small-angle Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/XAFS/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://oss.huaecho.cn/css/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/webp" alt="" title="" width="50%"></p>
+<p>XAFS is an element-specific spectroscopy in which measurements are
+made by tuning the X-ray energy at and above a selected core-level
+binding energy of a specified element. Although XAFS is a
+well-established technique providing reliable and useful information
+about the chemical and physical environment of the probe atom, its
+requirement of an energytunable X-ray source means it is primarily done
+with synchrotron radiation sources and so is somewhat less common than
+other spectroscopic analytical methods. XAFS spectra are especially
+sensitive to the oxidation state and coordination chemistry of the
+selected element.</p>
+<span id="more"></span>
+<h2 id="theory">Theory</h2>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
 </search>
