@@ -1790,6 +1790,13 @@ pre code {
 .use-motion .collection-header {
   visibility: hidden;
 }
+a:not(.btn) {
+  border-bottom: none;
+  text-decoration: none;
+}
+a:not(.btn):hover {
+  text-decoration: none;
+}
 .posts-collapse .post-content {
   margin-bottom: 35px;
   margin-left: 35px;
