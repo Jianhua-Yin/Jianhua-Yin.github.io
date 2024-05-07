@@ -311,6 +311,137 @@ fit</td>
       </tags>
   </entry>
   <entry>
+    <title>Application of Two-dimensional correlation Analysis in XAS</title>
+    <url>/Tools/2DCOS/1364141d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
+<p>Initially developed approximately 30 years ago in NMR spectroscopy,
+two-dimensional spectroscopy facilitated the visualization of complex
+spectra characterized by numerous overlapping peaks by distributing them
+across a second dimension. While NMR remains the predominant technique
+in two-dimensional spectroscopy, this approach has been extended to
+other forms, proving particularly useful across various spectroscopic
+techniques.</p>
+<span id="more"></span>
+<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
+2D correlation spectroscopy</h2>
+<h3 id="history-of-2d-cos">History of 2D COS</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png-huacho" alt="History of 2D COS" title="" width="50%"></p>
+<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
+Spectra</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png-huacho" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
+<h3 id="cases">Cases</h3>
+<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
+correlation spectroscopy</h2>
+<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
+Correlation Analysis</h2>
+<h2 id="software-for-2d-correlation-analysis">Software for 2D
+correlation Analysis</h2>
+<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
+with XAS</h2>
+<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
+of XAS</h2>
+<h2 id="references">References</h2>
+<details class="note default no-icon"><summary><p>Reference</p>
+</summary>
+<ol type="1">
+<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
+analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
+Journal of Polymer Research 25(4).<br>
+</li>
+<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
+electrochemical reaction of lithium with CoO by two-dimensional soft
+X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
+XAS− Raman correlation analysis." The Journal of Physical Chemistry B
+107(24): 5806-5811.<br>
+</li>
+<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
+spectroscopy and two-dimensional correlation spectroscopy to the
+electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
+molecular structure 799(1-3): 91-95.<br>
+</li>
+<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
+Co-MCM-41 and the formation of size-controllable subnanometer Co
+clusters." J Phys Chem B 109(6): 2285-2294.<br>
+</li>
+<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
+hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
+magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
+</li>
+<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
+spectroscopy studies of polymer blends: conformational changes and
+specific interactions in blends of atactic polystyrene and poly (2,
+6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
+103(32): 6704-6712.<br>
+</li>
+<li>Noda, I. (1993). "Generalized two-dimensional correlation method
+applicable to infrared, Raman, and other types of spectroscopy." Applied
+Spectroscopy 47(9): 1329-1336.<br>
+</li>
+<li>Noda, I. (2000). "Determination of two-dimensional correlation
+spectra using the Hilbert transform." Applied Spectroscopy 54(7):
+994-999.<br>
+</li>
+<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
+Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
+</li>
+<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
+spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
+</li>
+<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
+and its application in vibrational spectroscopy using Matlab." Tech.
+Comput. Prague: 978-980.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
+Spectroscopy." The Journal of Physical Chemistry A 104(27):
+6380-6387.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
+Wavenumber− Wavenumber Correlations of Temperature-Dependent
+Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
+Journal of Physical Chemistry A 104(27): 6388-6394.<br>
+</li>
+<li>Sui, H., et al. (2017). "Determination of the radiation resistance
+order of high explosives by the two dimensional correlation X-ray
+photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
+Research Section B: Beam Interactions with Materials and Atoms 406:
+496-500.<br>
+</li>
+<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
+hetero-spectral correlation analysis for the fingerprint identification
+of humic acid functional groups for hexavalent chromium retention." RSC
+Adv 8(7): 3522-3529.<br>
+</li>
+<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
+spectroscopy: applications in vibrational and optical spectroscopy. John
+Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
+</li>
+<li>Haider, P., et al. (2005). "Application of the generalized 2D
+correlation analysis to dynamic near-edge X-ray absorption spectroscopy
+data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
+</li>
+<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
+the American Chemical Society 111(21): 8116-8118.</li>
+</ol>
+
+</details>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>2DCOS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>2D Correlation Analysis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Evolutionary Algorithm for EXAFS analysis</title>
     <url>/Tools/EvAX-Code/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg-huacho" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1162,6 +1293,26 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FEFF</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
     <url>/Tools/FDMNES/dd36b5d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
@@ -1182,154 +1333,24 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
-<p>Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.</p>
+    <title>Key Parameters in EXAFS Fitting</title>
+    <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png-huacho" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
+<p>Five parameters related to the EXAFS equation are commonly allowed to
+vary during fitting procedures: the half path length <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.873ex" height="1.545ex" role="img" focusable="false" viewBox="0 -683 828 683"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D437" d="M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z"></path></g></g></g></svg></mjx-container></span>, the degeneracy <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="2.009ex" height="1.545ex" role="img" focusable="false" viewBox="0 -683 888 683"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g></g></g></svg></mjx-container></span>, the mean square relative
+displacement(MSRD) <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="2.28ex" height="1.912ex" role="img" focusable="false" viewBox="0 -833.9 1007.6 844.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><path data-c="1D70E" d="M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z"></path></g><g data-mml-node="mn" transform="translate(604,363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></g></svg></mjx-container></span>,the
+amplitude reduction factor <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.687ex;" xmlns="http://www.w3.org/2000/svg" width="2.564ex" height="2.573ex" role="img" focusable="false" viewBox="0 -833.9 1133.2 1137.4"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msubsup"><g data-mml-node="mi"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mn" transform="translate(729.6,363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mn" transform="translate(646,-287.9) scale(0.707)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></g></svg></mjx-container></span>,
+and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.375ex;" xmlns="http://www.w3.org/2000/svg" width="2.657ex" height="1.913ex" role="img" focusable="false" viewBox="0 -680 1174.6 845.6"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mn" transform="translate(771,-150) scale(0.707)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></g></svg></mjx-container></span>.</p>
 <span id="more"></span>
-<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
-2D correlation spectroscopy</h2>
-<h3 id="history-of-2d-cos">History of 2D COS</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png-huacho" alt="History of 2D COS" title="" width="50%"></p>
-<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
-Spectra</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png-huacho" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
-<h3 id="cases">Cases</h3>
-<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
-correlation spectroscopy</h2>
-<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
-Correlation Analysis</h2>
-<h2 id="software-for-2d-correlation-analysis">Software for 2D
-correlation Analysis</h2>
-<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
-with XAS</h2>
-<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
-of XAS</h2>
-<h2 id="references">References</h2>
-<details class="note default no-icon"><summary><p>Reference</p>
-</summary>
-<ol type="1">
-<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
-analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
-Journal of Polymer Research 25(4).<br>
-</li>
-<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
-electrochemical reaction of lithium with CoO by two-dimensional soft
-X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
-XAS− Raman correlation analysis." The Journal of Physical Chemistry B
-107(24): 5806-5811.<br>
-</li>
-<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
-spectroscopy and two-dimensional correlation spectroscopy to the
-electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
-molecular structure 799(1-3): 91-95.<br>
-</li>
-<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
-Co-MCM-41 and the formation of size-controllable subnanometer Co
-clusters." J Phys Chem B 109(6): 2285-2294.<br>
-</li>
-<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
-hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
-magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
-</li>
-<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
-spectroscopy studies of polymer blends: conformational changes and
-specific interactions in blends of atactic polystyrene and poly (2,
-6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
-103(32): 6704-6712.<br>
-</li>
-<li>Noda, I. (1993). "Generalized two-dimensional correlation method
-applicable to infrared, Raman, and other types of spectroscopy." Applied
-Spectroscopy 47(9): 1329-1336.<br>
-</li>
-<li>Noda, I. (2000). "Determination of two-dimensional correlation
-spectra using the Hilbert transform." Applied Spectroscopy 54(7):
-994-999.<br>
-</li>
-<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
-Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
-</li>
-<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
-spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
-</li>
-<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
-and its application in vibrational spectroscopy using Matlab." Tech.
-Comput. Prague: 978-980.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
-Spectroscopy." The Journal of Physical Chemistry A 104(27):
-6380-6387.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
-Wavenumber− Wavenumber Correlations of Temperature-Dependent
-Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
-Journal of Physical Chemistry A 104(27): 6388-6394.<br>
-</li>
-<li>Sui, H., et al. (2017). "Determination of the radiation resistance
-order of high explosives by the two dimensional correlation X-ray
-photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
-Research Section B: Beam Interactions with Materials and Atoms 406:
-496-500.<br>
-</li>
-<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
-hetero-spectral correlation analysis for the fingerprint identification
-of humic acid functional groups for hexavalent chromium retention." RSC
-Adv 8(7): 3522-3529.<br>
-</li>
-<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
-spectroscopy: applications in vibrational and optical spectroscopy. John
-Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
-</li>
-<li>Haider, P., et al. (2005). "Application of the generalized 2D
-correlation analysis to dynamic near-edge X-ray absorption spectroscopy
-data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
-</li>
-<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
-the American Chemical Society 111(21): 8116-8118.</li>
-</ol>
-
-</details>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
-        <category>Tools</category>
-        <category>2DCOS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>2D Correlation Analysis</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
       </categories>
       <tags>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
       </tags>
   </entry>
   <entry>
@@ -1447,27 +1468,6 @@ range</h2>
 <h2 id="stability">Stability</h2>
 <h2 id="physically-possibility">Physically Possibility</h2>
 <h2 id="defensibility-of-model">Defensibility of Model</h2>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Key Parameters in EXAFS Fitting</title>
-    <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png-huacho" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
-<p>Five parameters related to the EXAFS equation are commonly allowed to
-vary during fitting procedures: the half path length <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.873ex" height="1.545ex" role="img" focusable="false" viewBox="0 -683 828 683"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D437" d="M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z"></path></g></g></g></svg></mjx-container></span>, the degeneracy <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="2.009ex" height="1.545ex" role="img" focusable="false" viewBox="0 -683 888 683"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></g></g></g></svg></mjx-container></span>, the mean square relative
-displacement(MSRD) <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="2.28ex" height="1.912ex" role="img" focusable="false" viewBox="0 -833.9 1007.6 844.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><path data-c="1D70E" d="M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z"></path></g><g data-mml-node="mn" transform="translate(604,363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></g></svg></mjx-container></span>,the
-amplitude reduction factor <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.687ex;" xmlns="http://www.w3.org/2000/svg" width="2.564ex" height="2.573ex" role="img" focusable="false" viewBox="0 -833.9 1133.2 1137.4"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msubsup"><g data-mml-node="mi"><path data-c="1D446" d="M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z"></path></g><g data-mml-node="mn" transform="translate(729.6,363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mn" transform="translate(646,-287.9) scale(0.707)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></g></svg></mjx-container></span>,
-and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.375ex;" xmlns="http://www.w3.org/2000/svg" width="2.657ex" height="1.913ex" role="img" focusable="false" viewBox="0 -680 1174.6 845.6"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D438" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"></path></g><g data-mml-node="mn" transform="translate(771,-150) scale(0.707)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></g></svg></mjx-container></span>.</p>
-<span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
@@ -2000,6 +2000,29 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
+    <title>Understanding of Powder Diffraction Patterns</title>
+    <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png-huacho" alt="Understand the Pattern" title="" width="40%"></p>
+<p>The best way to understand how structure information is encoded in a
+powder diffraction pattern is to view it as a series of discrete
+diffraction peaks(Bragg reflections) <em>superimposed</em> over a
+consecutive background. Despite the background can provide infomation
+about the crystallinity of the specimen and a few other material
+properties, the primary focus in analyzing material structure remains on
+the Bragg reflection peaks.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Pattern</category>
+        <category>Powder Diffraction</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Coherent Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
     <url>/Tools/Dioptas/2312659861.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png-huacho" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%"></p>
@@ -2346,26 +2369,19 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>Understanding of Powder Diffraction Patterns</title>
-    <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png-huacho" alt="Understand the Pattern" title="" width="40%"></p>
-<p>The best way to understand how structure information is encoded in a
-powder diffraction pattern is to view it as a series of discrete
-diffraction peaks(Bragg reflections) <em>superimposed</em> over a
-consecutive background. Despite the background can provide infomation
-about the crystallinity of the specimen and a few other material
-properties, the primary focus in analyzing material structure remains on
-the Bragg reflection peaks.</p>
-<span id="more"></span>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
-        <category>Pattern</category>
-        <category>Powder Diffraction</category>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
       </categories>
       <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Coherent Scattering</tag>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -2388,9 +2404,21 @@ the Bragg reflection peaks.</p>
       </tags>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/XAFS/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png-huacho" alt="" title="" width="50%"></p>
+<p>XAFS is an element-specific spectroscopy in which measurements are
+made by tuning the X-ray energy at and above a selected core-level
+binding energy of a specified element. Although XAFS is a
+well-established technique providing reliable and useful information
+about the chemical and physical environment of the probe atom, its
+requirement of an energytunable X-ray source means it is primarily done
+with synchrotron radiation sources and so is somewhat less common than
+other spectroscopic analytical methods. XAFS spectra are especially
+sensitive to the oxidation state and coordination chemistry of the
+selected element.</p>
+<span id="more"></span>
+<h2 id="theory">Theory</h2>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
@@ -2431,34 +2459,6 @@ you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9
         <category>Tools</category>
         <category>Hexo</category>
       </categories>
-  </entry>
-  <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/XAFS/618690954.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png-huacho" alt="" title="" width="50%"></p>
-<p>XAFS is an element-specific spectroscopy in which measurements are
-made by tuning the X-ray energy at and above a selected core-level
-binding energy of a specified element. Although XAFS is a
-well-established technique providing reliable and useful information
-about the chemical and physical environment of the probe atom, its
-requirement of an energytunable X-ray source means it is primarily done
-with synchrotron radiation sources and so is somewhat less common than
-other spectroscopic analytical methods. XAFS spectra are especially
-sensitive to the oxidation state and coordination chemistry of the
-selected element.</p>
-<span id="more"></span>
-<h2 id="theory">Theory</h2>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
