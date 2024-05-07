@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hua Echoes</title>
   <icon>https://www.huaecho.cn/icon.png</icon>
-  <subtitle>Insights and Notes by Jianhua Yin</subtitle>
+  <subtitle>Insights and Notes by Yin Jianhua</subtitle>
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
@@ -10,7 +10,7 @@
   <id>https://www.huaecho.cn/</id>
   
   <author>
-    <name>Jianhua Yin</name>
+    <name>Yin Jianhua</name>
     
   </author>
   
