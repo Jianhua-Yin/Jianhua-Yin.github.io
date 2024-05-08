@@ -18,8 +18,8 @@
   
   <entry>
     <title>Evolutionary Algorithm for EXAFS analysis</title>
-    <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46"/>
-    <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46</id>
+    <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
+    <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
     <published>2024-02-09T13:18:22.000Z</published>
     <updated>2024-05-01T15:18:22.000Z</updated>
     
@@ -57,8 +57,8 @@ properties.&lt;/p&gt;</summary>
   
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <link href="https://www.huaecho.cn/Tools/2DCOS/1364141d"/>
-    <id>https://www.huaecho.cn/Tools/2DCOS/1364141d</id>
+    <link href="https://www.huaecho.cn/Tools/2DCOS/1364141d.html"/>
+    <id>https://www.huaecho.cn/Tools/2DCOS/1364141d.html</id>
     <published>2023-11-26T15:06:33.000Z</published>
     <updated>2023-11-26T15:06:33.000Z</updated>
     
@@ -89,8 +89,8 @@ techniques.&lt;/p&gt;</summary>
   
   <entry>
     <title>Modeling Pair Distribution Functions Using DISCUC</title>
-    <link href="https://www.huaecho.cn/Tools/DISCUC/4072560629"/>
-    <id>https://www.huaecho.cn/Tools/DISCUC/4072560629</id>
+    <link href="https://www.huaecho.cn/Tools/DISCUC/4072560629.html"/>
+    <id>https://www.huaecho.cn/Tools/DISCUC/4072560629.html</id>
     <published>2023-08-07T15:35:27.000Z</published>
     <updated>2023-08-07T15:35:27.000Z</updated>
     
@@ -121,16 +121,16 @@ nanoparticles.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
   <entry>
     <title>Modeling Pair Distribution Functions Using RMCProfile</title>
-    <link href="https://www.huaecho.cn/Tools/RMCProfile/1047009510"/>
-    <id>https://www.huaecho.cn/Tools/RMCProfile/1047009510</id>
+    <link href="https://www.huaecho.cn/Tools/RMCProfile/1047009510.html"/>
+    <id>https://www.huaecho.cn/Tools/RMCProfile/1047009510.html</id>
     <published>2023-08-01T16:31:53.000Z</published>
     <updated>2023-08-01T16:31:53.000Z</updated>
     
@@ -167,8 +167,8 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
   
   <entry>
     <title>Modeling Pair Distribution Functions Using PDFgui</title>
-    <link href="https://www.huaecho.cn/Tools/PDFgui/2228582188"/>
-    <id>https://www.huaecho.cn/Tools/PDFgui/2228582188</id>
+    <link href="https://www.huaecho.cn/Tools/PDFgui/2228582188.html"/>
+    <id>https://www.huaecho.cn/Tools/PDFgui/2228582188.html</id>
     <published>2023-07-15T16:25:08.000Z</published>
     <updated>2023-07-15T16:25:08.000Z</updated>
     
@@ -195,16 +195,16 @@ capabilities, enhancing its utility and ease of use for researchers.&lt;/p&gt;</
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
     
   </entry>
   
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
-    <link href="https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193"/>
-    <id>https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193</id>
+    <link href="https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193.html"/>
+    <id>https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193.html</id>
     <published>2023-07-15T11:17:45.000Z</published>
     <updated>2023-07-15T11:17:45.000Z</updated>
     
@@ -238,8 +238,8 @@ data respectively.&lt;br&gt;</summary>
   
   <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861"/>
-    <id>https://www.huaecho.cn/Tools/Dioptas/2312659861</id>
+    <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861.html"/>
+    <id>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</id>
     <published>2023-06-30T08:42:09.000Z</published>
     <updated>2023-06-30T08:42:09.000Z</updated>
     
@@ -269,8 +269,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <link href="https://www.huaecho.cn/Tools/FDMNES/dd36b5d"/>
-    <id>https://www.huaecho.cn/Tools/FDMNES/dd36b5d</id>
+    <link href="https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html"/>
+    <id>https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html</id>
     <published>2023-01-20T11:07:01.000Z</published>
     <updated>2023-07-31T11:40:23.000Z</updated>
     
@@ -311,8 +311,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507"/>
-    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507</id>
+    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
+    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
     <published>2023-01-17T14:50:10.000Z</published>
     <updated>2023-07-27T14:00:46.000Z</updated>
     
@@ -353,8 +353,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
-    <link href="https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81"/>
-    <id>https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81</id>
+    <link href="https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html"/>
+    <id>https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html</id>
     <published>2022-12-11T09:29:12.000Z</published>
     <updated>2024-04-04T06:02:35.000Z</updated>
     
@@ -393,8 +393,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>Wavelet analysis of EXAFS: Principle</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0.html</id>
     <published>2022-12-10T15:29:12.000Z</published>
     <updated>2023-01-01T06:02:35.000Z</updated>
     
@@ -427,8 +427,8 @@ display phases line positions.&lt;/p&gt;</summary>
   
   <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html</id>
     <published>2022-12-02T17:16:24.000Z</published>
     <updated>2022-12-04T03:25:30.000Z</updated>
     
@@ -466,8 +466,8 @@ biology.&lt;/p&gt;</summary>
   
   <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html</id>
     <published>2022-10-03T12:31:12.000Z</published>
     <updated>2023-05-03T15:31:02.000Z</updated>
     
@@ -494,8 +494,8 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
   
   <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html</id>
     <published>2022-10-03T12:10:12.000Z</published>
     <updated>2023-05-03T15:31:12.000Z</updated>
     
@@ -522,8 +522,8 @@ reasonableness.&lt;/p&gt;</summary>
   
   <entry>
     <title>Key Parameters in EXAFS Fitting</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96.html</id>
     <published>2022-10-01T13:36:12.000Z</published>
     <updated>2024-02-09T10:30:29.000Z</updated>
     
@@ -552,8 +552,8 @@ and &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;Math
   
   <entry>
     <title>XAFS Theory</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954</id>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
     <published>2022-07-10T06:20:14.000Z</published>
     <updated>2023-01-17T03:29:50.000Z</updated>
     
@@ -589,8 +589,8 @@ selected element.&lt;/p&gt;</summary>
   
   <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
-    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e"/>
-    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e</id>
+    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html"/>
+    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html</id>
     <published>2020-07-01T09:25:11.000Z</published>
     <updated>2023-08-25T09:44:21.000Z</updated>
     
@@ -621,8 +621,8 @@ the Bragg reflection peaks.&lt;/p&gt;</summary>
   
   <entry>
     <title>Principles of Powder Diffraction</title>
-    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054"/>
-    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054</id>
+    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html"/>
+    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html</id>
     <published>2020-06-25T03:59:17.000Z</published>
     <updated>2023-07-25T09:28:17.000Z</updated>
     
@@ -655,8 +655,8 @@ a crucial tool in the characterization of materials.&lt;/p&gt;</summary>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.huaecho.cn/Tools/Hexo/1243066710"/>
-    <id>https://www.huaecho.cn/Tools/Hexo/1243066710</id>
+    <link href="https://www.huaecho.cn/Tools/Hexo/1243066710.html"/>
+    <id>https://www.huaecho.cn/Tools/Hexo/1243066710.html</id>
     <published>2018-09-07T04:42:00.000Z</published>
     <updated>2018-09-07T04:42:00.000Z</updated>
     
