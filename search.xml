@@ -1312,26 +1312,6 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
     <url>/Core-level-spectrum/XAFS/496821b9.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp-huacho" alt="Identify Quality EXAFS Cover" title="" width="30%"></p>
@@ -1458,6 +1438,26 @@ range</h2>
       </tags>
   </entry>
   <entry>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FEFF</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Key Parameters in EXAFS Fitting</title>
     <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png-huacho" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
@@ -1528,60 +1528,6 @@ capabilities, enhancing its utility and ease of use for researchers.</p>
         <tag>Small-angle Scattering</tag>
         <tag>PDFs Refinement</tag>
         <tag>PDFgui</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
-    <url>/Tools/RMCProfile/1047009510.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp-huacho" alt="RMCProfile" title="" width="50%"></p>
-<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
-the atomic structure of matter, derived directly from experimental data.
-Primarily used to analyze neutron and x-ray total scattering data, RMC
-is particularly effective for studying disordered materials—materials
-for which other probes provide only limited information.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>RMCProfile</category>
-      </categories>
-      <tags>
-        <tag>Reverse Monte Carlo</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>Reverse Monte Carlo method</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg-huacho" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
-<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
-emerging excitation spectroscopy technique developed over the past
-decade. Leveraging the coupling of photons with the majority of degrees
-of freedom that determine material properties—including lattice, charge,
-spin, and orbitals—RIXS spectra can observe various excitations such as
-phonons, magnons, orbitons, and electronic level transitions, thereby
-providing rich physical information. Additionally, RIXS inherits the
-advantages of X-ray techniques, allowing its application in the
-measurement of low-dimensional materials and small samples. These
-benefits have positioned RIXS technology as a valuable tool in fields
-such as condensed matter physics, materials science, chemistry, and
-biology.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>RIXS</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>RXES</tag>
       </tags>
   </entry>
   <entry>
@@ -2022,6 +1968,60 @@ the Bragg reflection peaks.</p>
       </tags>
   </entry>
   <entry>
+    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <url>/Tools/RMCProfile/1047009510.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp-huacho" alt="RMCProfile" title="" width="50%"></p>
+<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
+the atomic structure of matter, derived directly from experimental data.
+Primarily used to analyze neutron and x-ray total scattering data, RMC
+is particularly effective for studying disordered materials—materials
+for which other probes provide only limited information.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>RMCProfile</category>
+      </categories>
+      <tags>
+        <tag>Reverse Monte Carlo</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>Reverse Monte Carlo method</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Principles of Resonant inelastic X-ray Scattering</title>
+    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg-huacho" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
+<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
+emerging excitation spectroscopy technique developed over the past
+decade. Leveraging the coupling of photons with the majority of degrees
+of freedom that determine material properties—including lattice, charge,
+spin, and orbitals—RIXS spectra can observe various excitations such as
+phonons, magnons, orbitons, and electronic level transitions, thereby
+providing rich physical information. Additionally, RIXS inherits the
+advantages of X-ray techniques, allowing its application in the
+measurement of low-dimensional materials and small samples. These
+benefits have positioned RIXS technology as a valuable tool in fields
+such as condensed matter physics, materials science, chemistry, and
+biology.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>RIXS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>RXES</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
     <url>/Tools/Dioptas/2312659861.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png-huacho" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%"></p>
@@ -2384,25 +2384,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Tools</title>
-    <url>/Tools/wt-EXAFS/5a85aa81.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>wt-EXAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>Igor Pro</tag>
-        <tag>Hama</tag>
-        <tag>Matlab</tag>
-        <tag>Python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>XAFS Theory</title>
     <url>/Core-level-spectrum/XAFS/618690954.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png-huacho" alt="" title="" width="50%"></p>
@@ -2428,6 +2409,25 @@ selected element.</p>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
         <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Tools</title>
+    <url>/Tools/wt-EXAFS/5a85aa81.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>wt-EXAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>Igor Pro</tag>
+        <tag>Hama</tag>
+        <tag>Matlab</tag>
+        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
