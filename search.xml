@@ -462,6 +462,26 @@ the American Chemical Society 111(21): 8116-8118.</li>
       </tags>
   </entry>
   <entry>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FEFF</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Evolutionary Algorithm for EXAFS analysis</title>
     <url>/Tools/EvAX-Code/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1311,26 +1331,6 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Key Parameters in EXAFS Fitting</title>
     <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
@@ -1527,6 +1527,31 @@ capabilities, enhancing its utility and ease of use for researchers.</p>
         <tag>Small-angle Scattering</tag>
         <tag>PDFs Refinement</tag>
         <tag>PDFgui</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <url>/Tools/RMCProfile/1047009510.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
+<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
+the atomic structure of matter, derived directly from experimental data.
+Primarily used to analyze neutron and x-ray total scattering data, RMC
+is particularly effective for studying disordered materials—materials
+for which other probes provide only limited information.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>RMCProfile</category>
+      </categories>
+      <tags>
+        <tag>Reverse Monte Carlo</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>Reverse Monte Carlo method</tag>
       </tags>
   </entry>
   <entry>
@@ -1944,54 +1969,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
-    <url>/Tools/RMCProfile/1047009510.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
-<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
-the atomic structure of matter, derived directly from experimental data.
-Primarily used to analyze neutron and x-ray total scattering data, RMC
-is particularly effective for studying disordered materials—materials
-for which other probes provide only limited information.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>RMCProfile</category>
-      </categories>
-      <tags>
-        <tag>Reverse Monte Carlo</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>Reverse Monte Carlo method</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Understanding of Powder Diffraction Patterns</title>
-    <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif" alt="Understand the Pattern" title="" width="40%"></p>
-<p>The best way to understand how structure information is encoded in a
-powder diffraction pattern is to view it as a series of discrete
-diffraction peaks(Bragg reflections) <em>superimposed</em> over a
-consecutive background. Despite the background can provide infomation
-about the crystallinity of the specimen and a few other material
-properties, the primary focus in analyzing material structure remains on
-the Bragg reflection peaks.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Pattern</category>
-        <category>Powder Diffraction</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Coherent Scattering</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
     <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
@@ -2018,6 +1995,45 @@ biology.</p>
         <tag>XES</tag>
         <tag>RIXS</tag>
         <tag>RXES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Understanding of Powder Diffraction Patterns</title>
+    <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif" alt="Understand the Pattern" title="" width="40%"></p>
+<p>The best way to understand how structure information is encoded in a
+powder diffraction pattern is to view it as a series of discrete
+diffraction peaks(Bragg reflections) <em>superimposed</em> over a
+consecutive background. Despite the background can provide infomation
+about the crystallinity of the specimen and a few other material
+properties, the primary focus in analyzing material structure remains on
+the Bragg reflection peaks.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Pattern</category>
+        <category>Powder Diffraction</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Coherent Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -2367,22 +2383,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
     <url>/Tools/wt-EXAFS/5a85aa81.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
@@ -2400,35 +2400,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
         <tag>Matlab</tag>
         <tag>Python</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/Tools/Hexo/1243066710.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
-<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
-first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
-you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
-<span id="more"></span>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Hexo</category>
-      </categories>
   </entry>
   <entry>
     <title>XAFS Theory</title>
@@ -2851,5 +2822,34 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Powder Diffraction</tag>
         <tag>Small-angle Scattering</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/Tools/Hexo/1243066710.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
+<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
+first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
+you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
+<span id="more"></span>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
 </search>
