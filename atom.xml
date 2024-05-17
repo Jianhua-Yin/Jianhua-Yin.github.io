@@ -121,9 +121,9 @@ nanoparticles.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
@@ -149,8 +149,6 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     <category term="RMCProfile" scheme="https://www.huaecho.cn/categories/Tools/RMCProfile/"/>
     
     
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
-    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -160,6 +158,8 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
     <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
     
@@ -195,9 +195,9 @@ capabilities, enhancing its utility and ease of use for researchers.&lt;/p&gt;</
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
     
   </entry>
   
