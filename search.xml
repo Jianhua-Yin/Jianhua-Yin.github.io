@@ -442,6 +442,46 @@ the American Chemical Society 111(21): 8116-8118.</li>
       </tags>
   </entry>
   <entry>
+    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
+    <url>/Tools/FDMNES/dd36b5d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FDMNES</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FEFF</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Evolutionary Algorithm for EXAFS analysis</title>
     <url>/Tools/EvAX-Code/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1291,46 +1331,6 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <url>/Tools/FDMNES/dd36b5d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FDMNES</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
     <url>/Core-level-spectrum/XAFS/496821b9.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif" alt="Identify Quality EXAFS Cover" title="" width="30%"></p>
@@ -1478,6 +1478,59 @@ and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg styl
       </tags>
   </entry>
   <entry>
+    <title>Modeling Pair Distribution Functions Using DISCUC</title>
+    <url>/Tools/DISCUC/4072560629.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/DISCUC/Cover/DiffuseCodeNano.jpg?imageMogr2/format/avif" alt="DISCUC" title="" width="50%"></p>
+<p>DISCUS is a comprehensive program designed to generate disordered
+atomic structures and compute corresponding experimental data, such as
+<strong>single crystal diffuse scattering</strong> or the <strong>atomic
+pair distribution function (PDF)</strong>. Key features include
+<em>symmetry operations</em>, <em>Monte Carlo simulation
+capabilities</em>, and <em>the ability to generate domain
+structures</em>, among others. More recent developments in DISCUS have
+expanded its functionality to include the simulation of
+nanoparticles.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>DISCUC</category>
+      </categories>
+      <tags>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>DISUC</tag>
+        <tag>PDFs Refinement</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <url>/Tools/RMCProfile/1047009510.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
+<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
+the atomic structure of matter, derived directly from experimental data.
+Primarily used to analyze neutron and x-ray total scattering data, RMC
+is particularly effective for studying disordered materials—materials
+for which other probes provide only limited information.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>RMCProfile</category>
+      </categories>
+      <tags>
+        <tag>Reverse Monte Carlo</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>Reverse Monte Carlo method</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Modeling Pair Distribution Functions Using PDFgui</title>
     <url>/Tools/PDFgui/2228582188.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif" alt="PDFgui" title="" width="50%"></p>
@@ -1497,8 +1550,8 @@ capabilities, enhancing its utility and ease of use for researchers.</p>
         <tag>Total Scattering</tag>
         <tag>Powder Diffraction</tag>
         <tag>Small-angle Scattering</tag>
-        <tag>PDFgui</tag>
         <tag>PDFs Refinement</tag>
+        <tag>PDFgui</tag>
       </tags>
   </entry>
   <entry>
@@ -1916,31 +1969,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
-    <url>/Tools/RMCProfile/1047009510.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
-<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
-the atomic structure of matter, derived directly from experimental data.
-Primarily used to analyze neutron and x-ray total scattering data, RMC
-is particularly effective for studying disordered materials—materials
-for which other probes provide only limited information.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>RMCProfile</category>
-      </categories>
-      <tags>
-        <tag>Reverse Monte Carlo</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>Reverse Monte Carlo method</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
     <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
@@ -1967,34 +1995,6 @@ biology.</p>
         <tag>XES</tag>
         <tag>RIXS</tag>
         <tag>RXES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Modeling Pair Distribution Functions Using DISCUC</title>
-    <url>/Tools/DISCUC/4072560629.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/DISCUC/Cover/DiffuseCodeNano.jpg?imageMogr2/format/avif" alt="DISCUC" title="" width="50%"></p>
-<p>DISCUS is a comprehensive program designed to generate disordered
-atomic structures and compute corresponding experimental data, such as
-<strong>single crystal diffuse scattering</strong> or the <strong>atomic
-pair distribution function (PDF)</strong>. Key features include
-<em>symmetry operations</em>, <em>Monte Carlo simulation
-capabilities</em>, and <em>the ability to generate domain
-structures</em>, among others. More recent developments in DISCUS have
-expanded its functionality to include the simulation of
-nanoparticles.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>DISCUC</category>
-      </categories>
-      <tags>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>DISUC</tag>
       </tags>
   </entry>
   <entry>
@@ -2367,34 +2367,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectrum/XAFS/618690954.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%"></p>
-<p>XAFS is an element-specific spectroscopy in which measurements are
-made by tuning the X-ray energy at and above a selected core-level
-binding energy of a specified element. Although XAFS is a
-well-established technique providing reliable and useful information
-about the chemical and physical environment of the probe atom, its
-requirement of an energytunable X-ray source means it is primarily done
-with synchrotron radiation sources and so is somewhat less common than
-other spectroscopic analytical methods. XAFS spectra are especially
-sensitive to the oxidation state and coordination chemistry of the
-selected element.</p>
-<span id="more"></span>
-<h2 id="theory">Theory</h2>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
     <url>/Tools/wt-EXAFS/5a85aa81.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
@@ -2417,6 +2389,34 @@ selected element.</p>
     <title>Wavelet analysis of EXAFS: Principle</title>
     <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectrum/XAFS/618690954.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif" alt="" title="" width="50%"></p>
+<p>XAFS is an element-specific spectroscopy in which measurements are
+made by tuning the X-ray energy at and above a selected core-level
+binding energy of a specified element. Although XAFS is a
+well-established technique providing reliable and useful information
+about the chemical and physical environment of the probe atom, its
+requirement of an energytunable X-ray source means it is primarily done
+with synchrotron radiation sources and so is somewhat less common than
+other spectroscopic analytical methods. XAFS spectra are especially
+sensitive to the oxidation state and coordination chemistry of the
+selected element.</p>
+<span id="more"></span>
+<h2 id="theory">Theory</h2>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
