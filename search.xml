@@ -1,6 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Application of Two-dimensional correlation Analysis in XAS</title>
+    <url>/Tools/2DCOS/1364141d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
+<p>Initially developed approximately 30 years ago in NMR spectroscopy,
+two-dimensional spectroscopy facilitated the visualization of complex
+spectra characterized by numerous overlapping peaks by distributing them
+across a second dimension. While NMR remains the predominant technique
+in two-dimensional spectroscopy, this approach has been extended to
+other forms, proving particularly useful across various spectroscopic
+techniques.</p>
+<span id="more"></span>
+<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
+2D correlation spectroscopy</h2>
+<h3 id="history-of-2d-cos">History of 2D COS</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
+<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
+Spectra</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
+<h3 id="cases">Cases</h3>
+<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
+correlation spectroscopy</h2>
+<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
+Correlation Analysis</h2>
+<h2 id="software-for-2d-correlation-analysis">Software for 2D
+correlation Analysis</h2>
+<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
+with XAS</h2>
+<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
+of XAS</h2>
+<h2 id="references">References</h2>
+<details class="note default no-icon"><summary><p>Reference</p>
+</summary>
+<ol type="1">
+<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
+analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
+Journal of Polymer Research 25(4).<br>
+</li>
+<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
+electrochemical reaction of lithium with CoO by two-dimensional soft
+X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
+XAS− Raman correlation analysis." The Journal of Physical Chemistry B
+107(24): 5806-5811.<br>
+</li>
+<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
+spectroscopy and two-dimensional correlation spectroscopy to the
+electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
+molecular structure 799(1-3): 91-95.<br>
+</li>
+<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
+Co-MCM-41 and the formation of size-controllable subnanometer Co
+clusters." J Phys Chem B 109(6): 2285-2294.<br>
+</li>
+<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
+hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
+magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
+</li>
+<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
+spectroscopy studies of polymer blends: conformational changes and
+specific interactions in blends of atactic polystyrene and poly (2,
+6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
+103(32): 6704-6712.<br>
+</li>
+<li>Noda, I. (1993). "Generalized two-dimensional correlation method
+applicable to infrared, Raman, and other types of spectroscopy." Applied
+Spectroscopy 47(9): 1329-1336.<br>
+</li>
+<li>Noda, I. (2000). "Determination of two-dimensional correlation
+spectra using the Hilbert transform." Applied Spectroscopy 54(7):
+994-999.<br>
+</li>
+<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
+Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
+</li>
+<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
+spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
+</li>
+<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
+and its application in vibrational spectroscopy using Matlab." Tech.
+Comput. Prague: 978-980.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
+Spectroscopy." The Journal of Physical Chemistry A 104(27):
+6380-6387.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
+Wavenumber− Wavenumber Correlations of Temperature-Dependent
+Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
+Journal of Physical Chemistry A 104(27): 6388-6394.<br>
+</li>
+<li>Sui, H., et al. (2017). "Determination of the radiation resistance
+order of high explosives by the two dimensional correlation X-ray
+photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
+Research Section B: Beam Interactions with Materials and Atoms 406:
+496-500.<br>
+</li>
+<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
+hetero-spectral correlation analysis for the fingerprint identification
+of humic acid functional groups for hexavalent chromium retention." RSC
+Adv 8(7): 3522-3529.<br>
+</li>
+<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
+spectroscopy: applications in vibrational and optical spectroscopy. John
+Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
+</li>
+<li>Haider, P., et al. (2005). "Application of the generalized 2D
+correlation analysis to dynamic near-edge X-ray absorption spectroscopy
+data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
+</li>
+<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
+the American Chemical Society 111(21): 8116-8118.</li>
+</ol>
+
+</details>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>2DCOS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>2D Correlation Analysis</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
     <url>/Core-level-spectrum/XAFS/199cdc0d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif" alt="Artemis Software" title="" width="40%"></p>
@@ -311,134 +442,23 @@ fit</td>
       </tags>
   </entry>
   <entry>
-    <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
-<p>Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.</p>
-<span id="more"></span>
-<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
-2D correlation spectroscopy</h2>
-<h3 id="history-of-2d-cos">History of 2D COS</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
-<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
-Spectra</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
-<h3 id="cases">Cases</h3>
-<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
-correlation spectroscopy</h2>
-<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
-Correlation Analysis</h2>
-<h2 id="software-for-2d-correlation-analysis">Software for 2D
-correlation Analysis</h2>
-<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
-with XAS</h2>
-<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
-of XAS</h2>
-<h2 id="references">References</h2>
-<details class="note default no-icon"><summary><p>Reference</p>
-</summary>
-<ol type="1">
-<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
-analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
-Journal of Polymer Research 25(4).<br>
-</li>
-<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
-electrochemical reaction of lithium with CoO by two-dimensional soft
-X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
-XAS− Raman correlation analysis." The Journal of Physical Chemistry B
-107(24): 5806-5811.<br>
-</li>
-<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
-spectroscopy and two-dimensional correlation spectroscopy to the
-electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
-molecular structure 799(1-3): 91-95.<br>
-</li>
-<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
-Co-MCM-41 and the formation of size-controllable subnanometer Co
-clusters." J Phys Chem B 109(6): 2285-2294.<br>
-</li>
-<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
-hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
-magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
-</li>
-<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
-spectroscopy studies of polymer blends: conformational changes and
-specific interactions in blends of atactic polystyrene and poly (2,
-6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
-103(32): 6704-6712.<br>
-</li>
-<li>Noda, I. (1993). "Generalized two-dimensional correlation method
-applicable to infrared, Raman, and other types of spectroscopy." Applied
-Spectroscopy 47(9): 1329-1336.<br>
-</li>
-<li>Noda, I. (2000). "Determination of two-dimensional correlation
-spectra using the Hilbert transform." Applied Spectroscopy 54(7):
-994-999.<br>
-</li>
-<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
-Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
-</li>
-<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
-spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
-</li>
-<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
-and its application in vibrational spectroscopy using Matlab." Tech.
-Comput. Prague: 978-980.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
-Spectroscopy." The Journal of Physical Chemistry A 104(27):
-6380-6387.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
-Wavenumber− Wavenumber Correlations of Temperature-Dependent
-Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
-Journal of Physical Chemistry A 104(27): 6388-6394.<br>
-</li>
-<li>Sui, H., et al. (2017). "Determination of the radiation resistance
-order of high explosives by the two dimensional correlation X-ray
-photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
-Research Section B: Beam Interactions with Materials and Atoms 406:
-496-500.<br>
-</li>
-<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
-hetero-spectral correlation analysis for the fingerprint identification
-of humic acid functional groups for hexavalent chromium retention." RSC
-Adv 8(7): 3522-3529.<br>
-</li>
-<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
-spectroscopy: applications in vibrational and optical spectroscopy. John
-Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
-</li>
-<li>Haider, P., et al. (2005). "Application of the generalized 2D
-correlation analysis to dynamic near-edge X-ray absorption spectroscopy
-data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
-</li>
-<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
-the American Chemical Society 111(21): 8116-8118.</li>
-</ol>
-
-</details>
+    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
+    <url>/Tools/FDMNES/dd36b5d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
-        <category>2DCOS</category>
+        <category>FDMNES</category>
       </categories>
       <tags>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
-        <tag>2D Correlation Analysis</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
       </tags>
   </entry>
   <entry>
@@ -1070,7 +1090,7 @@ used for the comparison for exp. and theo. EXAFS data</font></p>
 </details>
 <details class="note info no-icon"><summary><p>R_max_for_1st_shell</p>
 </summary>
-<p><font color="#1a94bc">Set the value of <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.357ex;" xmlns="http://www.w3.org/2000/svg" width="11.487ex" height="2.288ex" role="img" focusable="false" viewBox="0 -853.7 5077.2 1011.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D445" d="M230 637Q203 637 198 638T193 649Q193 676 204 682Q206 683 378 683Q550 682 564 680Q620 672 658 652T712 606T733 563T739 529Q739 484 710 445T643 385T576 351T538 338L545 333Q612 295 612 223Q612 212 607 162T602 80V71Q602 53 603 43T614 25T640 16Q668 16 686 38T712 85Q717 99 720 102T735 105Q755 105 755 93Q755 75 731 36Q693 -21 641 -21H632Q571 -21 531 4T487 82Q487 109 502 166T517 239Q517 290 474 313Q459 320 449 321T378 323H309L277 193Q244 61 244 59Q244 55 245 54T252 50T269 48T302 46H333Q339 38 339 37T336 19Q332 6 326 0H311Q275 2 180 2Q146 2 117 2T71 2T50 1Q33 1 33 10Q33 12 36 24Q41 43 46 45Q50 46 61 46H67Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628Q287 635 230 637ZM630 554Q630 586 609 608T523 636Q521 636 500 636T462 637H440Q393 637 386 627Q385 624 352 494T319 361Q319 360 388 360Q466 361 492 367Q556 377 592 426Q608 449 619 486T630 554Z"></path></g><g data-mml-node="mi" transform="translate(792,-150) scale(0.707)"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path></g></g><g data-mml-node="mi" transform="translate(1462.8,0)"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="msup" transform="translate(1991.8,0)"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g><g data-mml-node="TeXAtom" transform="translate(605,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path></g><g data-mml-node="mi" transform="translate(969,0)"><path data-c="1D461" d="M26 385Q19 392 19 395Q19 399 22 411T27 425Q29 430 36 430T87 431H140L159 511Q162 522 166 540T173 566T179 586T187 603T197 615T211 624T229 626Q247 625 254 615T261 596Q261 589 252 549T232 470L222 433Q222 431 272 431H323Q330 424 330 420Q330 398 317 385H210L174 240Q135 80 135 68Q135 26 162 26Q197 26 230 60T283 144Q285 150 288 151T303 153H307Q322 153 322 145Q322 142 319 133Q314 117 301 95T267 48T216 6T155 -11Q125 -11 98 4T59 56Q57 64 57 83V101L92 241Q127 382 128 383Q128 385 77 385H26Z"></path></g><g data-mml-node="mi" transform="translate(1330,0)"><path data-c="1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path></g><g data-mml-node="mi" transform="translate(1799,0)"><path data-c="210E" d="M137 683Q138 683 209 688T282 694Q294 694 294 685Q294 674 258 534Q220 386 220 383Q220 381 227 388Q288 442 357 442Q411 442 444 415T478 336Q478 285 440 178T402 50Q403 36 407 31T422 26Q450 26 474 56T513 138Q516 149 519 151T535 153Q555 153 555 145Q555 144 551 130Q535 71 500 33Q466 -10 419 -10H414Q367 -10 346 17T325 74Q325 90 361 192T398 345Q398 404 354 404H349Q266 404 205 306L198 293L164 158Q132 28 127 16Q114 -11 83 -11Q69 -11 59 -2T48 16Q48 30 121 320L195 616Q195 629 188 632T149 637H128Q122 643 122 645T124 664Q129 683 137 683Z"></path></g><g data-mml-node="mi" transform="translate(2375,0)"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="mi" transform="translate(2841,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3139,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g></g></g></g></g></svg></mjx-container></span></font><br>
+<p><font color="#1a94bc">Set the value of <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.576ex;" xmlns="http://www.w3.org/2000/svg" width="7.403ex" height="2.508ex" role="img" focusable="false" viewBox="0 -853.7 3272.3 1108.5"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msubsup"><g data-mml-node="mi"><path data-c="1D445" d="M230 637Q203 637 198 638T193 649Q193 676 204 682Q206 683 378 683Q550 682 564 680Q620 672 658 652T712 606T733 563T739 529Q739 484 710 445T643 385T576 351T538 338L545 333Q612 295 612 223Q612 212 607 162T602 80V71Q602 53 603 43T614 25T640 16Q668 16 686 38T712 85Q717 99 720 102T735 105Q755 105 755 93Q755 75 731 36Q693 -21 641 -21H632Q571 -21 531 4T487 82Q487 109 502 166T517 239Q517 290 474 313Q459 320 449 321T378 323H309L277 193Q244 61 244 59Q244 55 245 54T252 50T269 48T302 46H333Q339 38 339 37T336 19Q332 6 326 0H311Q275 2 180 2Q146 2 117 2T71 2T50 1Q33 1 33 10Q33 12 36 24Q41 43 46 45Q50 46 61 46H67Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628Q287 635 230 637ZM630 554Q630 586 609 608T523 636Q521 636 500 636T462 637H440Q393 637 386 627Q385 624 352 494T319 361Q319 360 388 360Q466 361 492 367Q556 377 592 426Q608 449 619 486T630 554Z"></path></g><g data-mml-node="TeXAtom" transform="translate(792,363) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path></g><g data-mml-node="mi" transform="translate(969,0)"><path data-c="1D461" d="M26 385Q19 392 19 395Q19 399 22 411T27 425Q29 430 36 430T87 431H140L159 511Q162 522 166 540T173 566T179 586T187 603T197 615T211 624T229 626Q247 625 254 615T261 596Q261 589 252 549T232 470L222 433Q222 431 272 431H323Q330 424 330 420Q330 398 317 385H210L174 240Q135 80 135 68Q135 26 162 26Q197 26 230 60T283 144Q285 150 288 151T303 153H307Q322 153 322 145Q322 142 319 133Q314 117 301 95T267 48T216 6T155 -11Q125 -11 98 4T59 56Q57 64 57 83V101L92 241Q127 382 128 383Q128 385 77 385H26Z"></path></g><g data-mml-node="mi" transform="translate(1330,0)"><path data-c="1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"></path></g><g data-mml-node="mi" transform="translate(1799,0)"><path data-c="210E" d="M137 683Q138 683 209 688T282 694Q294 694 294 685Q294 674 258 534Q220 386 220 383Q220 381 227 388Q288 442 357 442Q411 442 444 415T478 336Q478 285 440 178T402 50Q403 36 407 31T422 26Q450 26 474 56T513 138Q516 149 519 151T535 153Q555 153 555 145Q555 144 551 130Q535 71 500 33Q466 -10 419 -10H414Q367 -10 346 17T325 74Q325 90 361 192T398 345Q398 404 354 404H349Q266 404 205 306L198 293L164 158Q132 28 127 16Q114 -11 83 -11Q69 -11 59 -2T48 16Q48 30 121 320L195 616Q195 629 188 632T149 637H128Q122 643 122 645T124 664Q129 683 137 683Z"></path></g><g data-mml-node="mi" transform="translate(2375,0)"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="mi" transform="translate(2841,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g><g data-mml-node="mi" transform="translate(3139,0)"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"></path></g></g><g data-mml-node="TeXAtom" transform="translate(792,-247) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mi" transform="translate(878,0)"><path data-c="1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></g><g data-mml-node="mi" transform="translate(1407,0)"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path></g></g></g></g></g></svg></mjx-container></span></font><br>
 EvAX performs conventional fit of the 1st coordination shell to estimate
 S0 dE0</p>
 
@@ -1291,13 +1311,13 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <url>/Tools/FDMNES/dd36b5d.html</url>
+    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
-        <category>FDMNES</category>
+        <category>FEFF</category>
       </categories>
       <tags>
         <tag>XAFS</tag>
@@ -1437,26 +1457,6 @@ range</h2>
       </tags>
   </entry>
   <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Key Parameters in EXAFS Fitting</title>
     <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
@@ -1475,6 +1475,31 @@ and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg styl
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <url>/Tools/RMCProfile/1047009510.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
+<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
+the atomic structure of matter, derived directly from experimental data.
+Primarily used to analyze neutron and x-ray total scattering data, RMC
+is particularly effective for studying disordered materials—materials
+for which other probes provide only limited information.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>RMCProfile</category>
+      </categories>
+      <tags>
+        <tag>Reverse Monte Carlo</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>Reverse Monte Carlo method</tag>
+        <tag>PDFs Refinement</tag>
       </tags>
   </entry>
   <entry>
@@ -1501,86 +1526,8 @@ nanoparticles.</p>
         <tag>Total Scattering</tag>
         <tag>Powder Diffraction</tag>
         <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
         <tag>DISUC</tag>
-        <tag>PDFs Refinement</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
-    <url>/Tools/RMCProfile/1047009510.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
-<p>The Reverse Monte Carlo (RMC) method offers a unique perspective on
-the atomic structure of matter, derived directly from experimental data.
-Primarily used to analyze neutron and x-ray total scattering data, RMC
-is particularly effective for studying disordered materials—materials
-for which other probes provide only limited information.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>RMCProfile</category>
-      </categories>
-      <tags>
-        <tag>Reverse Monte Carlo</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>Reverse Monte Carlo method</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Modeling Pair Distribution Functions Using PDFgui</title>
-    <url>/Tools/PDFgui/2228582188.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif" alt="PDFgui" title="" width="50%"></p>
-<p>PDFgui offers a user-friendly graphical interface for the PDFfit2
-refinement program, facilitating full-profile fitting of the atomic pair
-distribution function (PDF) derived from x-ray or neutron diffraction
-data. It includes built-in graphical and structure visualization
-capabilities, enhancing its utility and ease of use for researchers.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>PDFgui</category>
-      </categories>
-      <tags>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>PDFgui</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
-<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
-emerging excitation spectroscopy technique developed over the past
-decade. Leveraging the coupling of photons with the majority of degrees
-of freedom that determine material properties—including lattice, charge,
-spin, and orbitals—RIXS spectra can observe various excitations such as
-phonons, magnons, orbitons, and electronic level transitions, thereby
-providing rich physical information. Additionally, RIXS inherits the
-advantages of X-ray techniques, allowing its application in the
-measurement of low-dimensional materials and small samples. These
-benefits have positioned RIXS technology as a valuable tool in fields
-such as condensed matter physics, materials science, chemistry, and
-biology.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>RIXS</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>RXES</tag>
       </tags>
   </entry>
   <entry>
@@ -1998,6 +1945,30 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
+    <title>Modeling Pair Distribution Functions Using PDFgui</title>
+    <url>/Tools/PDFgui/2228582188.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif" alt="PDFgui" title="" width="50%"></p>
+<p>PDFgui offers a user-friendly graphical interface for the PDFfit2
+refinement program, facilitating full-profile fitting of the atomic pair
+distribution function (PDF) derived from x-ray or neutron diffraction
+data. It includes built-in graphical and structure visualization
+capabilities, enhancing its utility and ease of use for researchers.</p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>PDFgui</category>
+      </categories>
+      <tags>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>PDFgui</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
     <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif" alt="Understand the Pattern" title="" width="40%"></p>
@@ -2021,19 +1992,32 @@ the Bragg reflection peaks.</p>
       </tags>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+    <title>Principles of Resonant inelastic X-ray Scattering</title>
+    <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
+<p><em>X-ray Resonant Inelastic Scattering</em> (<em>RIXS</em>) is an
+emerging excitation spectroscopy technique developed over the past
+decade. Leveraging the coupling of photons with the majority of degrees
+of freedom that determine material properties—including lattice, charge,
+spin, and orbitals—RIXS spectra can observe various excitations such as
+phonons, magnons, orbitons, and electronic level transitions, thereby
+providing rich physical information. Additionally, RIXS inherits the
+advantages of X-ray techniques, allowing its application in the
+measurement of low-dimensional materials and small samples. These
+benefits have positioned RIXS technology as a valuable tool in fields
+such as condensed matter physics, materials science, chemistry, and
+biology.</p>
+<span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
-        <category>XAFS</category>
+        <category>RIXS</category>
       </categories>
       <tags>
-        <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>RXES</tag>
       </tags>
   </entry>
   <entry>
@@ -2053,6 +2037,368 @@ the Bragg reflection peaks.</p>
         <tag>Hama</tag>
         <tag>Matlab</tag>
         <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
+    <url>/Tools/Dioptas/2312659861.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%"></p>
+<p>Dioptas is an awesome GUI program based on <em>Python</em>, designed
+for the fast data reduction of <strong><em>Powder X-ray Diffraction
+images</em></strong>. It provides the capability of
+<strong>calibrating</strong>, <strong>integrating</strong>,
+<strong>creating masks</strong>, showing multiple pattern overlays and
+display phases line positions.</p>
+<span id="more"></span>
+<h2 id="program-dependencies">Program dependencies</h2>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">Python 3.9+</span><br><span class="line">pyFAI</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="authors">Authors</h2>
+<p><strong>Maintainer</strong></p>
+<p>Clemens Prescher (clemens.prescher@gmail.com)</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="installation">Installation</h2>
+<p><strong>Executables</strong></p>
+<p>Binary programs for Windows, macOS, and Linux can be downloaded from
+the following link:</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas/releases</span><br></pre></td></tr></tbody></table></figure>
+<p><strong>pip</strong></p>
+<p>Install the all the dependencies for <em>Dioptas</em> by pip package
+manager:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">pip install dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run Dioptas</span></span><br><span class="line">dioptas</span><br></pre></td></tr></tbody></table></figure>
+<p><strong>poetry</strong><br>
+Use the poetry package manager to create a working environment by
+typing:</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">create new environment</span></span><br><span class="line">poetry install</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Activate the environment</span></span><br><span class="line">poetry shell</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run dioptas</span></span><br><span class="line">dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run the dioptas without activating the environment</span></span><br><span class="line">poetry run dioptas</span><br></pre></td></tr></tbody></table></figure>
+<h2 id="procedure">Procedure</h2>
+<h3 id="overview">Overview</h3>
+<p>Dioptas has three different modules which can all be accessed by the
+lab indicators on the <strong><em>left side</em></strong> of the user
+interface: <strong>Calibration</strong>, <strong>Mask</strong>,
+<strong>Integration</strong>.</p>
+<ul>
+<li><strong>Calibration Module</strong> This module is used to calibrate
+the detector geometry.</li>
+<li><strong>Mask Module</strong> This module allows users to select
+regions that need to be excluded from the image integration.</li>
+<li><strong>Integration Module</strong> This module displays the image
+and integrated pattern. It can overlay different patterns and show the
+line positions of phases.</li>
+</ul>
+<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png?imageMogr2/format/avif" alt="Dioptas_Modules" title="Dioptas_Modules" width="60%"></p>
+<hr>
+<h3 id="getting-started">Getting Started</h3>
+<h4 id="basic-mouse-operations">Basic Mouse Operations</h4>
+<div class="tabs" id="mouse-operation"><ul class="nav-tabs"><li class="tab active"><a href="#mouse-operation-1">Left Drag</a></li><li class="tab"><a href="#mouse-operation-2">Right Drag</a></li><li class="tab"><a href="#mouse-operation-3">Right Click</a></li><li class="tab"><a href="#mouse-operation-4">Right Double Click</a></li><li class="tab"><a href="#mouse-operation-5">Mouse Wheel</a></li></ul><div class="tab-content"><div class="tab-pane active" id="mouse-operation-1"><ul>
+<li><strong>Left Drag</strong> Zooms into the selected area.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif?imageMogr2/format/avif" alt="Left Drag" title="Left Drag" width="60%"></li>
+</ul></div><div class="tab-pane" id="mouse-operation-2"><ul>
+<li><strong>Right Drag</strong> Move the image.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdrag.gif?imageMogr2/format/avif" alt="Right Drag" title="Right Drag" width="60%"></li>
+</ul></div><div class="tab-pane" id="mouse-operation-3"><ul>
+<li><strong>Right Click</strong> Zoom out.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightclick.gif?imageMogr2/format/avif" alt="Right Click" title="Right Click" width="60%"></li>
+</ul></div><div class="tab-pane" id="mouse-operation-4"><ul>
+<li><strong>Right Double Click</strong> Completely Zoom out.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdclick.gif?imageMogr2/format/avif" alt="Right Double Click" title="Right Double Click" width="60%"></li>
+</ul></div><div class="tab-pane" id="mouse-operation-5"><ul>
+<li><strong>Mouse Wheel</strong> Zoom in and zoom out based on the
+current cursor position.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/mousewheel.gif?imageMogr2/format/avif" alt="Mouse Wheel" title="Mouse Wheel" width="60%"></li>
+</ul></div></div></div>
+<h4 id="image-color-scale-and-contrast">Image Color Scale and
+Contrast</h4>
+<p>The image color scale and contrast can be adjusted by <mark class="label default">sliding</mark>
+the color bar and <mark class="label default">right-clicking</mark> to change the color group.<br>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/colorscal.gif?imageMogr2/format/avif" alt="Color Scale and Constrast" title="Color Scale and Constrast" width="60%"></p>
+<h3 id="workflow">Workflow</h3>
+<h4 id="step-1-calibrate">Step 1 Calibrate</h4>
+<p>Load the image data of the <strong>calibrant</strong> to perform the
+calibration and refinement procedures. Usually, the calibrant is a
+compound with a known and stable crystal structure, such as
+LaB<sub>6</sub>, CeO<sub>2</sub>, Cr<sub>2</sub>O<sub>3</sub>, etc.
+</p><div class="note success no-icon"><pre class="mermaid">flowchart LR
+    A(Load Image Data) --&gt;B(Calibration)
+    B --&gt; C(Mask)
+    C --&gt; D(Integration)
+    D --&gt; E(Save Calibration or Export Data)</pre>
+</div><p></p>
+<h4 id="step-2-load-2d-image-and-covert-to-1d">Step 2 Load 2D Image and
+Covert to 1D</h4>
+<p>Load the image data of <strong>samples</strong> to extract structural
+information. </p><div class="note success no-icon"><pre class="mermaid">flowchart LR
+    A(Load Image Data) --&gt;B(Mask)
+    B --&gt; C(Integration)
+    C --&gt; D(Export Data)
+    C --&gt; A</pre>
+</div> <div class="note default"><p><strong><em>Batch Mode</em></strong> <strong>Multiple</strong> data
+processing is discussed in Section 4.6 Integration Procedure.</p>
+</div> Let's start by loading the
+image data.<br>
+Click the <button type="button"><strong>Load file</strong></button>
+button the on the <mark class="label success">upper right</mark> side of the interface to begin the
+process. <div class="tabs" id="data-reduction"><ul class="nav-tabs"><li class="tab active"><a href="#data-reduction-1">Calibration</a></li><li class="tab"><a href="#data-reduction-2">Mask</a></li><li class="tab"><a href="#data-reduction-3">Integration</a></li></ul><div class="tab-content"><div class="tab-pane active" id="data-reduction-1"><h3 id="calibration-procedure">Calibration Procedure</h3>
+<p>The calibration procedure aims to correct the detector geometry and
+find the beam center.</p>
+<h4 id="preparation">Preparation</h4>
+<p>First, click the
+<button type="button"><strong>Calibration</strong></button> button
+located on the <mark class="label success">left side</mark> of the
+window to enter calibration mode. The <em>wavelength</em> and <em>pixel
+width/height</em> <strong>have to</strong> be defined based on the
+experimental setup and detector used.
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/calpara.png?imageMogr2/format/avif" alt="Calibration Parameter" title="Calibration Parameter" width="60%"></p>
+<p><a class="btn" href="#">Start values</a><br>
+<strong>Required</strong> Parameter Setting:</p>
+<ul>
+<li><mark class="label warning">Calibrant</mark> (standard
+complex)<br>
+</li>
+<li><mark class="label warning">wavelength</mark><br>
+</li>
+<li><mark class="label warning">pixel size (width, height)</mark><br>
+</li>
+<li>Approximate <mark class="label warning">Distance</mark> (the program
+will automatically refine the value)</li>
+</ul>
+<h4 id="peak-picking">Peak Picking</h4>
+<p><a class="btn" href="#">Peak Selection</a><br>
+After selecting the 'Calibration Parameter', Dioptas requires an initial
+guess for the ring positions to determine the correct geometry. Select
+several points on each diffraction ring to proceed. OK, now,
+<mark class="label default">left-click</mark> at the location where we
+believe the <del>first</del> diffraction ring appears. Calibration
+<em>dose</em> not need to start from the first diffraction ring.</p>
+<div class="note info">
+<p>
+Calibration does not need to start from the first diffraction ring,
+which enables calibration of detector geometries with the beam center
+being far outside of the area of the detector. But we ought to make sure
+that current peak number belongs to the corresponding clicked ring.
+</p>
+</div>
+<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/ringindex.png?imageMogr2/format/avif" alt="RingIndexRight" title="make sure that current peak number belongs to the corresponding clicked ring" width="50%"></p>
+<p>If the default <strong>automatic peak search</strong> is enabled,
+simply left-click the first diffraction ring as shown in this figure.
+Zooming in on the image will help accurately target the first
+ring.<br>
+If the automatic peak searching fails, we can try the following
+alternatives:</p>
+<ul>
+<li>Perform the automatic search on the second, third, or subsequent
+rings.</li>
+<li>Choose the <strong>single peak search</strong> option.</li>
+</ul>
+<div id="peak-picking" class="tabs">
+<ul class="nav-tabs">
+<li class="tab active">
+<a href="#peak-picking-1">automatic peak search</a>
+</li>
+<li class="tab">
+<a href="#peak-picking-2">single peak search</a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="peak-picking-1" class="tab-pane active">
+<p>
+<mark class="label default">Left click</mark> the localtion of the fist
+diffraction rings. The peak search routine will automatically detect the
+remaining diffraction rings when we click the
+<button type="button"><strong>Calibration</strong></button> button,
+located at the bottom left.
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/autopeak.gif?imageMogr2/format/avif" alt="AutoPeak" title="Auto peak search" width="50%">
+</p>
+</div>
+<div id="peak-picking-2" class="tab-pane">
+<p>
+Left-click on the location of a diffraction ring; the program will mark
+the maximum peak around the clicked area. The
+<mark class="label warning">Search size</mark> determines the search
+area. We should select as many diffraction rings as possible. - one peak
+for one diffraction ring (select the
+<mark class="label warning">automatic increase</mark>)
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/singlepeak.gif?imageMogr2/format/avif" alt="Single peak search" title="Single Peak Search" width="50%">
+</p>
+</div>
+</div>
+</div>
+<h4 id="calibrate-and-refine">Calibrate and Refine</h4>
+<h4 id="calibrate">Calibrate</h4>
+<a class="btn" href="#"><i class="fa-solid fa-arrow-pointer"></i>Calibrate</a><br>
+After the ring have been selected we can start the calibration
+procedure. <button type="button"><strong>Calibration</strong></button>
+button, located at the bottom left. When the procedure is finished,
+Dioptas will switch to the <mark class="label success">Cake</mark> Tab.
+We can click on the pattern table to check if all peaks in the pattern
+coincide with the phase line positions. Check whether the calibration is
+successful. - the cake lines are straight - all peak in the pattern are
+coincided with phase line position
+<div class="group-picture">
+<div class="group-picture-row">
+<div class="group-picture-column">
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/calibrateauto.gif?imageMogr2/format/avif" alt="Calibrate" title="Calibrate" width="50%">
+</div>
+<div class="group-picture-column">
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/cake.png?imageMogr2/format/avif" alt="cake" title="cake" width="50%">
+</div>
+</div>
+<div class="group-picture-row">
+<div class="group-picture-column">
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/refinement.gif?imageMogr2/format/avif" alt="Refinement Options" title="Refinement Options" width="50%">
+</div>
+<div class="group-picture-column">
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/phase.png?imageMogr2/format/avif" alt="pattern" title="pattern" width="50%">
+</div>
+</div>
+</div>
+<h4 id="refinement-options">Refinement Options</h4>
+<p>After calibration and refinement, Dioptas will automatically create a
+<mark class="label success">360 degree</mark> cake image and an
+integrated pattern. Some options can be defined. For high-quality
+diffraction data, it is recommended to set the <em>intensity minimum
+factor</em> to about <mark class="label warning">1-1.5</mark>.<br>
+For other parameters, refer to the manual.</p>
+<h4 id="file-handing">File Handing</h4>
+<p><a class="btn" href="#">Save Calibration</a><br>
+<em>Save</em> the calibration parameter as a .poni file for future
+use.<br>
+<a class="btn" href="#">Load Calibration</a><br>
+<em>Load</em> a previously saved clibration.</p></div><div class="tab-pane" id="data-reduction-2"><h3 id="mask-creation">Mask Creation</h3>
+Create a mask to define areas that should be excluded from integration
+or calibration.
+<blockquote class="blockquote-center">
+<p>
+A mask excludes specific areas from the integration process, which
+enables the removal of unwanted features such as, for example, diamond
+reflections in diamond anvil cell experiments, saturated peaks or
+detector blemishes. Available geometries for creating masks are circles,
+rectangles and polygons.
+</p>
+</blockquote>
+<div id="mask-creation" class="tabs">
+<ul class="nav-tabs">
+<li class="tab active">
+<a href="#mask-creation-1">mask</a>
+</li>
+<li class="tab">
+<a href="#mask-creation-2">unmask</a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="mask-creation-1" class="tab-pane active">
+<h4 id="mask">
+Mask
+</h4>
+<p>
+Choose a shape and left-click to set a start point, then drag the mouse
+to adjust the size of the shape, and finally left-click again to set the
+endpoint.
+</p>
+<p>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/mask.gif?imageMogr2/format/avif" alt="mask" title="mask" width="50%">
+</p>
+</div>
+<div id="mask-creation-2" class="tab-pane">
+<h4 id="unmask">
+Unmask
+</h4>
+<p>
+Choose a shape and left-click to set a start point, then drag the mouse
+to adjust the size of the shape, and finally left-click again to set the
+endpoint.
+</p>
+<p>
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/unmask.gif?imageMogr2/format/avif" alt="unmask" title="unmask" width="50%">
+</p>
+</div>
+</div>
+</div>
+<h4 id="file-handing">File Handing</h4>
+<p><a class="btn" href="#">Save Mask</a><br>
+<em>Save</em> the mask as a .mask file for future use.<br>
+<a class="btn" href="#">Load Mask</a><br>
+<em>Load</em> a previously saved mask and clear the current mask
+before<br>
+<a class="btn" href="#">Add Mask</a><br>
+<em>add</em> Load a previously saved mask and add it into current
+mask.</p></div><div class="tab-pane" id="data-reduction-3"><h3 id="integration-procedure">Integration Procedure</h3>
+<p>The core component of Dioptas where we can automatically integrate
+multiple images to pattern, browse between images and integrated
+pattern, compare multiple pattern to each other, perform background
+subtraction and compare pattern peak positions and intensities to the
+ones of known phases.</p>
+<h4 id="bathch-processing">Bathch Processing</h4>
+<p><a class="btn" href="#">Image</a></p>
+<ul>
+<li>Check the <mark class="label warning">autoprocess</mark><br>
+</li>
+<li>Click the <button type="button"><strong>...</strong></button> to set
+an input folder</li>
+</ul>
+<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autoimage.png?imageMogr2/format/avif" alt="atutoimage" title="" width="50%"></p>
+<p><a class="btn" href="#">Pattern</a></p>
+<ul>
+<li>Check the <mark class="label warning">autocreate</mark><br>
+</li>
+<li>Click the <button type="button"><strong>...</strong></button> to set
+an output folder</li>
+</ul>
+<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autopattern.png?imageMogr2/format/avif" alt="autopattern" title="" width="50%"></p>
+<p>There are two mode for browing,</p>
+<ul>
+<li><strong>By Name</strong> test_001.tif test.002.tif ... |
+test_001.chi test_002.chi ...<br>
+</li>
+<li><strong>By Time</strong> files will be searched based on creation
+time.</li>
+</ul>
+<p>The output file type can be changed by checking the box in the lower
+right of the Pattern Tab.</p></div></div></div><p></p>
+<h3 id="exporting-data">Exporting Data</h3>
+<p>Click <a class="btn" href="#"><i class="fa-solid fa-floppy-disk"></i>Save</a> to save the pattern as the desired file type.
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/singesave.gif?imageMogr2/format/avif" alt="Sava Data" title="Save chi data" width="50%">
+If we click the 'Save' button on the left, we will save the Dioptas
+project.
+<img src="https://oss.huaecho.cn/blogimage/Dioptas/savadiprj.png?imageMogr2/format/avif" alt="Save project" title="Save project" width="50%"></p>
+<h3 id="references">References</h3>
+<blockquote>
+<p>[1] <span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEwODAvMDg5NTc5NTkuMjAxNS4xMDU5ODM1">Prescher,
+Clemens, and Vitali B. Prakapenka. “DIOPTAS: A Program for Reduction of
+Two-Dimensional X-Ray Diffraction Data and Data Exploration.” High
+Pressure Research 35, no. 3 (2015): 223–30.
+doi:10.1080/08957959.2015.1059835.<i class="fa fa-external-link-alt"></i></span><br>
+[2] <span class="exturl" data-url="aHR0cHM6Ly9kaW9wdGFzLnJlYWR0aGVkb2NzLmlvL2VuL3N0YWJsZS9pbmRleC5odG1s">Dioptas 0.4.0
+documentation<i class="fa fa-external-link-alt"></i></span><br>
+[3] <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0Rpb3B0YXMvRGlvcHRhcw==">github.com/Dioptas/Dioptas.git<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<div class="text-center">
+<a class="btn" href="https://1drv.ms/b/s!AsQsFGKKrtZth9VBTeJMd0HsNk2Ktw?e=BJb8k0" title="Read the Official Manual for Dioptas"><i class="fa-solid fa-file-pdf"></i>Manual</a>
+<a class="btn" href="https://github.com/Dioptas/Dioptas" title="https://github.com/Dioptas/Dioptas"><i class="fa-brands fa-github"></i>Github</a>
+</div>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Dioptas</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Two Dimensional XRD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -2082,6 +2428,35 @@ selected element.</p>
         <tag>EXAFS</tag>
         <tag>XANES</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/Tools/Hexo/1243066710.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
+<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
+first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
+you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
+<span id="more"></span>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -2475,381 +2850,6 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Total Scattering</tag>
         <tag>Powder Diffraction</tag>
         <tag>Small-angle Scattering</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/Tools/Hexo/1243066710.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
-<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
-first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
-you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
-<span id="more"></span>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Hexo</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <url>/Tools/Dioptas/2312659861.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif" alt="2D Powder Diffraction" title="2D Powder Diffraction" width="50%"></p>
-<p>Dioptas is an awesome GUI program based on <em>Python</em>, designed
-for the fast data reduction of <strong><em>Powder X-ray Diffraction
-images</em></strong>. It provides the capability of
-<strong>calibrating</strong>, <strong>integrating</strong>,
-<strong>creating masks</strong>, showing multiple pattern overlays and
-display phases line positions.</p>
-<span id="more"></span>
-<h2 id="program-dependencies">Program dependencies</h2>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">Python 3.9+</span><br><span class="line">pyFAI</span><br></pre></td></tr></tbody></table></figure>
-<h2 id="authors">Authors</h2>
-<p><strong>Maintainer</strong></p>
-<p>Clemens Prescher (clemens.prescher@gmail.com)</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas</span><br></pre></td></tr></tbody></table></figure>
-<h2 id="installation">Installation</h2>
-<p><strong>Executables</strong></p>
-<p>Binary programs for Windows, macOS, and Linux can be downloaded from
-the following link:</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">https://github.com/Dioptas/Dioptas/releases</span><br></pre></td></tr></tbody></table></figure>
-<p><strong>pip</strong></p>
-<p>Install the all the dependencies for <em>Dioptas</em> by pip package
-manager:</p>
-<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">pip install dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run Dioptas</span></span><br><span class="line">dioptas</span><br></pre></td></tr></tbody></table></figure>
-<p><strong>poetry</strong><br>
-Use the poetry package manager to create a working environment by
-typing:</p>
-<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">create new environment</span></span><br><span class="line">poetry install</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Activate the environment</span></span><br><span class="line">poetry shell</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run dioptas</span></span><br><span class="line">dioptas</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">run the dioptas without activating the environment</span></span><br><span class="line">poetry run dioptas</span><br></pre></td></tr></tbody></table></figure>
-<h2 id="procedure">Procedure</h2>
-<h3 id="overview">Overview</h3>
-<p>Dioptas has three different modules which can all be accessed by the
-lab indicators on the <strong><em>left side</em></strong> of the user
-interface: <strong>Calibration</strong>, <strong>Mask</strong>,
-<strong>Integration</strong>.</p>
-<ul>
-<li><strong>Calibration Module</strong> This module is used to calibrate
-the detector geometry.</li>
-<li><strong>Mask Module</strong> This module allows users to select
-regions that need to be excluded from the image integration.</li>
-<li><strong>Integration Module</strong> This module displays the image
-and integrated pattern. It can overlay different patterns and show the
-line positions of phases.</li>
-</ul>
-<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/Dioptas_Modules.png?imageMogr2/format/avif" alt="Dioptas_Modules" title="Dioptas_Modules" width="60%"></p>
-<hr>
-<h3 id="getting-started">Getting Started</h3>
-<h4 id="basic-mouse-operations">Basic Mouse Operations</h4>
-<div class="tabs" id="mouse-operation"><ul class="nav-tabs"><li class="tab active"><a href="#mouse-operation-1">Left Drag</a></li><li class="tab"><a href="#mouse-operation-2">Right Drag</a></li><li class="tab"><a href="#mouse-operation-3">Right Click</a></li><li class="tab"><a href="#mouse-operation-4">Right Double Click</a></li><li class="tab"><a href="#mouse-operation-5">Mouse Wheel</a></li></ul><div class="tab-content"><div class="tab-pane active" id="mouse-operation-1"><ul>
-<li><strong>Left Drag</strong> Zooms into the selected area.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/leftclick.gif?imageMogr2/format/avif" alt="Left Drag" title="Left Drag" width="60%"></li>
-</ul></div><div class="tab-pane" id="mouse-operation-2"><ul>
-<li><strong>Right Drag</strong> Move the image.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdrag.gif?imageMogr2/format/avif" alt="Right Drag" title="Right Drag" width="60%"></li>
-</ul></div><div class="tab-pane" id="mouse-operation-3"><ul>
-<li><strong>Right Click</strong> Zoom out.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightclick.gif?imageMogr2/format/avif" alt="Right Click" title="Right Click" width="60%"></li>
-</ul></div><div class="tab-pane" id="mouse-operation-4"><ul>
-<li><strong>Right Double Click</strong> Completely Zoom out.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/rightdclick.gif?imageMogr2/format/avif" alt="Right Double Click" title="Right Double Click" width="60%"></li>
-</ul></div><div class="tab-pane" id="mouse-operation-5"><ul>
-<li><strong>Mouse Wheel</strong> Zoom in and zoom out based on the
-current cursor position.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/mousewheel.gif?imageMogr2/format/avif" alt="Mouse Wheel" title="Mouse Wheel" width="60%"></li>
-</ul></div></div></div>
-<h4 id="image-color-scale-and-contrast">Image Color Scale and
-Contrast</h4>
-<p>The image color scale and contrast can be adjusted by <mark class="label default">sliding</mark>
-the color bar and <mark class="label default">right-clicking</mark> to change the color group.<br>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/colorscal.gif?imageMogr2/format/avif" alt="Color Scale and Constrast" title="Color Scale and Constrast" width="60%"></p>
-<h3 id="workflow">Workflow</h3>
-<h4 id="step-1-calibrate">Step 1 Calibrate</h4>
-<p>Load the image data of the <strong>calibrant</strong> to perform the
-calibration and refinement procedures. Usually, the calibrant is a
-compound with a known and stable crystal structure, such as
-LaB<sub>6</sub>, CeO<sub>2</sub>, Cr<sub>2</sub>O<sub>3</sub>, etc.
-</p><div class="note success no-icon"><pre class="mermaid">flowchart LR
-    A(Load Image Data) --&gt;B(Calibration)
-    B --&gt; C(Mask)
-    C --&gt; D(Integration)
-    D --&gt; E(Save Calibration or Export Data)</pre>
-</div><p></p>
-<h4 id="step-2-load-2d-image-and-covert-to-1d">Step 2 Load 2D Image and
-Covert to 1D</h4>
-<p>Load the image data of <strong>samples</strong> to extract structural
-information. </p><div class="note success no-icon"><pre class="mermaid">flowchart LR
-    A(Load Image Data) --&gt;B(Mask)
-    B --&gt; C(Integration)
-    C --&gt; D(Export Data)
-    C --&gt; A</pre>
-</div> <div class="note default"><p><strong><em>Batch Mode</em></strong> <strong>Multiple</strong> data
-processing is discussed in Section 4.6 Integration Procedure.</p>
-</div> Let's start by loading the
-image data.<br>
-Click the <button type="button"><strong>Load file</strong></button>
-button the on the <mark class="label success">upper right</mark> side of the interface to begin the
-process. <div class="tabs" id="data-reduction"><ul class="nav-tabs"><li class="tab active"><a href="#data-reduction-1">Calibration</a></li><li class="tab"><a href="#data-reduction-2">Mask</a></li><li class="tab"><a href="#data-reduction-3">Integration</a></li></ul><div class="tab-content"><div class="tab-pane active" id="data-reduction-1"><h3 id="calibration-procedure">Calibration Procedure</h3>
-<p>The calibration procedure aims to correct the detector geometry and
-find the beam center.</p>
-<h4 id="preparation">Preparation</h4>
-<p>First, click the
-<button type="button"><strong>Calibration</strong></button> button
-located on the <mark class="label success">left side</mark> of the
-window to enter calibration mode. The <em>wavelength</em> and <em>pixel
-width/height</em> <strong>have to</strong> be defined based on the
-experimental setup and detector used.
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/calpara.png?imageMogr2/format/avif" alt="Calibration Parameter" title="Calibration Parameter" width="60%"></p>
-<p><a class="btn" href="#">Start values</a><br>
-<strong>Required</strong> Parameter Setting:</p>
-<ul>
-<li><mark class="label warning">Calibrant</mark> (standard
-complex)<br>
-</li>
-<li><mark class="label warning">wavelength</mark><br>
-</li>
-<li><mark class="label warning">pixel size (width, height)</mark><br>
-</li>
-<li>Approximate <mark class="label warning">Distance</mark> (the program
-will automatically refine the value)</li>
-</ul>
-<h4 id="peak-picking">Peak Picking</h4>
-<p><a class="btn" href="#">Peak Selection</a><br>
-After selecting the 'Calibration Parameter', Dioptas requires an initial
-guess for the ring positions to determine the correct geometry. Select
-several points on each diffraction ring to proceed. OK, now,
-<mark class="label default">left-click</mark> at the location where we
-believe the <del>first</del> diffraction ring appears. Calibration
-<em>dose</em> not need to start from the first diffraction ring.</p>
-<div class="note info">
-<p>
-Calibration does not need to start from the first diffraction ring,
-which enables calibration of detector geometries with the beam center
-being far outside of the area of the detector. But we ought to make sure
-that current peak number belongs to the corresponding clicked ring.
-</p>
-</div>
-<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/ringindex.png?imageMogr2/format/avif" alt="RingIndexRight" title="make sure that current peak number belongs to the corresponding clicked ring" width="50%"></p>
-<p>If the default <strong>automatic peak search</strong> is enabled,
-simply left-click the first diffraction ring as shown in this figure.
-Zooming in on the image will help accurately target the first
-ring.<br>
-If the automatic peak searching fails, we can try the following
-alternatives:</p>
-<ul>
-<li>Perform the automatic search on the second, third, or subsequent
-rings.</li>
-<li>Choose the <strong>single peak search</strong> option.</li>
-</ul>
-<div id="peak-picking" class="tabs">
-<ul class="nav-tabs">
-<li class="tab active">
-<a href="#peak-picking-1">automatic peak search</a>
-</li>
-<li class="tab">
-<a href="#peak-picking-2">single peak search</a>
-</li>
-</ul>
-<div class="tab-content">
-<div id="peak-picking-1" class="tab-pane active">
-<p>
-<mark class="label default">Left click</mark> the localtion of the fist
-diffraction rings. The peak search routine will automatically detect the
-remaining diffraction rings when we click the
-<button type="button"><strong>Calibration</strong></button> button,
-located at the bottom left.
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/autopeak.gif?imageMogr2/format/avif" alt="AutoPeak" title="Auto peak search" width="50%">
-</p>
-</div>
-<div id="peak-picking-2" class="tab-pane">
-<p>
-Left-click on the location of a diffraction ring; the program will mark
-the maximum peak around the clicked area. The
-<mark class="label warning">Search size</mark> determines the search
-area. We should select as many diffraction rings as possible. - one peak
-for one diffraction ring (select the
-<mark class="label warning">automatic increase</mark>)
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/singlepeak.gif?imageMogr2/format/avif" alt="Single peak search" title="Single Peak Search" width="50%">
-</p>
-</div>
-</div>
-</div>
-<h4 id="calibrate-and-refine">Calibrate and Refine</h4>
-<h4 id="calibrate">Calibrate</h4>
-<a class="btn" href="#"><i class="fa-solid fa-arrow-pointer"></i>Calibrate</a><br>
-After the ring have been selected we can start the calibration
-procedure. <button type="button"><strong>Calibration</strong></button>
-button, located at the bottom left. When the procedure is finished,
-Dioptas will switch to the <mark class="label success">Cake</mark> Tab.
-We can click on the pattern table to check if all peaks in the pattern
-coincide with the phase line positions. Check whether the calibration is
-successful. - the cake lines are straight - all peak in the pattern are
-coincided with phase line position
-<div class="group-picture">
-<div class="group-picture-row">
-<div class="group-picture-column">
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/calibrateauto.gif?imageMogr2/format/avif" alt="Calibrate" title="Calibrate" width="50%">
-</div>
-<div class="group-picture-column">
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/cake.png?imageMogr2/format/avif" alt="cake" title="cake" width="50%">
-</div>
-</div>
-<div class="group-picture-row">
-<div class="group-picture-column">
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/refinement.gif?imageMogr2/format/avif" alt="Refinement Options" title="Refinement Options" width="50%">
-</div>
-<div class="group-picture-column">
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/phase.png?imageMogr2/format/avif" alt="pattern" title="pattern" width="50%">
-</div>
-</div>
-</div>
-<h4 id="refinement-options">Refinement Options</h4>
-<p>After calibration and refinement, Dioptas will automatically create a
-<mark class="label success">360 degree</mark> cake image and an
-integrated pattern. Some options can be defined. For high-quality
-diffraction data, it is recommended to set the <em>intensity minimum
-factor</em> to about <mark class="label warning">1-1.5</mark>.<br>
-For other parameters, refer to the manual.</p>
-<h4 id="file-handing">File Handing</h4>
-<p><a class="btn" href="#">Save Calibration</a><br>
-<em>Save</em> the calibration parameter as a .poni file for future
-use.<br>
-<a class="btn" href="#">Load Calibration</a><br>
-<em>Load</em> a previously saved clibration.</p></div><div class="tab-pane" id="data-reduction-2"><h3 id="mask-creation">Mask Creation</h3>
-Create a mask to define areas that should be excluded from integration
-or calibration.
-<blockquote class="blockquote-center">
-<p>
-A mask excludes specific areas from the integration process, which
-enables the removal of unwanted features such as, for example, diamond
-reflections in diamond anvil cell experiments, saturated peaks or
-detector blemishes. Available geometries for creating masks are circles,
-rectangles and polygons.
-</p>
-</blockquote>
-<div id="mask-creation" class="tabs">
-<ul class="nav-tabs">
-<li class="tab active">
-<a href="#mask-creation-1">mask</a>
-</li>
-<li class="tab">
-<a href="#mask-creation-2">unmask</a>
-</li>
-</ul>
-<div class="tab-content">
-<div id="mask-creation-1" class="tab-pane active">
-<h4 id="mask">
-Mask
-</h4>
-<p>
-Choose a shape and left-click to set a start point, then drag the mouse
-to adjust the size of the shape, and finally left-click again to set the
-endpoint.
-</p>
-<p>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/mask.gif?imageMogr2/format/avif" alt="mask" title="mask" width="50%">
-</p>
-</div>
-<div id="mask-creation-2" class="tab-pane">
-<h4 id="unmask">
-Unmask
-</h4>
-<p>
-Choose a shape and left-click to set a start point, then drag the mouse
-to adjust the size of the shape, and finally left-click again to set the
-endpoint.
-</p>
-<p>
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/unmask.gif?imageMogr2/format/avif" alt="unmask" title="unmask" width="50%">
-</p>
-</div>
-</div>
-</div>
-<h4 id="file-handing">File Handing</h4>
-<p><a class="btn" href="#">Save Mask</a><br>
-<em>Save</em> the mask as a .mask file for future use.<br>
-<a class="btn" href="#">Load Mask</a><br>
-<em>Load</em> a previously saved mask and clear the current mask
-before<br>
-<a class="btn" href="#">Add Mask</a><br>
-<em>add</em> Load a previously saved mask and add it into current
-mask.</p></div><div class="tab-pane" id="data-reduction-3"><h3 id="integration-procedure">Integration Procedure</h3>
-<p>The core component of Dioptas where we can automatically integrate
-multiple images to pattern, browse between images and integrated
-pattern, compare multiple pattern to each other, perform background
-subtraction and compare pattern peak positions and intensities to the
-ones of known phases.</p>
-<h4 id="bathch-processing">Bathch Processing</h4>
-<p><a class="btn" href="#">Image</a></p>
-<ul>
-<li>Check the <mark class="label warning">autoprocess</mark><br>
-</li>
-<li>Click the <button type="button"><strong>...</strong></button> to set
-an input folder</li>
-</ul>
-<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autoimage.png?imageMogr2/format/avif" alt="atutoimage" title="" width="50%"></p>
-<p><a class="btn" href="#">Pattern</a></p>
-<ul>
-<li>Check the <mark class="label warning">autocreate</mark><br>
-</li>
-<li>Click the <button type="button"><strong>...</strong></button> to set
-an output folder</li>
-</ul>
-<p><img src="https://oss.huaecho.cn/blogimage/Dioptas/autopattern.png?imageMogr2/format/avif" alt="autopattern" title="" width="50%"></p>
-<p>There are two mode for browing,</p>
-<ul>
-<li><strong>By Name</strong> test_001.tif test.002.tif ... |
-test_001.chi test_002.chi ...<br>
-</li>
-<li><strong>By Time</strong> files will be searched based on creation
-time.</li>
-</ul>
-<p>The output file type can be changed by checking the box in the lower
-right of the Pattern Tab.</p></div></div></div><p></p>
-<h3 id="exporting-data">Exporting Data</h3>
-<p>Click <a class="btn" href="#"><i class="fa-solid fa-floppy-disk"></i>Save</a> to save the pattern as the desired file type.
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/singesave.gif?imageMogr2/format/avif" alt="Sava Data" title="Save chi data" width="50%">
-If we click the 'Save' button on the left, we will save the Dioptas
-project.
-<img src="https://oss.huaecho.cn/blogimage/Dioptas/savadiprj.png?imageMogr2/format/avif" alt="Save project" title="Save project" width="50%"></p>
-<h3 id="references">References</h3>
-<blockquote>
-<p>[1] <span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjEwODAvMDg5NTc5NTkuMjAxNS4xMDU5ODM1">Prescher,
-Clemens, and Vitali B. Prakapenka. “DIOPTAS: A Program for Reduction of
-Two-Dimensional X-Ray Diffraction Data and Data Exploration.” High
-Pressure Research 35, no. 3 (2015): 223–30.
-doi:10.1080/08957959.2015.1059835.<i class="fa fa-external-link-alt"></i></span><br>
-[2] <span class="exturl" data-url="aHR0cHM6Ly9kaW9wdGFzLnJlYWR0aGVkb2NzLmlvL2VuL3N0YWJsZS9pbmRleC5odG1s">Dioptas 0.4.0
-documentation<i class="fa fa-external-link-alt"></i></span><br>
-[3] <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0Rpb3B0YXMvRGlvcHRhcw==">github.com/Dioptas/Dioptas.git<i class="fa fa-external-link-alt"></i></span></p>
-</blockquote>
-<div class="text-center">
-<a class="btn" href="https://1drv.ms/b/s!AsQsFGKKrtZth9VBTeJMd0HsNk2Ktw?e=BJb8k0" title="Read the Official Manual for Dioptas"><i class="fa-solid fa-file-pdf"></i>Manual</a>
-<a class="btn" href="https://github.com/Dioptas/Dioptas" title="https://github.com/Dioptas/Dioptas"><i class="fa-brands fa-github"></i>Github</a>
-</div>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Dioptas</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Two Dimensional XRD</tag>
       </tags>
   </entry>
 </search>
