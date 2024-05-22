@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hua Echoes</title>
   <icon>https://www.huaecho.cn/icon.png</icon>
-  <subtitle>Insights and Notes by Jianhua</subtitle>
+  <subtitle>Insights and Notes by Hua</subtitle>
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
