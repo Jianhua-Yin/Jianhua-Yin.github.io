@@ -589,8 +589,8 @@ selected element.&lt;/p&gt;</summary>
   
   <entry>
     <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
-    <link href="https://www.huaecho.cn/Electrochemical-Methods-EIS/a7d2d52d.html"/>
-    <id>https://www.huaecho.cn/Electrochemical-Methods-EIS/a7d2d52d.html</id>
+    <link href="https://www.huaecho.cn/Electrochemical-Methods/EIS/a7d2d52d.html"/>
+    <id>https://www.huaecho.cn/Electrochemical-Methods/EIS/a7d2d52d.html</id>
     <published>2022-03-14T14:14:12.000Z</published>
     <updated>2024-05-23T14:14:12.000Z</updated>
     
@@ -604,7 +604,9 @@ battery materials.&lt;/p&gt;</summary>
     
     
     
-    <category term="-[Electrochemical Methods,EIS]" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods-EIS/"/>
+    <category term="Electrochemical Methods" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods/"/>
+    
+    <category term="EIS" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods/EIS/"/>
     
     
     <category term="-EIS -Electrochemical Methods" scheme="https://www.huaecho.cn/tags/EIS-Electrochemical-Methods/"/>
