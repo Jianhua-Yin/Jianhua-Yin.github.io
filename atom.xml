@@ -25,11 +25,11 @@
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Beyond the first peak: EXAFS analysis using Reverse Monte Carlo(RMC).
-The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed for
-the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
-(EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
-nanocrystalline materials.&lt;/p&gt;</summary>
+&lt;p&gt;Beyond the first peak: EXAFS analysis using Reverse Monte
+Carlo(RMC).&lt;br&gt;
+The EvAX code is a simulation-based tool designed for the analysis of
+Extended X-ray Absorption Fine Structure (EXAFS) data, specifically
+tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</summary>
     
     
     
@@ -59,13 +59,9 @@ nanocrystalline materials.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D COS Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.&lt;/p&gt;</summary>
+&lt;p&gt;Two-dimensional spectroscopy facilitates the visualization of complex
+spectra with numerous overlapping peaks by spreading them across a
+second dimension.&lt;/p&gt;</summary>
     
     
     
@@ -91,15 +87,11 @@ techniques.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/DISCUC/Cover/DiffuseCodeNano.jpg?imageMogr2/format/avif&quot; alt=&quot;DISCUC&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;DISCUS is a comprehensive program designed to generate disordered
-atomic structures and compute corresponding experimental data, such as
-&lt;strong&gt;single crystal diffuse scattering&lt;/strong&gt; or the &lt;strong&gt;atomic
-pair distribution function (PDF)&lt;/strong&gt;. Key features include
-&lt;em&gt;symmetry operations&lt;/em&gt;, &lt;em&gt;Monte Carlo simulation
-capabilities&lt;/em&gt;, and &lt;em&gt;the ability to generate domain
-structures&lt;/em&gt;, among others. More recent developments in DISCUS have
-expanded its functionality to include the simulation of
-nanoparticles.&lt;/p&gt;</summary>
+&lt;p&gt;DISCUS is a comprehensive program for generating disordered atomic
+structures and computing experimental data like single crystal diffuse
+scattering and atomic pair distribution functions (PDF). It features
+symmetry operations, Monte Carlo simulations, and domain structure
+generation.&lt;/p&gt;</summary>
     
     
     
@@ -131,11 +123,11 @@ nanoparticles.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif&quot; alt=&quot;RMCProfile&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The Reverse Monte Carlo (RMC) method offers a unique perspective on
-the atomic structure of matter, derived directly from experimental data.
-Primarily used to analyze neutron and x-ray total scattering data, RMC
-is particularly effective for studying disordered materials—materials
-for which other probes provide only limited information.&lt;/p&gt;</summary>
+&lt;p&gt;The Reverse Monte Carlo (RMC) method provides a unique perspective on
+atomic structure, derived directly from experimental data. It is
+primarily used to analyze neutron and x-ray total scattering data and is
+particularly effective for studying disordered materials, where other
+methods offer limited information.&lt;/p&gt;</summary>
     
     
     
@@ -169,11 +161,9 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif&quot; alt=&quot;PDFgui&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;PDFgui offers a user-friendly graphical interface for the PDFfit2
-refinement program, facilitating full-profile fitting of the atomic pair
-distribution function (PDF) derived from x-ray or neutron diffraction
-data. It includes built-in graphical and structure visualization
-capabilities, enhancing its utility and ease of use for researchers.&lt;/p&gt;</summary>
+&lt;p&gt;PDFgui provides a user-friendly interface for the PDFfit2 refinement
+program, enabling full-profile fitting of atomic pair distribution
+functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     
     
     
@@ -207,12 +197,7 @@ capabilities, enhancing its utility and ease of use for researchers.&lt;/p&gt;</
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;Total Scattering Resource&quot; title=&quot;Total Scattering Resource&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;diffpy.pdfgetx3 is an advanced and powderful software for converting
 &lt;strong&gt;Powder Diffraction&lt;/strong&gt; data to Total Scattering atomic
-&lt;strong&gt;Pair Distribution Funtions&lt;/strong&gt;. In addtion, it can also
-help us to extrat the PDFs from small-angle scattering(&lt;em&gt;SAS&lt;/em&gt;).
-The program include three command line programs PDFgetx3, PDFgetN3 and
-PDFgetS3 for processing &lt;strong&gt;X-ray&lt;/strong&gt;,
-&lt;strong&gt;Nertron&lt;/strong&gt;, and &lt;strong&gt;Small-angle diffraction&lt;/strong&gt;
-data respectively.&lt;br&gt;</summary>
+&lt;strong&gt;Pair Distribution Funtions&lt;/strong&gt;.&lt;/p&gt;</summary>
     
     
     
@@ -429,18 +414,11 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif&quot; alt=&quot;Principles of Resonant inelastic X-ray Scattering&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;X-ray Resonant Inelastic Scattering&lt;/em&gt; (&lt;em&gt;RIXS&lt;/em&gt;) is an
-emerging excitation spectroscopy technique developed over the past
-decade. Leveraging the coupling of photons with the majority of degrees
-of freedom that determine material properties—including lattice, charge,
-spin, and orbitals—RIXS spectra can observe various excitations such as
-phonons, magnons, orbitons, and electronic level transitions, thereby
-providing rich physical information. Additionally, RIXS inherits the
-advantages of X-ray techniques, allowing its application in the
-measurement of low-dimensional materials and small samples. These
-benefits have positioned RIXS technology as a valuable tool in fields
-such as condensed matter physics, materials science, chemistry, and
-biology.&lt;/p&gt;</summary>
+&lt;p&gt;&lt;em&gt;X-ray Resonant Inelastic Scattering&lt;/em&gt; (&lt;em&gt;RIXS&lt;/em&gt;) observes
+excitations like phonons and electronic transitions by leveraging photon
+interactions, making it valuable in condensed matter physics, materials
+science, chemistry, and biology. Its precision allows measurements of
+low-dimensional materials and small samples.&lt;/p&gt;</summary>
     
     
     
@@ -554,16 +532,10 @@ and &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;Math
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;XAFS is an element-specific spectroscopy in which measurements are
-made by tuning the X-ray energy at and above a selected core-level
-binding energy of a specified element. Although XAFS is a
-well-established technique providing reliable and useful information
-about the chemical and physical environment of the probe atom, its
-requirement of an energytunable X-ray source means it is primarily done
-with synchrotron radiation sources and so is somewhat less common than
-other spectroscopic analytical methods. XAFS spectra are especially
-sensitive to the oxidation state and coordination chemistry of the
-selected element.&lt;/p&gt;</summary>
+&lt;p&gt;XAFS is an element-specific spectroscopy providing detailed chemical
+and physical information about a probe atom&#39;s environment. It is highly
+sensitive to both the electronic and geometric structure of the
+material.&lt;/p&gt;</summary>
     
     
     
@@ -617,13 +589,10 @@ battery materials.&lt;/p&gt;</summary>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif&quot; alt=&quot;Understand the Pattern&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The best way to understand how structure information is encoded in a
-powder diffraction pattern is to view it as a series of discrete
-diffraction peaks(Bragg reflections) &lt;em&gt;superimposed&lt;/em&gt; over a
-consecutive background. Despite the background can provide infomation
-about the crystallinity of the specimen and a few other material
-properties, the primary focus in analyzing material structure remains on
-the Bragg reflection peaks.&lt;/p&gt;</summary>
+&lt;p&gt;Structural information in a powder diffraction pattern is encoded in
+discrete Bragg reflection peaks over a continuous background. While the
+background offers some crystallinity details, the primary focus is on
+the Bragg peaks.&lt;/p&gt;</summary>
     
     
     
@@ -651,13 +620,8 @@ the Bragg reflection peaks.&lt;/p&gt;</summary>
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif&quot; alt=&quot;powderdiffraction&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Powder diffraction is an awesome technique using &lt;em&gt;X-ray&lt;/em&gt;,
 &lt;em&gt;neutron&lt;/em&gt;, or &lt;em&gt;electron&lt;/em&gt; diffraction on powder or
-microcrystalline samples for structural characterization of materials.
-Single crystal analysis is the preferred method for determining crystal
-structures, but when suitable single crystals are unavailable, powder
-diffraction is an effective alternative. Unlike single crystal analysis,
-powder diffraction also provides information on bulk material and
-microstructural properties. Nowadays, Powder diffraction continues to be
-a crucial tool in the characterization of materials.&lt;/p&gt;</summary>
+microcrystalline samples for structural characterization of
+materials.&lt;/p&gt;</summary>
     
     
     
