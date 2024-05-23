@@ -25,16 +25,11 @@
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EvAX code is designed for the RMC-like analysis of
-well-defined structures, such as nanocrystalline materials.
-&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;Beyond the first peak: EXAFS analysis using Reverse Monte Carlo(RMC).
 The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed for
 the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
 (EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
-nanocrystalline materials. This tool facilitates detailed studies of the
-atomic-scale structure within these materials, leveraging advanced
-simulation techniques to enhance the understanding of their
-properties.&lt;/p&gt;</summary>
+nanocrystalline materials.&lt;/p&gt;</summary>
     
     
     
