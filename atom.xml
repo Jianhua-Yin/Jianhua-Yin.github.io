@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS Spectra</title>
+    <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
     <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
     <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
     <published>2024-02-09T13:18:22.000Z</published>
@@ -584,6 +584,30 @@ selected element.&lt;/p&gt;</summary>
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
+    <link href="https://www.huaecho.cn/Electrochemical-Methods-EIS/a7d2d52d.html"/>
+    <id>https://www.huaecho.cn/Electrochemical-Methods-EIS/a7d2d52d.html</id>
+    <published>2022-03-14T14:14:12.000Z</published>
+    <updated>2024-05-23T14:14:12.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Electrochemical Impedance Spectroscopy
+(&lt;strong&gt;&lt;em&gt;EIS&lt;/em&gt;&lt;/strong&gt;) has revolutionized research in
+electrochemistry and is now widely regarded as a key technique for
+characterizing electrochemical reaction mechanisms and optimizing
+battery materials.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-[Electrochemical Methods,EIS]" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods-EIS/"/>
+    
+    
+    <category term="-EIS -Electrochemical Methods" scheme="https://www.huaecho.cn/tags/EIS-Electrochemical-Methods/"/>
     
   </entry>
   
