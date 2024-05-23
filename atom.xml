@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-01T15:18:22.000Z</updated>
+  <updated>2023-11-26T15:06:33.000Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,45 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>RMC Refinement for Extracting 3D Structures from EXAFS Spectra</title>
-    <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
-    <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
-    <published>2024-02-09T13:18:22.000Z</published>
-    <updated>2024-05-01T15:18:22.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EvAX code is designed for the RMC-like analysis of
-well-defined structures, such as nanocrystalline materials.
-&lt;/strong&gt;&lt;br&gt;
-The &lt;strong&gt;EvAX&lt;/strong&gt; code is a simulation-based tool designed for
-the analysis of &lt;strong&gt;Extended X-ray Absorption Fine Structure
-(EXAFS)&lt;/strong&gt; data, specifically tailored for crystalline and
-nanocrystalline materials. This tool facilitates detailed studies of the
-atomic-scale structure within these materials, leveraging advanced
-simulation techniques to enhance the understanding of their
-properties.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
-    
-    <category term="EvAX Code" scheme="https://www.huaecho.cn/categories/Tools/EvAX-Code/"/>
-    
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
-    <category term="Evolutionary Algorithm" scheme="https://www.huaecho.cn/tags/Evolutionary-Algorithm/"/>
-    
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
-    
-  </entry>
   
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
@@ -149,8 +110,6 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     <category term="RMCProfile" scheme="https://www.huaecho.cn/categories/Tools/RMCProfile/"/>
     
     
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
-    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -162,6 +121,8 @@ for which other probes provide only limited information.&lt;/p&gt;</summary>
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
     <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
+    
+    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
   </entry>
   
@@ -289,48 +250,6 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
     <category term="FDMNES" scheme="https://www.huaecho.cn/categories/Tools/FDMNES/"/>
-    
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
-    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
-    
-    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
-    
-    <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
-    
-    <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FEFF: Advanced Spectroscopy and Materials Modeling Tools for Core-Level Spectrum Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
-    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
-    <published>2023-01-17T14:50:10.000Z</published>
-    <updated>2023-07-27T14:00:46.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
-    
-    
-    
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
-    
-    <category term="FEFF" scheme="https://www.huaecho.cn/categories/Tools/FEFF/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
