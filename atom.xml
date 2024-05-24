@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-01T15:18:22.000Z</updated>
+  <updated>2024-04-14T16:19:51.000Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CTM4XAS: Simulating Core Level Spectra</title>
+    <link href="https://www.huaecho.cn/Tools/CTM4XAS/c4379e43.html"/>
+    <id>https://www.huaecho.cn/Tools/CTM4XAS/c4379e43.html</id>
+    <published>2024-03-05T02:19:51.000Z</published>
+    <updated>2024-04-14T16:19:51.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="CTM4XAS" scheme="https://www.huaecho.cn/categories/Tools/CTM4XAS/"/>
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    
+    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    
+    <category term="TM L-edge" scheme="https://www.huaecho.cn/tags/TM-L-edge/"/>
+    
+  </entry>
   
   <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
@@ -47,6 +83,34 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     <category term="Evolutionary Algorithm" scheme="https://www.huaecho.cn/tags/Evolutionary-Algorithm/"/>
     
     <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
+    <link href="https://www.huaecho.cn/Tools/ImageJ/d0805113.html"/>
+    <id>https://www.huaecho.cn/Tools/ImageJ/d0805113.html</id>
+    <published>2024-01-24T05:46:32.000Z</published>
+    <updated>2024-03-04T15:46:32.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="ImageJ" scheme="https://www.huaecho.cn/categories/Tools/ImageJ/"/>
+    
+    
+    <category term="ImageJ" scheme="https://www.huaecho.cn/tags/ImageJ/"/>
     
   </entry>
   
@@ -322,6 +386,44 @@ display phases line positions.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
+    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
+    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
+    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
+    <published>2023-01-17T14:50:10.000Z</published>
+    <updated>2023-07-27T14:00:46.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="FEFF" scheme="https://www.huaecho.cn/categories/Tools/FEFF/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
+    
+    <category term="Green&#39;s Function" scheme="https://www.huaecho.cn/tags/Green-s-Function/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
     <link href="https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html"/>
     <id>https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html</id>
@@ -424,6 +526,40 @@ low-dimensional materials and small samples.&lt;/p&gt;</summary>
     <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
     
     <category term="RXES" scheme="https://www.huaecho.cn/tags/RXES/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
+    <link href="https://www.huaecho.cn/Tools/Larch/a747d641.html"/>
+    <id>https://www.huaecho.cn/Tools/Larch/a747d641.html</id>
+    <published>2022-11-26T15:43:05.000Z</published>
+    <updated>2023-08-26T05:15:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="Larch" scheme="https://www.huaecho.cn/categories/Tools/Larch/"/>
+    
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
   </entry>
   
@@ -572,6 +708,40 @@ material.&lt;/p&gt;</summary>
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
     
     <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    
+    <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
+    <link href="https://www.huaecho.cn/Tools/FullProf-Suite/2c78c48.html"/>
+    <id>https://www.huaecho.cn/Tools/FullProf-Suite/2c78c48.html</id>
+    <published>2022-03-24T16:23:33.000Z</published>
+    <updated>2024-05-22T05:23:33.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="FullProf Suite" scheme="https://www.huaecho.cn/categories/Tools/FullProf-Suite/"/>
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    
+    <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
     
   </entry>
   

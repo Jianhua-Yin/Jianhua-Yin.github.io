@@ -445,6 +445,23 @@ the American Chemical Society 111(21): 8116-8118.</li>
       </tags>
   </entry>
   <entry>
+    <title>CTM4XAS: Simulating Core Level Spectra</title>
+    <url>/Tools/CTM4XAS/c4379e43.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>CTM4XAS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>TM L-edge</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
     <url>/Tools/EvAX-Code/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1922,6 +1939,39 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
+    <url>/Tools/FEFF/7cac8507.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FEFF</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>Muffin-tin Approximation</tag>
+        <tag>Green&#39;s Function</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
+    <url>/Tools/FullProf-Suite/2c78c48.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>FullProf Suite</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Rietveld Refinement</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
     <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></p>
@@ -1952,6 +2002,7 @@ battery materials.</p>
       <tags>
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
+        <tag>Rietveld Refinement</tag>
       </tags>
   </entry>
   <entry>
@@ -2081,6 +2132,19 @@ range</h2>
       </tags>
   </entry>
   <entry>
+    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
+    <url>/Tools/ImageJ/d0805113.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>ImageJ</category>
+      </categories>
+      <tags>
+        <tag>ImageJ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Key Parameters in EXAFS Fitting</title>
     <url>/Core-level-spectrum/XAFS/2e792c96.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif" alt="Key Parameters in EXAFS Fitting Cover" title="" width="30%"></p>
@@ -2100,6 +2164,22 @@ and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg styl
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
+    <url>/Tools/Larch/a747d641.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Larch</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
