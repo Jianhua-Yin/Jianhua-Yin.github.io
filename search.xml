@@ -1922,26 +1922,6 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Functions Theory Spectrum Analysis</title>
-    <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>FEFF</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
     <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></p>
@@ -2123,7 +2103,7 @@ and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg styl
       </tags>
   </entry>
   <entry>
-    <title>Modeling Pair Distribution Functions Using DISCUC</title>
+    <title>Refinement of Pair Distribution Functions with DISCUC</title>
     <url>/Tools/DISCUC/4072560629.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/DISCUC/Cover/DiffuseCodeNano.jpg?imageMogr2/format/avif" alt="DISCUC" title="" width="50%"></p>
 <p><strong>DISCUS</strong> is a comprehensive program for generating
@@ -2147,7 +2127,7 @@ Carlo simulations</strong>, and domain structure generation.</p>
       </tags>
   </entry>
   <entry>
-    <title>Modeling Pair Distribution Functions Using PDFgui</title>
+    <title>Refinement of Pair Distribution Functions with PDFgui</title>
     <url>/Tools/PDFgui/2228582188.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif" alt="PDFgui" title="" width="50%"></p>
 <p>PDFgui provides a user-friendly interface for the PDFfit2 refinement
@@ -2169,7 +2149,7 @@ functions (PDF) from x-ray or neutron diffraction data.</p>
       </tags>
   </entry>
   <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <title>Refinement of Pair Distribution Functions with RMCProfile</title>
     <url>/Tools/RMCProfile/1047009510.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif" alt="RMCProfile" title="" width="50%"></p>
 <p>The Reverse Monte Carlo (RMC) method provides a unique perspective on
@@ -2612,21 +2592,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>TXM: Transmission X-ray Microscopy</title>
-    <url>/Core-level-spectrum/TXM/ce284f68.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Core level spectrum</category>
-        <category>TXM</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>TXM</tag>
-        <tag>X-ray Imaging</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
     <url>/Core-level-spectrum/RIXS/ea3abef5.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif" alt="Principles of Resonant inelastic X-ray Scattering" title="" width="50%"></p>
@@ -2659,6 +2624,21 @@ biology.</p>
         <tag>XES</tag>
         <tag>RIXS</tag>
         <tag>RXES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>TXM: Transmission X-ray Microscopy</title>
+    <url>/Core-level-spectrum/TXM/ce284f68.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Core level spectrum</category>
+        <category>TXM</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>TXM</tag>
+        <tag>X-ray Imaging</tag>
       </tags>
   </entry>
   <entry>

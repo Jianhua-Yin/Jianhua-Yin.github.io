@@ -79,7 +79,7 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <title>Modeling Pair Distribution Functions Using DISCUC</title>
+    <title>Refinement of Pair Distribution Functions with DISCUC</title>
     <link href="https://www.huaecho.cn/Tools/DISCUC/4072560629.html"/>
     <id>https://www.huaecho.cn/Tools/DISCUC/4072560629.html</id>
     <published>2023-08-07T15:35:27.000Z</published>
@@ -115,7 +115,7 @@ Carlo simulations&lt;/strong&gt;, and domain structure generation.&lt;/p&gt;</su
   </entry>
   
   <entry>
-    <title>Modeling Pair Distribution Functions Using RMCProfile</title>
+    <title>Refinement of Pair Distribution Functions with RMCProfile</title>
     <link href="https://www.huaecho.cn/Tools/RMCProfile/1047009510.html"/>
     <id>https://www.huaecho.cn/Tools/RMCProfile/1047009510.html</id>
     <published>2023-08-01T16:31:53.000Z</published>
@@ -153,7 +153,7 @@ methods offer limited information.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <title>Modeling Pair Distribution Functions Using PDFgui</title>
+    <title>Refinement of Pair Distribution Functions with PDFgui</title>
     <link href="https://www.huaecho.cn/Tools/PDFgui/2228582188.html"/>
     <id>https://www.huaecho.cn/Tools/PDFgui/2228582188.html</id>
     <published>2023-07-15T16:25:08.000Z</published>
@@ -301,48 +301,6 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
     <category term="FDMNES" scheme="https://www.huaecho.cn/categories/Tools/FDMNES/"/>
-    
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
-    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
-    
-    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
-    
-    <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
-    
-    <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Functions Theory Spectrum Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
-    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
-    <published>2023-01-17T14:50:10.000Z</published>
-    <updated>2023-07-27T14:00:46.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
-    
-    
-    
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
-    
-    <category term="FEFF" scheme="https://www.huaecho.cn/categories/Tools/FEFF/"/>
     
     
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
