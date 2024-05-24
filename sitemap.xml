@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html</loc>
-    
-    <lastmod>2024-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huaecho.cn/Electrochemical-Methods/EIS/a7d2d52d.html</loc>
     
     <lastmod>2024-05-23</lastmod>
@@ -41,6 +32,15 @@
     <loc>https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html</loc>
     
     <lastmod>2024-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html</loc>
+    
+    <lastmod>2024-03-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
