@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-24T09:55:41.858Z</updated>
+  <updated>2024-05-24T09:56:19.271Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -17,43 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>TXM: Transmission X-ray Microscopy</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html</id>
-    <published>2024-05-24T09:37:51.000Z</published>
-    <updated>2024-05-24T09:55:41.858Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
-    
-    <category term="TXM" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/TXM/"/>
-    
-    
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="TXM" scheme="https://www.huaecho.cn/tags/TXM/"/>
-    
-    <category term="X-ray Imaging" scheme="https://www.huaecho.cn/tags/X-ray-Imaging/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
     <link href="https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html"/>
     <id>https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html</id>
     <published>2024-04-02T05:51:04.000Z</published>
-    <updated>2024-05-24T09:55:54.343Z</updated>
+    <updated>2024-05-24T09:56:19.271Z</updated>
     
     
       
@@ -306,6 +274,38 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
     
     <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TXM: Transmission X-ray Microscopy</title>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html</id>
+    <published>2023-03-24T09:37:51.000Z</published>
+    <updated>2024-05-24T09:58:51.064Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    <category term="TXM" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/TXM/"/>
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="TXM" scheme="https://www.huaecho.cn/tags/TXM/"/>
+    
+    <category term="X-ray Imaging" scheme="https://www.huaecho.cn/tags/X-ray-Imaging/"/>
     
   </entry>
   
