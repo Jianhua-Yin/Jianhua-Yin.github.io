@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2024-05-01T15:18:22.000Z</updated>
+  <updated>2024-05-24T09:55:41.858Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TXM: Transmission X-ray Microscopy</title>
+    <link href="https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html</id>
+    <published>2024-05-24T09:37:51.000Z</published>
+    <updated>2024-05-24T09:55:41.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    
+    <category term="TXM" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/TXM/"/>
+    
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="TXM" scheme="https://www.huaecho.cn/tags/TXM/"/>
+    
+    <category term="X-ray Imaging" scheme="https://www.huaecho.cn/tags/X-ray-Imaging/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
+    <link href="https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html"/>
+    <id>https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html</id>
+    <published>2024-04-02T05:51:04.000Z</published>
+    <updated>2024-05-24T09:55:54.343Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    
+    <category term="GSAS-II" scheme="https://www.huaecho.cn/categories/Tools/GSAS-II/"/>
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    
+  </entry>
   
   <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
@@ -100,11 +162,11 @@ Carlo simulations&lt;/strong&gt;, and domain structure generation.&lt;/p&gt;</su
     <category term="DISCUC" scheme="https://www.huaecho.cn/categories/Tools/DISCUC/"/>
     
     
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
-    
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
@@ -138,11 +200,11 @@ methods offer limited information.&lt;/p&gt;</summary>
     
     <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
-    
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
@@ -172,11 +234,11 @@ functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     <category term="PDFgui" scheme="https://www.huaecho.cn/categories/Tools/PDFgui/"/>
     
     
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
-    
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
@@ -206,11 +268,11 @@ functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     <category term="diffpy.pdfgetx" scheme="https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/"/>
     
     
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
-    
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
