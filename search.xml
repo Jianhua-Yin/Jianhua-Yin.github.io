@@ -1972,25 +1972,6 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
-    <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EIS/EIS_cover.webp?imageMogr2/format/avif" alt="EIS" title="" width="50%"></p>
-<p>Electrochemical Impedance Spectroscopy
-(<strong><em>EIS</em></strong>) has revolutionized research in
-electrochemistry and is now widely regarded as a key technique for
-characterizing electrochemical reaction mechanisms and optimizing
-battery materials.</p>
-<span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Electrochemical Methods</category>
-        <category>EIS</category>
-      </categories>
-      <tags>
-        <tag>-EIS -Electrochemical Methods</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
     <url>/Tools/GSAS-II/5b81b8ba.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
@@ -3578,6 +3559,27 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
+    <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EIS/EIS_cover.webp?imageMogr2/format/avif" alt="EIS" title="" width="50%"></p>
+<p>Electrochemical Impedance Spectroscopy
+(<strong><em>EIS</em></strong>) has revolutionized research in
+electrochemistry and is now widely regarded as a key technique for
+characterizing electrochemical reaction mechanisms and optimizing
+battery materials.</p>
+<span id="more"></span>
+<h2 id="overview">Overview</h2>
+<h2 id="principle">Principle</h2>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Electrochemical Methods</category>
+        <category>EIS</category>
+      </categories>
+      <tags>
+        <tag>-EIS -Electrochemical Methods</tag>
       </tags>
   </entry>
 </search>
