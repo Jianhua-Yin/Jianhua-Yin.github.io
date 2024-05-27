@@ -62,8 +62,7 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/ctm4xas/cover.png?imageMogr2/format/avif&quot; alt=&quot;CTM4XAS&quot; title=&quot;&quot;</summary>
         
       
     
@@ -98,8 +97,7 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/ImageJ/cover.png?imageMogr2/format/avif&quot; alt=&quot;ImageJ&quot; title=&quot;&quot;</summary>
         
       
     
@@ -122,7 +120,7 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     <updated>2023-11-26T15:06:33.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D COS Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D COS Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Two-dimensional Correlation Analysis&lt;/strong&gt; facilitates the
 visualization of complex spectra with numerous overlapping peaks by
 spreading them across a second dimension.&lt;/p&gt;</summary>
@@ -312,6 +310,119 @@ display phases line positions.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
+    <title>Total Scattering School: Practical Applications</title>
+    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/b43ee344.html"/>
+    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/b43ee344.html</id>
+    <published>2023-05-31T07:24:03.000Z</published>
+    <updated>2023-06-15T05:55:44.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pair distribution function analysis of battery
+materials&lt;/strong&gt;: Phoebe Allan, University of Birmingham, UK&lt;br&gt;
+&lt;strong&gt;Disorder and diffuse scattering in materials chemistry&lt;/strong&gt;:
+Andrew Goodwin, University of Oxford, UK&lt;br&gt;
+&lt;strong&gt;Of Spins and Pseudospins- Magnetic PDF as a powerful probe of
+short-range magnetic correlations&lt;/strong&gt;: Ben Frandsen, Department of
+Physics and Astronomy, Brigham Young University&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    
+    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Total Scattering School: Awesome Tools</title>
+    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/cec35b4.html"/>
+    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/cec35b4.html</id>
+    <published>2023-05-29T07:23:54.000Z</published>
+    <updated>2023-06-15T05:55:44.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RMCProfile as a data-fusion framework for determining
+nanoscale atomic order&lt;/strong&gt;: Igor Levin, National Institute of
+Science and Technology&lt;br&gt;
+&lt;strong&gt;Building complex and decorated nanoparticles with
+DISCUS&lt;/strong&gt;: Reinhard Neder, University Erlangen-Germany&lt;br&gt;
+&lt;strong&gt;X-ray Total Scattering Data Reduction&lt;/strong&gt;: Milinda
+Abeykoon, Brookhaven National Laboratory&lt;br&gt;
+&lt;strong&gt;Data Reduction for Neutron Total Scattering&lt;/strong&gt;: Yuanpeng
+Zhang, Oak Ridge National Laboratory&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    
+    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    
+    <category term="Tools" scheme="https://www.huaecho.cn/tags/Tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Total Scattering School: Fundamental Principles</title>
+    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/9561b636.html"/>
+    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/9561b636.html</id>
+    <published>2023-05-27T06:55:44.000Z</published>
+    <updated>2023-06-15T05:55:44.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to Total Scattering&lt;/strong&gt;: Thomas Proffen,
+Oak Ridge National Laboratory&lt;br&gt;
+&lt;strong&gt;Big surprises from the small box- PDF endeavors in
+nanostructured materials&lt;/strong&gt;: Emil Bozin, Brookhaven National
+Laboratory&lt;br&gt;
+&lt;strong&gt;Fourier Transforms are Not Magic- How We Make Your PDF&lt;/strong&gt;:
+Daniel Olds, Brookhaven National Laboratory&lt;br&gt;
+&lt;strong&gt;X-ray Absorption Fine Structure: Detailed Background and
+Applications&lt;/strong&gt;: Trevor Tyson, New Jersey Institute of
+Technology&lt;br&gt;
+&lt;strong&gt;X-ray Total Scattering Instrumentation&lt;/strong&gt;: Milinda
+Abeykoon, Brookhaven National Laboratory&lt;br&gt;
+&lt;strong&gt;Neutron Total Scattering Instruments and Uses&lt;/strong&gt;:
+Katharine Page, University of Tennessee and Oak Ridge National
+Laboratory&lt;br&gt;
+&lt;strong&gt;Pushing insight from laboratory PDF data and why we still need
+synchrotrons&lt;/strong&gt;: Mirijam Zobel, Institute of Crystallography, RWTH
+Aachen University, Germany&lt;br&gt;
+&lt;strong&gt;Recent and upcoming developments in PDF analysis&lt;/strong&gt;: Simon
+Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    
+    
+    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    
+    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    
+    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    
+  </entry>
+  
+  <entry>
     <title>TXM: Transmission X-ray Microscopy</title>
     <link href="https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html"/>
     <id>https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html</id>
@@ -323,8 +434,8 @@ display phases line positions.&lt;/p&gt;</summary>
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
         
       
     
@@ -351,14 +462,7 @@ display phases line positions.&lt;/p&gt;</summary>
     <updated>2023-07-31T11:40:23.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FDMNES/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;FDMNES&quot; title=&quot;&quot; width=&quot;10%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -393,14 +497,7 @@ display phases line positions.&lt;/p&gt;</summary>
     <updated>2023-07-27T14:00:46.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FEFF/cover.png?imageMogr2/format/avif&quot; alt=&quot;FEFF Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -431,14 +528,7 @@ display phases line positions.&lt;/p&gt;</summary>
     <updated>2024-04-04T06:02:35.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -471,14 +561,7 @@ display phases line positions.&lt;/p&gt;</summary>
     <updated>2023-01-01T06:02:35.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -541,8 +624,7 @@ low-dimensional materials and small samples.&lt;/p&gt;</summary>
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Larch/cover.png?imageMogr2/format/avif&quot; alt=&quot;Larch&quot; title=&quot;&quot;</summary>
         
       
     
@@ -693,8 +775,7 @@ material.&lt;/p&gt;</summary>
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif&quot; alt=&quot;gsas2&quot; title=&quot;&quot;</summary>
         
       
     
@@ -725,8 +806,7 @@ material.&lt;/p&gt;</summary>
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FullProf_Suite/cover.gif?imageMogr2/format/avif&quot; alt=&quot;FullProf Suite</summary>
         
       
     
@@ -773,8 +853,8 @@ battery materials.&lt;/p&gt;</summary>
   
   <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
-    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html"/>
-    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/c5c1423e.html</id>
+    <link href="https://www.huaecho.cn/Scattering/Powder-Diffraction/c5c1423e.html"/>
+    <id>https://www.huaecho.cn/Scattering/Powder-Diffraction/c5c1423e.html</id>
     <published>2020-07-01T09:25:11.000Z</published>
     <updated>2023-08-25T09:44:21.000Z</updated>
     
@@ -787,9 +867,9 @@ the Bragg peaks.&lt;/p&gt;</summary>
     
     
     
-    <category term="Pattern" scheme="https://www.huaecho.cn/categories/Pattern/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Pattern/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Scattering/Powder-Diffraction/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -802,8 +882,8 @@ the Bragg peaks.&lt;/p&gt;</summary>
   
   <entry>
     <title>Principles of Powder Diffraction</title>
-    <link href="https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html"/>
-    <id>https://www.huaecho.cn/Pattern/Powder-Diffraction/2865233054.html</id>
+    <link href="https://www.huaecho.cn/Scattering/Powder-Diffraction/2865233054.html"/>
+    <id>https://www.huaecho.cn/Scattering/Powder-Diffraction/2865233054.html</id>
     <published>2020-06-25T03:59:17.000Z</published>
     <updated>2023-07-25T09:28:17.000Z</updated>
     
@@ -816,9 +896,9 @@ materials.&lt;/p&gt;</summary>
     
     
     
-    <category term="Pattern" scheme="https://www.huaecho.cn/categories/Pattern/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Pattern/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Scattering/Powder-Diffraction/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>

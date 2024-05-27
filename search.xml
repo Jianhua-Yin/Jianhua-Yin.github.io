@@ -313,7 +313,7 @@ fit</td>
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
     <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="50%"></p>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="30%"></p>
 <p><strong>Two-dimensional Correlation Analysis</strong> facilitates the
 visualization of complex spectra with numerous overlapping peaks by
 spreading them across a second dimension.</p>
@@ -447,7 +447,7 @@ the American Chemical Society 111(21): 8116-8118.</li>
   <entry>
     <title>CTM4XAS: Simulating Core Level Spectra</title>
     <url>/Tools/CTM4XAS/c4379e43.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/ctm4xas/cover.png?imageMogr2/format/avif" alt="CTM4XAS" title="" width="50%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -1921,7 +1921,8 @@ XAS<br>
   <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
     <url>/Tools/FDMNES/dd36b5d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/FDMNES/cover.jpg?imageMogr2/format/avif" alt="FDMNES" title="" width="10%"></p>
+<span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -1941,7 +1942,8 @@ XAS<br>
   <entry>
     <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
     <url>/Tools/FEFF/7cac8507.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/FEFF/cover.png?imageMogr2/format/avif" alt="FEFF Cover" title="" width="50%"></p>
+<span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -1959,7 +1961,7 @@ XAS<br>
   <entry>
     <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
     <url>/Tools/FullProf-Suite/2c78c48.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/FullProf_Suite/cover.gif?imageMogr2/format/avif" alt="FullProf Suite Cover" title="" width="60%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -1972,9 +1974,30 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
+    <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EIS/EIS_cover.webp?imageMogr2/format/avif" alt="EIS" title="" width="50%"></p>
+<p>Electrochemical Impedance Spectroscopy
+(<strong><em>EIS</em></strong>) has revolutionized research in
+electrochemistry and is now widely regarded as a key technique for
+characterizing electrochemical reaction mechanisms and optimizing
+battery materials.</p>
+<span id="more"></span>
+<h2 id="overview">Overview</h2>
+<h2 id="principle">Principle</h2>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Electrochemical Methods</category>
+        <category>EIS</category>
+      </categories>
+      <tags>
+        <tag>-EIS -Electrochemical Methods</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
     <url>/Tools/GSAS-II/5b81b8ba.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif" alt="gsas2" title="" width="20%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -2115,7 +2138,7 @@ range</h2>
   <entry>
     <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
     <url>/Tools/ImageJ/d0805113.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/ImageJ/cover.png?imageMogr2/format/avif" alt="ImageJ" title="" width="20%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -2150,7 +2173,7 @@ and <span class="math inline"><mjx-container class="MathJax" jax="SVG"><svg styl
   <entry>
     <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
     <url>/Tools/Larch/a747d641.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Larch/cover.png?imageMogr2/format/avif" alt="Larch" title="" width="50%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
@@ -2236,7 +2259,7 @@ methods offer limited information.</p>
   </entry>
   <entry>
     <title>Principles of Powder Diffraction</title>
-    <url>/Pattern/Powder-Diffraction/2865233054.html</url>
+    <url>/Scattering/Powder-Diffraction/2865233054.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif" alt="powderdiffraction" title="" width="40%"></p>
 <p>Powder diffraction is an awesome technique using <em>X-ray</em>,
 <em>neutron</em>, or <em>electron</em> diffraction on powder or
@@ -2643,7 +2666,7 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
 </blockquote>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
-        <category>Pattern</category>
+        <category>Scattering</category>
         <category>Powder Diffraction</category>
       </categories>
       <tags>
@@ -2690,7 +2713,7 @@ biology.</p>
   <entry>
     <title>TXM: Transmission X-ray Microscopy</title>
     <url>/Core-level-spectrum/TXM/ce284f68.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></p>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
@@ -2703,8 +2726,199 @@ biology.</p>
       </tags>
   </entry>
   <entry>
+    <title>Total Scattering School: Practical Applications</title>
+    <url>/Powder-Diffraction/Total-Scattering/b43ee344.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif" alt="totalscatteringcover" title="" width="50%"></p>
+<p><strong>Pair distribution function analysis of battery
+materials</strong>: Phoebe Allan, University of Birmingham, UK<br>
+<strong>Disorder and diffuse scattering in materials chemistry</strong>:
+Andrew Goodwin, University of Oxford, UK<br>
+<strong>Of Spins and Pseudospins- Magnetic PDF as a powerful probe of
+short-range magnetic correlations</strong>: Ben Frandsen, Department of
+Physics and Astronomy, Brigham Young University</p>
+<span id="more"></span>
+<blockquote class="blockquote-center">
+<p><font color="#fc6423"><strong>Knowing the local
+structure.</strong></font></p>
+
+</blockquote>
+<h1 id="pair-distribution-function-analysis-of-battery-materials">Pair
+distribution function analysis of battery materials</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/51b28dc4-48d1-421e-bdd8-2efce54ac705 "><i class="fa-solid fa-link"></i>Pair distribution function analysis of battery materials</a>
+<h1 id="disorder-and-diffuse-scattering-in-materials-chemistry">Disorder
+and diffuse scattering in materials chemistry</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/4cd47396-c60e-490b-a5aa-81dafa2d8bc3 "><i class="fa-solid fa-link"></i>Disorder and diffuse scattering in materials chemistry</a>
+<h1 id="of-spins-and-pseudospins--magnetic-pdf-as-a-powerful-probe-of-short-range-magnetic-correlations">Of
+Spins and Pseudospins- Magnetic PDF as a powerful probe of short-range
+magnetic correlations</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/f78fb3e1-7ec2-4a69-a1f2-1356926cbd06 "><i class="fa-solid fa-link"></i>Of Spins and Pseudospins- Magnetic PDF as a powerful probe of short-range magnetic correlations</a>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Powder Diffraction</category>
+        <category>Total Scattering</category>
+      </categories>
+      <tags>
+        <tag>Total Scattering</tag>
+        <tag>Pair Distribution Functions</tag>
+        <tag>Total Scattering School</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Total Scattering School: Awesome Tools</title>
+    <url>/Powder-Diffraction/Total-Scattering/cec35b4.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif" alt="totalscatteringcover" title="" width="50%"></p>
+<p><strong>RMCProfile as a data-fusion framework for determining
+nanoscale atomic order</strong>: Igor Levin, National Institute of
+Science and Technology<br>
+<strong>Building complex and decorated nanoparticles with
+DISCUS</strong>: Reinhard Neder, University Erlangen-Germany<br>
+<strong>X-ray Total Scattering Data Reduction</strong>: Milinda
+Abeykoon, Brookhaven National Laboratory<br>
+<strong>Data Reduction for Neutron Total Scattering</strong>: Yuanpeng
+Zhang, Oak Ridge National Laboratory</p>
+<span id="more"></span>
+<blockquote class="blockquote-center">
+<p><font color="#fc6423"><strong>Knowing the local
+structure.</strong></font></p>
+
+</blockquote>
+<h1 id="rmcprofile-as-a-data-fusion-framework-for-determining-nanoscale-atomic-order">RMCProfile
+as a data-fusion framework for determining nanoscale atomic order</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/8c61a5fc-6880-4539-bdc1-6809c7a0a22b "><i class="fa-solid fa-link"></i>RMCProfile as a data-fusion framework for determining nanoscale atomic order</a>
+<h1 id="building-complex-and-decorated-nanoparticles-with-discus">Building
+complex and decorated nanoparticles with DISCUS</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/e6fbdd66-6d5b-4c3a-a76d-d61d281c0c4a "><i class="fa-solid fa-link"></i>Building complex and decorated nanoparticles with DISCUS</a>
+<h1 id="x-ray-total-scattering-data-reduction">X-ray Total Scattering
+Data Reduction</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/4d85e814-386a-478c-806e-dd7ca715ead0 "><i class="fa-solid fa-link"></i>X-ray Total Scattering Data Reduction</a>
+<h1 id="data-reduction-for-neutron-total-scattering">Data Reduction for
+Neutron Total Scattering</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/1364dfa5-5820-479a-9da9-4c5cd2201f75 "><i class="fa-solid fa-link"></i>Data Reduction for Neutron Total Scattering</a>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Powder Diffraction</category>
+        <category>Total Scattering</category>
+      </categories>
+      <tags>
+        <tag>Total Scattering</tag>
+        <tag>Pair Distribution Functions</tag>
+        <tag>Total Scattering School</tag>
+        <tag>Tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Total Scattering School: Fundamental Principles</title>
+    <url>/Powder-Diffraction/Total-Scattering/9561b636.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif" alt="totalscatteringcover" title="" width="50%"></p>
+<p><strong>Introduction to Total Scattering</strong>: Thomas Proffen,
+Oak Ridge National Laboratory<br>
+<strong>Big surprises from the small box- PDF endeavors in
+nanostructured materials</strong>: Emil Bozin, Brookhaven National
+Laboratory<br>
+<strong>Fourier Transforms are Not Magic- How We Make Your PDF</strong>:
+Daniel Olds, Brookhaven National Laboratory<br>
+<strong>X-ray Absorption Fine Structure: Detailed Background and
+Applications</strong>: Trevor Tyson, New Jersey Institute of
+Technology<br>
+<strong>X-ray Total Scattering Instrumentation</strong>: Milinda
+Abeykoon, Brookhaven National Laboratory<br>
+<strong>Neutron Total Scattering Instruments and Uses</strong>:
+Katharine Page, University of Tennessee and Oak Ridge National
+Laboratory<br>
+<strong>Pushing insight from laboratory PDF data and why we still need
+synchrotrons</strong>: Mirijam Zobel, Institute of Crystallography, RWTH
+Aachen University, Germany<br>
+<strong>Recent and upcoming developments in PDF analysis</strong>: Simon
+Billinge, Columbia University and Brookhaven National Laboratory</p>
+<span id="more"></span>
+<blockquote class="blockquote-center">
+<p><font color="#fc6423"><strong>Knowing the local
+structure.</strong></font></p>
+
+</blockquote>
+<p><strong>Total scattering approach allows to determine local and
+nano-scale structures.</strong></p>
+<h1 id="introduction-to-total-scattering">Introduction to Total
+Scattering</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/95a01a63-ce25-4515-80b5-6ac564fc20d7 "><i class="fa-solid fa-link"></i>Introduction to Total Scattering</a>
+<h2 id="what-is-total-scattering">What is total scattering?</h2>
+<h3 id="background">Background</h3>
+<p>Traditional crystallographic approach to structure determination is
+insufficient or fails for<sup><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></sup></p>
+<ul>
+<li>Non crystalline materials</li>
+<li>Disordered material <del>(<strong><em>the interesting
+properties</em></strong> are oftern governed by the defects or local
+structure!)</del></li>
+<li>Nanostructures <del>(Well defined local structure, but long-range
+order limited to few nanometers.[<strong><em>poorly defined Bragg
+peaks</em></strong>])</del></li>
+</ul>
+<h3 id="total-scattering-bragg-scattering-diffuse-scattering">Total
+scattering = Bragg scattering + Diffuse scattering</h3>
+<p><font color="#fc6423"><strong>Bragg scattering</strong></font>:
+Information about the <em>average</em> structure, e.g. average
+positions, displacement parameters and occupancies. <del>(Materials with
+different elemental occupancies can exhibit the same pattern.)</del></p>
+<p><font color="#fc6423"><strong>Diffuse scattering</strong></font>:
+Information about <em>two-body</em> correlations, i.e. chemical
+short-range order or local distortions.</p>
+<h3 id="pdf">PDF</h3>
+<p>The PDF is the <strong>Fourier tranform</strong> of the <strong>total
+scattering</strong> diffraction pattern.<sup><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></sup></p>
+<div class="note info"><p><strong>What can one learn from total scattering?</strong></p>
+</div>
+<h3 id="how-to-obtain-high-quality-pdfs">How to obtain high quality
+PDFs?</h3>
+<h1 id="big-surprises-from-the-small-box--pdf-endeavors-in-nanostructured-materials">Big
+surprises from the small box- PDF endeavors in nanostructured
+materials</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/5ce2a42c-a719-4530-b92a-c7b30f2436be "><i class="fa-solid fa-link"></i>Big surprises from the small box- PDF endeavors in nanostructured materials</a>
+<h1 id="fourier-transforms-are-not-magic--how-we-make-your-pdf">Fourier
+Transforms are Not Magic- How We Make Your PDF</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/caf04960-27ed-42d1-92c7-82199fa3002a "><i class="fa-solid fa-link"></i>Fourier Transforms are Not Magic- How We Make Your PDF</a>
+<h1 id="x-ray-absorption-fine-structure-detailed-background-and-applications">X-ray
+Absorption Fine Structure: Detailed Background and Applications</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/2d30c681-eb73-49e6-879a-0e5822065481 "><i class="fa-solid fa-link"></i>X-ray Absorption Fine Structure: Detailed Background and Applications</a>
+<h1 id="x-ray-total-scattering-instrumentation">X-ray Total Scattering
+Instrumentation</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/afc429fe-a596-4574-b56e-66c269524892 "><i class="fa-solid fa-link"></i>X-ray Total Scattering Instrumentation</a>
+<h1 id="neutron-total-scattering-instruments-and-uses">Neutron Total
+Scattering Instruments and Uses</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/41c165a0-cbbb-4ac9-bf7b-7f0ee099e6a4 "><i class="fa-solid fa-link"></i>Neutron Total Scattering Instruments and Uses</a>
+<h1 id="pushing-insight-from-laboratory-pdf-data-and-why-we-still-need-synchrotrons">Pushing
+insight from laboratory PDF data and why we still need synchrotrons</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/816e03ac-111e-4771-8ee8-2f26cfd55af5 "><i class="fa-solid fa-link"></i>Pushing insight from laboratory PDF data and why we still need synchrotrons</a>
+<h1 id="recent-and-upcoming-developments-in-pdf-analysis">Recent and
+upcoming developments in PDF analysis</h1>
+<a class="btn" href="https://utk.instructuremedia.com/embed/0681b3bf-339d-4a83-91fb-82938499e4c0 "><i class="fa-solid fa-link"></i>Recent and upcoming developments in PDF analysis</a>
+<h1 id="references">References</h1>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Billinge, S. J., &amp; Levin, I. (2007). The problem
+with determining atomic structure at the nanoscale. science, 316(5824),
+561-565.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Proffen, T. (2000). Analysis of occupational and
+displacive disorder using the atomic pair distribution function: a
+systematic investigation. Zeitschrift für Kristallographie-Crystalline
+Materials, 215(11), 661-668.'<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Powder Diffraction</category>
+        <category>Total Scattering</category>
+      </categories>
+      <tags>
+        <tag>Total Scattering</tag>
+        <tag>Pair Distribution Functions</tag>
+        <tag>Total Scattering School</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
-    <url>/Pattern/Powder-Diffraction/c5c1423e.html</url>
+    <url>/Scattering/Powder-Diffraction/c5c1423e.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif" alt="Understand the Pattern" title="" width="40%"></p>
 <p>Structural information in a powder diffraction pattern is encoded in
 discrete Bragg reflection peaks over a continuous background. While the
@@ -2713,7 +2927,7 @@ the Bragg peaks.</p>
 <span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
-        <category>Pattern</category>
+        <category>Scattering</category>
         <category>Powder Diffraction</category>
       </categories>
       <tags>
@@ -3071,7 +3285,8 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
   <entry>
     <title>Wavelet analysis of EXAFS: Principle</title>
     <url>/Core-level-spectrum/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></p>
+<span id="more"></span>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Core level spectrum</category>
@@ -3082,25 +3297,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
         <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Wavelet analysis of EXAFS: Tools</title>
-    <url>/Tools/wt-EXAFS/5a85aa81.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><span id="more"></span>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>wt-EXAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>Igor Pro</tag>
-        <tag>Hama</tag>
-        <tag>Matlab</tag>
-        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
@@ -3163,6 +3359,26 @@ you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9
         <category>Tools</category>
         <category>Hexo</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Tools</title>
+    <url>/Tools/wt-EXAFS/5a85aa81.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="?imageMogr2/format/avif" alt="" title="" width="50%"></p>
+<span id="more"></span>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>wt-EXAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>Igor Pro</tag>
+        <tag>Hama</tag>
+        <tag>Matlab</tag>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -3559,27 +3775,6 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
-    <url>/Electrochemical-Methods/EIS/a7d2d52d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EIS/EIS_cover.webp?imageMogr2/format/avif" alt="EIS" title="" width="50%"></p>
-<p>Electrochemical Impedance Spectroscopy
-(<strong><em>EIS</em></strong>) has revolutionized research in
-electrochemistry and is now widely regarded as a key technique for
-characterizing electrochemical reaction mechanisms and optimizing
-battery materials.</p>
-<span id="more"></span>
-<h2 id="overview">Overview</h2>
-<h2 id="principle">Principle</h2>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Electrochemical Methods</category>
-        <category>EIS</category>
-      </categories>
-      <tags>
-        <tag>-EIS -Electrochemical Methods</tag>
       </tags>
   </entry>
 </search>
