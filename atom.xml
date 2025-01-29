@@ -18,8 +18,8 @@
   
   <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
-    <link href="https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html"/>
-    <id>https://www.huaecho.cn/Tools/EvAX-Code/b8eb1c46.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/b8eb1c46.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/b8eb1c46.html</id>
     <published>2024-03-09T13:18:22.000Z</published>
     <updated>2024-05-01T15:18:22.000Z</updated>
     
@@ -35,12 +35,12 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="EvAX Code" scheme="https://www.huaecho.cn/categories/Tools/EvAX-Code/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -48,29 +48,25 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
+    <category term="EvAX Code" scheme="https://www.huaecho.cn/tags/EvAX-Code/"/>
+    
   </entry>
   
   <entry>
     <title>CTM4XAS: Simulating Core Level Spectra</title>
-    <link href="https://www.huaecho.cn/Tools/CTM4XAS/c4379e43.html"/>
-    <id>https://www.huaecho.cn/Tools/CTM4XAS/c4379e43.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/c4379e43.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/c4379e43.html</id>
     <published>2024-03-05T02:19:51.000Z</published>
     <updated>2024-04-14T16:19:51.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/ctm4xas/cover.png?imageMogr2/format/avif&quot; alt=&quot;CTM4XAS&quot; title=&quot;&quot;</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="CTM4XAS" scheme="https://www.huaecho.cn/categories/Tools/CTM4XAS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
@@ -83,29 +79,25 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     <category term="TM L-edge" scheme="https://www.huaecho.cn/tags/TM-L-edge/"/>
     
+    <category term="CTM4XAS" scheme="https://www.huaecho.cn/tags/CTM4XAS/"/>
+    
   </entry>
   
   <entry>
     <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
-    <link href="https://www.huaecho.cn/Tools/ImageJ/d0805113.html"/>
-    <id>https://www.huaecho.cn/Tools/ImageJ/d0805113.html</id>
+    <link href="https://www.huaecho.cn/Tools/Image/d0805113.html"/>
+    <id>https://www.huaecho.cn/Tools/Image/d0805113.html</id>
     <published>2024-01-24T05:46:32.000Z</published>
     <updated>2024-03-04T15:46:32.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/ImageJ/cover.png?imageMogr2/format/avif&quot; alt=&quot;ImageJ&quot; title=&quot;&quot;</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="ImageJ" scheme="https://www.huaecho.cn/categories/Tools/ImageJ/"/>
+    <category term="Image" scheme="https://www.huaecho.cn/categories/Tools/Image/"/>
     
     
     <category term="ImageJ" scheme="https://www.huaecho.cn/tags/ImageJ/"/>
@@ -132,9 +124,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <category term="2DCOS" scheme="https://www.huaecho.cn/categories/Tools/2DCOS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="2D Correlation Analysis" scheme="https://www.huaecho.cn/tags/2D-Correlation-Analysis/"/>
     
@@ -142,24 +134,19 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with DISCUC</title>
-    <link href="https://www.huaecho.cn/Tools/DISCUC/4072560629.html"/>
-    <id>https://www.huaecho.cn/Tools/DISCUC/4072560629.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/4072560629.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/4072560629.html</id>
     <published>2023-08-07T15:35:27.000Z</published>
     <updated>2023-08-07T15:35:27.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/DISCUC/Cover/DiffuseCodeNano.jpg?imageMogr2/format/avif&quot; alt=&quot;DISCUC&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DISCUS&lt;/strong&gt; is a comprehensive program for generating
-disordered atomic structures and computing experimental data like single
-crystal diffuse scattering and atomic pair distribution functions
-(&lt;strong&gt;PDF&lt;/strong&gt;). It features symmetry operations, &lt;strong&gt;Monte
-Carlo simulations&lt;/strong&gt;, and domain structure generation.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="DISCUC" scheme="https://www.huaecho.cn/categories/Tools/DISCUC/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -170,32 +157,27 @@ Carlo simulations&lt;/strong&gt;, and domain structure generation.&lt;/p&gt;</su
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
     
   </entry>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with RMCProfile</title>
-    <link href="https://www.huaecho.cn/Tools/RMCProfile/1047009510.html"/>
-    <id>https://www.huaecho.cn/Tools/RMCProfile/1047009510.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/1047009510.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/1047009510.html</id>
     <published>2023-08-01T16:31:53.000Z</published>
     <updated>2023-08-01T16:31:53.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/RMCProfile/Cover/RMCProfile_Cover.webp?imageMogr2/format/avif&quot; alt=&quot;RMCProfile&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The Reverse Monte Carlo (RMC) method provides a unique perspective on
-atomic structure, derived directly from experimental data. It is
-primarily used to analyze neutron and x-ray total scattering data and is
-particularly effective for studying disordered materials, where other
-methods offer limited information.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="RMCProfile" scheme="https://www.huaecho.cn/categories/Tools/RMCProfile/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -212,26 +194,25 @@ methods offer limited information.&lt;/p&gt;</summary>
     
     <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
     
+    <category term="RMCProfile" scheme="https://www.huaecho.cn/tags/RMCProfile/"/>
+    
   </entry>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with PDFgui</title>
-    <link href="https://www.huaecho.cn/Tools/PDFgui/2228582188.html"/>
-    <id>https://www.huaecho.cn/Tools/PDFgui/2228582188.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/2228582188.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/2228582188.html</id>
     <published>2023-07-15T16:25:08.000Z</published>
     <updated>2023-07-15T16:25:08.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/PDFgui/Cover/PDFgui_Cover.png?imageMogr2/format/avif&quot; alt=&quot;PDFgui&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;PDFgui provides a user-friendly interface for the PDFfit2 refinement
-program, enabling full-profile fitting of atomic pair distribution
-functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/categories/Tools/PDFgui/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -242,16 +223,16 @@ functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
-    <link href="https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193.html"/>
-    <id>https://www.huaecho.cn/Tools/diffpy-pdfgetx/2230252193.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/2230252193.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/2230252193.html</id>
     <published>2023-07-15T11:17:45.000Z</published>
     <updated>2023-07-15T11:17:45.000Z</updated>
     
@@ -265,7 +246,7 @@ functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="diffpy.pdfgetx" scheme="https://www.huaecho.cn/categories/Tools/diffpy-pdfgetx/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -276,12 +257,14 @@ functions (PDF) from x-ray or neutron diffraction data.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
+    <category term="diffpy.pdfgetx" scheme="https://www.huaecho.cn/tags/diffpy-pdfgetx/"/>
+    
   </entry>
   
   <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <link href="https://www.huaecho.cn/Tools/Dioptas/2312659861.html"/>
-    <id>https://www.huaecho.cn/Tools/Dioptas/2312659861.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/2312659861.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/2312659861.html</id>
     <published>2023-06-30T08:42:09.000Z</published>
     <updated>2023-06-30T08:42:09.000Z</updated>
     
@@ -298,7 +281,7 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="Dioptas" scheme="https://www.huaecho.cn/categories/Tools/Dioptas/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -307,30 +290,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
     
+    <category term="Dioptas" scheme="https://www.huaecho.cn/tags/Dioptas/"/>
+    
   </entry>
   
   <entry>
     <title>Total Scattering School: Practical Applications</title>
-    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/b43ee344.html"/>
-    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/b43ee344.html</id>
+    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/b43ee344.html"/>
+    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/b43ee344.html</id>
     <published>2023-05-31T07:24:03.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pair distribution function analysis of battery
-materials&lt;/strong&gt;: Phoebe Allan, University of Birmingham, UK&lt;br&gt;
-&lt;strong&gt;Disorder and diffuse scattering in materials chemistry&lt;/strong&gt;:
-Andrew Goodwin, University of Oxford, UK&lt;br&gt;
-&lt;strong&gt;Of Spins and Pseudospins- Magnetic PDF as a powerful probe of
-short-range magnetic correlations&lt;/strong&gt;: Ben Frandsen, Department of
-Physics and Astronomy, Brigham Young University&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
     
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -343,28 +321,19 @@ Physics and Astronomy, Brigham Young University&lt;/p&gt;</summary>
   
   <entry>
     <title>Total Scattering School: Awesome Tools</title>
-    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/cec35b4.html"/>
-    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/cec35b4.html</id>
+    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/cec35b4.html"/>
+    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/cec35b4.html</id>
     <published>2023-05-29T07:23:54.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;RMCProfile as a data-fusion framework for determining
-nanoscale atomic order&lt;/strong&gt;: Igor Levin, National Institute of
-Science and Technology&lt;br&gt;
-&lt;strong&gt;Building complex and decorated nanoparticles with
-DISCUS&lt;/strong&gt;: Reinhard Neder, University Erlangen-Germany&lt;br&gt;
-&lt;strong&gt;X-ray Total Scattering Data Reduction&lt;/strong&gt;: Milinda
-Abeykoon, Brookhaven National Laboratory&lt;br&gt;
-&lt;strong&gt;Data Reduction for Neutron Total Scattering&lt;/strong&gt;: Yuanpeng
-Zhang, Oak Ridge National Laboratory&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
     
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -379,39 +348,19 @@ Zhang, Oak Ridge National Laboratory&lt;/p&gt;</summary>
   
   <entry>
     <title>Total Scattering School: Fundamental Principles</title>
-    <link href="https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/9561b636.html"/>
-    <id>https://www.huaecho.cn/Powder-Diffraction/Total-Scattering/9561b636.html</id>
+    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/9561b636.html"/>
+    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/9561b636.html</id>
     <published>2023-05-27T06:55:44.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/totalscatteringschool/cover/totalscatteringcover.png?imageMogr2/format/avif&quot; alt=&quot;totalscatteringcover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Introduction to Total Scattering&lt;/strong&gt;: Thomas Proffen,
-Oak Ridge National Laboratory&lt;br&gt;
-&lt;strong&gt;Big surprises from the small box- PDF endeavors in
-nanostructured materials&lt;/strong&gt;: Emil Bozin, Brookhaven National
-Laboratory&lt;br&gt;
-&lt;strong&gt;Fourier Transforms are Not Magic- How We Make Your PDF&lt;/strong&gt;:
-Daniel Olds, Brookhaven National Laboratory&lt;br&gt;
-&lt;strong&gt;X-ray Absorption Fine Structure: Detailed Background and
-Applications&lt;/strong&gt;: Trevor Tyson, New Jersey Institute of
-Technology&lt;br&gt;
-&lt;strong&gt;X-ray Total Scattering Instrumentation&lt;/strong&gt;: Milinda
-Abeykoon, Brookhaven National Laboratory&lt;br&gt;
-&lt;strong&gt;Neutron Total Scattering Instruments and Uses&lt;/strong&gt;:
-Katharine Page, University of Tennessee and Oak Ridge National
-Laboratory&lt;br&gt;
-&lt;strong&gt;Pushing insight from laboratory PDF data and why we still need
-synchrotrons&lt;/strong&gt;: Mirijam Zobel, Institute of Crystallography, RWTH
-Aachen University, Germany&lt;br&gt;
-&lt;strong&gt;Recent and upcoming developments in PDF analysis&lt;/strong&gt;: Simon
-Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/categories/Powder-Diffraction/Total-Scattering/"/>
+    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
     
     
     <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
@@ -424,26 +373,19 @@ Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summ
   
   <entry>
     <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
-    <link href="https://www.huaecho.cn/Tools/Fit2D/de093485.html"/>
-    <id>https://www.huaecho.cn/Tools/Fit2D/de093485.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/de093485.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/de093485.html</id>
     <published>2023-04-30T02:41:08.000Z</published>
     <updated>2023-05-01T06:41:08.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;/thirdcssjs/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="Fit2D" scheme="https://www.huaecho.cn/categories/Tools/Fit2D/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -452,30 +394,25 @@ Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summ
     
     <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
     
+    <category term="Fit2D" scheme="https://www.huaecho.cn/tags/Fit2D/"/>
+    
   </entry>
   
   <entry>
     <title>TXM: Transmission X-ray Microscopy</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/TXM/ce284f68.html</id>
+    <link href="https://www.huaecho.cn/Image/TXM/ce284f68.html"/>
+    <id>https://www.huaecho.cn/Image/TXM/ce284f68.html</id>
     <published>2023-03-24T05:37:51.000Z</published>
     <updated>2024-05-24T09:37:51.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Image" scheme="https://www.huaecho.cn/categories/Image/"/>
     
-    <category term="TXM" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/TXM/"/>
+    <category term="TXM" scheme="https://www.huaecho.cn/categories/Image/TXM/"/>
     
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
@@ -488,26 +425,22 @@ Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summ
   
   <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <link href="https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html"/>
-    <id>https://www.huaecho.cn/Tools/FDMNES/dd36b5d.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/dd36b5d.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/dd36b5d.html</id>
     <published>2023-01-20T11:07:01.000Z</published>
     <updated>2023-07-31T11:40:23.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FDMNES/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;FDMNES&quot; title=&quot;&quot; width=&quot;10%&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="FDMNES" scheme="https://www.huaecho.cn/categories/Tools/FDMNES/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
@@ -515,63 +448,71 @@ Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summ
     
     <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
     
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
     <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
     
     <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
+    
+    <category term="FDMNES" scheme="https://www.huaecho.cn/tags/FDMNES/"/>
     
   </entry>
   
   <entry>
     <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
-    <link href="https://www.huaecho.cn/Tools/FEFF/7cac8507.html"/>
-    <id>https://www.huaecho.cn/Tools/FEFF/7cac8507.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/7cac8507.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/7cac8507.html</id>
     <published>2023-01-17T14:50:10.000Z</published>
     <updated>2023-07-27T14:00:46.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FEFF/cover.png?imageMogr2/format/avif&quot; alt=&quot;FEFF Cover&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="FEFF" scheme="https://www.huaecho.cn/categories/Tools/FEFF/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
     
     <category term="Green&#39;s Function" scheme="https://www.huaecho.cn/tags/Green-s-Function/"/>
     
+    <category term="FEFF" scheme="https://www.huaecho.cn/tags/FEFF/"/>
+    
   </entry>
   
   <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
-    <link href="https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html"/>
-    <id>https://www.huaecho.cn/Tools/wt-EXAFS/5a85aa81.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/5a85aa81.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/5a85aa81.html</id>
     <published>2022-12-11T09:29:12.000Z</published>
     <updated>2024-04-04T06:02:35.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="wt-EXAFS" scheme="https://www.huaecho.cn/categories/Tools/wt-EXAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -587,51 +528,46 @@ Billinge, Columbia University and Brookhaven National Laboratory&lt;/p&gt;</summ
   
   <entry>
     <title>Wavelet analysis of EXAFS: Principle</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/7fe115f0.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/7fe115f0.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/7fe115f0.html</id>
     <published>2022-12-10T15:29:12.000Z</published>
     <updated>2023-01-01T06:02:35.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
   </entry>
   
   <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/RIXS/ea3abef5.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/RIXS/ea3abef5.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/RIXS/ea3abef5.html</id>
     <published>2022-12-02T17:16:24.000Z</published>
     <updated>2022-12-04T03:25:30.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/RIXSPrinciple/Cover/RIXSCover.jpg?imageMogr2/format/avif&quot; alt=&quot;Principles of Resonant inelastic X-ray Scattering&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;X-ray Resonant Inelastic Scattering&lt;/em&gt; (&lt;em&gt;RIXS&lt;/em&gt;) observes
-excitations like phonons and electronic transitions by leveraging photon
-interactions, making it valuable in condensed matter physics, materials
-science, chemistry, and biology. Its precision allows measurements of
-low-dimensional materials and small samples.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="RIXS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/RIXS/"/>
+    <category term="RIXS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/RIXS/"/>
     
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
@@ -646,41 +582,37 @@ low-dimensional materials and small samples.&lt;/p&gt;</summary>
   
   <entry>
     <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/Larch/a747d641.html"/>
-    <id>https://www.huaecho.cn/Tools/Larch/a747d641.html</id>
+    <link href="https://www.huaecho.cn/Tools/XAFS/a747d641.html"/>
+    <id>https://www.huaecho.cn/Tools/XAFS/a747d641.html</id>
     <published>2022-11-26T15:43:05.000Z</published>
     <updated>2023-08-26T05:15:05.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Larch/cover.png?imageMogr2/format/avif&quot; alt=&quot;Larch&quot; title=&quot;&quot;</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="Larch" scheme="https://www.huaecho.cn/categories/Tools/Larch/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="Larch" scheme="https://www.huaecho.cn/tags/Larch/"/>
     
   </entry>
   
   <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/199cdc0d.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/199cdc0d.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/199cdc0d.html</id>
     <published>2022-10-03T12:31:12.000Z</published>
     <updated>2023-05-03T15:31:02.000Z</updated>
     
@@ -692,14 +624,14 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -707,27 +639,24 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
   
   <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/496821b9.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/496821b9.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/496821b9.html</id>
     <published>2022-10-03T12:10:12.000Z</published>
     <updated>2023-05-03T15:31:12.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/Identifying%20Quality%20EXAFS%20Data%20Fitting%3A%20Statistical%20Methods/Cover/cover.webp?imageMogr2/format/avif&quot; alt=&quot;Identify Quality EXAFS Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Several &lt;strong&gt;criteria for determining the optimal fit&lt;/strong&gt; are
-listed here, including statistical criteria, closeness of fit, and
-physical reasonableness.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -735,30 +664,24 @@ physical reasonableness.&lt;/p&gt;</summary>
   
   <entry>
     <title>Key Parameters in EXAFS Fitting</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/2e792c96.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/2e792c96.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/2e792c96.html</id>
     <published>2022-10-01T13:36:12.000Z</published>
     <updated>2024-02-09T10:30:29.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/KeyParameterEXAFS/Cover/Cover.png?imageMogr2/format/avif&quot; alt=&quot;Key Parameters in EXAFS Fitting Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Five &lt;strong&gt;parameters related to the EXAFS equation&lt;/strong&gt; are
-commonly allowed to vary during fitting procedures: the half path length
-&lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: 0;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1.873ex&quot; height=&quot;1.545ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -683 828 683&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D437&quot; d=&quot;M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;, the degeneracy &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: 0;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.009ex&quot; height=&quot;1.545ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -683 888 683&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D441&quot; d=&quot;M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;, the mean square relative
-displacement(MSRD) &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: -0.025ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.28ex&quot; height=&quot;1.912ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -833.9 1007.6 844.9&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;msup&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D70E&quot; d=&quot;M184 -11Q116 -11 74 34T31 147Q31 247 104 333T274 430Q275 431 414 431H552Q553 430 555 429T559 427T562 425T565 422T567 420T569 416T570 412T571 407T572 401Q572 357 507 357Q500 357 490 357T476 358H416L421 348Q439 310 439 263Q439 153 359 71T184 -11ZM361 278Q361 358 276 358Q152 358 115 184Q114 180 114 178Q106 141 106 117Q106 67 131 47T188 26Q242 26 287 73Q316 103 334 153T356 233T361 278Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(604,363) scale(0.707)&quot;&gt;&lt;path data-c=&quot;32&quot; d=&quot;M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;,the
-amplitude reduction factor &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: -0.687ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.564ex&quot; height=&quot;2.573ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -833.9 1133.2 1137.4&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;msubsup&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D446&quot; d=&quot;M308 24Q367 24 416 76T466 197Q466 260 414 284Q308 311 278 321T236 341Q176 383 176 462Q176 523 208 573T273 648Q302 673 343 688T407 704H418H425Q521 704 564 640Q565 640 577 653T603 682T623 704Q624 704 627 704T632 705Q645 705 645 698T617 577T585 459T569 456Q549 456 549 465Q549 471 550 475Q550 478 551 494T553 520Q553 554 544 579T526 616T501 641Q465 662 419 662Q362 662 313 616T263 510Q263 480 278 458T319 427Q323 425 389 408T456 390Q490 379 522 342T554 242Q554 216 546 186Q541 164 528 137T492 78T426 18T332 -20Q320 -22 298 -22Q199 -22 144 33L134 44L106 13Q83 -14 78 -18T65 -22Q52 -22 52 -14Q52 -11 110 221Q112 227 130 227H143Q149 221 149 216Q149 214 148 207T144 186T142 153Q144 114 160 87T203 47T255 29T308 24Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(729.6,363) scale(0.707)&quot;&gt;&lt;path data-c=&quot;32&quot; d=&quot;M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(646,-287.9) scale(0.707)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;,
-and &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg style=&quot;vertical-align: -0.375ex;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;2.657ex&quot; height=&quot;1.913ex&quot; role=&quot;img&quot; focusable=&quot;false&quot; viewBox=&quot;0 -680 1174.6 845.6&quot;&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot;&gt;&lt;g data-mml-node=&quot;msub&quot;&gt;&lt;g data-mml-node=&quot;mi&quot;&gt;&lt;path data-c=&quot;1D438&quot; d=&quot;M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; transform=&quot;translate(771,-150) scale(0.707)&quot;&gt;&lt;path data-c=&quot;30&quot; d=&quot;M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/mjx-container&gt;&lt;/span&gt;.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -766,56 +689,46 @@ and &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;Math
   
   <entry>
     <title>XAFS Theory</title>
-    <link href="https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectrum/XAFS/618690954.html</id>
+    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/618690954.html"/>
+    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/618690954.html</id>
     <published>2022-07-10T06:20:14.000Z</published>
     <updated>2023-01-17T03:29:50.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/XAFS/XAFS_Cover.png?imageMogr2/format/avif&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;XAFS is an element-specific spectroscopy providing detailed chemical
-and physical information about a probe atom&#39;s environment. It is highly
-sensitive to both the electronic and geometric structure of the
-material.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/"/>
+    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectrum/XAFS/"/>
+    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
   </entry>
   
   <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
-    <link href="https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html"/>
-    <id>https://www.huaecho.cn/Tools/GSAS-II/5b81b8ba.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/5b81b8ba.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/5b81b8ba.html</id>
     <published>2022-04-02T05:51:04.000Z</published>
     <updated>2024-03-24T09:51:04.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif&quot; alt=&quot;gsas2&quot; title=&quot;&quot;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif&quot; alt=&quot;gsas2&quot; title=&quot;&quot; width=&quot;20%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="GSAS-II" scheme="https://www.huaecho.cn/categories/Tools/GSAS-II/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -823,30 +736,26 @@ material.&lt;/p&gt;</summary>
     <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
     
     <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
+    
+    <category term="GSAS-II" scheme="https://www.huaecho.cn/tags/GSAS-II/"/>
     
   </entry>
   
   <entry>
     <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/FullProf-Suite/2c78c48.html"/>
-    <id>https://www.huaecho.cn/Tools/FullProf-Suite/2c78c48.html</id>
+    <link href="https://www.huaecho.cn/Tools/Scattering/2c78c48.html"/>
+    <id>https://www.huaecho.cn/Tools/Scattering/2c78c48.html</id>
     <published>2022-03-24T16:23:33.000Z</published>
     <updated>2024-05-22T05:23:33.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/FullProf_Suite/cover.gif?imageMogr2/format/avif&quot; alt=&quot;FullProf Suite</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
     <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
     
-    <category term="FullProf Suite" scheme="https://www.huaecho.cn/categories/Tools/FullProf-Suite/"/>
+    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
@@ -854,6 +763,8 @@ material.&lt;/p&gt;</summary>
     <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
     
     <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
+    
+    <category term="FullProf Suite" scheme="https://www.huaecho.cn/tags/FullProf-Suite/"/>
     
   </entry>
   
@@ -865,12 +776,7 @@ material.&lt;/p&gt;</summary>
     <updated>2024-05-23T14:14:12.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/EIS/EIS_cover.webp?imageMogr2/format/avif&quot; alt=&quot;EIS&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Electrochemical Impedance Spectroscopy
-(&lt;strong&gt;&lt;em&gt;EIS&lt;/em&gt;&lt;/strong&gt;) has revolutionized research in
-electrochemistry and is now widely regarded as a key technique for
-characterizing electrochemical reaction mechanisms and optimizing
-battery materials.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
@@ -891,11 +797,7 @@ battery materials.&lt;/p&gt;</summary>
     <updated>2023-08-25T09:44:21.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/blogimage/unstandthepattern/cover/DebyeScattering.png?imageMogr2/format/avif&quot; alt=&quot;Understand the Pattern&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Structural information in a powder diffraction pattern is encoded in
-discrete Bragg reflection peaks over a continuous background. While the
-background offers some crystallinity details, the primary focus is on
-the Bragg peaks.&lt;/p&gt;</summary>
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
@@ -949,12 +851,13 @@ materials.&lt;/p&gt;</summary>
     <updated>2018-09-07T04:42:00.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif&quot; alt=&quot;hexo&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very
-first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; for
-more info. If you get any problems when using Hexo, you can find the
-answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; or
-you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif&quot; alt=&quot;hexo&quot; title=&quot;&quot;</summary>
+        
+      
     
     
     
