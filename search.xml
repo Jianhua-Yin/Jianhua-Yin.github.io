@@ -1,168 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="30%"></p>
-<p><strong>Two-dimensional Correlation Analysis</strong> facilitates the
-visualization of complex spectra with numerous overlapping peaks by
-spreading them across a second dimension.</p>
-<span id="more"></span>
-<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
-2D correlation spectroscopy</h2>
-<h3 id="history-of-2d-cos">History of 2D COS</h3>
-<p>Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.</p>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
-<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
-Spectra</h3>
-<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
-<h3 id="cases">Cases</h3>
-<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
-correlation spectroscopy</h2>
-<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
-Correlation Analysis</h2>
-<h2 id="software-for-2d-correlation-analysis">Software for 2D
-correlation Analysis</h2>
-<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
-with XAS</h2>
-<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
-of XAS</h2>
-<h2 id="references">References</h2>
-<details class="note default no-icon"><summary><p>Reference</p>
-</summary>
-<ol type="1">
-<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
-analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
-Journal of Polymer Research 25(4).<br>
-</li>
-<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
-electrochemical reaction of lithium with CoO by two-dimensional soft
-X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
-XAS− Raman correlation analysis." The Journal of Physical Chemistry B
-107(24): 5806-5811.<br>
-</li>
-<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
-spectroscopy and two-dimensional correlation spectroscopy to the
-electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
-molecular structure 799(1-3): 91-95.<br>
-</li>
-<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
-Co-MCM-41 and the formation of size-controllable subnanometer Co
-clusters." J Phys Chem B 109(6): 2285-2294.<br>
-</li>
-<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
-hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
-magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
-</li>
-<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
-spectroscopy studies of polymer blends: conformational changes and
-specific interactions in blends of atactic polystyrene and poly (2,
-6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
-103(32): 6704-6712.<br>
-</li>
-<li>Noda, I. (1993). "Generalized two-dimensional correlation method
-applicable to infrared, Raman, and other types of spectroscopy." Applied
-Spectroscopy 47(9): 1329-1336.<br>
-</li>
-<li>Noda, I. (2000). "Determination of two-dimensional correlation
-spectra using the Hilbert transform." Applied Spectroscopy 54(7):
-994-999.<br>
-</li>
-<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
-Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
-</li>
-<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
-spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
-</li>
-<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
-and its application in vibrational spectroscopy using Matlab." Tech.
-Comput. Prague: 978-980.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
-Spectroscopy." The Journal of Physical Chemistry A 104(27):
-6380-6387.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
-Wavenumber− Wavenumber Correlations of Temperature-Dependent
-Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
-Journal of Physical Chemistry A 104(27): 6388-6394.<br>
-</li>
-<li>Sui, H., et al. (2017). "Determination of the radiation resistance
-order of high explosives by the two dimensional correlation X-ray
-photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
-Research Section B: Beam Interactions with Materials and Atoms 406:
-496-500.<br>
-</li>
-<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
-hetero-spectral correlation analysis for the fingerprint identification
-of humic acid functional groups for hexavalent chromium retention." RSC
-Adv 8(7): 3522-3529.<br>
-</li>
-<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
-spectroscopy: applications in vibrational and optical spectroscopy. John
-Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
-</li>
-<li>Haider, P., et al. (2005). "Application of the generalized 2D
-correlation analysis to dynamic near-edge X-ray absorption spectroscopy
-data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
-</li>
-<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
-the American Chemical Society 111(21): 8116-8118.</li>
-</ol>
-
-</details>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>2DCOS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>2D Correlation Analysis</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CTM4XAS: Simulating Core Level Spectra</title>
-    <url>/Tools/XAFS/c4379e43.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="7c203a5bf97da7b9a9fd24be27fcad7cf1ffbdae692c6ea2cd53d819573e9b2d">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c1cccf931101043de28dffdee9e0abc6150ca2f8e9cd3e5fd6864d144d9bce332de1185148b2878f7889e9f8e265eec83fd58f2e2faf09943962ee2ef8fc33c3292eaa5b988f2a998987e669b3980e90f7ffca80dfdbd4883a05b471128414d5facabc5d05dad0934ba52731c00f651323923de7947c6dc42eeb04b5517ac20bcb59020ffd06de999626a038074d37dd1f2ef7b8b77585dd082ae9ae7ba8f1ead550e757dd4a6f6e59f09735fb7e122f2efce85b9f1e703d0d6a777243214b2681653145c555c146a13188cc846158736d342a9052d4055e9ebc134fa5d67297c54e8b57bac4a3436f4490c9e6290cac4c8d3957e2e9b7b03f8ea757f50c8d70c5a0265d4d4d8b0b8d49faf4aeb3f1257dfecf3086be63782ec45b60ac9b0f31868031cd4131c39d4c05953dab267afa9d255c5cad3e6ac14e8657d931cd4820177dd1517da37cb2c632f12b83cc6e04b3f12a83e391314976acd8289ac8a676e902631d3c5b2625dc2cf1064390f705cc0c3065d67a0fa88fa90adc07b1a2e0b74b4f7562a1487ce4a17fcc1bec4292dd086de22cd59274644fe63b5f8eb5d774d1ef1bef0d56929e6a091e7eac2d6e2437c6bf26607ffaae908c9dfd54e0b1c48a91b83d839e64eb05f8b346f91e1a2</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>TM L-edge</tag>
-        <tag>CTM4XAS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
     <url>/Core-level-spectroscopy/XAFS/199cdc0d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif" alt="Artemis Software" title="" width="40%"></p>
@@ -473,6 +311,168 @@ fit</td>
       </tags>
   </entry>
   <entry>
+    <title>Application of Two-dimensional correlation Analysis in XAS</title>
+    <url>/Tools/2DCOS/1364141d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="30%"></p>
+<p><strong>Two-dimensional Correlation Analysis</strong> facilitates the
+visualization of complex spectra with numerous overlapping peaks by
+spreading them across a second dimension.</p>
+<span id="more"></span>
+<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
+2D correlation spectroscopy</h2>
+<h3 id="history-of-2d-cos">History of 2D COS</h3>
+<p>Initially developed approximately 30 years ago in NMR spectroscopy,
+two-dimensional spectroscopy facilitated the visualization of complex
+spectra characterized by numerous overlapping peaks by distributing them
+across a second dimension. While NMR remains the predominant technique
+in two-dimensional spectroscopy, this approach has been extended to
+other forms, proving particularly useful across various spectroscopic
+techniques.</p>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
+<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
+Spectra</h3>
+<p><img src="https://oss.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
+<h3 id="cases">Cases</h3>
+<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
+correlation spectroscopy</h2>
+<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
+Correlation Analysis</h2>
+<h2 id="software-for-2d-correlation-analysis">Software for 2D
+correlation Analysis</h2>
+<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
+with XAS</h2>
+<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
+of XAS</h2>
+<h2 id="references">References</h2>
+<details class="note default no-icon"><summary><p>Reference</p>
+</summary>
+<ol type="1">
+<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
+analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
+Journal of Polymer Research 25(4).<br>
+</li>
+<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
+electrochemical reaction of lithium with CoO by two-dimensional soft
+X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
+XAS− Raman correlation analysis." The Journal of Physical Chemistry B
+107(24): 5806-5811.<br>
+</li>
+<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
+spectroscopy and two-dimensional correlation spectroscopy to the
+electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
+molecular structure 799(1-3): 91-95.<br>
+</li>
+<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
+Co-MCM-41 and the formation of size-controllable subnanometer Co
+clusters." J Phys Chem B 109(6): 2285-2294.<br>
+</li>
+<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
+hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
+magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
+</li>
+<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
+spectroscopy studies of polymer blends: conformational changes and
+specific interactions in blends of atactic polystyrene and poly (2,
+6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
+103(32): 6704-6712.<br>
+</li>
+<li>Noda, I. (1993). "Generalized two-dimensional correlation method
+applicable to infrared, Raman, and other types of spectroscopy." Applied
+Spectroscopy 47(9): 1329-1336.<br>
+</li>
+<li>Noda, I. (2000). "Determination of two-dimensional correlation
+spectra using the Hilbert transform." Applied Spectroscopy 54(7):
+994-999.<br>
+</li>
+<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
+Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
+</li>
+<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
+spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
+</li>
+<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
+and its application in vibrational spectroscopy using Matlab." Tech.
+Comput. Prague: 978-980.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
+Spectroscopy." The Journal of Physical Chemistry A 104(27):
+6380-6387.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
+Wavenumber− Wavenumber Correlations of Temperature-Dependent
+Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
+Journal of Physical Chemistry A 104(27): 6388-6394.<br>
+</li>
+<li>Sui, H., et al. (2017). "Determination of the radiation resistance
+order of high explosives by the two dimensional correlation X-ray
+photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
+Research Section B: Beam Interactions with Materials and Atoms 406:
+496-500.<br>
+</li>
+<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
+hetero-spectral correlation analysis for the fingerprint identification
+of humic acid functional groups for hexavalent chromium retention." RSC
+Adv 8(7): 3522-3529.<br>
+</li>
+<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
+spectroscopy: applications in vibrational and optical spectroscopy. John
+Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
+</li>
+<li>Haider, P., et al. (2005). "Application of the generalized 2D
+correlation analysis to dynamic near-edge X-ray absorption spectroscopy
+data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
+</li>
+<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
+the American Chemical Society 111(21): 8116-8118.</li>
+</ol>
+
+</details>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>2DCOS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>2D Correlation Analysis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CTM4XAS: Simulating Core Level Spectra</title>
+    <url>/Tools/XAFS/c4379e43.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="7c203a5bf97da7b9a9fd24be27fcad7cf1ffbdae692c6ea2cd53d819573e9b2d">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c1cccf931101043de28dffdee9e0abc6150ca2f8e9cd3e5fd6864d144d9bce332de1185148b2878f7889e9f8e265eec83fd58f2e2faf09943962ee2ef8fc33c3292eaa5b988f2a998987e669b3980e90f7ffca80dfdbd4883a05b471128414d5facabc5d05dad0934ba52731c00f651323923de7947c6dc42eeb04b5517ac20bcb59020ffd06de999626a038074d37dd1f2ef7b8b77585dd082ae9ae7ba8f1ead550e757dd4a6f6e59f09735fb7e122f2efce85b9f1e703d0d6a777243214b2681653145c555c146a13188cc846158736d342a9052d4055e9ebc134fa5d67297c54e8b57bac4a3436f4490c9e6290cac4c8d3957e2e9b7b03f8ea757f50c8d70c5a0265d4d4d8b0b8d49faf4aeb3f1257dfecf3086be63782ec45b60ac9b0f31868031cd4131c39d4c05953dab267afa9d255c5cad3e6ac14e8657d931cd4820177dd1517da37cb2c632f12b83cc6e04b3f12a83e391314976acd8289ac8a676e902631d3c5b2625dc2cf1064390f705cc0c3065d67a0fa88fa90adc07b1a2e0b74b4f7562a1487ce4a17fcc1bec4292dd086de22cd59274644fe63b5f8eb5d774d1ef1bef0d56929e6a091e7eac2d6e2437c6bf26607ffaae908c9dfd54e0b1c48a91b83d839e64eb05f8b346f91e1a2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>TM L-edge</tag>
+        <tag>CTM4XAS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
     <url>/Tools/XAFS/dd36b5d.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -494,39 +494,13 @@ fit</td>
       <tags>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
         <tag>XANES</tag>
         <tag>XES</tag>
         <tag>RIXS</tag>
-        <tag>EXAFS</tag>
         <tag>REXS</tag>
         <tag>EELS</tag>
         <tag>FDMNES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
-    <url>/Tools/Scattering/de093485.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Two Dimensional XRD</tag>
-        <tag>Fit2D</tag>
       </tags>
   </entry>
   <entry>
@@ -1990,6 +1964,35 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
+    <url>/Tools/XAFS/7cac8507.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b71e833596152c1a134107172b17676701f53cf8365139689d57fef8ca8fe68c">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c4664e9b769e42340b53c332c2c743e2e51a0db44e997607bad20303a1f28aa34332b23967ee57f77f9a204a7421565c50a9c38031af54676e7eb313fccfe4bd9b7c2895be7f31d2adbb31cfeed8ff2a32f21ecf93fb5adacb43a47e8d54e425e897e0e35bea1db46376ddf89be1eb67159469ea9451e6aaab4bb731cd6ebe418e16aa4506ca4a550152502b74944c43c27912a699a25a666ebc0e3fc5d5a0a3e465197009d7ccdde722a5446226473d2b374af3617d1ef6cc1273d914d463338f7a160f779639d3c7aba952e6e56a09e5e583cb64533e9fe6fb859b204abafb79413639e9cd5446c6b23605cfde568430a666890c39b824583a33ab3ee37cbbe2cc5df7541180836ecf7e207e9ad4358a0fe402705488cf1eab277d9471dfefb124f71483fe37e13366c3d59104d720264b30c21387da405814eb074b5066e3aca1dbe17fea2eb93d6e7eacbeaa87cecc8fac91036dc7c4243757750fe9ebbc36e99931f02107f42bd0509a18dca9449cffb64dd37e9e75624df739f59fcffa919c70c5ca2a1d3efe57f259188034aacd40ba59f2510d64a0956df4eaad95025fbede3db665d8f9cc63722b499ed1d0f9cbb43783cf9347575858aed6c6439800263282c31ec2747a9ebbe0f80c0027d</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>Muffin-tin Approximation</tag>
+        <tag>Green&#39;s Function</tag>
+        <tag>FEFF</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
     <url>/Tools/Scattering/2c78c48.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -2013,35 +2016,6 @@ XAS<br>
         <tag>X-ray Scattering</tag>
         <tag>Rietveld Refinement</tag>
         <tag>FullProf Suite</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
-    <url>/Tools/XAFS/7cac8507.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="b71e833596152c1a134107172b17676701f53cf8365139689d57fef8ca8fe68c">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c4664e9b769e42340b53c332c2c743e2e51a0db44e997607bad20303a1f28aa34332b23967ee57f77f9a204a7421565c50a9c38031af54676e7eb313fccfe4bd9b7c2895be7f31d2adbb31cfeed8ff2a32f21ecf93fb5adacb43a47e8d54e425e897e0e35bea1db46376ddf89be1eb67159469ea9451e6aaab4bb731cd6ebe418e16aa4506ca4a550152502b74944c43c27912a699a25a666ebc0e3fc5d5a0a3e465197009d7ccdde722a5446226473d2b374af3617d1ef6cc1273d914d463338f7a160f779639d3c7aba952e6e56a09e5e583cb64533e9fe6fb859b204abafb79413639e9cd5446c6b23605cfde568430a666890c39b824583a33ab3ee37cbbe2cc5df7541180836ecf7e207e9ad4358a0fe402705488cf1eab277d9471dfefb124f71483fe37e13366c3d59104d720264b30c21387da405814eb074b5066e3aca1dbe17fea2eb93d6e7eacbeaa87cecc8fac91036dc7c4243757750fe9ebbc36e99931f02107f42bd0509a18dca9449cffb64dd37e9e75624df739f59fcffa919c70c5ca2a1d3efe57f259188034aacd40ba59f2510d64a0956df4eaad95025fbede3db665d8f9cc63722b499ed1d0f9cbb43783cf9347575858aed6c6439800263282c31ec2747a9ebbe0f80c0027d</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
-        <tag>EXAFS</tag>
-        <tag>Muffin-tin Approximation</tag>
-        <tag>Green&#39;s Function</tag>
-        <tag>FEFF</tag>
       </tags>
   </entry>
   <entry>
@@ -2135,10 +2109,10 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
-    <title>Key Parameters in EXAFS Fitting</title>
-    <url>/Core-level-spectroscopy/XAFS/2e792c96.html</url>
+    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
+    <url>/Tools/Scattering/de093485.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="3758c2cc2dca26bb90f6afeebe6111e5d1202c261f918a2fdfe544480c30ad20">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c73c35c4b31e9ab119620b01be56c7000d5e5c52561b83699dfaf91462d5c22e2413bc46d4352da423201cdea3adbabbe4b605b017f18568a53ad8012fdd875b15987bc777e10c87262cb998712f34cc929883d03d6b2a50234c5bfbbefa4eabc15821a11ccc2fccd803797d9fdf300ac3fb9593b6aefa87b8c85986a26f02493ed1c76c0aa20d1cbcd3fe00ae253da74d91819dcb992990af344c956c53ba266d543d17b21739a7ab31dc4171309250b3b63a0ecb88b3aef4345427ff05535fe641b9933c4e70f2b7fe56330c884d2746639a537dafd4cd75d89fced79b2fe8dde97d30a185bb886815e9f12a172e5972b87da3bc5880b1facf7274f3b5b4060b26a79485ab8c1fb1861872a6efad73b0d6778fd66e3f421cfea58349b62f0ca32cdac262dc1e6154558c81fc9a13f6d5e6162346683c9488f622d79b88696e66b3c3ee6f98caf307723322f79880a1d59e04f8300d56e067136376a3e257799512e276b84d8f6d888e4584e49eacbc90cdef97d1d483da91393d55b19a4556fffe1d7b21f8e191b3f841ba7fb5a22c154d1c412eb67167ae693af6953ccb71479331f7ae88de8f4b50a78ebb15afe8867d9b21a7646ffa7965975c2cd86e8f3d0b0ab4af811f6daa7700216b292a02417fd5b3bff92872740ddd0884248d3b35ed707ecea3a91ca9f227c0c6851dfae2e5ce1f0dc801223d2c62cd61f59483f033023784d6d045a37877d9fd7691c3610996be98634d914210e594f45b1f2c60ce893a25f6a1d43b3e2d3b51ef1808dd6c11f80a6fc364c76058974bd42cd7c5bccc8ea8855a3c625f5878ad6cfd4cd157284083e5266754818d401b7c3695372cadafe62bc5ee4adf5c445257d6be4ac32e5647728cd88502f50c4aff4bf71ca0880f8c71b9dc772429e11d7d0ed50ca760b2ba57c89741d828468c5fe08b9f61b0c7fd3cf37434abb461c810f4c525d08863b6fbf75744defe9d6f1da1e832686013509bcba8329cac892ae63b2ca4bbb9ab3b4c20e546fe4cef812dfdaf215c2346cab3a5e09b2191e99a680c00795a56e1134b5e7444b9e50f9505ae7380ffb8064f559fd5d2a93779cf48fe5df618ed596653115d7d41a2e61aed7d5323d0e77cf6581391d9c9b5c19042bbe6b8ea95d685c463e5bf4a89a213406f0e2daf4251af6a49fac8d23d3c77a204bbbd4994036fe2a630bb25b88ffef9991b2bc73ad1981beb74822001536363f5780cd32c3d1123e9b2ab13e7189f3fd44ef050bdee98b2647ddfdc5f0ad8ea6d96313ccfcb68ba388e61b7d62987756bf3dc849385756b73ea2604afe1e90cee31a0abe0581ba517022a3c6dde13ca74c1f977061e4ad1c19b521dbe5ebec36428d9d953c8502be362cd091c7ecf4d6b29a0ebe609d814685f1282c56383d797b1b2b16c459b29890573fc2a8d1f765450e4b9673ad006502830c3578f0ccee1e9ea8e172b223b4b5880682e57fdd255489532ce54c8a2cad86bdd501db0786dc5688ee6c94dd292065711cf6285da47804fb4e9cab57385fe1f1df8bf25bb45602acfea11303fa82b8adfe57da5a3392525bb8c324740cba330191efd6d32adc806a3cff89dbaacfc785bc10f79622359544fd1f7f3eafa0bca00bbce01da770e7374d2f4ac3b2eb2d24626499e335d54101f75fd7b2788540eb2581057e59c2a425d4366cee21bf2aaf3faaf514ef16e83625e10f5b33960c9289e07e6df6b7969adfc256ac9ce49d8ab8384135634fc4d6e7c285dc5ffabcefc714dc981210d56e1d7d512b904d02e2decdf1ceccb2b93ad1fba45e03f00aaeca114adf7d62551b35723d63d9603e5605773549c3200e413acebf727ae52628960ee59733ba89a4fb53615dc41d90b5f1dd751eecaabfac27c44a6c3c6d6a3944717e9a2ef14fefb95086eaef6f01b9c8979da6d91b05c448630b262a84304f96d0fad396c51a20bda263c0c079f5430e989ae6b48dd568fa385d3d1491d5bfd108a45ee569704c7ec657424e1021a37fc4f49ef7af367b46a8f8b3552c9e95dccd7d8427171c0c388de383efd806174d68f753aae7aa5ce9423dead874b567e741294c982646561c9e4e139022b155efd9d447eb07d67f4e134b4ca695495ed13548182c0c12ff698c89cf7d41ff1f59017b4cda51d23eb590b028cf23cc70b5c4cb6a1ebf2b9528a70ab7347ee1a1c164828e4da905a0afcf9d422486b01a11a684928e552a19da7afe1dee9f3f8f814e880368f630d562b6dd77129da1f22d11d6091dc2ca8d2910eebe35c6c9e611b3a09a09bebf1a0df3f6950dbb5bd21eb095d98aaf272c77990b8fbf15e63ca268e05111586b936d144a0fdc2ed5095866d72791f2e4aedb1d819e98cb67fe7cebc773d68d02538d65639f7e511ad8ec668283018b377429de44ee4b0197657af4f89e655f7a8157c438cece5131a7b1f5ef17e7d5ea015ab9a74968f15ecda1424194cc88d2245bb94a3a26ef099173092e49b0cf6faacc11cbe61dd80c45fa75c9fe1174005e54c073adf7b9bd25901b8cf906419cb9ec80a2353d958b22e0f1291f03cf93eb9573d1d1493fe45ef881e8739b35a94ad8a095cc33fd717309cc470a4dd13e35d4b34cc708022fd6d86f01dccdd87d6dbe0b5b39c1343b90249bdf26ae56c30d1b45d5b89ee19997ad6d1f1ae6cbb5b2928a99e34645c0aa1de0ecd7731ff8d4b08c45b085d0e4ddc4c795b0244f273da3d91fe82e9cb9ed6b75ce072495600d74e213176fa82f272bd206cea576e42e835ed85f633f9085c02be4e55559ac78657b9126cb8d6410f2b34e764a8d77fb57a349a5df5d52d35c7da9c919a425bc7450b2848b85e2e9b778d40e8a3da1f6f125ff35a88924a915244225eff1c2a4d23f646d9230e58135725f9b27b71003b2510645f93507390ac120617e6868237fe5b9351c41468e1216ab84ddba7310cc68bf475b7ce0ab1b6e08aa31e8f23573e6dff250e0ad28e2216a2d77721365f0789d82d6aa9f48792fc4d4d3ff392c25ab753a055a858213d2adcbc26b9085fdb99058f7f179c17662c6e592e422a7a814763a7a066e108ef81e41af456a3a8df8deb48686a25a203794bc9fd516c939c5e94e4449cba7d0810eab6569cbe6703607cbfdf60ea6c6e5857652bb5945e38bf995e21a3abb087ff3ea5d826e0795e588f78e3fba956b85bf9d0eac9338e8a3362827fbe61b0c9179b4b5b571884294e47a886deb30487c1675e3ce08709ac59c6dcfb5505a1d48415249a2767721665ca41bac3f114785cd553c710d8be46b1ca25a77d73b2e160aad03a92ad36caf43f58febd214fd42714e2066a036179a037e1b324e978ef5ab3a5c69e65c000a42d611cd183ecfc9a5c91f2b7755c853cf60487bf6dba48b74453fd1492cf5ff85379b2845920ad57e6641fad41bad41ea9f2b26027197de2aa1bfe004a278a9c8112ce60d5e813639d6a887286ff50ad64666ea3959fa795bac0ad742b57a67c8105c1ca42c448272dbffdf0d8bf292befbe659c4697958c7afb6139dd9ba3e3571ecb6e9f646e4183333175dd86b9f38300b6bcb6a83ef7da4112b9679add76f51f983b23bf8e47eb758269eb770f98c364026784df4e9b4a2553db070b953c6d4ff9af498f4bf7c674b2a5d59af3e853cfe42a8ccda308e0e1e26475395718e78e11086d61c5ef6aba6826a8d3dfb73d9ec3a5feabb491c621ce676650c3f0d28ddcae4c47cbf626f0a1c2df2b142f7aafcd70f90c87c38e9cd3cf4d72d2dc5c4b6c975576515fe4c7c177e044cca0c0a752f49f5b3dbd164223e530a684740abd6c179d5dd8109b62a81f325919d63c8020bb6b3a64173a2ad6d661f937e1884b5299fff39256e0f2818fe2eadf39686334a55555b798a0bd9c6195b8706654d62b06b7e91f00d7dcfa34edd360685c0076ae5129d34f1f0be580640ba415c03aa02c1aa3cf0155c142014e91f78a81908b9f50ba2ae7dcbe8d28a53e63d76dccda984a0b07d45e51fd75f0287e1464447d9967e5ce874f3091504e524f297de21e4c66cb471be13c31c820a1f7705564dab33878547efd84c69238a61dd9d543f201026b5f893e467dbec67c4b64c5d3e222f4289de407be167e25fa780763829d2eb648b103d52080569e9a5a9fca6a13f3ea3329c1aa3fd565bd9e9a19ad36e5427f9a07b8e0f18a236ee86d98f7cdebb4135110c5d6961ebb53ba8d548f98bce7303215c9804504cbddb7d111d49e6bb43dc0eddf61e6c44a643740554d9dadde2caca46ee255dd99216a751af09e1ceb0972183d67a65749f16fe10ffbf77295d2df023b98081bc06bd3edbb5fa48315979cccb4f4418afbb3954a7a371891f1dee6c6dbe2a07de3aba49d81e40d3d2e97c0c4ba787c2c857a351c988e05b14e670e745d59578bfb8d24f71bc4b1d5c24c7f0959aea1968600c5d540616c398688df026072ff206fd90a7de51957e99e0a848008384c9ee8bf8d6e56094cfd9a82a709bdde44d85dc5bce3106114f4f0e32bc42ac6bd4c8608ba1184468271abf927525a9d58b1164ffc01ace78d37b2628d162f0f4678d045c7a2891d97b40580e8db78ba7ad345de9855347f3a85cd2a771a0b14f8ab96666edcd307471e998e70e8f298fce3bb8f6cbdd8dc2b8539cb49af171438d5088f570a06988913f82c60912a626590f159615f7547ddd1719a1fa3e139ed604d92f3c57a0d69cc2538daadbc97d988c58de92141a8e6fbcd4099d0f953db165c2dbca2f00b9cda864f9d813d8c9dbf0927fa0ddfb67c542d4327b2fb7ae02db1a64d7a30b194a2d5d07538f557c0fb3f6f801765f84fabaad4d4b77bad7a64e7abe487a00aecb9a6809c723bd88ffd18aa279329c9f4e69f0d1c765e206deef7ca556de9d820c628c5480031267fde3bd1ef55f01f85543f1e25bf5747fd670984d5395b32b76db2aaaf82bdc15c317cadee8779c42a4511b2153926fdabc7d392ed70a13c7d078947a9201c904dc1951503fedb8b27d983accd3bd4a32e809c642a92c1454e916854aba12513855a865948f60331c8fdf8690e91cc01b2a6df1f1e59df31ac514577f20649b61e7120fbbdc36449eede1295f09d7501247c37aae74bf385b56e7d66e6fef906de1a4320d014c3e288d524ffaa0461d8fee9ed7f80b601e1ebd3250d51357215772a348166ed7f48e81445b0bde0870bfe0120300b4b666f45502ac430f48c780ebddfc043219e92d3ba6e83c5e752d0772368e35b5142443c6ba7520ff7bb51b9fd83d308f2caded9989d520c1c31eea03df24257483cf26a65c5959595337510be8bbdeb0f7bb0cfc93a2e893c65ae11d3d64f7d16ea0938cfa33f37b257ace8dc9572fa111a8aaeee2de77bab645022b671aec8d1710750fb0f3480d6f2ad67c33148d234b3678b08b728f0f75a087615a4c9c5485149ea272e4a8073abb6b1461b9fca1adf090f508a2390a03e51cb4dc159d00d45f2a5c7b1b5c638305273687d4d0a08018ba5a8b06f03592b0c7a6800dcc6f6c4b4f65edf79d39bf06c836769b1d41206dfd950478d766de0436306d44e6b513b96a8d9b5085cda1526184b5d937603aa3458ffc6461dfe9c5a18e9b4add506417edf1e841373acce2efa91aacc6af8588cc24d449e6ce487f20cbc4980c7de28106a08feb35dc3a7a1e363f227a89d6968a270d10d4740809b435330f7788165c9700f2ea261bdba94c4e4ab23fcc2f44a5db6ecde94d81383c8567227d2123d53a70ef86bca0dba63660fc2553fd1da37b9ed1a19df263f001d15b4aa29c66abd41bd738886843be2eb5d6fa028096fb299810c542f7583959fd6572fcaa95ea0a3ebf483f7e75d6245a64d31158be06ecf7c72d6af549f97e7545c7a5a79930cb3daf4eaf58021a6dfe93d1633e9b6f60fcd406ab021b182c59a2e105af22d2e498ec3ca423be09a27c70b916dedbc2fdf1c06070ddf2c6898dac29b41ba593023435d62ed377dedab2753d01aa809b233b73ffd7a2b7f5ff8ba80eeedba908094b238266c54ef223d76583a69b64c707a55f3e97b2e13ad4e6907b354b9dd45e5305856cb6370a82319cf3eb3a8e5df17a39a04e99bd09ff356164b45ada61fa218c5e35351e0d1f19a3f38bd2330be33ff3c9c91cd7d40b69c8f9f91a4314096aa0ee66712e991ecd9353cf6337d041f4c22dccc1d8d008914fdd286ec7a92dd68400bf1017a084309c14a9e7a653869572968c27aed26254671b81d6db9ea0fb4015a4e2250b78b5a70fc04e5671b17aafa5feda9d587202b10cdbf3508d67d98b1de4187a93620aa55668758357fbf32bfbe94c0d39b8fd212c190d6285f0f900c35b2feb39f4f8f1e9060aed2cc21ec347503cc8b75495f08ae6d9389913b34136a537a0297c245937a179a31f452bed1427cde5b7aa128aa6d63d1383b4d0731e83fbbfde43b2dbd44239826ba207605dbd3ef07c86280df42a99fe91df0d77310f7287790a938ea6bd8617257ef92cc972365fedaa29c2af3e6079ecdb4b0cb62e11e499abffda5002eab1b2a182da87b5f1dc1c850c8ab27b82e87457e6f0a371662f988ed10c18e295281b10161b59bceeb3440e632c0ecd676f5aaec2a1a1af45e89be2b1a1e15901b4131b17be6795e5579047bb11bd14cb26dc446be74e9fa25708e471d27e9b988a11b3c1df95dff9dded3842a3e052f2964917df7fc5929ba60e6ff46e8143f102c1bb135d1b553f6c5c4fbfab445dfa0b54e2a250a5dd783a276148047b7f156f2fbccb6646f7f4eba5ca2ea631188e03e7eccb8c2b9b2fb6b97562dbc26b26da36da8c444616029bee51b8018dfe77b9df15eb23f547eaa2698ba2300e141b92e447b4e69cb80ae147cdadcde47fcfa5c0d27456ebbb4034700a669136586cbfd89b3b45f8f68ca0bf855d7d89990cd1ca7ef25fd1b9e6d74792c18a0ce4dcc55e5fae2ed2a0676a2c1466d175755d9d6067ba51bb00f4c5135a2f8283b498ee0aeeb6093dd866479a3e117326e128fa395e5b18be5b63cb3c609a1a54364c1572efaa6cdc1a29fe3490f1f52556bac983e7e60ee0b8ff57cf3f776d627935f56e938f176e1fce82ea0517bce38cb1bfc878f5ed0feedd2fa8a08c2443e59a268a5b84b5471e6e89209fc85fc3e08611f98a246613d78473e88a288220747f7c6658da38e5eddec9d986fc36103802db97f81aadd4399993f77fb850603f0cba098e91973ce985a68cce7d055a81f2bcece072a966c3911b62e7415d04e9a9d62f34b98102035233c8203845b8fbaf5b7a9e8fa4aafa542d0f25743dd42ea64943fa9846d7714fbf8c82574df7014c1c53a0f6f6cedd8d3f7077ba8b6808c1715a5dd9dbf590f4d756c59be8c02837bf43978257c1677cb7ec5e620a4f6a96845dc86d589b6240da14f4dfc95aec8964dd8ed778c2efbfd0a86c90da4ef048bd0a4dc47f86d711f3be77255fba9e1543b9f7bc907676911cb49e23dae44848039633b03c1df6a34d2f04d3baa751b89f314ffaf943f15720c559e2b1b8fca87348190ab883825a2752e6c0a0936d63011ed8bf9007cab1a4615548f204a1187532adc6dbf60957b94dce4f64be485bb190085c46e3c52641ebd6f6b3e82fd0f8aa11fab77dc0958df3ac031f28f33da7f6299e7f34f9a63944524b26065316654ab27ed1c057ef06f28321d8433722d39d7da023d064b2d343f95e13bc4a57e2f2306cb609eb0b6eb84f85f557cca6de35246e1fce975c79b3138ed889b5c7eeac595606b77c6b67c90074faba935a26d1a1dfc765c228f2198201930160eaa7f5c6a71854f3d479f31768817dfdec7f8cff68ede271ebbb3108354ff76e5651309de8f4967f73d40750feb000743bed8f944861f8b7730807f53e63e30d435fde988c1a32b463ecc2bae5b817b3eb7353e78a253d95c12971f68c962e81f537b334d9de99cdf28b4b37cafc0e7291daef47db62bdc8fefaaf718251e621799cf440fa9afa7ef160898009858245884ea3b3f6263273936bf6d577fbd88b24a22be5744006d8ff47641bec284493a504213ed38d3a8fc6a90533af920a6b11c5e490f34c5494a459486bed3a8e83361975978db09cf6aa39ea428eeb8d61d99c842f08343932258aeb78c3e2fd6eed98e58157577d73a9ebd8b9a5629ce2bd050bac54882fb55f24af4846a1b9f89d327982136910c42fc7bd9d78ff4d15e31c0da270bbb7e05ef9453aa0db590035382f979f952200e769d387faf95fe97c54e27dc7093f46cb1acb3d1ce6c8de24002218b9346981bc8dff168abf832b3a847ae59ed07a3f4dada6eb5394b5ff763baa854fbe872731eb48f4815f6c3aea71a8cd259613f9ed55cdea16e2212b019fcb7fc4b5bc47ed5795ff586912afc1db6d589c934171554d902691c58c9c4aac6be0dadbc520638a76734b3c1c5eea5dbfaa53fdbe33645d20c35c33ab4022253deade0b9408220cdcf4d258779cb43333e82ae9f8329ea739825602cbc0e5ca13713cf6b227c450d8f0eba4edd5a85e1a201c428c6368b0cd5c1e47e84fb390ebcb087afe61e9b3f4fb526f43614836751a33bbb636098a704203cb8aec2d1fa4a7cddd8549fd49651cb5295c97245b933d1fb36295d74ddf794331885a60c004662bdc52b77e8175b306c69957162aabe56a26ffbe423c086ad9c4c743ca1d9912a9eaf27cbd9990372624a5f8f951ecea961fe3f646826cc48923d5f639e721f292dc1e804ac21a0e53d4dd8e688dc0112da43c20266a7a60ff88622d6d05981a826eb77f0d3a45013db3c11b69aa39c397d7f90760632a470dc33011c9611f75ba7bd3bd29ca39870b65b8b7131e03f1cfd1ea930a738703e2baf1b02cfcc48bfb5526ebdd25c61c6b61cb45ba70c62c9148cb4a1c9d66cc3ea3f40dbbba1f5653be84e6b7706b6af2722e4d3e3b781f699f5bb37cbae37124c3a4afd7bc65caf43b84288f52cf66f6eb5cd7a988b3956c8a92b1213f10010f4e4cdff0e54546420b389ff5cee06a4a81287f95e25e59cb87a455341dbcc54eb15c6e0baa3ba0b3a723708ffdcf7c75c4c3d8571febd895f3a8ab4b03a31506c916d81fad71fa995435185cc692051aebc9f87c44efc5b3d2a839bd1b6b5f9986da31af8162070d1256f0b6f2127c0f7d1bea73a60f414ee0cfdb700412392eac4491899d6f296fe2377c6239cdd1b0c927f1afeeb93b08d039f1c6841b70543604370253fda1ecfeb535f272fd4dfc2f18d4b381fce170760c6430e35878cd5bb57fe2edcbf2738566026a92e23e259e2040239a1ec079c6ff59268b4cddda9a13039a44aafd9d1294ffe919defcebda4f4f2847dd29170d791c9e6caf29b55be2444a7fc5d5e88a239d65ed0138c2fb58df47bbefc9561631fa09272a7b56cdb732442130f9db4fdb1660ec2be10911901b66b80e49fa31f3442da2d357c5e20bd945292ac56f0b4d27134cf257d8df1820bb529cfbb74c057bf21d58b4eb92236de74917686bcb51a5e641ac84310ea29efd36df5e817dc3f1a462edb519a9225dec62b0e64e0bd485c19055a26cfc5751180b18b41828c276b166fa3fbe0f87e904a91934cd4d6fdb8caff3a5d7ceb66a813250646ab27c9528835013995abeb94788b7af04786b6ef06ac28d09d7422245c2734eb47065deda8fffcda5f967dbd08fd418b65330e3818112a761d7c89e1a7c3803a505b1ad01998b616ce020b9682c2de667cb49b3c39944571e62ecd1c6bb55515fd33ae58390c3fbe2bc49280611efd586ed14125da6382b8f26568398f84365be6407b7be2c3438d5da65337a38266adc36724a3c37d0f920bb45c6af8f5a3aa7676aa558f06f448dc1019b9b92ea594de39f8147ca06de143de5d4b40150793fb842dd6adeb04d426c5495be67071d94cd3364dabffed8154b8716dd57cff07f274c3e89251155656fc0722436d92754e122745ccf83d9b006f8c452fa176a34953465fb18c35215f7257aad8561873737063ad0f6cd509a5dabb9b8ba83e3398df5e6c61921d64d97210769a98153223b8939831f0ad424d8651b80d8db164cb703dc902e5da8153682f197587d2f192951c25ca3b71bf285d128aedc344655a80d428e8fb1c50630374638a8275b0c8f53d5036e66f4282702185edbfc2a83055cd9d76c5769553c9af3e14755b7906963789160cf2dfe45415aad1dc497c418bf3d7faecbf06c3ec4cd59f57556a60400ac8c7643bc9153ae64f91305884ace7d39559d12c37f2b71c28e91bafe415b11db9c3a8dbf2bf84996b5cfbd3115411d55277d4d816a3ef2937a04672e46ff554b3ac94a99441d7477434b45a5142059f09c623a358fc4266219c5fa62f90486496fb2381cda7cd78d126d8b46572ffaa5b8caa259fe8e184c0ae154b078c4ae7a8f0a8e1ec1530e584bb6905186079134f14e357f4194bc0b536572a0f029086129edc37da9d8a4b4c79118fa4a96a20f3d225db3bf31abdb30d5054583ea8ece63eb79d822e60e7915bb286a44662f528c0a97855ee6669439501d0d82510789b9ede11db6bfd504eac8d9f248091604593049f6057b7e5063206896694f1eb506527e747a696b3dcf9541c32cdee2e590d77fe76654219d9c962ffd784e77f9de933fc47430c2a1490e9035ecaa15ab794d319af5e10756030e1a13f8b9159c72759a63ed0b8f7b411ac99de1e66a6ae23019e4063a1d73bc36447b03c53b33376e52e13adba4310491e61c47853b88e080d12dcb3ab513cbf7c197fab5988f4dc072fabca434c502817d48ac68006c98832efbd461b3e28ab369bb51da69788587074f313afba039c071ed54e7f19c16aa8155f0b6208259e635dc6be66fc19f54e850a5c8a1ea76de52beb093a89f5481a463eff12e0b650e13a91c156c3e8f6ca25d191a127643dc1bd4b4e689c1e622517e516322f0297967b83297d7f0582fcbad817f10d48ed81125ed348598f6120a0fa687c97d2dba028586fb05007c6e3dfb0c690443180b86036e389a4ee0f2131a939c2bb7247b61fa8fd1704f39f948c0431f78a291943ea58ad918d72f408cd73f486e8629257a9885a878be38df3254028401868a7f3953e292b2525858feb0cd7838fa325e7b6192142e5fc989394fc975b2c260da71be804aedc0a29213ca6ab4953de960a241904617148198a9592e80ff</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -2150,13 +2124,14 @@ Ratio</h2>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
+        <category>Tools</category>
+        <category>Scattering</category>
       </categories>
       <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Two Dimensional XRD</tag>
+        <tag>Fit2D</tag>
       </tags>
   </entry>
   <entry>
@@ -2183,10 +2158,10 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
-    <title>Refinement of Pair Distribution Functions with PDFgui</title>
-    <url>/Tools/Scattering/2228582188.html</url>
+    <title>Key Parameters in EXAFS Fitting</title>
+    <url>/Core-level-spectroscopy/XAFS/2e792c96.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="064a32365e513eb9e82ad792bc464fc6605d591c5ce22c427c67c8161cced248">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd2c330224214af0d60b08095890b5714b43e89dbc3aff96cf9887d2daa1450ade5b59674124f024c2bda9651f1710d371ae367e08bb66f5dafa61ce4af9310bae745dc2375d5bbdf1bf864128c6331ed1401a509aa5c5878dfd8d3111a242cab1666542697faa671deed01904e42662013a5ecf6d60930e7b3abe3ed7895bd1e924a23e6c119fc436c396bc3013662d9d1f8657df19a8f023f6284be2e6bf7d2c074ca04ca5bf857120afbee4a44eddca33d55e3203463321762e8380b894bfd7fde3d7ad5eaaad44e4e32b3928cc3993d647af40ea133264e3529ef5c33e6a98fc0f063ef4cfdb5ec03cfe1ada741e00951b56ba24d3697e988c091d7e2ce45bb98e9b614ee4f742528f56365863c24ed434b8f5b3cceef41445e2d77a8823a2c3199688342b1de902c960f033179b9ed5850ced0a525d766bce48d9d02ba22048cc8a4965903428f805c768105268805837f6459383e7767dc9c9abd932bfcd5f3bbb6732992902cafd51eb1535398a39ecedf69a2b0c9268f3632fde41476e01e6ef6e83d86487e46de4dba66f79aa249bcbbecbe76ab9849dc33c50c6d560d05061fab191ad92c170cf49e94ba82494cc33257ed159e56ca5be23822b77744cf61242d067d5c4c6311a57c4e3215402d360fc7865469a4acc573a85d11736ee6038b9b1836f81e17d297bf23359a49af57116faf140c30257173342191d71db939a093ebdb62812c4509b991dfcbff1b9c40d41e51763187ca98d2c46cdaad5f23747e308774a912acc309c5cf8a6d7b0c45067a356e3863363884d3424985d72c8462cabf6a8fc06423162b3d11bfad4c3a1e8fec76fe99751b94829394c9db44ddc5921770edd6212b299e95e1dd4824e34e5f8b0a13abd41f07fa64971d2c8a8b69fdf0c1ac6e696ff2003b04179aa87413d65cd971fa1d7af6aa4286</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="3758c2cc2dca26bb90f6afeebe6111e5d1202c261f918a2fdfe544480c30ad20">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c73c35c4b31e9ab119620b01be56c7000d5e5c52561b83699dfaf91462d5c22e2413bc46d4352da423201cdea3adbabbe4b605b017f18568a53ad8012fdd875b15987bc777e10c87262cb998712f34cc929883d03d6b2a50234c5bfbbefa4eabc15821a11ccc2fccd803797d9fdf300ac3fb9593b6aefa87b8c85986a26f02493ed1c76c0aa20d1cbcd3fe00ae253da74d91819dcb992990af344c956c53ba266d543d17b21739a7ab31dc4171309250b3b63a0ecb88b3aef4345427ff05535fe641b9933c4e70f2b7fe56330c884d2746639a537dafd4cd75d89fced79b2fe8dde97d30a185bb886815e9f12a172e5972b87da3bc5880b1facf7274f3b5b4060b26a79485ab8c1fb1861872a6efad73b0d6778fd66e3f421cfea58349b62f0ca32cdac262dc1e6154558c81fc9a13f6d5e6162346683c9488f622d79b88696e66b3c3ee6f98caf307723322f79880a1d59e04f8300d56e067136376a3e257799512e276b84d8f6d888e4584e49eacbc90cdef97d1d483da91393d55b19a4556fffe1d7b21f8e191b3f841ba7fb5a22c154d1c412eb67167ae693af6953ccb71479331f7ae88de8f4b50a78ebb15afe8867d9b21a7646ffa7965975c2cd86e8f3d0b0ab4af811f6daa7700216b292a02417fd5b3bff92872740ddd0884248d3b35ed707ecea3a91ca9f227c0c6851dfae2e5ce1f0dc801223d2c62cd61f59483f033023784d6d045a37877d9fd7691c3610996be98634d914210e594f45b1f2c60ce893a25f6a1d43b3e2d3b51ef1808dd6c11f80a6fc364c76058974bd42cd7c5bccc8ea8855a3c625f5878ad6cfd4cd157284083e5266754818d401b7c3695372cadafe62bc5ee4adf5c445257d6be4ac32e5647728cd88502f50c4aff4bf71ca0880f8c71b9dc772429e11d7d0ed50ca760b2ba57c89741d828468c5fe08b9f61b0c7fd3cf37434abb461c810f4c525d08863b6fbf75744defe9d6f1da1e832686013509bcba8329cac892ae63b2ca4bbb9ab3b4c20e546fe4cef812dfdaf215c2346cab3a5e09b2191e99a680c00795a56e1134b5e7444b9e50f9505ae7380ffb8064f559fd5d2a93779cf48fe5df618ed596653115d7d41a2e61aed7d5323d0e77cf6581391d9c9b5c19042bbe6b8ea95d685c463e5bf4a89a213406f0e2daf4251af6a49fac8d23d3c77a204bbbd4994036fe2a630bb25b88ffef9991b2bc73ad1981beb74822001536363f5780cd32c3d1123e9b2ab13e7189f3fd44ef050bdee98b2647ddfdc5f0ad8ea6d96313ccfcb68ba388e61b7d62987756bf3dc849385756b73ea2604afe1e90cee31a0abe0581ba517022a3c6dde13ca74c1f977061e4ad1c19b521dbe5ebec36428d9d953c8502be362cd091c7ecf4d6b29a0ebe609d814685f1282c56383d797b1b2b16c459b29890573fc2a8d1f765450e4b9673ad006502830c3578f0ccee1e9ea8e172b223b4b5880682e57fdd255489532ce54c8a2cad86bdd501db0786dc5688ee6c94dd292065711cf6285da47804fb4e9cab57385fe1f1df8bf25bb45602acfea11303fa82b8adfe57da5a3392525bb8c324740cba330191efd6d32adc806a3cff89dbaacfc785bc10f79622359544fd1f7f3eafa0bca00bbce01da770e7374d2f4ac3b2eb2d24626499e335d54101f75fd7b2788540eb2581057e59c2a425d4366cee21bf2aaf3faaf514ef16e83625e10f5b33960c9289e07e6df6b7969adfc256ac9ce49d8ab8384135634fc4d6e7c285dc5ffabcefc714dc981210d56e1d7d512b904d02e2decdf1ceccb2b93ad1fba45e03f00aaeca114adf7d62551b35723d63d9603e5605773549c3200e413acebf727ae52628960ee59733ba89a4fb53615dc41d90b5f1dd751eecaabfac27c44a6c3c6d6a3944717e9a2ef14fefb95086eaef6f01b9c8979da6d91b05c448630b262a84304f96d0fad396c51a20bda263c0c079f5430e989ae6b48dd568fa385d3d1491d5bfd108a45ee569704c7ec657424e1021a37fc4f49ef7af367b46a8f8b3552c9e95dccd7d8427171c0c388de383efd806174d68f753aae7aa5ce9423dead874b567e741294c982646561c9e4e139022b155efd9d447eb07d67f4e134b4ca695495ed13548182c0c12ff698c89cf7d41ff1f59017b4cda51d23eb590b028cf23cc70b5c4cb6a1ebf2b9528a70ab7347ee1a1c164828e4da905a0afcf9d422486b01a11a684928e552a19da7afe1dee9f3f8f814e880368f630d562b6dd77129da1f22d11d6091dc2ca8d2910eebe35c6c9e611b3a09a09bebf1a0df3f6950dbb5bd21eb095d98aaf272c77990b8fbf15e63ca268e05111586b936d144a0fdc2ed5095866d72791f2e4aedb1d819e98cb67fe7cebc773d68d02538d65639f7e511ad8ec668283018b377429de44ee4b0197657af4f89e655f7a8157c438cece5131a7b1f5ef17e7d5ea015ab9a74968f15ecda1424194cc88d2245bb94a3a26ef099173092e49b0cf6faacc11cbe61dd80c45fa75c9fe1174005e54c073adf7b9bd25901b8cf906419cb9ec80a2353d958b22e0f1291f03cf93eb9573d1d1493fe45ef881e8739b35a94ad8a095cc33fd717309cc470a4dd13e35d4b34cc708022fd6d86f01dccdd87d6dbe0b5b39c1343b90249bdf26ae56c30d1b45d5b89ee19997ad6d1f1ae6cbb5b2928a99e34645c0aa1de0ecd7731ff8d4b08c45b085d0e4ddc4c795b0244f273da3d91fe82e9cb9ed6b75ce072495600d74e213176fa82f272bd206cea576e42e835ed85f633f9085c02be4e55559ac78657b9126cb8d6410f2b34e764a8d77fb57a349a5df5d52d35c7da9c919a425bc7450b2848b85e2e9b778d40e8a3da1f6f125ff35a88924a915244225eff1c2a4d23f646d9230e58135725f9b27b71003b2510645f93507390ac120617e6868237fe5b9351c41468e1216ab84ddba7310cc68bf475b7ce0ab1b6e08aa31e8f23573e6dff250e0ad28e2216a2d77721365f0789d82d6aa9f48792fc4d4d3ff392c25ab753a055a858213d2adcbc26b9085fdb99058f7f179c17662c6e592e422a7a814763a7a066e108ef81e41af456a3a8df8deb48686a25a203794bc9fd516c939c5e94e4449cba7d0810eab6569cbe6703607cbfdf60ea6c6e5857652bb5945e38bf995e21a3abb087ff3ea5d826e0795e588f78e3fba956b85bf9d0eac9338e8a3362827fbe61b0c9179b4b5b571884294e47a886deb30487c1675e3ce08709ac59c6dcfb5505a1d48415249a2767721665ca41bac3f114785cd553c710d8be46b1ca25a77d73b2e160aad03a92ad36caf43f58febd214fd42714e2066a036179a037e1b324e978ef5ab3a5c69e65c000a42d611cd183ecfc9a5c91f2b7755c853cf60487bf6dba48b74453fd1492cf5ff85379b2845920ad57e6641fad41bad41ea9f2b26027197de2aa1bfe004a278a9c8112ce60d5e813639d6a887286ff50ad64666ea3959fa795bac0ad742b57a67c8105c1ca42c448272dbffdf0d8bf292befbe659c4697958c7afb6139dd9ba3e3571ecb6e9f646e4183333175dd86b9f38300b6bcb6a83ef7da4112b9679add76f51f983b23bf8e47eb758269eb770f98c364026784df4e9b4a2553db070b953c6d4ff9af498f4bf7c674b2a5d59af3e853cfe42a8ccda308e0e1e26475395718e78e11086d61c5ef6aba6826a8d3dfb73d9ec3a5feabb491c621ce676650c3f0d28ddcae4c47cbf626f0a1c2df2b142f7aafcd70f90c87c38e9cd3cf4d72d2dc5c4b6c975576515fe4c7c177e044cca0c0a752f49f5b3dbd164223e530a684740abd6c179d5dd8109b62a81f325919d63c8020bb6b3a64173a2ad6d661f937e1884b5299fff39256e0f2818fe2eadf39686334a55555b798a0bd9c6195b8706654d62b06b7e91f00d7dcfa34edd360685c0076ae5129d34f1f0be580640ba415c03aa02c1aa3cf0155c142014e91f78a81908b9f50ba2ae7dcbe8d28a53e63d76dccda984a0b07d45e51fd75f0287e1464447d9967e5ce874f3091504e524f297de21e4c66cb471be13c31c820a1f7705564dab33878547efd84c69238a61dd9d543f201026b5f893e467dbec67c4b64c5d3e222f4289de407be167e25fa780763829d2eb648b103d52080569e9a5a9fca6a13f3ea3329c1aa3fd565bd9e9a19ad36e5427f9a07b8e0f18a236ee86d98f7cdebb4135110c5d6961ebb53ba8d548f98bce7303215c9804504cbddb7d111d49e6bb43dc0eddf61e6c44a643740554d9dadde2caca46ee255dd99216a751af09e1ceb0972183d67a65749f16fe10ffbf77295d2df023b98081bc06bd3edbb5fa48315979cccb4f4418afbb3954a7a371891f1dee6c6dbe2a07de3aba49d81e40d3d2e97c0c4ba787c2c857a351c988e05b14e670e745d59578bfb8d24f71bc4b1d5c24c7f0959aea1968600c5d540616c398688df026072ff206fd90a7de51957e99e0a848008384c9ee8bf8d6e56094cfd9a82a709bdde44d85dc5bce3106114f4f0e32bc42ac6bd4c8608ba1184468271abf927525a9d58b1164ffc01ace78d37b2628d162f0f4678d045c7a2891d97b40580e8db78ba7ad345de9855347f3a85cd2a771a0b14f8ab96666edcd307471e998e70e8f298fce3bb8f6cbdd8dc2b8539cb49af171438d5088f570a06988913f82c60912a626590f159615f7547ddd1719a1fa3e139ed604d92f3c57a0d69cc2538daadbc97d988c58de92141a8e6fbcd4099d0f953db165c2dbca2f00b9cda864f9d813d8c9dbf0927fa0ddfb67c542d4327b2fb7ae02db1a64d7a30b194a2d5d07538f557c0fb3f6f801765f84fabaad4d4b77bad7a64e7abe487a00aecb9a6809c723bd88ffd18aa279329c9f4e69f0d1c765e206deef7ca556de9d820c628c5480031267fde3bd1ef55f01f85543f1e25bf5747fd670984d5395b32b76db2aaaf82bdc15c317cadee8779c42a4511b2153926fdabc7d392ed70a13c7d078947a9201c904dc1951503fedb8b27d983accd3bd4a32e809c642a92c1454e916854aba12513855a865948f60331c8fdf8690e91cc01b2a6df1f1e59df31ac514577f20649b61e7120fbbdc36449eede1295f09d7501247c37aae74bf385b56e7d66e6fef906de1a4320d014c3e288d524ffaa0461d8fee9ed7f80b601e1ebd3250d51357215772a348166ed7f48e81445b0bde0870bfe0120300b4b666f45502ac430f48c780ebddfc043219e92d3ba6e83c5e752d0772368e35b5142443c6ba7520ff7bb51b9fd83d308f2caded9989d520c1c31eea03df24257483cf26a65c5959595337510be8bbdeb0f7bb0cfc93a2e893c65ae11d3d64f7d16ea0938cfa33f37b257ace8dc9572fa111a8aaeee2de77bab645022b671aec8d1710750fb0f3480d6f2ad67c33148d234b3678b08b728f0f75a087615a4c9c5485149ea272e4a8073abb6b1461b9fca1adf090f508a2390a03e51cb4dc159d00d45f2a5c7b1b5c638305273687d4d0a08018ba5a8b06f03592b0c7a6800dcc6f6c4b4f65edf79d39bf06c836769b1d41206dfd950478d766de0436306d44e6b513b96a8d9b5085cda1526184b5d937603aa3458ffc6461dfe9c5a18e9b4add506417edf1e841373acce2efa91aacc6af8588cc24d449e6ce487f20cbc4980c7de28106a08feb35dc3a7a1e363f227a89d6968a270d10d4740809b435330f7788165c9700f2ea261bdba94c4e4ab23fcc2f44a5db6ecde94d81383c8567227d2123d53a70ef86bca0dba63660fc2553fd1da37b9ed1a19df263f001d15b4aa29c66abd41bd738886843be2eb5d6fa028096fb299810c542f7583959fd6572fcaa95ea0a3ebf483f7e75d6245a64d31158be06ecf7c72d6af549f97e7545c7a5a79930cb3daf4eaf58021a6dfe93d1633e9b6f60fcd406ab021b182c59a2e105af22d2e498ec3ca423be09a27c70b916dedbc2fdf1c06070ddf2c6898dac29b41ba593023435d62ed377dedab2753d01aa809b233b73ffd7a2b7f5ff8ba80eeedba908094b238266c54ef223d76583a69b64c707a55f3e97b2e13ad4e6907b354b9dd45e5305856cb6370a82319cf3eb3a8e5df17a39a04e99bd09ff356164b45ada61fa218c5e35351e0d1f19a3f38bd2330be33ff3c9c91cd7d40b69c8f9f91a4314096aa0ee66712e991ecd9353cf6337d041f4c22dccc1d8d008914fdd286ec7a92dd68400bf1017a084309c14a9e7a653869572968c27aed26254671b81d6db9ea0fb4015a4e2250b78b5a70fc04e5671b17aafa5feda9d587202b10cdbf3508d67d98b1de4187a93620aa55668758357fbf32bfbe94c0d39b8fd212c190d6285f0f900c35b2feb39f4f8f1e9060aed2cc21ec347503cc8b75495f08ae6d9389913b34136a537a0297c245937a179a31f452bed1427cde5b7aa128aa6d63d1383b4d0731e83fbbfde43b2dbd44239826ba207605dbd3ef07c86280df42a99fe91df0d77310f7287790a938ea6bd8617257ef92cc972365fedaa29c2af3e6079ecdb4b0cb62e11e499abffda5002eab1b2a182da87b5f1dc1c850c8ab27b82e87457e6f0a371662f988ed10c18e295281b10161b59bceeb3440e632c0ecd676f5aaec2a1a1af45e89be2b1a1e15901b4131b17be6795e5579047bb11bd14cb26dc446be74e9fa25708e471d27e9b988a11b3c1df95dff9dded3842a3e052f2964917df7fc5929ba60e6ff46e8143f102c1bb135d1b553f6c5c4fbfab445dfa0b54e2a250a5dd783a276148047b7f156f2fbccb6646f7f4eba5ca2ea631188e03e7eccb8c2b9b2fb6b97562dbc26b26da36da8c444616029bee51b8018dfe77b9df15eb23f547eaa2698ba2300e141b92e447b4e69cb80ae147cdadcde47fcfa5c0d27456ebbb4034700a669136586cbfd89b3b45f8f68ca0bf855d7d89990cd1ca7ef25fd1b9e6d74792c18a0ce4dcc55e5fae2ed2a0676a2c1466d175755d9d6067ba51bb00f4c5135a2f8283b498ee0aeeb6093dd866479a3e117326e128fa395e5b18be5b63cb3c609a1a54364c1572efaa6cdc1a29fe3490f1f52556bac983e7e60ee0b8ff57cf3f776d627935f56e938f176e1fce82ea0517bce38cb1bfc878f5ed0feedd2fa8a08c2443e59a268a5b84b5471e6e89209fc85fc3e08611f98a246613d78473e88a288220747f7c6658da38e5eddec9d986fc36103802db97f81aadd4399993f77fb850603f0cba098e91973ce985a68cce7d055a81f2bcece072a966c3911b62e7415d04e9a9d62f34b98102035233c8203845b8fbaf5b7a9e8fa4aafa542d0f25743dd42ea64943fa9846d7714fbf8c82574df7014c1c53a0f6f6cedd8d3f7077ba8b6808c1715a5dd9dbf590f4d756c59be8c02837bf43978257c1677cb7ec5e620a4f6a96845dc86d589b6240da14f4dfc95aec8964dd8ed778c2efbfd0a86c90da4ef048bd0a4dc47f86d711f3be77255fba9e1543b9f7bc907676911cb49e23dae44848039633b03c1df6a34d2f04d3baa751b89f314ffaf943f15720c559e2b1b8fca87348190ab883825a2752e6c0a0936d63011ed8bf9007cab1a4615548f204a1187532adc6dbf60957b94dce4f64be485bb190085c46e3c52641ebd6f6b3e82fd0f8aa11fab77dc0958df3ac031f28f33da7f6299e7f34f9a63944524b26065316654ab27ed1c057ef06f28321d8433722d39d7da023d064b2d343f95e13bc4a57e2f2306cb609eb0b6eb84f85f557cca6de35246e1fce975c79b3138ed889b5c7eeac595606b77c6b67c90074faba935a26d1a1dfc765c228f2198201930160eaa7f5c6a71854f3d479f31768817dfdec7f8cff68ede271ebbb3108354ff76e5651309de8f4967f73d40750feb000743bed8f944861f8b7730807f53e63e30d435fde988c1a32b463ecc2bae5b817b3eb7353e78a253d95c12971f68c962e81f537b334d9de99cdf28b4b37cafc0e7291daef47db62bdc8fefaaf718251e621799cf440fa9afa7ef160898009858245884ea3b3f6263273936bf6d577fbd88b24a22be5744006d8ff47641bec284493a504213ed38d3a8fc6a90533af920a6b11c5e490f34c5494a459486bed3a8e83361975978db09cf6aa39ea428eeb8d61d99c842f08343932258aeb78c3e2fd6eed98e58157577d73a9ebd8b9a5629ce2bd050bac54882fb55f24af4846a1b9f89d327982136910c42fc7bd9d78ff4d15e31c0da270bbb7e05ef9453aa0db590035382f979f952200e769d387faf95fe97c54e27dc7093f46cb1acb3d1ce6c8de24002218b9346981bc8dff168abf832b3a847ae59ed07a3f4dada6eb5394b5ff763baa854fbe872731eb48f4815f6c3aea71a8cd259613f9ed55cdea16e2212b019fcb7fc4b5bc47ed5795ff586912afc1db6d589c934171554d902691c58c9c4aac6be0dadbc520638a76734b3c1c5eea5dbfaa53fdbe33645d20c35c33ab4022253deade0b9408220cdcf4d258779cb43333e82ae9f8329ea739825602cbc0e5ca13713cf6b227c450d8f0eba4edd5a85e1a201c428c6368b0cd5c1e47e84fb390ebcb087afe61e9b3f4fb526f43614836751a33bbb636098a704203cb8aec2d1fa4a7cddd8549fd49651cb5295c97245b933d1fb36295d74ddf794331885a60c004662bdc52b77e8175b306c69957162aabe56a26ffbe423c086ad9c4c743ca1d9912a9eaf27cbd9990372624a5f8f951ecea961fe3f646826cc48923d5f639e721f292dc1e804ac21a0e53d4dd8e688dc0112da43c20266a7a60ff88622d6d05981a826eb77f0d3a45013db3c11b69aa39c397d7f90760632a470dc33011c9611f75ba7bd3bd29ca39870b65b8b7131e03f1cfd1ea930a738703e2baf1b02cfcc48bfb5526ebdd25c61c6b61cb45ba70c62c9148cb4a1c9d66cc3ea3f40dbbba1f5653be84e6b7706b6af2722e4d3e3b781f699f5bb37cbae37124c3a4afd7bc65caf43b84288f52cf66f6eb5cd7a988b3956c8a92b1213f10010f4e4cdff0e54546420b389ff5cee06a4a81287f95e25e59cb87a455341dbcc54eb15c6e0baa3ba0b3a723708ffdcf7c75c4c3d8571febd895f3a8ab4b03a31506c916d81fad71fa995435185cc692051aebc9f87c44efc5b3d2a839bd1b6b5f9986da31af8162070d1256f0b6f2127c0f7d1bea73a60f414ee0cfdb700412392eac4491899d6f296fe2377c6239cdd1b0c927f1afeeb93b08d039f1c6841b70543604370253fda1ecfeb535f272fd4dfc2f18d4b381fce170760c6430e35878cd5bb57fe2edcbf2738566026a92e23e259e2040239a1ec079c6ff59268b4cddda9a13039a44aafd9d1294ffe919defcebda4f4f2847dd29170d791c9e6caf29b55be2444a7fc5d5e88a239d65ed0138c2fb58df47bbefc9561631fa09272a7b56cdb732442130f9db4fdb1660ec2be10911901b66b80e49fa31f3442da2d357c5e20bd945292ac56f0b4d27134cf257d8df1820bb529cfbb74c057bf21d58b4eb92236de74917686bcb51a5e641ac84310ea29efd36df5e817dc3f1a462edb519a9225dec62b0e64e0bd485c19055a26cfc5751180b18b41828c276b166fa3fbe0f87e904a91934cd4d6fdb8caff3a5d7ceb66a813250646ab27c9528835013995abeb94788b7af04786b6ef06ac28d09d7422245c2734eb47065deda8fffcda5f967dbd08fd418b65330e3818112a761d7c89e1a7c3803a505b1ad01998b616ce020b9682c2de667cb49b3c39944571e62ecd1c6bb55515fd33ae58390c3fbe2bc49280611efd586ed14125da6382b8f26568398f84365be6407b7be2c3438d5da65337a38266adc36724a3c37d0f920bb45c6af8f5a3aa7676aa558f06f448dc1019b9b92ea594de39f8147ca06de143de5d4b40150793fb842dd6adeb04d426c5495be67071d94cd3364dabffed8154b8716dd57cff07f274c3e89251155656fc0722436d92754e122745ccf83d9b006f8c452fa176a34953465fb18c35215f7257aad8561873737063ad0f6cd509a5dabb9b8ba83e3398df5e6c61921d64d97210769a98153223b8939831f0ad424d8651b80d8db164cb703dc902e5da8153682f197587d2f192951c25ca3b71bf285d128aedc344655a80d428e8fb1c50630374638a8275b0c8f53d5036e66f4282702185edbfc2a83055cd9d76c5769553c9af3e14755b7906963789160cf2dfe45415aad1dc497c418bf3d7faecbf06c3ec4cd59f57556a60400ac8c7643bc9153ae64f91305884ace7d39559d12c37f2b71c28e91bafe415b11db9c3a8dbf2bf84996b5cfbd3115411d55277d4d816a3ef2937a04672e46ff554b3ac94a99441d7477434b45a5142059f09c623a358fc4266219c5fa62f90486496fb2381cda7cd78d126d8b46572ffaa5b8caa259fe8e184c0ae154b078c4ae7a8f0a8e1ec1530e584bb6905186079134f14e357f4194bc0b536572a0f029086129edc37da9d8a4b4c79118fa4a96a20f3d225db3bf31abdb30d5054583ea8ece63eb79d822e60e7915bb286a44662f528c0a97855ee6669439501d0d82510789b9ede11db6bfd504eac8d9f248091604593049f6057b7e5063206896694f1eb506527e747a696b3dcf9541c32cdee2e590d77fe76654219d9c962ffd784e77f9de933fc47430c2a1490e9035ecaa15ab794d319af5e10756030e1a13f8b9159c72759a63ed0b8f7b411ac99de1e66a6ae23019e4063a1d73bc36447b03c53b33376e52e13adba4310491e61c47853b88e080d12dcb3ab513cbf7c197fab5988f4dc072fabca434c502817d48ac68006c98832efbd461b3e28ab369bb51da69788587074f313afba039c071ed54e7f19c16aa8155f0b6208259e635dc6be66fc19f54e850a5c8a1ea76de52beb093a89f5481a463eff12e0b650e13a91c156c3e8f6ca25d191a127643dc1bd4b4e689c1e622517e516322f0297967b83297d7f0582fcbad817f10d48ed81125ed348598f6120a0fa687c97d2dba028586fb05007c6e3dfb0c690443180b86036e389a4ee0f2131a939c2bb7247b61fa8fd1704f39f948c0431f78a291943ea58ad918d72f408cd73f486e8629257a9885a878be38df3254028401868a7f3953e292b2525858feb0cd7838fa325e7b6192142e5fc989394fc975b2c260da71be804aedc0a29213ca6ab4953de960a241904617148198a9592e80ff</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -2198,43 +2173,13 @@ Ratio</h2>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFgui</tag>
-        <tag>PDFs Refinement</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
-    <url>/Tools/XAFS/a747d641.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="d88eefc7693d2515c77dc9264a2482e5a0449924a1dafbcf33a0dcf0ba5d8835">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c85a4ac63a24d2615c8ca28a7f181a9280225d626b7cd9f8f3f35024c335a18faabc3f08c0ebf1c009e81c9f2623b29c729be82ac062a66e5975d3fe442b6a9d4d7315586e6932a066c5cb8ca89c9b3492a70edd0418edebe6e213770e2624c54629c6570bd6d64ec5c54948f6135e18f0507bf7a04a13505ac06e7cac0ec93676fb01a3a20365a6e188d0375cff43cb29fe9928709efaea7725e3fa57bcede95520c3ad3d6e2965f7c33aefa77c00a5d2df749c5f2102317b96a8e76ef8e1e77159cc22baa6fe10b260b8a1d2932aad2771a9f57324f281242cad00e760d81ef4841de5f876d2bc1f394b20037f15cb6e105796e1f78c352a2caa0c516d055eafeb095710cdf179fae0793c93e88c030103d587549f984e418b2e6fdae38be5cf6585a4667a98a1f3e63a311c5f063ae9928b876ec55ee2112749bf07b7419ca49684af3c343d2ef51f307f0df3f4bde5ae7caf75bac7baaa07c64ccd867945322d2845a9702bba7bcb40baaed3087a581bce5312d297ba1ca136ee78fdf13d37602565e8b6000b6de1749538c75dcac9ab038d7dae6f4cd7c828b0bd382818427e7c9b8ad38a560b4fcd9105f1587941f0e851b2fa994c4aad6989f3eb4a4c9</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
+        <category>Core level spectroscopy</category>
         <category>XAFS</category>
       </categories>
       <tags>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
         <tag>EXAFS</tag>
-        <tag>Larch</tag>
       </tags>
   </entry>
   <entry>
@@ -2261,15 +2206,15 @@ Ratio</h2>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
         <tag>DISUC</tag>
+        <tag>PDFs Refinement</tag>
       </tags>
   </entry>
   <entry>
-    <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <url>/Core-level-spectroscopy/RIXS/ea3abef5.html</url>
+    <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
+    <url>/Tools/XAFS/a747d641.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="e6493b5a02cb9cf4ba42dc6e7b3c0c5cd2f4eb681f64a1724af24ebaee2f32fc">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c027d4337040ab604b519834a19aab09d3788f7ac4c104649381bc344d74c2550bb4860183928bba659a242e2048415370f41d1d4df107ccc318644ab95bc07cf5d399e3175c1e720cf4efa8141613f7d9b49b67e794043aadc759fbc86ba6b9fefd4cf8ab79bd2a5fa05f7c70de7e8c3700402f0dcbe92e1d3ef791021dc8c23c282efaac0f0f2ad92fdacaace8cc39a34f55ea92df2ff832b080316b9083e587e3050527c0defe90fa604fc74ed196255956f1ce92d0161649ff0465b1b197e53b597cd5679db8ed66cdfc66d92aa076a7a300559425e249ca3443bcdb9a0b2fb574a348cbf1da19ae0e2ee134a6c08012ca3bba3f3736c59cd32d5a711b89632296044cd26264def3bcf1c414b8ddc6c7cdf02329b37c0609fe2eeb217fae6666397027a075a9abb1e4d78c57b10169431d174b4ed127eca7b71026ff3bd4e757bb9314cbde3fbdb088c5239d78f77b450b9e166cdf04b28ac9085240b1c9730d9284309008ff4f3498ecbb53f4a07002899f3c2625c047c69b5f3c0dacfdd129be83ac6902d1da06457238158092bff4d15049960c12f1650b9ba4e763b27dc23f5145bb342444b40117be73372d6ba3ac954920c98ccb9d32f45d50e9a634f7a2475c276d47b56998ffda1b6c27a55692a19252b69376c205917fd653cd45a638dff119aa994338b3075178be66f0d1c57c27ece8826dccceacc8d085475cf387a153a0ff137b76368b00297553a7de8db02c66219403f685a3e9a761ed11aeed124640423a7750751ec1e68c9f9674186aaca67991042f96407f7625c66e8f364e048806e34c85336abaa7a00924c01c452d388bba2c12773d8337d167490a5b9da503d46d9bb7126fe9e9783981bfffad3f81eac206ca1cf871c05818cf08fdaf3b7cb48dba51a0253b1c09e07c2e1d81f31b354bae560ee93d59e1c44c863a9d27f67d328a44d70703bc83f9a211631df3d61289839b554e46582a6b694d990a8a53c640118e1d6c88da518a6ed92e99929218af1b8913408090afd2a012d854c9578c08c855f723475e931ca62828005edf36ed7507ec24330521f23bfb1080a34827a6f3422e8881688fb7788875531d8c16cb4dcb15435a3a5e04259bbd27d9590b2c59d1c1c0b192770a8677e551bbf7d4f9815bc5209030e9d3c2bc3064ab40a0d387e32472078c0a99dbd53b8493b8dcd54348f442ba642790ab0a3040f0b5afff475c38f7a04413e6bf0a5001784d91b6a20a94952ddc1017fd8e719983691f56fb36252dceecb56e9c291b6d1528720daa475292c19e24f279cab96ba88b386b1c2c6b7d86589d62ffc0685cf661808ba5b156f74f629f3101c5e64cb5b1f0a6105f006e90e1c57fec54191f7bc59f1a1886ed19e4df5babe7cb0d99a9858d2ce22a61ac6d3f8a0d400d261dc147b5a17bad75ff271b82d9b311e948178fc730cb72867ced624855bf98cd3ab3c0417fcac011efcd67de234e539750f98beffaf36b3b1057289e9f703f537d941983aa2cc5abbc9978e349a5bba0eb64bd981e51dd75c28358aa4cc6f5215d431ea28a97d4a64b7cc50b79a5f514230ad52e8b3ec7dc83b7839c9a413349fcb00c045588e47fcaec5a1f890b19f42fbb205e3e9b0bd2bdabae56a17f47b1fc9d7f790071defadd35d20f536b8c128580e43dc0788117f40af92c51d6a8fca07def8f979f712db4404f41485112001d2a67d874f4441c6fa35a8aa0c9f90bfff16be16bbc95f75d012dc0e235d6266cd323c1a29d7c521517ee8ae8703a895d415c85d48db7f513cccbe75241bc1bdcfc1f3355faf585195e66b9ea77aa030b7685a420e6f5f8b113ae08eeaaf3299f69ee1be939973f8f3589a2e2a7b7e27f3e38853999064a951f5b853ade97cf4a4c057aacb20cdc7a66ba4b6169b2ed98036993ac12a9afaaf1c878341b4e3e4621721394306c8c2a05dfa09e9bcd88936c6b7e0db1b01ceef086f1a8e74371c8b3be79c31ee22a899d6713cf10efe12e289b11373496cbe2d6595f1c08f3bb60d5168a7b234df6056913ac459847206baa1df775e3e73dd6481e26d285b3d48537362375d485bf6890061eb76eb6ca7b2e4fc0a8827c7e5d030f18df88ff91c21e4a1d747d3ce902bb932c558a7463c4502333a092f8154b79c47b3fd2af186e0b2c5018174ce66eefe8b4d66a2a5ce97839ad43535e3ab7450cab462f9f131c4c4255db03f4fd86c9b49c4dd18469d3dc676a91019025d8011e974e3f1961a3d5b47d9afd27950385c6972a0281ad39367790a1d17aa31c54639988736f30b2500f9fa0255d54b472caf52239b698d39c348e0ae144e485a9338e3cb</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="d88eefc7693d2515c77dc9264a2482e5a0449924a1dafbcf33a0dcf0ba5d8835">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c85a4ac63a24d2615c8ca28a7f181a9280225d626b7cd9f8f3f35024c335a18faabc3f08c0ebf1c009e81c9f2623b29c729be82ac062a66e5975d3fe442b6a9d4d7315586e6932a066c5cb8ca89c9b3492a70edd0418edebe6e213770e2624c54629c6570bd6d64ec5c54948f6135e18f0507bf7a04a13505ac06e7cac0ec93676fb01a3a20365a6e188d0375cff43cb29fe9928709efaea7725e3fa57bcede95520c3ad3d6e2965f7c33aefa77c00a5d2df749c5f2102317b96a8e76ef8e1e77159cc22baa6fe10b260b8a1d2932aad2771a9f57324f281242cad00e760d81ef4841de5f876d2bc1f394b20037f15cb6e105796e1f78c352a2caa0c516d055eafeb095710cdf179fae0793c93e88c030103d587549f984e418b2e6fdae38be5cf6585a4667a98a1f3e63a311c5f063ae9928b876ec55ee2112749bf07b7419ca49684af3c343d2ef51f307f0df3f4bde5ae7caf75bac7baaa07c64ccd867945322d2845a9702bba7bcb40baaed3087a581bce5312d297ba1ca136ee78fdf13d37602565e8b6000b6de1749538c75dcac9ab038d7dae6f4cd7c828b0bd382818427e7c9b8ad38a560b4fcd9105f1587941f0e851b2fa994c4aad6989f3eb4a4c9</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -2281,14 +2226,43 @@ Ratio</h2>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Core level spectroscopy</category>
-        <category>RIXS</category>
+        <category>Tools</category>
+        <category>XAFS</category>
       </categories>
       <tags>
+        <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>RXES</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>Larch</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Refinement of Pair Distribution Functions with PDFgui</title>
+    <url>/Tools/Scattering/2228582188.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="064a32365e513eb9e82ad792bc464fc6605d591c5ce22c427c67c8161cced248">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd2c330224214af0d60b08095890b5714b43e89dbc3aff96cf9887d2daa1450ade5b59674124f024c2bda9651f1710d371ae367e08bb66f5dafa61ce4af9310bae745dc2375d5bbdf1bf864128c6331ed1401a509aa5c5878dfd8d3111a242cab1666542697faa671deed01904e42662013a5ecf6d60930e7b3abe3ed7895bd1e924a23e6c119fc436c396bc3013662d9d1f8657df19a8f023f6284be2e6bf7d2c074ca04ca5bf857120afbee4a44eddca33d55e3203463321762e8380b894bfd7fde3d7ad5eaaad44e4e32b3928cc3993d647af40ea133264e3529ef5c33e6a98fc0f063ef4cfdb5ec03cfe1ada741e00951b56ba24d3697e988c091d7e2ce45bb98e9b614ee4f742528f56365863c24ed434b8f5b3cceef41445e2d77a8823a2c3199688342b1de902c960f033179b9ed5850ced0a525d766bce48d9d02ba22048cc8a4965903428f805c768105268805837f6459383e7767dc9c9abd932bfcd5f3bbb6732992902cafd51eb1535398a39ecedf69a2b0c9268f3632fde41476e01e6ef6e83d86487e46de4dba66f79aa249bcbbecbe76ab9849dc33c50c6d560d05061fab191ad92c170cf49e94ba82494cc33257ed159e56ca5be23822b77744cf61242d067d5c4c6311a57c4e3215402d360fc7865469a4acc573a85d11736ee6038b9b1836f81e17d297bf23359a49af57116faf140c30257173342191d71db939a093ebdb62812c4509b991dfcbff1b9c40d41e51763187ca98d2c46cdaad5f23747e308774a912acc309c5cf8a6d7b0c45067a356e3863363884d3424985d72c8462cabf6a8fc06423162b3d11bfad4c3a1e8fec76fe99751b94829394c9db44ddc5921770edd6212b299e95e1dd4824e34e5f8b0a13abd41f07fa64971d2c8a8b69fdf0c1ac6e696ff2003b04179aa87413d65cd971fa1d7af6aa4286</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>PDFgui</tag>
       </tags>
   </entry>
   <entry>
@@ -2710,6 +2684,32 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
+    <title>Principles of Resonant inelastic X-ray Scattering</title>
+    <url>/Core-level-spectroscopy/RIXS/ea3abef5.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e6493b5a02cb9cf4ba42dc6e7b3c0c5cd2f4eb681f64a1724af24ebaee2f32fc">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c027d4337040ab604b519834a19aab09d3788f7ac4c104649381bc344d74c2550bb4860183928bba659a242e2048415370f41d1d4df107ccc318644ab95bc07cf5d399e3175c1e720cf4efa8141613f7d9b49b67e794043aadc759fbc86ba6b9fefd4cf8ab79bd2a5fa05f7c70de7e8c3700402f0dcbe92e1d3ef791021dc8c23c282efaac0f0f2ad92fdacaace8cc39a34f55ea92df2ff832b080316b9083e587e3050527c0defe90fa604fc74ed196255956f1ce92d0161649ff0465b1b197e53b597cd5679db8ed66cdfc66d92aa076a7a300559425e249ca3443bcdb9a0b2fb574a348cbf1da19ae0e2ee134a6c08012ca3bba3f3736c59cd32d5a711b89632296044cd26264def3bcf1c414b8ddc6c7cdf02329b37c0609fe2eeb217fae6666397027a075a9abb1e4d78c57b10169431d174b4ed127eca7b71026ff3bd4e757bb9314cbde3fbdb088c5239d78f77b450b9e166cdf04b28ac9085240b1c9730d9284309008ff4f3498ecbb53f4a07002899f3c2625c047c69b5f3c0dacfdd129be83ac6902d1da06457238158092bff4d15049960c12f1650b9ba4e763b27dc23f5145bb342444b40117be73372d6ba3ac954920c98ccb9d32f45d50e9a634f7a2475c276d47b56998ffda1b6c27a55692a19252b69376c205917fd653cd45a638dff119aa994338b3075178be66f0d1c57c27ece8826dccceacc8d085475cf387a153a0ff137b76368b00297553a7de8db02c66219403f685a3e9a761ed11aeed124640423a7750751ec1e68c9f9674186aaca67991042f96407f7625c66e8f364e048806e34c85336abaa7a00924c01c452d388bba2c12773d8337d167490a5b9da503d46d9bb7126fe9e9783981bfffad3f81eac206ca1cf871c05818cf08fdaf3b7cb48dba51a0253b1c09e07c2e1d81f31b354bae560ee93d59e1c44c863a9d27f67d328a44d70703bc83f9a211631df3d61289839b554e46582a6b694d990a8a53c640118e1d6c88da518a6ed92e99929218af1b8913408090afd2a012d854c9578c08c855f723475e931ca62828005edf36ed7507ec24330521f23bfb1080a34827a6f3422e8881688fb7788875531d8c16cb4dcb15435a3a5e04259bbd27d9590b2c59d1c1c0b192770a8677e551bbf7d4f9815bc5209030e9d3c2bc3064ab40a0d387e32472078c0a99dbd53b8493b8dcd54348f442ba642790ab0a3040f0b5afff475c38f7a04413e6bf0a5001784d91b6a20a94952ddc1017fd8e719983691f56fb36252dceecb56e9c291b6d1528720daa475292c19e24f279cab96ba88b386b1c2c6b7d86589d62ffc0685cf661808ba5b156f74f629f3101c5e64cb5b1f0a6105f006e90e1c57fec54191f7bc59f1a1886ed19e4df5babe7cb0d99a9858d2ce22a61ac6d3f8a0d400d261dc147b5a17bad75ff271b82d9b311e948178fc730cb72867ced624855bf98cd3ab3c0417fcac011efcd67de234e539750f98beffaf36b3b1057289e9f703f537d941983aa2cc5abbc9978e349a5bba0eb64bd981e51dd75c28358aa4cc6f5215d431ea28a97d4a64b7cc50b79a5f514230ad52e8b3ec7dc83b7839c9a413349fcb00c045588e47fcaec5a1f890b19f42fbb205e3e9b0bd2bdabae56a17f47b1fc9d7f790071defadd35d20f536b8c128580e43dc0788117f40af92c51d6a8fca07def8f979f712db4404f41485112001d2a67d874f4441c6fa35a8aa0c9f90bfff16be16bbc95f75d012dc0e235d6266cd323c1a29d7c521517ee8ae8703a895d415c85d48db7f513cccbe75241bc1bdcfc1f3355faf585195e66b9ea77aa030b7685a420e6f5f8b113ae08eeaaf3299f69ee1be939973f8f3589a2e2a7b7e27f3e38853999064a951f5b853ade97cf4a4c057aacb20cdc7a66ba4b6169b2ed98036993ac12a9afaaf1c878341b4e3e4621721394306c8c2a05dfa09e9bcd88936c6b7e0db1b01ceef086f1a8e74371c8b3be79c31ee22a899d6713cf10efe12e289b11373496cbe2d6595f1c08f3bb60d5168a7b234df6056913ac459847206baa1df775e3e73dd6481e26d285b3d48537362375d485bf6890061eb76eb6ca7b2e4fc0a8827c7e5d030f18df88ff91c21e4a1d747d3ce902bb932c558a7463c4502333a092f8154b79c47b3fd2af186e0b2c5018174ce66eefe8b4d66a2a5ce97839ad43535e3ab7450cab462f9f131c4c4255db03f4fd86c9b49c4dd18469d3dc676a91019025d8011e974e3f1961a3d5b47d9afd27950385c6972a0281ad39367790a1d17aa31c54639988736f30b2500f9fa0255d54b472caf52239b698d39c348e0ae144e485a9338e3cb</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>RIXS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>RXES</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Refinement of Pair Distribution Functions with RMCProfile</title>
     <url>/Tools/Scattering/1047009510.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -2729,14 +2729,39 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
         <category>Scattering</category>
       </categories>
       <tags>
-        <tag>Powder Diffraction</tag>
         <tag>Reverse Monte Carlo</tag>
+        <tag>Powder Diffraction</tag>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
         <tag>PDFs Refinement</tag>
         <tag>Reverse Monte Carlo method</tag>
         <tag>RMCProfile</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Total Scattering School: Practical Applications</title>
+    <url>/Scattering/Pair-Distribution-Function/b43ee344.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="fcff5f4e5d94482a2ff4916d55b65f5fbc562ad8350cabc757c8a4da9f3c1d04">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cebc87890b1d3edbde98a69114b051fa80e615b5bc93f87044e7c398f18a2670fded52c13944a682c2de4edef0f532b36bd4aa80dfc08dd3f1330ec2600c20f2a53d3b9da542469f121a072e6d87b6a97351235fcc1e6a701325520f7f35d1d371f63ba981c6ea0e4ae2b1dbf08183a0a5618362cf9db44853341379062ed61481c170e9d98c6811a78fc0fba0f0c791a2868aa8ed1f9f507b85a3d87986ef956021b02d2e37d3f5cd31858e77cc7e38237a009ca9836179be20f8444c5b6d50ce8a1043051301d79e1bd16c8b624975c7f25d7991b4e9a77716bdb12d59c79cfb5e0e91ceb3df00d518f27be4471500b7a1d6ffc30028541ebea1c3b0fb1eeeb5ff16e8d6412f87f22cb7a9210e042ae652d14f009dcfc045e19e06c3f592c443fc879fc8f362a4ba830c0fbcf77063c5dbbbbd122638e31c06692f7adafbf2b4f54162c5699584fc5343500a1a2c132c46c4ffb01c78498653586b37b2558f58d08f3b57169d9168b8342341b5a8e93ff7f010dab6259feb3359d40ff5d216fb6b6cef38bcc8d661b0de8f05428c87544133b05b0143acef6bf1f8eb3ff4cf82446c857a55158008ca635d5bad88eb11f65dd628da74320303152b88a4839a914394fe14e26aa32e445a12394aea85f3feadd33a648541f5a28fec2cce24f60677947635bbca0e0336f69766336fc2ef161a4e7b2ee7c7b3ce4600aba7f98211b6de692c5c2ebf2c23ef9c8fa053aa1f9ee40e96171c659328356f8a67b36e7d3e157c6d6db457e125ae3dc14b824677fc0c875ec66ee903c89d6bcc1c1932084bf9ec19b35bd9b6f615cfded67d973175d0a54937fd9f14b6f3c488a1f65a1a437f7d9f2493966ffa4dddfa018c4a534b0cb8396be5c82d703f8d3d4d24f170e684826608475157b23038f2690cfee12bfd0f43d60d1e775e481db2736184c065290d6f6772096b9debf6dac1befe2c732277c5136c4dedca0b1700dedc30874b80692d0085c798cd5e46f2c0e56ec3def899d0673fba7c0963d752d69432b92681327a14bfa03aeeb3bbc2bfb40dd6f11e6e8975438cb0d3d9a02e5a885e6dc8e72f05cbc997e6304983aa1ae2ab7b6cad2c3037efa5fdb8cc8ee37a547fdaaa99787acd4bf9d7d6d6d82388d25183dcc60c5cba9817f31a984dd98f6d116f21c9c4f8e711dadccc729a4b491e86fa83edc48f601f33983abf1f0ae168739e08026e66f1b1fe2e12c2bcdca3befb18f7eb2b241c8f3a107a923a5b2644dcd0f56c693389296ea6805401a13e93131e2d5674ef881447c8b25abff0d9a5c477d68b74401d387d89eebfc86a506480b843b972db6b115a89f8f8537aa888568167ad8aeea05e7122b34a6439c4c690ad6b243b2f51e88b00754d1f805fff6c767ee64ccd50aa9229929287756d5b5fb633d55aca87b501671b3a4a070f0c753a10afb3b9ef3782218430be13ff45fafab5316bdc8599d770938ff35c7451e087e127e440d0701146823a86419b5bb579dedabc9437c9a11861eea1675d0046f9f769416f84c555920a8cc6fa852976790e0a433772171e7a7a567d45067315bc591ea544acf96007a9d39087fe57a2c4ab9d41e348bb420f6ec082022d2c334a3e1d15dd9deb42c2d3e9e52e8b0eba646fcc69ffc04b1a6d32991a91da59b15278c9d96f49ba38b7c175c8173848113622ebd52f434e4a6cea2c7956a6e28d7f6f77d778364facda87718c3955dfecba2a9dd062615056ad1839b9913c10d1c3ea56178b9d4ab9b7be8493b865f417a4e5aac073afb863492a4c47c5eab86e0fba4c3e9d8fe8c7fee61b99bd2af8d539fd184289d9b38a3bf9ff05e5f0b68f27bc0a829148b489dbbf53f6daf0c548a591001dd4b12ff352e9084a7c7fd4451690367b0641c8ab91a18ef888b64d1f902d1f4089c7fa09867538cd0a83017587b4d56ac4e4a6791d59ba88d7559124ea2b10a6f74abeb7cdacc59df3fe7cfd570762457ed2e4d9c938e1f4833e8120e5a02922f800182c38ebb4f59070a207a3ea95b3433e70d0cd34dd96ba7df74eae088bff30995dfce7f8fed287997a4d578682a83485e0d7e8feee1084154c46f69d17fe4e549917cd41f3b9205b4fa378eb28465fe662ff20fb52887016659ea203365118a2f1bc8df81f57e57801aa077993fd3999e6b202c1bf74f91e9d37727416d04d68b824065609ff1baf10774338776b5bc375eb7fcc8c31f7b360b2fb8ecd5ebafe334b2996b0248e6d553d177768d93495427ebb0cdaa608e03b3584cb178dfcf846ee39df0d403c0b4ad9783629943e2aeff9b852462dcc980aa1158d5b2f6ae65cdfa53288bd42d48fd679f2e70028b80d9b609769e54227f7c53186b53091ae0332f76a329602a584c587438a115cd4e2e10a6a3d378a3c870761fe18dcef0dd35d2d9da5bf758f6994f221dd7c315ca9ccf2873c16f5cddbc53a9ced9cd4f443207e5fd6dc557abf0dbe647a23ef382890cdc9e8ab1eb481342c5321b7927eaa1657ff7b37c5dd56c72ff7675071b65295132d3cfac33611627f7f94f1a16d33f08f18c12b43c28c43ed4f7e235a09d26b8267518480604dca7487b83779dd73a33e85fcf2bc54a504b2c8c659f2c2be9e868626ce856d7e9dc58f914430ebac1a2776e9103a12b4d9301c9bfadaf6d40bed9ce5b17edc01e131b86b4bae00e426b8d205652e71d92511b3ae631a57dff59fcebab67ee110e8506fb34759d334b1a2ca11de280e83525386f42463b2f1d89bdf046ad6e08c925a78de42ad07c495ccf68464993267765660e1495ea726829316a01073c9e9d790c302c992359f7435c5f5383e50940a1b06f34b62f093e7cce2d6b480a1525fd747ea7e0a349c82df9a7b815a8f38e03427fec99ed9599f23e51c434a7fed12ce222892e2f65babfab9f9f24a52ecbadbf47e4a351073caa787d8cfabd05c278c1f5e3754c1d799666f66c9e02bc0285eaba37258cb7eafd82635a5a3b599d3a443cb9d7848434eada30ae4e93bbaea1</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Scattering</category>
+        <category>Pair Distribution Function</category>
+      </categories>
+      <tags>
+        <tag>Total Scattering</tag>
+        <tag>Pair Distribution Functions</tag>
+        <tag>Total Scattering School</tag>
       </tags>
   </entry>
   <entry>
@@ -2791,31 +2816,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>Total Scattering School: Practical Applications</title>
-    <url>/Scattering/Pair-Distribution-Function/b43ee344.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="fcff5f4e5d94482a2ff4916d55b65f5fbc562ad8350cabc757c8a4da9f3c1d04">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cebc87890b1d3edbde98a69114b051fa80e615b5bc93f87044e7c398f18a2670fded52c13944a682c2de4edef0f532b36bd4aa80dfc08dd3f1330ec2600c20f2a53d3b9da542469f121a072e6d87b6a97351235fcc1e6a701325520f7f35d1d371f63ba981c6ea0e4ae2b1dbf08183a0a5618362cf9db44853341379062ed61481c170e9d98c6811a78fc0fba0f0c791a2868aa8ed1f9f507b85a3d87986ef956021b02d2e37d3f5cd31858e77cc7e38237a009ca9836179be20f8444c5b6d50ce8a1043051301d79e1bd16c8b624975c7f25d7991b4e9a77716bdb12d59c79cfb5e0e91ceb3df00d518f27be4471500b7a1d6ffc30028541ebea1c3b0fb1eeeb5ff16e8d6412f87f22cb7a9210e042ae652d14f009dcfc045e19e06c3f592c443fc879fc8f362a4ba830c0fbcf77063c5dbbbbd122638e31c06692f7adafbf2b4f54162c5699584fc5343500a1a2c132c46c4ffb01c78498653586b37b2558f58d08f3b57169d9168b8342341b5a8e93ff7f010dab6259feb3359d40ff5d216fb6b6cef38bcc8d661b0de8f05428c87544133b05b0143acef6bf1f8eb3ff4cf82446c857a55158008ca635d5bad88eb11f65dd628da74320303152b88a4839a914394fe14e26aa32e445a12394aea85f3feadd33a648541f5a28fec2cce24f60677947635bbca0e0336f69766336fc2ef161a4e7b2ee7c7b3ce4600aba7f98211b6de692c5c2ebf2c23ef9c8fa053aa1f9ee40e96171c659328356f8a67b36e7d3e157c6d6db457e125ae3dc14b824677fc0c875ec66ee903c89d6bcc1c1932084bf9ec19b35bd9b6f615cfded67d973175d0a54937fd9f14b6f3c488a1f65a1a437f7d9f2493966ffa4dddfa018c4a534b0cb8396be5c82d703f8d3d4d24f170e684826608475157b23038f2690cfee12bfd0f43d60d1e775e481db2736184c065290d6f6772096b9debf6dac1befe2c732277c5136c4dedca0b1700dedc30874b80692d0085c798cd5e46f2c0e56ec3def899d0673fba7c0963d752d69432b92681327a14bfa03aeeb3bbc2bfb40dd6f11e6e8975438cb0d3d9a02e5a885e6dc8e72f05cbc997e6304983aa1ae2ab7b6cad2c3037efa5fdb8cc8ee37a547fdaaa99787acd4bf9d7d6d6d82388d25183dcc60c5cba9817f31a984dd98f6d116f21c9c4f8e711dadccc729a4b491e86fa83edc48f601f33983abf1f0ae168739e08026e66f1b1fe2e12c2bcdca3befb18f7eb2b241c8f3a107a923a5b2644dcd0f56c693389296ea6805401a13e93131e2d5674ef881447c8b25abff0d9a5c477d68b74401d387d89eebfc86a506480b843b972db6b115a89f8f8537aa888568167ad8aeea05e7122b34a6439c4c690ad6b243b2f51e88b00754d1f805fff6c767ee64ccd50aa9229929287756d5b5fb633d55aca87b501671b3a4a070f0c753a10afb3b9ef3782218430be13ff45fafab5316bdc8599d770938ff35c7451e087e127e440d0701146823a86419b5bb579dedabc9437c9a11861eea1675d0046f9f769416f84c555920a8cc6fa852976790e0a433772171e7a7a567d45067315bc591ea544acf96007a9d39087fe57a2c4ab9d41e348bb420f6ec082022d2c334a3e1d15dd9deb42c2d3e9e52e8b0eba646fcc69ffc04b1a6d32991a91da59b15278c9d96f49ba38b7c175c8173848113622ebd52f434e4a6cea2c7956a6e28d7f6f77d778364facda87718c3955dfecba2a9dd062615056ad1839b9913c10d1c3ea56178b9d4ab9b7be8493b865f417a4e5aac073afb863492a4c47c5eab86e0fba4c3e9d8fe8c7fee61b99bd2af8d539fd184289d9b38a3bf9ff05e5f0b68f27bc0a829148b489dbbf53f6daf0c548a591001dd4b12ff352e9084a7c7fd4451690367b0641c8ab91a18ef888b64d1f902d1f4089c7fa09867538cd0a83017587b4d56ac4e4a6791d59ba88d7559124ea2b10a6f74abeb7cdacc59df3fe7cfd570762457ed2e4d9c938e1f4833e8120e5a02922f800182c38ebb4f59070a207a3ea95b3433e70d0cd34dd96ba7df74eae088bff30995dfce7f8fed287997a4d578682a83485e0d7e8feee1084154c46f69d17fe4e549917cd41f3b9205b4fa378eb28465fe662ff20fb52887016659ea203365118a2f1bc8df81f57e57801aa077993fd3999e6b202c1bf74f91e9d37727416d04d68b824065609ff1baf10774338776b5bc375eb7fcc8c31f7b360b2fb8ecd5ebafe334b2996b0248e6d553d177768d93495427ebb0cdaa608e03b3584cb178dfcf846ee39df0d403c0b4ad9783629943e2aeff9b852462dcc980aa1158d5b2f6ae65cdfa53288bd42d48fd679f2e70028b80d9b609769e54227f7c53186b53091ae0332f76a329602a584c587438a115cd4e2e10a6a3d378a3c870761fe18dcef0dd35d2d9da5bf758f6994f221dd7c315ca9ccf2873c16f5cddbc53a9ced9cd4f443207e5fd6dc557abf0dbe647a23ef382890cdc9e8ab1eb481342c5321b7927eaa1657ff7b37c5dd56c72ff7675071b65295132d3cfac33611627f7f94f1a16d33f08f18c12b43c28c43ed4f7e235a09d26b8267518480604dca7487b83779dd73a33e85fcf2bc54a504b2c8c659f2c2be9e868626ce856d7e9dc58f914430ebac1a2776e9103a12b4d9301c9bfadaf6d40bed9ce5b17edc01e131b86b4bae00e426b8d205652e71d92511b3ae631a57dff59fcebab67ee110e8506fb34759d334b1a2ca11de280e83525386f42463b2f1d89bdf046ad6e08c925a78de42ad07c495ccf68464993267765660e1495ea726829316a01073c9e9d790c302c992359f7435c5f5383e50940a1b06f34b62f093e7cce2d6b480a1525fd747ea7e0a349c82df9a7b815a8f38e03427fec99ed9599f23e51c434a7fed12ce222892e2f65babfab9f9f24a52ecbadbf47e4a351073caa787d8cfabd05c278c1f5e3754c1d799666f66c9e02bc0285eaba37258cb7eafd82635a5a3b599d3a443cb9d7848434eada30ae4e93bbaea1</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Scattering</category>
-        <category>Pair Distribution Function</category>
-      </categories>
-      <tags>
-        <tag>Total Scattering</tag>
-        <tag>Pair Distribution Functions</tag>
-        <tag>Total Scattering School</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
     <url>/Scattering/Powder-Diffraction/c5c1423e.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -2863,6 +2863,58 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
         <tag>Total Scattering</tag>
         <tag>Pair Distribution Functions</tag>
         <tag>Total Scattering School</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="28cf5c90b144d213076c254180961a50c7d0058b5690b10b4763cf5d4ae4f449">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd6d57b5ae7b1efb29d9c9e80f83dbf7a9ccf5f9ab342212ddc19073c264dda04a000455a5a1cd8e8338f2004e02e061fd44912293b3911e8de349c0fdd48a3aab463b000beab3b23887416ed6fd40955f55cb5af082628605c871f0d2d552a4492acb26be51104bb0feb5296d2f772b7393f299bf7577af1b8d3474b7e6975879b3960fd99c3f0d94ae26e5b878bba98e563ca98040dacfd64360e6a30d5b990b84c0581343e8136c355acdc1928dcf4f04020f4cbd92aa8af3e0646a5880b91e6765cccab903817d1fc7c4e79a7063567eccd88c3ced5c15c3861f41c31fefce8ca8f8f2226be5e3e9942b66ddcc159e76e68f1ca98adf89156ebdc1a9599405713e90943368759ef7663d19d2193bf6062ca3e9940a36564cf7206aaef5c7c39d317b21026508b6c07a41c313f8c5842983b1c41e75f394aa8470100df41ab7e923d22a52f7d6c2917e4319d617e148ca09652c62560369c3eab586770f44923d146e304d9bd4092e95feb5d072a1e3a743afdbc422e1915e5e8906156ba314190c1c1867d31f0fb2b7e6244d1a172872ac13fbd084336f62acba8d56cb1428f5b6272f2b0e075efccd51a7a86739e5a142c6532e4e0dd7f964e799e05bd10f5824db004f5c6547696c5160d58ad810bd6412df9ea145a24f17d44cc67e77823614cf6b17ad35257346bb5dcdb08708e9f9ea74c0f2d5053c3392f6ebf20fe6a85ba2f646d99d2ab0067192504699116676c3898b0782c04f691bc0db75e4180417a13c39f7ecd571de5c40016b6b95478d47eabf9800350bab347fe9277c73c4c1e78fe74f46fecc9310f4d819ac4fe08eec0bdcbf3c3964be1912870ca971c54dc6c6b9d03fea39d33326a74dbc7b12406d7ff5c4130370338213fa69c3e1458c5c7cc476c112c0a93c5a04dffea3534a9612f20aefb18a7e0659c833b26738d1f3ff04beddc7b9f4d0267611bf7f3f6f4e16fea3ff00f770e0a3162525ec83f2164a675ff7cf790558965e0d772509f7dc3ba2135b9b8bdbe1917f67ad9b9a9122df437d7451f683a33b8455afb313290b48a86e0d5d8add2196bc8269dc8e91679529df962742f5423d0fe76935350e021eaf82e2e5cdac57a6de1a8e958044e6b74e573e279bdc5c814cd85da3d110fa15cd7bd0dc75360f25d3db81d0a63764b9e53254390cbff88b5fa39c9e97a439008271de1b90a6ce805feffbd357c61fecd98ad93d734fc136fcbcded2c5816c9b404a3d20a81bfc79022f0f7904a9e90700d21dc3539b25e30fdd13cc4a96f5a87d221c18faa12721fbe81ac6375b2c5154d315dfc9429772848819774936367fc4d47dfa915a00cc92b100ab191ee0e3e18361f120634eba0c80b6b84fbdf3e846ae1469568e80ae0d182356ac2da36cfb54369ad402c229fd6da9407627b1ff2878ef27cedb7193ec2ed7c5829ffbe5167cacc50e358f8264adf906dca93257702a9d60e346d81e23ad92feb81bfaea2144c62b86da021e8b80b4beb736150118cfffccbfccaa6687fe4be00686ac7de97bbc7f28f6d0d7ddb6bb506e42979124af7ce4819aceb4285951319a32015ebe75e0b82a5fb0470168d129e23f0eee70466e7c1a30f4d6f4f8923268b31b48c1ab34b3b3c60ab7721422c98d2186ef7664113c872273a8b9b0d1cc4d8edc1aaa38eda48d4cdaed230c5dc846142144362094d9c9e180695a4742972fe58f76d222a8c587a2f91ed94f3c48c51ec6bb9247fa75bb1a49c3b2e8b4a494cc351052354feeca29ddcb58e1763b677b1e28180076a2892631e9ec017733e5b8ed2fb93d52f5d61862633be74ec90d82bab8daab8e0de920f6fa5aa34dcdb2557fbba18c4a315e02bee976af4cd</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -3213,58 +3265,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
-        <tag>EXAFS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="28cf5c90b144d213076c254180961a50c7d0058b5690b10b4763cf5d4ae4f449">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd6d57b5ae7b1efb29d9c9e80f83dbf7a9ccf5f9ab342212ddc19073c264dda04a000455a5a1cd8e8338f2004e02e061fd44912293b3911e8de349c0fdd48a3aab463b000beab3b23887416ed6fd40955f55cb5af082628605c871f0d2d552a4492acb26be51104bb0feb5296d2f772b7393f299bf7577af1b8d3474b7e6975879b3960fd99c3f0d94ae26e5b878bba98e563ca98040dacfd64360e6a30d5b990b84c0581343e8136c355acdc1928dcf4f04020f4cbd92aa8af3e0646a5880b91e6765cccab903817d1fc7c4e79a7063567eccd88c3ced5c15c3861f41c31fefce8ca8f8f2226be5e3e9942b66ddcc159e76e68f1ca98adf89156ebdc1a9599405713e90943368759ef7663d19d2193bf6062ca3e9940a36564cf7206aaef5c7c39d317b21026508b6c07a41c313f8c5842983b1c41e75f394aa8470100df41ab7e923d22a52f7d6c2917e4319d617e148ca09652c62560369c3eab586770f44923d146e304d9bd4092e95feb5d072a1e3a743afdbc422e1915e5e8906156ba314190c1c1867d31f0fb2b7e6244d1a172872ac13fbd084336f62acba8d56cb1428f5b6272f2b0e075efccd51a7a86739e5a142c6532e4e0dd7f964e799e05bd10f5824db004f5c6547696c5160d58ad810bd6412df9ea145a24f17d44cc67e77823614cf6b17ad35257346bb5dcdb08708e9f9ea74c0f2d5053c3392f6ebf20fe6a85ba2f646d99d2ab0067192504699116676c3898b0782c04f691bc0db75e4180417a13c39f7ecd571de5c40016b6b95478d47eabf9800350bab347fe9277c73c4c1e78fe74f46fecc9310f4d819ac4fe08eec0bdcbf3c3964be1912870ca971c54dc6c6b9d03fea39d33326a74dbc7b12406d7ff5c4130370338213fa69c3e1458c5c7cc476c112c0a93c5a04dffea3534a9612f20aefb18a7e0659c833b26738d1f3ff04beddc7b9f4d0267611bf7f3f6f4e16fea3ff00f770e0a3162525ec83f2164a675ff7cf790558965e0d772509f7dc3ba2135b9b8bdbe1917f67ad9b9a9122df437d7451f683a33b8455afb313290b48a86e0d5d8add2196bc8269dc8e91679529df962742f5423d0fe76935350e021eaf82e2e5cdac57a6de1a8e958044e6b74e573e279bdc5c814cd85da3d110fa15cd7bd0dc75360f25d3db81d0a63764b9e53254390cbff88b5fa39c9e97a439008271de1b90a6ce805feffbd357c61fecd98ad93d734fc136fcbcded2c5816c9b404a3d20a81bfc79022f0f7904a9e90700d21dc3539b25e30fdd13cc4a96f5a87d221c18faa12721fbe81ac6375b2c5154d315dfc9429772848819774936367fc4d47dfa915a00cc92b100ab191ee0e3e18361f120634eba0c80b6b84fbdf3e846ae1469568e80ae0d182356ac2da36cfb54369ad402c229fd6da9407627b1ff2878ef27cedb7193ec2ed7c5829ffbe5167cacc50e358f8264adf906dca93257702a9d60e346d81e23ad92feb81bfaea2144c62b86da021e8b80b4beb736150118cfffccbfccaa6687fe4be00686ac7de97bbc7f28f6d0d7ddb6bb506e42979124af7ce4819aceb4285951319a32015ebe75e0b82a5fb0470168d129e23f0eee70466e7c1a30f4d6f4f8923268b31b48c1ab34b3b3c60ab7721422c98d2186ef7664113c872273a8b9b0d1cc4d8edc1aaa38eda48d4cdaed230c5dc846142144362094d9c9e180695a4742972fe58f76d222a8c587a2f91ed94f3c48c51ec6bb9247fa75bb1a49c3b2e8b4a494cc351052354feeca29ddcb58e1763b677b1e28180076a2892631e9ec017733e5b8ed2fb93d52f5d61862633be74ec90d82bab8daab8e0de920f6fa5aa34dcdb2557fbba18c4a315e02bee976af4cd</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
-        <tag>EXAFS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
     <url>/Tools/XAFS/5a85aa81.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -3292,34 +3292,6 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
         <tag>Matlab</tag>
         <tag>Python</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/Tools/Hexo/1243066710.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
-<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
-first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
-you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Hexo</category>
-      </categories>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -3718,5 +3690,33 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Small-angle Scattering</tag>
         <tag>diffpy.pdfgetx</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/Tools/Hexo/1243066710.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
+<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
+first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
+you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
 </search>
