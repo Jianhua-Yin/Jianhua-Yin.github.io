@@ -473,37 +473,6 @@ the American Chemical Society 111(21): 8116-8118.</li>
       </tags>
   </entry>
   <entry>
-    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <url>/Tools/XAFS/dd36b5d.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="abf03482d3031a40d799b5b1973207f3c20efe60fd7046ab716c1e41de72927e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c7c00c6ec1964b6183ad8ae33e634b6c0488eef2a97261d6eeb41e2cca3dbd3adc7dbdc87f0ba1c334f48324ab327ca274f32c71515f4f9a8f52d19981897a768148ef8d4ec42c2328b0ccdec0899563b91f3ae9b98a2c5b6cb8970e420ed3f0e51840a26de6d18b31a75853805cff3878437834a85a87621722fb6bc645f429d4629301925d92cb77f889135031463c052c9de1f10717331f285ed73b4045e141bc1a569a51efe5ffb28175680e5df167cf32a9a2df594b5d1955fcb754593ecfc762d0f3a232014f6bfa31b01ad3f53b03b67443c168458384768526dfe6540dd03718ac46c6e481e0f7f6807d57c01201dea8102bc43e266adad2e11451a765b9108997644bce95ef8bc8c77832ad32623d4e9130ce46d2f5404ba4325952dcce3137885edac14312cf5d978566ba48946977ac4d04982e4d54a667ec66b311bd0a8f87b807ec277705a5421d16c1bccced4cf7174a5304469cf67ebd035c0a524c5a4c03510de30b8b7833917ed5576b36568d6fff1c56a46899b6fb55a48bec0de727c31bc2e965abf9855dc824cb5c1d5d869840c531010c7e0e068d4dfa8460fdc768f17864af9ee7c331a12b750de1905b94d770291858941f09455a1</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>REXS</tag>
-        <tag>EELS</tag>
-        <tag>FDMNES</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
     <url>/Tools/XAFS/b8eb1c46.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif" alt="Evolutionary Algorithm for EXAFS analysis" title="" width="100%"></p>
@@ -1993,10 +1962,10 @@ XAS<br>
       </tags>
   </entry>
   <entry>
-    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
-    <url>/Tools/Scattering/2c78c48.html</url>
+    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
+    <url>/Tools/Scattering/de093485.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="e995987acaf6db529a25dc1856946c139784e4f2ea2cfe1b186018db566a930e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c3ffb66aea7a20d28c134b5a7b23d0a546d28dc58711e22ef67611c62ed8bc0b09914ebb0b195897c12aac6b2985352d4414c0e419986c16a79e30217a0d95919ebe9888f5e3babf28bf6717e0e2bcc3c3f485cbbbbb63399419c958d92a63bc4a68847aa8a76c7aefaaa6d26f96a36f782ada5e7b5affc332e6f01ee4fa546ec46c900cc5016612d868a9eedc97fe373f769844f377c6a910d35fb489f8973641b003af2e04ab338ac2d746ac5d7a39913ce203a19caf48939b3af79cf07538d685b94fc39db60d8400e01fc141da270a9ffd94dd5fc76cc5cf00369bbca2b25ce9e117299b4ec745c6f6efb35cd049ee2f5614be29780c2141443ca98001667754c8c6483134296856b93ad2fbe5ce505a5ec0f7ca7cfe5965636541fb393631fe4147b3119251ce48050fcfd850aa1401b85938c8d02887179dba2f4d201d0c2a7433dba624d311caf2cbfe464c150f17eb8c8244bbbd182519aeac1d5fcbd6aa28973da0e9b79a169140dd932657c5b3fe862b07c6b31fc930047154d87759be3bdc71af72418437ae3c30d793a3eafd098a4aa3bc254044c507ecf38d172130af9c4ad998d1d4128fe427d9e632df9ae010811cd640f6b168f7ced8d9097591c9ace2245261bbcb15cf54df058cef092d9f06741323f2983a96ccb83b131</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -2014,8 +1983,39 @@ XAS<br>
       <tags>
         <tag>Powder Diffraction</tag>
         <tag>X-ray Scattering</tag>
-        <tag>Rietveld Refinement</tag>
-        <tag>FullProf Suite</tag>
+        <tag>Two Dimensional XRD</tag>
+        <tag>Fit2D</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
+    <url>/Tools/XAFS/dd36b5d.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="abf03482d3031a40d799b5b1973207f3c20efe60fd7046ab716c1e41de72927e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c7c00c6ec1964b6183ad8ae33e634b6c0488eef2a97261d6eeb41e2cca3dbd3adc7dbdc87f0ba1c334f48324ab327ca274f32c71515f4f9a8f52d19981897a768148ef8d4ec42c2328b0ccdec0899563b91f3ae9b98a2c5b6cb8970e420ed3f0e51840a26de6d18b31a75853805cff3878437834a85a87621722fb6bc645f429d4629301925d92cb77f889135031463c052c9de1f10717331f285ed73b4045e141bc1a569a51efe5ffb28175680e5df167cf32a9a2df594b5d1955fcb754593ecfc762d0f3a232014f6bfa31b01ad3f53b03b67443c168458384768526dfe6540dd03718ac46c6e481e0f7f6807d57c01201dea8102bc43e266adad2e11451a765b9108997644bce95ef8bc8c77832ad32623d4e9130ce46d2f5404ba4325952dcce3137885edac14312cf5d978566ba48946977ac4d04982e4d54a667ec66b311bd0a8f87b807ec277705a5421d16c1bccced4cf7174a5304469cf67ebd035c0a524c5a4c03510de30b8b7833917ed5576b36568d6fff1c56a46899b6fb55a48bec0de727c31bc2e965abf9855dc824cb5c1d5d869840c531010c7e0e068d4dfa8460fdc768f17864af9ee7c331a12b750de1905b94d770291858941f09455a1</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>REXS</tag>
+        <tag>EELS</tag>
+        <tag>FDMNES</tag>
       </tags>
   </entry>
   <entry>
@@ -2084,6 +2084,32 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
+    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
+    <url>/Tools/Scattering/2c78c48.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e995987acaf6db529a25dc1856946c139784e4f2ea2cfe1b186018db566a930e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c3ffb66aea7a20d28c134b5a7b23d0a546d28dc58711e22ef67611c62ed8bc0b09914ebb0b195897c12aac6b2985352d4414c0e419986c16a79e30217a0d95919ebe9888f5e3babf28bf6717e0e2bcc3c3f485cbbbbb63399419c958d92a63bc4a68847aa8a76c7aefaaa6d26f96a36f782ada5e7b5affc332e6f01ee4fa546ec46c900cc5016612d868a9eedc97fe373f769844f377c6a910d35fb489f8973641b003af2e04ab338ac2d746ac5d7a39913ce203a19caf48939b3af79cf07538d685b94fc39db60d8400e01fc141da270a9ffd94dd5fc76cc5cf00369bbca2b25ce9e117299b4ec745c6f6efb35cd049ee2f5614be29780c2141443ca98001667754c8c6483134296856b93ad2fbe5ce505a5ec0f7ca7cfe5965636541fb393631fe4147b3119251ce48050fcfd850aa1401b85938c8d02887179dba2f4d201d0c2a7433dba624d311caf2cbfe464c150f17eb8c8244bbbd182519aeac1d5fcbd6aa28973da0e9b79a169140dd932657c5b3fe862b07c6b31fc930047154d87759be3bdc71af72418437ae3c30d793a3eafd098a4aa3bc254044c507ecf38d172130af9c4ad998d1d4128fe427d9e632df9ae010811cd640f6b168f7ced8d9097591c9ace2245261bbcb15cf54df058cef092d9f06741323f2983a96ccb83b131</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Rietveld Refinement</tag>
+        <tag>FullProf Suite</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
     <url>/Core-level-spectroscopy/XAFS/496821b9.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -2106,55 +2132,6 @@ Ratio</h2>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
-    <url>/Tools/Scattering/de093485.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Two Dimensional XRD</tag>
-        <tag>Fit2D</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
-    <url>/Tools/Image/d0805113.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="314474246cf12c31c6ea210081c6326142c79758828c462535ab5e4165bc0e3e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cc30b970a93ba2fe010e355eb6e12c798c4d47cd30fa9257e37c7c0440d62f6bc5fba2bb3a5d465e6e6307967311765934e94f66b2cdf315b2ece6ede8ef305311ea651fbfdb7ca3207f44838f7b245288f2b5bdf5568c1e9b4c1a4f0269f55e55ba5daee60baa4bf2ddca0e0672e1c10499b711581f7fda5d3c54e115dc9d0e4b102e8a048464b873e9242d866902c62f64a4e8249387ef1244dd75e88b00bdf5c675bc5df8df0ca0ef27d5f1ea6c55699402a3a24b70452df19005b3ca335992b4ea93eec0d4aa100f8718f80a5fa0df871e001b5f2ddc137e22bbc28afe8d2d7596599b0549e278b2c23841539f4c1b8d4acdf5774a4160acb0d127ff9411a3f94b566a1836723edb927626c4401b28f797e0e52cc5fe282116427070c32576a4b66ddf25deb4d574dba042e2a58d247f6478126a9280605cc1abbcfef5d2e4a2e7a587ffbfa881816a98dc9ea685c9ca8f6b227bebc9f4ed831a17e0f1bcefbaa19a8001ecdb91a95209c47ef0b1ee06c2460f3dfa90ad72b36dd20f60a25486dd4c9135cb0a08fa81f6b2825a9f2cecc791944aeb96ffe987301e57eac03c68b27f20d93db709bfd0f1ce925ae2681c3ce91c3fc1d45a83fbb03680ad064</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Image</category>
-      </categories>
-      <tags>
-        <tag>ImageJ</tag>
       </tags>
   </entry>
   <entry>
@@ -2183,10 +2160,10 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
-    <title>Refinement of Pair Distribution Functions with DISCUC</title>
-    <url>/Tools/Scattering/4072560629.html</url>
+    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
+    <url>/Tools/Image/d0805113.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ea0d7201b6e595b0ae7346c9af46adc09a08353cf91145d583d75235049fce0e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c4dc9c002b333e9059218be46987fe10708125730f745700289d047b2bc19d1cc1ff04b1940677129d062f05029cbcc1519cf65762f065d54ec0c92c41f2d48199fad1627cdeb7b9ff1cada8403c7f40ff4b037360b41fe39b03ce70cfe23cdc03a7ce6c60d80bfc492fb61cb91acad87f14e73c88f6914c757e996971164bc40d1267fe89ac194758e901abc55494e69fb52ea4048b2c29a8e9467856f641caf452b0e7babfa89c0749c553a83268eaf9e1553485bf167a23cf2f9f1dbf7df087c795849cab375d29feb972ba86b751823e986da94c4ecdf1713e95993236939a7735e5f1b463e0beae7c901e20d49cfb86ae96f19671925fd7a57014d5d6e5175885d7b93474deba69242a88a4d71d207a3026204e367ae07d8fd24fe12551dcf85742c6689d01104c723ca14c23abcfa371cc34b4dc782f6f11e0be894cffc57ff52221d6bd23c2f50988e6ccc0d043917e6836ab709e0708b1048b49f7d60eccb10d5ed8f1ffb255cf29b5a86f73f2198620b69ab1b98d9c7bf4092c7a3637b0f826b1b8dd6176ba651f36268e30085a3ae4ea899a8b7d444379867c7356604e4d095ad6348937a460e1bdcc2c8d80aeb0c7afee39bc5e1ca0e4ff0d9d33985927234f5efd31347214e5fea0d07634865ba5cf6a5e19e793ad8a24422cbd47dbf809057ce048b775e4a4673f1aa73f715b52be014fc709ae719a13e970253d9427b52d3736c6305063a1337b7e8d2b1a428a38e51b67fb8588de6d43da558506916500855f813bc75d8b34a1516a4279f875858fc85ae1c2d9dc51e67b364f660b8d19bca1257b505a808a8e9a45f5694562171676f60567e50a44fd631cb6e4c714c5dd5e31e66d00029ab581dd3ca7726298876df2b197bde638fbae9c57392900154d264aee76984d3c106f570f079b8e977010df539445c888cc91c44ed78784f6c4189a01ef8d28dd0db5e29d1ddbd707da7f858c93c94c4ce33becf6d30c6821a53edaea48b9f7c5719807e612a8cdfea76e96805144c20db5f310e63aed3c78fe6e0a42aacd61482d15c34f61b9d8523acb8f6f693d774aeb25ec3d1ff8ad31f3cca6c089cc544873f34899e5f259957bf23f0b7d9ec6deba0fdcdc6634b4df04cdaf02d49231e6076f604</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="314474246cf12c31c6ea210081c6326142c79758828c462535ab5e4165bc0e3e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cc30b970a93ba2fe010e355eb6e12c798c4d47cd30fa9257e37c7c0440d62f6bc5fba2bb3a5d465e6e6307967311765934e94f66b2cdf315b2ece6ede8ef305311ea651fbfdb7ca3207f44838f7b245288f2b5bdf5568c1e9b4c1a4f0269f55e55ba5daee60baa4bf2ddca0e0672e1c10499b711581f7fda5d3c54e115dc9d0e4b102e8a048464b873e9242d866902c62f64a4e8249387ef1244dd75e88b00bdf5c675bc5df8df0ca0ef27d5f1ea6c55699402a3a24b70452df19005b3ca335992b4ea93eec0d4aa100f8718f80a5fa0df871e001b5f2ddc137e22bbc28afe8d2d7596599b0549e278b2c23841539f4c1b8d4acdf5774a4160acb0d127ff9411a3f94b566a1836723edb927626c4401b28f797e0e52cc5fe282116427070c32576a4b66ddf25deb4d574dba042e2a58d247f6478126a9280605cc1abbcfef5d2e4a2e7a587ffbfa881816a98dc9ea685c9ca8f6b227bebc9f4ed831a17e0f1bcefbaa19a8001ecdb91a95209c47ef0b1ee06c2460f3dfa90ad72b36dd20f60a25486dd4c9135cb0a08fa81f6b2825a9f2cecc791944aeb96ffe987301e57eac03c68b27f20d93db709bfd0f1ce925ae2681c3ce91c3fc1d45a83fbb03680ad064</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -2199,15 +2176,10 @@ Ratio</h2>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>Tools</category>
-        <category>Scattering</category>
+        <category>Image</category>
       </categories>
       <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>DISUC</tag>
-        <tag>PDFs Refinement</tag>
+        <tag>ImageJ</tag>
       </tags>
   </entry>
   <entry>
@@ -2235,6 +2207,34 @@ Ratio</h2>
         <tag>EXAFS</tag>
         <tag>XANES</tag>
         <tag>Larch</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Refinement of Pair Distribution Functions with DISCUC</title>
+    <url>/Tools/Scattering/4072560629.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ea0d7201b6e595b0ae7346c9af46adc09a08353cf91145d583d75235049fce0e">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313c4dc9c002b333e9059218be46987fe10708125730f745700289d047b2bc19d1cc1ff04b1940677129d062f05029cbcc1519cf65762f065d54ec0c92c41f2d48199fad1627cdeb7b9ff1cada8403c7f40ff4b037360b41fe39b03ce70cfe23cdc03a7ce6c60d80bfc492fb61cb91acad87f14e73c88f6914c757e996971164bc40d1267fe89ac194758e901abc55494e69fb52ea4048b2c29a8e9467856f641caf452b0e7babfa89c0749c553a83268eaf9e1553485bf167a23cf2f9f1dbf7df087c795849cab375d29feb972ba86b751823e986da94c4ecdf1713e95993236939a7735e5f1b463e0beae7c901e20d49cfb86ae96f19671925fd7a57014d5d6e5175885d7b93474deba69242a88a4d71d207a3026204e367ae07d8fd24fe12551dcf85742c6689d01104c723ca14c23abcfa371cc34b4dc782f6f11e0be894cffc57ff52221d6bd23c2f50988e6ccc0d043917e6836ab709e0708b1048b49f7d60eccb10d5ed8f1ffb255cf29b5a86f73f2198620b69ab1b98d9c7bf4092c7a3637b0f826b1b8dd6176ba651f36268e30085a3ae4ea899a8b7d444379867c7356604e4d095ad6348937a460e1bdcc2c8d80aeb0c7afee39bc5e1ca0e4ff0d9d33985927234f5efd31347214e5fea0d07634865ba5cf6a5e19e793ad8a24422cbd47dbf809057ce048b775e4a4673f1aa73f715b52be014fc709ae719a13e970253d9427b52d3736c6305063a1337b7e8d2b1a428a38e51b67fb8588de6d43da558506916500855f813bc75d8b34a1516a4279f875858fc85ae1c2d9dc51e67b364f660b8d19bca1257b505a808a8e9a45f5694562171676f60567e50a44fd631cb6e4c714c5dd5e31e66d00029ab581dd3ca7726298876df2b197bde638fbae9c57392900154d264aee76984d3c106f570f079b8e977010df539445c888cc91c44ed78784f6c4189a01ef8d28dd0db5e29d1ddbd707da7f858c93c94c4ce33becf6d30c6821a53edaea48b9f7c5719807e612a8cdfea76e96805144c20db5f310e63aed3c78fe6e0a42aacd61482d15c34f61b9d8523acb8f6f693d774aeb25ec3d1ff8ad31f3cca6c089cc544873f34899e5f259957bf23f0b7d9ec6deba0fdcdc6634b4df04cdaf02d49231e6076f604</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>DISUC</tag>
+        <tag>PDFs Refinement</tag>
       </tags>
   </entry>
   <entry>
@@ -2710,36 +2710,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>Refinement of Pair Distribution Functions with RMCProfile</title>
-    <url>/Tools/Scattering/1047009510.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="01697320e7fd7707db0c67c5ba9df7acb7966307d951e8792aebf407ea37c537">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313ce55c57a45878d6e818c329bba6e001099a8f3ddbb2adc6aafe777f6991d6f7f01cde50e26700d7eb0ce2a8a96965a17482c9f00c08a9ebe77bc3a040853a501cc102aa7e14fe3793a6e44ff6c251e793c7f7836bcc08225140885ff8ca5f221687e2bca57b30031ef97c4b8617fb422afc72f7febaa152f60ef71d72e86c5455dde663fce87175685c659c43ef268affbe69b3275b5257ed9753d180d7cc4c9394ba3ab65cc99ad0468806766befb7b0404d201c60763ce88e1530dea3df0216476429f7a88da181a635cba4bc308aa72c440188fe1816d7621ac7c25d8b1a66e7c1e81a5576f755bb130ef52e0f8302d8e9a620e9fc7260acec71777718412bd3283c2c2469bfbe9d200a535a2861961774a05c4a2e9ff94b1bbd72edee60af17582647da40d050a94ddd9973585de67bb727d5c2de0b92324e6ddace497b972e49e327ca3f13cfb32d3372ab07ba2ff4e442942e2d5bcca9158bc28b069224276d7297d557ec3d1ff3182b326c7ceca092efb194074604e132733dc70b4088774591f9b9fa38fb100c3eaf951dd49f317aabb95b58c5a6daa49ff397e14d2d4ae654f76d3768b358242eb0dc8837efa5eb1de8b29ad03e372476255b9e2d8896100eab8af462a581682df17ace504ea9c25cfe3871ccd0f306ca82c821a0ca65e61d9c35266d32cf1cb508de15a84ae27977b8c1b254701c626cf4f06a88a8fb10148a1aba22d1088702eb2be762d36cfa32e18651866b2729e2861b2783d1aee0c6e477eceef404d764ec07b3fbf6a6c5164fcbfe5eaaaab373d160dd1802868e7233e8765cceb6a9a3403c2df5c73a09bbff18bcd9e84ad4f3d87f0fe1c486b07e722e3332194518d3f5a40fdfa5c2ed7d594f0bcfe4d061f017e2587ad189729607c92e2ca763f67d3d3ec30b8cac0a1aebc21c0afd09cf6f9ada5cddecfd2d7e2cd21d8c10b0987ee6e61ab63a204d3e70d5bfcb25282fc64b6355488799eb9ff1c9b9e5fa597fe8f4c6b94136252b910d320ba9f395585ef9b339b0672dcaeeb909c966c7f0b5fc17c5f89f1f1b4d89b8d310f63f6026ee3035c563c111b87c5cbdd03edaba4b4c425c7252e167164f1f4405ad64838e41af92ab9dc2</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Reverse Monte Carlo</tag>
-        <tag>Powder Diffraction</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>Reverse Monte Carlo method</tag>
-        <tag>RMCProfile</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Total Scattering School: Practical Applications</title>
     <url>/Scattering/Pair-Distribution-Function/b43ee344.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -2787,6 +2757,36 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
         <tag>Core level spectrum</tag>
         <tag>TXM</tag>
         <tag>X-ray Imaging</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Refinement of Pair Distribution Functions with RMCProfile</title>
+    <url>/Tools/Scattering/1047009510.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="01697320e7fd7707db0c67c5ba9df7acb7966307d951e8792aebf407ea37c537">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313ce55c57a45878d6e818c329bba6e001099a8f3ddbb2adc6aafe777f6991d6f7f01cde50e26700d7eb0ce2a8a96965a17482c9f00c08a9ebe77bc3a040853a501cc102aa7e14fe3793a6e44ff6c251e793c7f7836bcc08225140885ff8ca5f221687e2bca57b30031ef97c4b8617fb422afc72f7febaa152f60ef71d72e86c5455dde663fce87175685c659c43ef268affbe69b3275b5257ed9753d180d7cc4c9394ba3ab65cc99ad0468806766befb7b0404d201c60763ce88e1530dea3df0216476429f7a88da181a635cba4bc308aa72c440188fe1816d7621ac7c25d8b1a66e7c1e81a5576f755bb130ef52e0f8302d8e9a620e9fc7260acec71777718412bd3283c2c2469bfbe9d200a535a2861961774a05c4a2e9ff94b1bbd72edee60af17582647da40d050a94ddd9973585de67bb727d5c2de0b92324e6ddace497b972e49e327ca3f13cfb32d3372ab07ba2ff4e442942e2d5bcca9158bc28b069224276d7297d557ec3d1ff3182b326c7ceca092efb194074604e132733dc70b4088774591f9b9fa38fb100c3eaf951dd49f317aabb95b58c5a6daa49ff397e14d2d4ae654f76d3768b358242eb0dc8837efa5eb1de8b29ad03e372476255b9e2d8896100eab8af462a581682df17ace504ea9c25cfe3871ccd0f306ca82c821a0ca65e61d9c35266d32cf1cb508de15a84ae27977b8c1b254701c626cf4f06a88a8fb10148a1aba22d1088702eb2be762d36cfa32e18651866b2729e2861b2783d1aee0c6e477eceef404d764ec07b3fbf6a6c5164fcbfe5eaaaab373d160dd1802868e7233e8765cceb6a9a3403c2df5c73a09bbff18bcd9e84ad4f3d87f0fe1c486b07e722e3332194518d3f5a40fdfa5c2ed7d594f0bcfe4d061f017e2587ad189729607c92e2ca763f67d3d3ec30b8cac0a1aebc21c0afd09cf6f9ada5cddecfd2d7e2cd21d8c10b0987ee6e61ab63a204d3e70d5bfcb25282fc64b6355488799eb9ff1c9b9e5fa597fe8f4c6b94136252b910d320ba9f395585ef9b339b0672dcaeeb909c966c7f0b5fc17c5f89f1f1b4d89b8d310f63f6026ee3035c563c111b87c5cbdd03edaba4b4c425c7252e167164f1f4405ad64838e41af92ab9dc2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Reverse Monte Carlo</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
+        <tag>Reverse Monte Carlo method</tag>
+        <tag>RMCProfile</tag>
       </tags>
   </entry>
   <entry>
@@ -2863,58 +2863,6 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
         <tag>Total Scattering</tag>
         <tag>Pair Distribution Functions</tag>
         <tag>Total Scattering School</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="28cf5c90b144d213076c254180961a50c7d0058b5690b10b4763cf5d4ae4f449">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd6d57b5ae7b1efb29d9c9e80f83dbf7a9ccf5f9ab342212ddc19073c264dda04a000455a5a1cd8e8338f2004e02e061fd44912293b3911e8de349c0fdd48a3aab463b000beab3b23887416ed6fd40955f55cb5af082628605c871f0d2d552a4492acb26be51104bb0feb5296d2f772b7393f299bf7577af1b8d3474b7e6975879b3960fd99c3f0d94ae26e5b878bba98e563ca98040dacfd64360e6a30d5b990b84c0581343e8136c355acdc1928dcf4f04020f4cbd92aa8af3e0646a5880b91e6765cccab903817d1fc7c4e79a7063567eccd88c3ced5c15c3861f41c31fefce8ca8f8f2226be5e3e9942b66ddcc159e76e68f1ca98adf89156ebdc1a9599405713e90943368759ef7663d19d2193bf6062ca3e9940a36564cf7206aaef5c7c39d317b21026508b6c07a41c313f8c5842983b1c41e75f394aa8470100df41ab7e923d22a52f7d6c2917e4319d617e148ca09652c62560369c3eab586770f44923d146e304d9bd4092e95feb5d072a1e3a743afdbc422e1915e5e8906156ba314190c1c1867d31f0fb2b7e6244d1a172872ac13fbd084336f62acba8d56cb1428f5b6272f2b0e075efccd51a7a86739e5a142c6532e4e0dd7f964e799e05bd10f5824db004f5c6547696c5160d58ad810bd6412df9ea145a24f17d44cc67e77823614cf6b17ad35257346bb5dcdb08708e9f9ea74c0f2d5053c3392f6ebf20fe6a85ba2f646d99d2ab0067192504699116676c3898b0782c04f691bc0db75e4180417a13c39f7ecd571de5c40016b6b95478d47eabf9800350bab347fe9277c73c4c1e78fe74f46fecc9310f4d819ac4fe08eec0bdcbf3c3964be1912870ca971c54dc6c6b9d03fea39d33326a74dbc7b12406d7ff5c4130370338213fa69c3e1458c5c7cc476c112c0a93c5a04dffea3534a9612f20aefb18a7e0659c833b26738d1f3ff04beddc7b9f4d0267611bf7f3f6f4e16fea3ff00f770e0a3162525ec83f2164a675ff7cf790558965e0d772509f7dc3ba2135b9b8bdbe1917f67ad9b9a9122df437d7451f683a33b8455afb313290b48a86e0d5d8add2196bc8269dc8e91679529df962742f5423d0fe76935350e021eaf82e2e5cdac57a6de1a8e958044e6b74e573e279bdc5c814cd85da3d110fa15cd7bd0dc75360f25d3db81d0a63764b9e53254390cbff88b5fa39c9e97a439008271de1b90a6ce805feffbd357c61fecd98ad93d734fc136fcbcded2c5816c9b404a3d20a81bfc79022f0f7904a9e90700d21dc3539b25e30fdd13cc4a96f5a87d221c18faa12721fbe81ac6375b2c5154d315dfc9429772848819774936367fc4d47dfa915a00cc92b100ab191ee0e3e18361f120634eba0c80b6b84fbdf3e846ae1469568e80ae0d182356ac2da36cfb54369ad402c229fd6da9407627b1ff2878ef27cedb7193ec2ed7c5829ffbe5167cacc50e358f8264adf906dca93257702a9d60e346d81e23ad92feb81bfaea2144c62b86da021e8b80b4beb736150118cfffccbfccaa6687fe4be00686ac7de97bbc7f28f6d0d7ddb6bb506e42979124af7ce4819aceb4285951319a32015ebe75e0b82a5fb0470168d129e23f0eee70466e7c1a30f4d6f4f8923268b31b48c1ab34b3b3c60ab7721422c98d2186ef7664113c872273a8b9b0d1cc4d8edc1aaa38eda48d4cdaed230c5dc846142144362094d9c9e180695a4742972fe58f76d222a8c587a2f91ed94f3c48c51ec6bb9247fa75bb1a49c3b2e8b4a494cc351052354feeca29ddcb58e1763b677b1e28180076a2892631e9ec017733e5b8ed2fb93d52f5d61862633be74ec90d82bab8daab8e0de920f6fa5aa34dcdb2557fbba18c4a315e02bee976af4cd</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
       </tags>
   </entry>
   <entry>
@@ -3265,6 +3213,32 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
     <url>/Tools/XAFS/5a85aa81.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -3292,6 +3266,60 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
         <tag>Matlab</tag>
         <tag>Python</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="28cf5c90b144d213076c254180961a50c7d0058b5690b10b4763cf5d4ae4f449">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b74109aaf7ffac95ba0c3c132dd2cc57313cd6d57b5ae7b1efb29d9c9e80f83dbf7a9ccf5f9ab342212ddc19073c264dda04a000455a5a1cd8e8338f2004e02e061fd44912293b3911e8de349c0fdd48a3aab463b000beab3b23887416ed6fd40955f55cb5af082628605c871f0d2d552a4492acb26be51104bb0feb5296d2f772b7393f299bf7577af1b8d3474b7e6975879b3960fd99c3f0d94ae26e5b878bba98e563ca98040dacfd64360e6a30d5b990b84c0581343e8136c355acdc1928dcf4f04020f4cbd92aa8af3e0646a5880b91e6765cccab903817d1fc7c4e79a7063567eccd88c3ced5c15c3861f41c31fefce8ca8f8f2226be5e3e9942b66ddcc159e76e68f1ca98adf89156ebdc1a9599405713e90943368759ef7663d19d2193bf6062ca3e9940a36564cf7206aaef5c7c39d317b21026508b6c07a41c313f8c5842983b1c41e75f394aa8470100df41ab7e923d22a52f7d6c2917e4319d617e148ca09652c62560369c3eab586770f44923d146e304d9bd4092e95feb5d072a1e3a743afdbc422e1915e5e8906156ba314190c1c1867d31f0fb2b7e6244d1a172872ac13fbd084336f62acba8d56cb1428f5b6272f2b0e075efccd51a7a86739e5a142c6532e4e0dd7f964e799e05bd10f5824db004f5c6547696c5160d58ad810bd6412df9ea145a24f17d44cc67e77823614cf6b17ad35257346bb5dcdb08708e9f9ea74c0f2d5053c3392f6ebf20fe6a85ba2f646d99d2ab0067192504699116676c3898b0782c04f691bc0db75e4180417a13c39f7ecd571de5c40016b6b95478d47eabf9800350bab347fe9277c73c4c1e78fe74f46fecc9310f4d819ac4fe08eec0bdcbf3c3964be1912870ca971c54dc6c6b9d03fea39d33326a74dbc7b12406d7ff5c4130370338213fa69c3e1458c5c7cc476c112c0a93c5a04dffea3534a9612f20aefb18a7e0659c833b26738d1f3ff04beddc7b9f4d0267611bf7f3f6f4e16fea3ff00f770e0a3162525ec83f2164a675ff7cf790558965e0d772509f7dc3ba2135b9b8bdbe1917f67ad9b9a9122df437d7451f683a33b8455afb313290b48a86e0d5d8add2196bc8269dc8e91679529df962742f5423d0fe76935350e021eaf82e2e5cdac57a6de1a8e958044e6b74e573e279bdc5c814cd85da3d110fa15cd7bd0dc75360f25d3db81d0a63764b9e53254390cbff88b5fa39c9e97a439008271de1b90a6ce805feffbd357c61fecd98ad93d734fc136fcbcded2c5816c9b404a3d20a81bfc79022f0f7904a9e90700d21dc3539b25e30fdd13cc4a96f5a87d221c18faa12721fbe81ac6375b2c5154d315dfc9429772848819774936367fc4d47dfa915a00cc92b100ab191ee0e3e18361f120634eba0c80b6b84fbdf3e846ae1469568e80ae0d182356ac2da36cfb54369ad402c229fd6da9407627b1ff2878ef27cedb7193ec2ed7c5829ffbe5167cacc50e358f8264adf906dca93257702a9d60e346d81e23ad92feb81bfaea2144c62b86da021e8b80b4beb736150118cfffccbfccaa6687fe4be00686ac7de97bbc7f28f6d0d7ddb6bb506e42979124af7ce4819aceb4285951319a32015ebe75e0b82a5fb0470168d129e23f0eee70466e7c1a30f4d6f4f8923268b31b48c1ab34b3b3c60ab7721422c98d2186ef7664113c872273a8b9b0d1cc4d8edc1aaa38eda48d4cdaed230c5dc846142144362094d9c9e180695a4742972fe58f76d222a8c587a2f91ed94f3c48c51ec6bb9247fa75bb1a49c3b2e8b4a494cc351052354feeca29ddcb58e1763b677b1e28180076a2892631e9ec017733e5b8ed2fb93d52f5d61862633be74ec90d82bab8daab8e0de920f6fa5aa34dcdb2557fbba18c4a315e02bee976af4cd</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/Tools/Hexo/1243066710.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
+<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
+first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
+you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Hexo</category>
+      </categories>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -3690,33 +3718,5 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Small-angle Scattering</tag>
         <tag>diffpy.pdfgetx</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/Tools/Hexo/1243066710.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://oss.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
-<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very
-first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for
-more info. If you get any problems when using Hexo, you can find the
-answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or
-you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Hexo</category>
-      </categories>
   </entry>
 </search>
