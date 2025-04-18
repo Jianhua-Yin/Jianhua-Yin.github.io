@@ -24,7 +24,7 @@
     <updated>2025-04-18T13:05:07.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;10%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;FAULTS is a program designed to refine X-ray powder diffraction (XRD)
 and neutron powder diffraction (NPD) patterns for crystal systems
 containing any type of coherent planar defect.</summary>
@@ -185,9 +185,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
@@ -251,9 +251,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
     
   </entry>
   
