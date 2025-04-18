@@ -24,7 +24,7 @@
     <updated>2025-04-18T13:05:07.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;80%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;FAULTS is a program designed to refine X-ray powder diffraction (XRD)
 and neutron powder diffraction (NPD) patterns for crystal systems
 containing any type of coherent planar defect.</summary>
@@ -472,13 +472,13 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
     
     <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
     
@@ -509,9 +509,9 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
     
@@ -575,9 +575,9 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
   </entry>
   
@@ -629,9 +629,9 @@ display phases line positions.&lt;/p&gt;</summary>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="Larch" scheme="https://www.huaecho.cn/tags/Larch/"/>
     
@@ -736,9 +736,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
-    
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
   </entry>
   
