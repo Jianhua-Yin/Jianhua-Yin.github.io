@@ -6,7 +6,7 @@
   <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
   
   <link href="https://www.huaecho.cn/"/>
-  <updated>2025-04-18T14:46:05.311Z</updated>
+  <updated>2025-04-18T14:46:19.685Z</updated>
   <id>https://www.huaecho.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.huaecho.cn/uncategorized/ec14d736.html"/>
     <id>https://www.huaecho.cn/uncategorized/ec14d736.html</id>
     <published>2025-04-18T14:46:05.000Z</published>
-    <updated>2025-04-18T14:46:05.311Z</updated>
+    <updated>2025-04-18T14:46:19.685Z</updated>
     
     
       
@@ -88,9 +88,9 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -174,9 +174,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <category term="2DCOS" scheme="https://www.huaecho.cn/categories/Tools/2DCOS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="2D Correlation Analysis" scheme="https://www.huaecho.cn/tags/2D-Correlation-Analysis/"/>
     
@@ -207,9 +207,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
-    
     <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    
+    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
     
   </entry>
   
@@ -230,9 +230,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
     
     
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
-    
     <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    
+    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
     
     <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
     
@@ -273,9 +273,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
-    
     <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    
+    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
     
   </entry>
   
@@ -490,17 +490,17 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
     
     <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
     
@@ -527,13 +527,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
     
@@ -560,9 +560,9 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -593,13 +593,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
   </entry>
   
@@ -647,13 +647,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="Larch" scheme="https://www.huaecho.cn/tags/Larch/"/>
     
@@ -679,9 +679,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -704,9 +704,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -729,9 +729,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -754,13 +754,13 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
   </entry>
   
