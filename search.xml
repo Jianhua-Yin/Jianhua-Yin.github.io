@@ -1,140 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <url>/Tools/2DCOS/1364141d.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="30%"></p>
-<p><strong>Two-dimensional Correlation Analysis</strong> facilitates the
-visualization of complex spectra with numerous overlapping peaks by
-spreading them across a second dimension.</p>
-<span id="more"></span>
-<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
-2D correlation spectroscopy</h2>
-<h3 id="history-of-2d-cos">History of 2D COS</h3>
-<p>Initially developed approximately 30 years ago in NMR spectroscopy,
-two-dimensional spectroscopy facilitated the visualization of complex
-spectra characterized by numerous overlapping peaks by distributing them
-across a second dimension. While NMR remains the predominant technique
-in two-dimensional spectroscopy, this approach has been extended to
-other forms, proving particularly useful across various spectroscopic
-techniques.</p>
-<p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
-<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
-Spectra</h3>
-<p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
-<h3 id="cases">Cases</h3>
-<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
-<a class="btn" href="">DOI:</a>
-<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
-correlation spectroscopy</h2>
-<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
-Correlation Analysis</h2>
-<h2 id="software-for-2d-correlation-analysis">Software for 2D
-correlation Analysis</h2>
-<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
-with XAS</h2>
-<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
-of XAS</h2>
-<h2 id="references">References</h2>
-<details class="note default no-icon"><summary><p>Reference</p>
-</summary>
-<ol type="1">
-<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
-analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
-Journal of Polymer Research 25(4).<br>
-</li>
-<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
-electrochemical reaction of lithium with CoO by two-dimensional soft
-X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
-XAS− Raman correlation analysis." The Journal of Physical Chemistry B
-107(24): 5806-5811.<br>
-</li>
-<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
-spectroscopy and two-dimensional correlation spectroscopy to the
-electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
-molecular structure 799(1-3): 91-95.<br>
-</li>
-<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
-Co-MCM-41 and the formation of size-controllable subnanometer Co
-clusters." J Phys Chem B 109(6): 2285-2294.<br>
-</li>
-<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
-hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
-magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
-</li>
-<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
-spectroscopy studies of polymer blends: conformational changes and
-specific interactions in blends of atactic polystyrene and poly (2,
-6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
-103(32): 6704-6712.<br>
-</li>
-<li>Noda, I. (1993). "Generalized two-dimensional correlation method
-applicable to infrared, Raman, and other types of spectroscopy." Applied
-Spectroscopy 47(9): 1329-1336.<br>
-</li>
-<li>Noda, I. (2000). "Determination of two-dimensional correlation
-spectra using the Hilbert transform." Applied Spectroscopy 54(7):
-994-999.<br>
-</li>
-<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
-Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
-</li>
-<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
-spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
-</li>
-<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
-and its application in vibrational spectroscopy using Matlab." Tech.
-Comput. Prague: 978-980.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
-Spectroscopy." The Journal of Physical Chemistry A 104(27):
-6380-6387.<br>
-</li>
-<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
-Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
-Wavenumber− Wavenumber Correlations of Temperature-Dependent
-Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
-Journal of Physical Chemistry A 104(27): 6388-6394.<br>
-</li>
-<li>Sui, H., et al. (2017). "Determination of the radiation resistance
-order of high explosives by the two dimensional correlation X-ray
-photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
-Research Section B: Beam Interactions with Materials and Atoms 406:
-496-500.<br>
-</li>
-<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
-hetero-spectral correlation analysis for the fingerprint identification
-of humic acid functional groups for hexavalent chromium retention." RSC
-Adv 8(7): 3522-3529.<br>
-</li>
-<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
-spectroscopy: applications in vibrational and optical spectroscopy. John
-Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
-</li>
-<li>Haider, P., et al. (2005). "Application of the generalized 2D
-correlation analysis to dynamic near-edge X-ray absorption spectroscopy
-data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
-</li>
-<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
-the American Chemical Society 111(21): 8116-8118.</li>
-</ol>
-
-</details>
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>2DCOS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>2D Correlation Analysis</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
     <url>/Core-level-spectroscopy/XAFS/199cdc0d.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif" alt="Artemis Software" title="" width="40%"></p>
@@ -445,31 +311,169 @@ fit</td>
       </tags>
   </entry>
   <entry>
-    <title>Fastosh: XAFS Data Processing</title>
-    <url>/uncategorized/ec14d736.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
-<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
-  </entry>
-  <entry>
-    <title>Faults: XRD/NPD Refinement for Crystal Systems with Planar Defects</title>
-    <url>/Tools/Scattering/393ff172.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif" alt="Faults" title="" width="75%"></p>
-<p>FAULTS is a program designed to refine X-ray powder diffraction (XRD)
-and neutron powder diffraction (NPD) patterns for crystal systems
-containing any type of coherent planar defect. <span id="more"></span></p>
-<h2 id="program-specifications">Program Specifications</h2>
-<h2 id="input-files">Input Files</h2>
-<h2 id="output-files">Output Files</h2>
-<h2 id="simulation-process">Simulation Process</h2>
+    <title>Application of Two-dimensional correlation Analysis in XAS</title>
+    <url>/Tools/2DCOS/1364141d.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif" alt="2D COS Cover" title="" width="30%"></p>
+<p><strong>Two-dimensional Correlation Analysis</strong> facilitates the
+visualization of complex spectra with numerous overlapping peaks by
+spreading them across a second dimension.</p>
+<span id="more"></span>
+<h2 id="brief-overview-of-2d-correlation-spectroscopy">Brief overview of
+2D correlation spectroscopy</h2>
+<h3 id="history-of-2d-cos">History of 2D COS</h3>
+<p>Initially developed approximately 30 years ago in NMR spectroscopy,
+two-dimensional spectroscopy facilitated the visualization of complex
+spectra characterized by numerous overlapping peaks by distributing them
+across a second dimension. While NMR remains the predominant technique
+in two-dimensional spectroscopy, this approach has been extended to
+other forms, proving particularly useful across various spectroscopic
+techniques.</p>
+<p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/2DCOSHistory.png?imageMogr2/format/avif" alt="History of 2D COS" title="" width="50%"></p>
+<h3 id="feature-of-2d-correlation-spectra">Feature of 2D Correlation
+Spectra</h3>
+<p><img src="https://cos.huaecho.cn/blogimage/2DCOSXAS/Fetureof2DCOS.png?imageMogr2/format/avif" alt="Feature of 2D Correlation Spectra" title="" width="50%"></p>
+<h3 id="cases">Cases</h3>
+<h4 id="case-1-ir-2d-cos">Case 1: IR 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h4 id="case-2-xas-2d-cos">Case 2: XAS 2D-COS</h4>
+<a class="btn" href="">DOI:</a>
+<h2 id="principle-of-2d-correlation-spectroscopy">Principle of 2D
+correlation spectroscopy</h2>
+<h2 id="how-to-perform-2d-correlation-analysis">How to Perform 2D
+Correlation Analysis</h2>
+<h2 id="software-for-2d-correlation-analysis">Software for 2D
+correlation Analysis</h2>
+<h2 id="d-correlation-spectroscopy-with-xas">2D correlation spectroscopy
+with XAS</h2>
+<h2 id="how-to-interpret-the-2d-cos-of-xas">How To Interpret The 2D COS
+of XAS</h2>
+<h2 id="references">References</h2>
+<details class="note default no-icon"><summary><p>Reference</p>
+</summary>
+<ol type="1">
+<li>Al Lafi, A. G. (2018). "Application of 2D correlation methods to the
+analysis of XPS spectra of ion irradiated poly (ether ether ketone)."
+Journal of Polymer Research 25(4).<br>
+</li>
+<li>Choi, H. C., et al. (2003). "A study of the mechanism of the
+electrochemical reaction of lithium with CoO by two-dimensional soft
+X-ray absorption spectroscopy (2D XAS), 2D Raman, and 2D heterospectral
+XAS− Raman correlation analysis." The Journal of Physical Chemistry B
+107(24): 5806-5811.<br>
+</li>
+<li>Choi, H. C., et al. (2006). "Application of soft X-ray absorption
+spectroscopy and two-dimensional correlation spectroscopy to the
+electrochemical reaction in the Li1+ xV3O8/Li cell." Journal of
+molecular structure 799(1-3): 91-95.<br>
+</li>
+<li>Lim, S., et al. (2005). "Pore curvature effect on the stability of
+Co-MCM-41 and the formation of size-controllable subnanometer Co
+clusters." J Phys Chem B 109(6): 2285-2294.<br>
+</li>
+<li>Liu, Y. and H. He (2009). "Experimental and theoretical study of
+hydrogen thiocarbonate for heterogeneous reaction of carbonyl sulfide on
+magnesium oxide." J Phys Chem A 113(14): 3387-3394.<br>
+</li>
+<li>Nakashima, K., et al. (1999). "Two-dimensional infrared correlation
+spectroscopy studies of polymer blends: conformational changes and
+specific interactions in blends of atactic polystyrene and poly (2,
+6-dimethyl-1, 4-phenylene ether)." The Journal of Physical Chemistry B
+103(32): 6704-6712.<br>
+</li>
+<li>Noda, I. (1993). "Generalized two-dimensional correlation method
+applicable to infrared, Raman, and other types of spectroscopy." Applied
+Spectroscopy 47(9): 1329-1336.<br>
+</li>
+<li>Noda, I. (2000). "Determination of two-dimensional correlation
+spectra using the Hilbert transform." Applied Spectroscopy 54(7):
+994-999.<br>
+</li>
+<li>Noda, I. (2014). "Two‐Dimensional Correlation Spectroscopy Study of
+Polystyrene." Macromolecular Symposia 339(1): 17-23.<br>
+</li>
+<li>Noda, I., et al. (2000). "Generalized two-dimensional correlation
+spectroscopy." Applied Spectroscopy 54(7): 236A-248A.<br>
+</li>
+<li>Pazderka, T. and V. Kopecky Jr (2008). "2D correlation spectroscopy
+and its application in vibrational spectroscopy using Matlab." Tech.
+Comput. Prague: 978-980.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 1. Sample− Sample Correlation
+Spectroscopy." The Journal of Physical Chemistry A 104(27):
+6380-6387.<br>
+</li>
+<li>Šašić, S., et al. (2000). "A New Possibility of the Generalized
+Two-Dimensional Correlation Spectroscopy. 2. Sample− Sample and
+Wavenumber− Wavenumber Correlations of Temperature-Dependent
+Near-Infrared Spectra of Oleic Acid in the Pure Liquid State." The
+Journal of Physical Chemistry A 104(27): 6388-6394.<br>
+</li>
+<li>Sui, H., et al. (2017). "Determination of the radiation resistance
+order of high explosives by the two dimensional correlation X-ray
+photoelectron spectroscopy." Nuclear Instruments and Methods in Physics
+Research Section B: Beam Interactions with Materials and Atoms 406:
+496-500.<br>
+</li>
+<li>Zhang, J., et al. (2018). "A novel method of three-dimensional
+hetero-spectral correlation analysis for the fingerprint identification
+of humic acid functional groups for hexavalent chromium retention." RSC
+Adv 8(7): 3522-3529.<br>
+</li>
+<li>Noda, I., &amp; Ozaki, Y. (2005). Two-dimensional correlation
+spectroscopy: applications in vibrational and optical spectroscopy. John
+Wiley &amp; Sons. (Haider, Chen et al. 2005).<br>
+</li>
+<li>Haider, P., et al. (2005). "Application of the generalized 2D
+correlation analysis to dynamic near-edge X-ray absorption spectroscopy
+data." Journal of the American Chemical Society 127(6): 1906-1912.<br>
+</li>
+<li>Noda, I. (1989). "Two-dimensional infrared spectroscopy." Journal of
+the American Chemical Society 111(21): 8116-8118.</li>
+</ol>
+
+</details>
 <script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
       <categories>
         <category>Tools</category>
-        <category>Scattering</category>
+        <category>2DCOS</category>
       </categories>
       <tags>
-        <tag>Faults Simulation</tag>
-        <tag>X-ray Diffraction</tag>
-        <tag>Neutron Diffraction</tag>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>2D Correlation Analysis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CTM4XAS: Simulating Core Level Spectra</title>
+    <url>/Tools/XAFS/c4379e43.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="805eb66c4bfbfc0f1c7166dcfdf9f710289ea1b70cf5fd1b435261f2bfeff689">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1bdef09521756beb26ed239f9a5b9279eff8c4c56118fc40715ecfbb96c28b8de71b08144af332258dd712630182731ce9020fe615a52868b0128aba9ec843cda7f4eb774ec79702136c972db929cc47980d1b920c511374b0a4b6f6f1a500901f677271bb8420f77dfaaec17c3a2fb557157dbf201c2a6c627501ddc1201bbba6fa66285ff8280e12e0f6262e8973fba3bf6240d494323633451e24373bb881c119996100deff5ca16b9f7b6a26fc7cd7a1ac163205e65c73f968bc3b897e44b2cc3447c3eaf8c0ee5ae66a63d6de11769f4472cb4b23f59a09401a41210e3600fdd5f776e8df4c508614b6676f6abc5e987fc0779f92be6e2da3835ac36d8639cca3d4d44381e61480ed9f5f9349a04eae05127dc0a09314210b9867682c9302da3299f44862f59c1494327754ad5d153c26e5ed5a7f0b80083950343556293b6705e90e08b6b17bd971c763948bdcd84d8d1a018040b72d9baaf75430db6e9d90ff01db13895bf49315c9e336ece104435a6bff9a2779217bf2e4af4264d89d8c5da73895fa0b77e69efec09b787a4a38caea2dd19cd51eb335b531c3049ecfb9a5e84dba5da793e720dc291e5c528abe3972db665ac0c313e0d4d5a9d770dcc640852905e37836b52833e0af2cfba</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>XANES</tag>
+        <tag>XES</tag>
+        <tag>RIXS</tag>
+        <tag>TM L-edge</tag>
+        <tag>CTM4XAS</tag>
       </tags>
   </entry>
   <entry>
@@ -508,38 +512,6 @@ containing any type of coherent planar defect. <span id="more"></span></p>
       </tags>
   </entry>
   <entry>
-    <title>CTM4XAS: Simulating Core Level Spectra</title>
-    <url>/Tools/XAFS/c4379e43.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="805eb66c4bfbfc0f1c7166dcfdf9f710289ea1b70cf5fd1b435261f2bfeff689">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1bdef09521756beb26ed239f9a5b9279eff8c4c56118fc40715ecfbb96c28b8de71b08144af332258dd712630182731ce9020fe615a52868b0128aba9ec843cda7f4eb774ec79702136c972db929cc47980d1b920c511374b0a4b6f6f1a500901f677271bb8420f77dfaaec17c3a2fb557157dbf201c2a6c627501ddc1201bbba6fa66285ff8280e12e0f6262e8973fba3bf6240d494323633451e24373bb881c119996100deff5ca16b9f7b6a26fc7cd7a1ac163205e65c73f968bc3b897e44b2cc3447c3eaf8c0ee5ae66a63d6de11769f4472cb4b23f59a09401a41210e3600fdd5f776e8df4c508614b6676f6abc5e987fc0779f92be6e2da3835ac36d8639cca3d4d44381e61480ed9f5f9349a04eae05127dc0a09314210b9867682c9302da3299f44862f59c1494327754ad5d153c26e5ed5a7f0b80083950343556293b6705e90e08b6b17bd971c763948bdcd84d8d1a018040b72d9baaf75430db6e9d90ff01db13895bf49315c9e336ece104435a6bff9a2779217bf2e4af4264d89d8c5da73895fa0b77e69efec09b787a4a38caea2dd19cd51eb335b531c3049ecfb9a5e84dba5da793e720dc291e5c528abe3972db665ac0c313e0d4d5a9d770dcc640852905e37836b52833e0af2cfba</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>Core level spectrum</tag>
-        <tag>XANES</tag>
-        <tag>XES</tag>
-        <tag>RIXS</tag>
-        <tag>TM L-edge</tag>
-        <tag>CTM4XAS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
     <url>/Tools/XAFS/7cac8507.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
@@ -570,66 +542,6 @@ containing any type of coherent planar defect. <span id="more"></span></p>
         <tag>Muffin-tin Approximation</tag>
         <tag>Green&#39;s Function</tag>
         <tag>FEFF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
-    <url>/Tools/Scattering/2c78c48.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="c176dd3ec56dedbd525e743047ad6bef3cc33ff4abc2994f89407f5d57aefb66">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1c80f759a5718f630a811e986efeaec187af5b67102206b44197758e29a2d39c1782ea1ec0336f02b674fd65cecf05d3dacbcc32e46c4d9eeec50bd0d0ff2a1d1a77a83f1891de0d7c244cce91e6a8139d8681b2f64d186ac10f3de56e5438a926ce5bd06e5b7dbf5660e72af5f2ba2739cfd3eda9f2710558264f93263668f6b2427b265bf0563e9c74abe0e1eab530008d440e86ef8e610ea58e55835ba508bebf67fe9209d0733e3a7445eaf9e5778662845e4f69d2749dc03357696a3267f563442653c9473b1f30e2633b0ed258553236be51752b5d7c24b83d6a7b243850c11cf1e8b7898b418cf0e5b96fd6358b19aaee6774214f03b97f159c24c1e30cc28be62b0139b81828e308a3a7575594233a7f5580572c8269afd2e67e25a122a48f32b91ee57c2a82d48cdab0cad45034aee8a3f2d2cad2925049dc1d2b06984442d253eec23b2bd94736568f7b5ecbdd1398f3970319e0d8cb9ea2b666977260c93f9877ff0ac2e1bee6d8e64c482836527b84e8f785406269f6a282292128da835faacf8a4229c7cbf69f9cf82280e0ad44d661cd8d93f74e88aa7a0a54a5c07bbc2c441d70220097905d4c4f5801b25626afb93ea68b686e07a71058847bc261cbf89b8df4e54728d6cd6898ea64a9f9999d4da1abe5abfa52057567d20</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Rietveld Refinement</tag>
-        <tag>FullProf Suite</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
-    <url>/Tools/Scattering/de093485.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Two Dimensional XRD</tag>
-        <tag>Fit2D</tag>
       </tags>
   </entry>
   <entry>
@@ -2093,6 +2005,42 @@ XAS<br>
       </tags>
   </entry>
   <entry>
+    <title>Fastosh: XAFS Data Processing</title>
+    <url>/uncategorized/ec14d736.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css">
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+  </entry>
+  <entry>
+    <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
+    <url>/Tools/Scattering/de093485.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="613bf6c66aa09118bb72350ff02f534cabd25b5ab0dd80f7eea92fc4ea5890a4">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed61e46418ff716548c908049ec285b3511c1951dc2315309b4630715f835c7ffd9ceef30358d3113bc1ff00c2ec1c39f72841312d1aeffb83e7d6e14260f70cd5572649ef6f91ac9b2cb991e3ccdc44ea2af29cf0699e0f071cf78121a10d9802224163059cb71b675dfc148e5edabc0f372227ae565db681518174a5e0e48fec7de59d90bc56ce178f887be60714f85bc82575d4f9ba84999bcdd00e3b38c5c748b944c88f91a460ed7deffd5a3c0dbba5c9d0114b12907d6e4f678fb3c4a20d80a9cc2f45fc177260b7dfaff731c69d71c257d92b46ba1dc20323394464b4fbff48f037770e34cb9ea084e6a6aae8f2997b74f89648de2e0c67bcf2d6fb24911a80baabfd010f11f4645777b3ccd27239ef624dc2886a19a5e6e0128331aa51053eb37c184a9e2ee7151052ba037f8890590d27942999bba2eda0d22ea91c3cb34f643aae8f324949f461244409ccc60da7497d2a41d624bbb6e8ca747d8dfe0b0bf7ae6ea25bec04a2ef3a5b6d92d766f0c98913b2bd02534f2972deb49b26f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Two Dimensional XRD</tag>
+        <tag>Fit2D</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
     <url>/Tools/Scattering/5b81b8ba.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif" alt="gsas2" title="" width="20%"></p>
@@ -2162,10 +2110,10 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
-    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
-    <url>/Tools/Image/d0805113.html</url>
+    <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
+    <url>/Tools/Scattering/2c78c48.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="4dcbcbad8b825ebfdb4826c382f164dc7b1fa5ed939175f704be3a7e1b4962b8">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1092cc72f6288157e5fa9fba1c515b5faba74ca1e619b1d8f8d9841f8a3dbb688de742c638764e96eed706a95d09d04db6de831ed263cfbd7da2bdae592c8871ec9d70342ba58aa5be308237247cf676a22c9f4e3e7f44cfb6745f062350235884a638bee269524c7ac9f1aca3e1eddaa1214e237b367299a52265e97fe85d322c48f28111014db0b0f3ba8095efc63808f6f674cf0d5a0e3fc2a155efb9d4388785e56a32911ae427a278be5269b2f943f6e9f1911564f5cc93e97ee7caabf7e8584baedd26ea852e992f81ce7102bc0397e38fbb8168885558ce8462c607a019a0ced429260f0d1753cbd887aebfa8ab97b35e540a13dbbd629ec01efa0e8e62bbe3114d4e0901e04c96b9d965988509e3b1590ed829128028ec98c0f22afa1c554b0d8bea8171ae0424166678326ed478d5e319e4053b7d2ed4c580c4625dd92fb1ae592205fa15b58deb9e2d35b9062f8ffdabb1eee9a9ede68f6a74a22b0e0a7d64b76c2bbcf7fd971a26082e829bd5d664d095faa5e4730cc259f0eab121b1a7bd1df9f7ab0dcdc9edfdc84e49aad96d37bd3651145a37f1055798a3a3206f7e74202b00a19d9afcd37e9e2e4bf4997bd0e4b281524d1f2e53f360efad9</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="c176dd3ec56dedbd525e743047ad6bef3cc33ff4abc2994f89407f5d57aefb66">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1c80f759a5718f630a811e986efeaec187af5b67102206b44197758e29a2d39c1782ea1ec0336f02b674fd65cecf05d3dacbcc32e46c4d9eeec50bd0d0ff2a1d1a77a83f1891de0d7c244cce91e6a8139d8681b2f64d186ac10f3de56e5438a926ce5bd06e5b7dbf5660e72af5f2ba2739cfd3eda9f2710558264f93263668f6b2427b265bf0563e9c74abe0e1eab530008d440e86ef8e610ea58e55835ba508bebf67fe9209d0733e3a7445eaf9e5778662845e4f69d2749dc03357696a3267f563442653c9473b1f30e2633b0ed258553236be51752b5d7c24b83d6a7b243850c11cf1e8b7898b418cf0e5b96fd6358b19aaee6774214f03b97f159c24c1e30cc28be62b0139b81828e308a3a7575594233a7f5580572c8269afd2e67e25a122a48f32b91ee57c2a82d48cdab0cad45034aee8a3f2d2cad2925049dc1d2b06984442d253eec23b2bd94736568f7b5ecbdd1398f3970319e0d8cb9ea2b666977260c93f9877ff0ac2e1bee6d8e64c482836527b84e8f785406269f6a282292128da835faacf8a4229c7cbf69f9cf82280e0ad44d661cd8d93f74e88aa7a0a54a5c07bbc2c441d70220097905d4c4f5801b25626afb93ea68b686e07a71058847bc261cbf89b8df4e54728d6cd6898ea64a9f9999d4da1abe5abfa52057567d20</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-xray">
       <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
@@ -2182,10 +2130,13 @@ Ratio</h2>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>Tools</category>
-        <category>Image</category>
+        <category>Scattering</category>
       </categories>
       <tags>
-        <tag>ImageJ</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Rietveld Refinement</tag>
+        <tag>FullProf Suite</tag>
       </tags>
   </entry>
   <entry>
@@ -2218,6 +2169,33 @@ Ratio</h2>
       </tags>
   </entry>
   <entry>
+    <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
+    <url>/Tools/Image/d0805113.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4dcbcbad8b825ebfdb4826c382f164dc7b1fa5ed939175f704be3a7e1b4962b8">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1092cc72f6288157e5fa9fba1c515b5faba74ca1e619b1d8f8d9841f8a3dbb688de742c638764e96eed706a95d09d04db6de831ed263cfbd7da2bdae592c8871ec9d70342ba58aa5be308237247cf676a22c9f4e3e7f44cfb6745f062350235884a638bee269524c7ac9f1aca3e1eddaa1214e237b367299a52265e97fe85d322c48f28111014db0b0f3ba8095efc63808f6f674cf0d5a0e3fc2a155efb9d4388785e56a32911ae427a278be5269b2f943f6e9f1911564f5cc93e97ee7caabf7e8584baedd26ea852e992f81ce7102bc0397e38fbb8168885558ce8462c607a019a0ced429260f0d1753cbd887aebfa8ab97b35e540a13dbbd629ec01efa0e8e62bbe3114d4e0901e04c96b9d965988509e3b1590ed829128028ec98c0f22afa1c554b0d8bea8171ae0424166678326ed478d5e319e4053b7d2ed4c580c4625dd92fb1ae592205fa15b58deb9e2d35b9062f8ffdabb1eee9a9ede68f6a74a22b0e0a7d64b76c2bbcf7fd971a26082e829bd5d664d095faa5e4730cc259f0eab121b1a7bd1df9f7ab0dcdc9edfdc84e49aad96d37bd3651145a37f1055798a3a3206f7e74202b00a19d9afcd37e9e2e4bf4997bd0e4b281524d1f2e53f360efad9</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Image</category>
+      </categories>
+      <tags>
+        <tag>ImageJ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Key Parameters in EXAFS Fitting</title>
     <url>/Core-level-spectroscopy/XAFS/2e792c96.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
@@ -2244,6 +2222,60 @@ Ratio</h2>
         <tag>XAFS</tag>
         <tag>Core level spectrum</tag>
         <tag>EXAFS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Faults: XRD/NPD Refinement for Crystal Systems with Planar Defects</title>
+    <url>/Tools/Scattering/393ff172.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif" alt="Faults" title="" width="75%"></p>
+<p>FAULTS is a program designed to refine X-ray powder diffraction (XRD)
+and neutron powder diffraction (NPD) patterns for crystal systems
+containing any type of coherent planar defect. <span id="more"></span></p>
+<h2 id="program-specifications">Program Specifications</h2>
+<h2 id="input-files">Input Files</h2>
+<h2 id="output-files">Output Files</h2>
+<h2 id="simulation-process">Simulation Process</h2>
+<script type="text&#x2F;javascript" src="/thirdcssjs/kity.min.js"></script><script type="text&#x2F;javascript" src="/thirdcssjs/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="/thirdcssjs/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" src="/thirdcssjs/mindmap.min.css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Faults Simulation</tag>
+        <tag>X-ray Diffraction</tag>
+        <tag>Neutron Diffraction</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Refinement of Pair Distribution Functions with DISCUC</title>
+    <url>/Tools/Scattering/4072560629.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4ba55a4e7a1f77e9060b7a8ace6a1a04ec36e691daa08fbd329b1cfcdfb99746">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc106691d1568722366166f1db8445ef7ce0ae32fa57c008de27ef6ff471eadc7797ac876bc095e3c86354c262556d42c742d7de11d5d68d0c986698b1b9ea86fabe32c1e1bc20827d6aa1eeb9baf138bb145d6c301ef5d28c381630571f81a042c58d31a2a2c8e3136a417ad262b67be9df3b4084b2baf38b0b04ff721e1473c139f8357cb93dfc890461bb60b2a2f265c5944118762c2659577cbe20c148849fb60f46a3b5c04533ad8cefb1172f1d597465c01f0e64456955e4fa92f0acdaec8984da3828d12a394bdc6981435505491073963caeeec65dd4cf130c54553c6b3f786bc01deb843a62d4bf7e5e437899a738bb21de8fbae1ac87358b5c3ee951af91ffee8b64820286f3d54b11588e10b3e88bcf671157f3e045253e9b67732165405114e2563f079cadbbd2193a0fb191046a223b3adf4c97550d15fdecca339aad387d8c1cd9336a259f8b2f0d065ddd3b81fb66a8bbce1ca3bb58af2110a11aa8e86bf2a9da41fb2ce98be3f2d940869321fdd87b841b0de41b946b235a27a0687643ac34ed131602983986285e90dfa39617acf0f5b8d0a06566c207ae006d59176dcc4a0d05b80a42a34eba7541369395af4e8663146d198c5e2529f8a7f46d18b0df7e72cbcf6df64166b19a17925f3c89fb515466ed3dcaa8775dcfa0cda4a44d7c427bf2663f593e84d26f7405f1a1f566fd315d93d3e44565d26bf1bbbcf56874b0a2263bd7087f1ca5d9d7172c247c637af89b9dc6064239db6e10bf88111a37b7cfe065a993e1f3a08f960ee5affab1271a0aa0843d293062229c8389e7fce8a967db27b29d171839da934b219a65704c89b6f7f1dc54304f88db7ff39d9632542acd0f53c2fd7799af11ec9d43855e3233443fc50d8a24b66d7ad373c328b7c24477c0e58e9a3c6f2a05a4f2c426b175661b78324b0fb94250238db2fae05b4d76c6314fe787f1485344e487f08afb8fd0c6c9a1b67c2964c4f1b12b204f99218a62e90050c871d355b0954f9c0133ec527e092f74ae39d8f18bf5d0b4078bcc9df18c6787319715b31fae91c621d8425a2339699e2611bd68f96bbb1feecafe17eda34c40c564881b2e0f47e6800055da382f4da6d685ae222fef8633efae324f34d5b0f31eb72312dc5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Tools</category>
+        <category>Scattering</category>
+      </categories>
+      <tags>
+        <tag>Powder Diffraction</tag>
+        <tag>Pair Distribution Function</tag>
+        <tag>Total Scattering</tag>
+        <tag>Small-angle Scattering</tag>
+        <tag>DISUC</tag>
+        <tag>PDFs Refinement</tag>
       </tags>
   </entry>
   <entry>
@@ -2305,40 +2337,8 @@ Ratio</h2>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
+        <tag>PDFs Refinement</tag>
         <tag>PDFgui</tag>
-        <tag>PDFs Refinement</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Refinement of Pair Distribution Functions with DISCUC</title>
-    <url>/Tools/Scattering/4072560629.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="4ba55a4e7a1f77e9060b7a8ace6a1a04ec36e691daa08fbd329b1cfcdfb99746">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc106691d1568722366166f1db8445ef7ce0ae32fa57c008de27ef6ff471eadc7797ac876bc095e3c86354c262556d42c742d7de11d5d68d0c986698b1b9ea86fabe32c1e1bc20827d6aa1eeb9baf138bb145d6c301ef5d28c381630571f81a042c58d31a2a2c8e3136a417ad262b67be9df3b4084b2baf38b0b04ff721e1473c139f8357cb93dfc890461bb60b2a2f265c5944118762c2659577cbe20c148849fb60f46a3b5c04533ad8cefb1172f1d597465c01f0e64456955e4fa92f0acdaec8984da3828d12a394bdc6981435505491073963caeeec65dd4cf130c54553c6b3f786bc01deb843a62d4bf7e5e437899a738bb21de8fbae1ac87358b5c3ee951af91ffee8b64820286f3d54b11588e10b3e88bcf671157f3e045253e9b67732165405114e2563f079cadbbd2193a0fb191046a223b3adf4c97550d15fdecca339aad387d8c1cd9336a259f8b2f0d065ddd3b81fb66a8bbce1ca3bb58af2110a11aa8e86bf2a9da41fb2ce98be3f2d940869321fdd87b841b0de41b946b235a27a0687643ac34ed131602983986285e90dfa39617acf0f5b8d0a06566c207ae006d59176dcc4a0d05b80a42a34eba7541369395af4e8663146d198c5e2529f8a7f46d18b0df7e72cbcf6df64166b19a17925f3c89fb515466ed3dcaa8775dcfa0cda4a44d7c427bf2663f593e84d26f7405f1a1f566fd315d93d3e44565d26bf1bbbcf56874b0a2263bd7087f1ca5d9d7172c247c637af89b9dc6064239db6e10bf88111a37b7cfe065a993e1f3a08f960ee5affab1271a0aa0843d293062229c8389e7fce8a967db27b29d171839da934b219a65704c89b6f7f1dc54304f88db7ff39d9632542acd0f53c2fd7799af11ec9d43855e3233443fc50d8a24b66d7ad373c328b7c24477c0e58e9a3c6f2a05a4f2c426b175661b78324b0fb94250238db2fae05b4d76c6314fe787f1485344e487f08afb8fd0c6c9a1b67c2964c4f1b12b204f99218a62e90050c871d355b0954f9c0133ec527e092f74ae39d8f18bf5d0b4078bcc9df18c6787319715b31fae91c621d8425a2339699e2611bd68f96bbb1feecafe17eda34c40c564881b2e0f47e6800055da382f4da6d685ae222fef8633efae324f34d5b0f31eb72312dc5</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Tools</category>
-        <category>Scattering</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>Pair Distribution Function</tag>
-        <tag>Total Scattering</tag>
-        <tag>Small-angle Scattering</tag>
-        <tag>PDFs Refinement</tag>
-        <tag>DISUC</tag>
       </tags>
   </entry>
   <entry>
@@ -2365,8 +2365,8 @@ Ratio</h2>
         <category>Scattering</category>
       </categories>
       <tags>
-        <tag>Powder Diffraction</tag>
         <tag>Reverse Monte Carlo</tag>
+        <tag>Powder Diffraction</tag>
         <tag>Pair Distribution Function</tag>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
@@ -2824,6 +2824,64 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
+    <title>TXM: Transmission X-ray Microscopy</title>
+    <url>/Image/TXM/ce284f68.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Image</category>
+        <category>TXM</category>
+      </categories>
+      <tags>
+        <tag>Core level spectrum</tag>
+        <tag>TXM</tag>
+        <tag>X-ray Imaging</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Total Scattering School: Practical Applications</title>
+    <url>/Scattering/Pair-Distribution-Function/b43ee344.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="5eb6821d4f3526b9339da6ff431d9a587c4a351f5869442a08b76288b5f35644">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1fc43c20db73643e83779177f154e11f03f2ce14e7c4433057c7e708e403083d80d443f9dea553825c68b655712213b43f0827ea4f2e4388cd8d48843668be38996ba9474ffa921455fffec1fbd215d2a42ffcc03b061f16459115eaa90254569ae40fcaaa9e2b28b6eba19bcaf85e50474e7959ec08d927ebc126334513072a63ae6d4f5296ab0d1d9cf62a97b6f0d52888fd361687a602d31e7d0d50c0632d9647f21105d6ea84121baf21619f329410b0c2683a3718ce2c8f31becb5946331c55d76c2576b772e01f12bfb050192b69198cd4146db700d725bb2b82a05f58f3541385682457044edea191466e2e3f77c27aaf195811e6020106ee855422fea21aa65ba217fd9d15f8493645812d2d5b024b0d0af05fc1af6c9a33bf4d809c2bbaa178fab980e98bcf88f3b087de721a18bc779cab895fba18f1117135d7994027632c758ccd53f96c9a12a5253138cb871c4f7cf2f54f5f4c1c732b3fcb6bf81ebadb06362f3b872043caf88ab3df180a85bfb1fb860dfa6bcb8975b4ec100e7c248094e6ab1c39fc24549712a6b5ca0e3b407492c4fcdef62a74b1e1dd79ad29dc83d70bac58ad785b6442c2bdadf648fd4b9be4df02e0c87a0b8d3cb9d12adc49d57c23f532886ebd375db702d8658781095a3ff7a2368b65898ddeff3dac4310c96aaf476ca31a0b1057044218fb1e8f3f7e247825eeac98143849c1e5ef377f7e66881844279d0f44314e3b43a779b9ede44088b51074d6710f031cb12302102adb7c7f137e5ab37a8d591b57a9e6d372cfc14a97a6e81fa7c32c25a9430368c5353ebff224ecde99ed3875589e3fcae551cdf293f9f8fbc4ee31ab6b99299733fea62131e449382b1757005447626b804d1645d2fa293651a9a641f347601295c46cdbfda2c74dc76730ee8b948e6566f25a3ceebea5a420f73b129ad31cfe223d7f4406fa4e446b90287c6ac9214be40e644ffb2d6b6c9d4d73e483cbce1f0bf6b0eb340f6073050fcc7a69ce4888f2a8a5e435dfc90bcb4a6fe5a88e5d4c3c0843b3aab5da88767a84d0cf25d0feee07d25b392bade3e5c156baf57b0d651d8dd362c1a8c7360ef5e5e64e1739bcca4dd0c8a67fb416b89ac10009838c876fe63800e166b72ff5674c86388c018e34abc6942a1ebe8eec4bc5bc6d2b180f480aac4065739ec3b705dce79b3d58f08611b75ad7b3a0ddbeb8a150899eb498ad67fd2da61cc7c1c448299adb2678361f495b4c91b6dce00027c8bff2a9cbb55a334295d0fcc9e2c6df5b440841a8039971a49afac7f590bb8baf4ce4a55f3dc5fe55ecbc3c013d341f94f6587dda0c1a96db92932ba2ca97f5c92222820c43dad8b0983550fcfb6f8efc90de6a8239222defe992f07671bcce5467dbf54c88c1693985914d42ad130873120f2d9dadab74e47c6973509d59ab8b969eb377d74e5a53260ad65801d4f1437be162d1bd20224fe2581bfa2a3c706e1c5990ca9881745bcf9a854b6758757dcb84862592613ad7650b974bfaede881c3f97cd74f9b4f8f1899d74eba5c3876ab5035c5f46c235b8e1506c03e894188620e6e82900f5e7481437c77d0f708615b7b4fd22ecc1ffaa5063f06a2988ac18caf8a5a7c4ff6fdbe6405a350cfe640dffc5e383f496c626b54670163fbbc60eae90cfc7c7a5a3db6a8e065a107e8a23529ac7e1c4dedf3284031f6bad381aaa255fb8f278799788af85aafbe51b3335a43ee1a0882cbf1268550b0535529b41855526b8503f8f92eae47c489133ee5d573f957725281be5a4483cc2368f7c3a610b7029049009763d92944f5bbba203a796421a8cabe4cc55b17684e68075690f95b7b217dd8e245e940f6b5f93241e5c14f1d0b6ca912948e36f88d64073f3af8b7752f19b514bf25324f70a2613ce236004d4a60717ec103e308259309bdb49a72524e388b0787be5f0125b579d74d7b537791d2dada71b00d81120eebfab13a985719442f2c46ca551690e4721393049b64670f4ce4ffad3c58312d9e85a6c4e46b96c4503f46680d0bc86e15aadb7fcdfc3b452df842005a01a399dae10bd3ee043a96c3ce5086b66cbc9404760979dd6a4a107836d15d852c2b276fa8870521d88374d9c218ff6da0a04f26e53204693f578a434eca8fba4f7a3abf72e0c7e7bc1b204dd0c69d8dafc82d7b994a79dd6275ac1c39b95d037f64bf54c8a80b24ddae7791adb426ed93a761e7556f47a6081523e87913dcdd8d002bb2d97f95d14b39d2ffaf6638bf7e65434a4b20406723b9f50cd762dc054d4bd00725e31eb06bfb119e8bcac7f8025be016efcba63cfb62c111a779e4701b6ef3d32075a068516edff91cefca6116c08dcca263d613438ddc8f437193a266539e3832737f31703c8c928202e1097beda19f078ea308182d357babfd6f7010313aa8f33b2f9ad306115f93818413dec45382906842ab506eb932ad091cf8a89ca978074b298aecf7e094e26d73e1ddbe537f69d002fbe6eda9dbfa1805f545b063a6eb309420481cf2c9bbc35e4a4917e84bff6ab577db3d618c24e0e64d35491043f83b61e3368479d720696055535eaace3d56abb0fcfc8e74b9d231e1a9714853afc206fe85ee623a8f896071bea38d3c81027b511809ce1bd549e8024080b45cacc16a67e4fe92dff0a355f32c4ab5bce66f7655be86f578db5070d92ee0c8bc7cf150e3e5262b3a49079addf8c3a98a286292300ff3840cd299f08c857310a9bf1f6aac91f0727f2bc541aeed41fde16f4d12de553ba3575cb91a5fe80c2cdea4673e6df3b07dd70bad6c40099165e57f6767a700c8736b3698a56d42975329486384484b2e36d46ee33f1c6b84ec99b8c70464adf868f862c51fb177f9fb914cf5233824d3b5b5a8839b15dda554c8b858f75c04f30a1c5336038fdfbc0e0fc1b1602437021e5a1e2840a93284d35a5a6d15a5b91a7aa208fc2d21ea93b0ff8b1a92857801f3d78d6a786e25621afda74676fe2f9d6d5441e76cf4309260286683af3</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Scattering</category>
+        <category>Pair Distribution Function</category>
+      </categories>
+      <tags>
+        <tag>Total Scattering</tag>
+        <tag>Pair Distribution Functions</tag>
+        <tag>Total Scattering School</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Total Scattering School: Awesome Tools</title>
     <url>/Scattering/Pair-Distribution-Function/cec35b4.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
@@ -2883,10 +2941,10 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
       </tags>
   </entry>
   <entry>
-    <title>TXM: Transmission X-ray Microscopy</title>
-    <url>/Image/TXM/ce284f68.html</url>
+    <title>Understanding of Powder Diffraction Patterns</title>
+    <url>/Scattering/Powder-Diffraction/c5c1423e.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="10e88757fe4712425dc962ae3dbe313793004b2c83aa6671ad033c0c83bc8139">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc16e8985cf1f75858603778d7d2539001c040c0ddc271ce916c9495b3ae90970ba4504b8492b1a45a1dace5ef654e6c5cb067878c1a5ddb91e42311a3076c0adc79cb0aab1ffe442ce6394328bb1c704d756cbab1dbfd9a74fbf7a1487d565cb52b2ffaab3776a9a42e706b0f30330199f3141ed8c5b29ae980f514cecf825fac2b7ac368b27cacbe5a77dff0b6dc689bae6e90b18d078fcfe4c6a8c2e06fb14184ec6afa34d45e39d40fb8febe05f8d230873945559a1da8faef8ed30810220a690d4eecfc74ecb72bb03728e9ae196140fa7849a1352563ff1cc24ee5904d892b37faf5a13c44219e3e58dfb396e4ab2d986f4e044d2263fc9ad05b6272ebacf2ac14b1a765a83e7cb0e3f63bffb2ac4cfc7af6aed7dc94a89749656d348ba362c388b9d2d0d8d8a0d3fa8e8fea88e0f7cd10932ad67282c0486709feb508e616f5fae40caf455c4d94c80603455804f078209614e1aafa09f9fa0e3f814f63272a712803d0ff3aa2d90e242b5cffc6a78c089a9f7e09f2eb89d7faa70ef1c6126a390322f049994a9fb93775d92546f3428533c5060125f3faca243d91c88da691c6c92f251a7537b1a7157d90e0007abe93a574809bc7ab8d2f088fbd3e072992a63b56a069903ff6fc991c64dab87ef9fbc6a9deeaa7d50b0bdf700a56d03bfdfca6cfc22a804afdfcd0ee44c3adc9dd66976f1e730e123a243be9fca9333938712880785fb2c1c5535295e55eb7db79f9c792f94a22459e8954350be5e2c614075ab659ddcec66ea11b0f3a408a2171423323204b992ee38a41f8f490df296cd6cbeebe758f7b93ccef66e920e20834a76d97dd397d811473591a695158fa2dec1a87bce3c070e6bb1cbc712663435ae9c861a02cfa56986af3dc141ae3d8f0a12910d83d2706d493be5e066c265f0a6ce3c0ee5d729f2baf60d1e26e7510fdf2d40aad2181cdccd4bf8cfac6b4189abe6ff112ddd2e30218b6842d3ae51bd0413a355a56c9fbb988cb584b61a041a32dde63ef3b147f7bde18b1d0dd718</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-xray">
       <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
@@ -2902,13 +2960,13 @@ Materials</em>. Cambridge: Cambridge University Press, 2001.</p>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Image</category>
-        <category>TXM</category>
+        <category>Scattering</category>
+        <category>Powder Diffraction</category>
       </categories>
       <tags>
-        <tag>Core level spectrum</tag>
-        <tag>TXM</tag>
-        <tag>X-ray Imaging</tag>
+        <tag>Powder Diffraction</tag>
+        <tag>X-ray Scattering</tag>
+        <tag>Coherent Scattering</tag>
       </tags>
   </entry>
   <entry>
@@ -3259,10 +3317,10 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
-    <title>XAFS Theory</title>
-    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
+    <title>Wavelet analysis of EXAFS: Principle</title>
+    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="1d507f07bfbf9cfd4bf57e2e77598301f8b30d638b2015fd70c988d213ba59b6">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc120c48a51308fe6588d46e4d2fa3a0d849664431314b3bb27717b8abdc81b3f1360db7bc280f0119d0eb6e37204e7f5de5593d18930a8819f93ef71d8a2bc24fd2290648e7a44237d86cb43f4f2c26b845f77234f8a23ee922e5465075aeadd8be4c52a67c290033d3f2e1c9c84a01071f8f427709661eddd5d26eefb85459ec15e902a73ce86c89ecbf9055f01894c15e347559f6cd4bb3914bf16574073b1dc35a313f3de5f9f6d0e879342329046fa16ee025ad0360958f2387111c090598b2068202ebb236a527b827e87a3f792ff23ef4a98cd9a97de78d7510f0fb1cd8a4449a99095e0d6474c30059b47efd0872a1edf7a95a3108e52bc3f837a09c6376c8d8e6f5a13e7c89c840613c3d8feb95a00c7b040dc7049090512be57e99ae21c426e8c70962bb85c040112a19b325e20f6f1ef7c12bd0b9ff2fc94dd19ee5107c6a9c5bc35d8e1c4c87afee6b162d482b50e34b644e2ef877dab44fcd71e807740ac9ed265f86ff6e9101c911f6d9177753482a47b20ff94c7ad849c8319ef85cdbefe9fcdcb381f96d1b8ca8baae710c27fa4212b347ce4fe41231a0dfa0ee3c5419014f5d04c1a25c79e76c33f798c0deb2ed043815047a914b47e43fa19b662cb2ba41a10e6b6954dc1b2ee92f42c7a35fefabff5efd95e25cdc2399900e599ecfc1d4fe013be45be8d2945318c613b5b1af0c13c61b83b29d4de581e489447e86b125b296a7a19deaa785548467f52dfc6be87bc3b7af9bf7c47a207e29e607e94c553b65b095bae5ba1ac54ef148cadd6ca068d3d4cf9965c32193a3273826c68adc954430aef02fd4180d226762ff6cccd6e2adb1929935aa92ee150a3ada4cdc5391b966b491d92498d6d31a3b7ba5a98ef04c77fce9f6d52bd67e2b9e0fa971fa6523db7b9e907c111f4581e754c8f3166ae69497188419628b6c3b619fbf0d0e587358db04c917fd1fc621be3af95bf3ec25c08bf1327a99d413e7cdbff3dc4ab3c06d401a326a449bd872ee11e90ca9a2ca15612cc09f23b0f505b11af91d9e7bf2e9d91fd6491173c91063631bbda2eccca66b25ea0b46f7878c31ff1d470b34179e2aa3e13f86daf57fbe6121c84fe65c1a2c64af89a7a663e2223e07cdf8a82442519642d0613099dff1ca036c7905ada22247df6a858c5e200bbeebdea14fd6a5e73bfe808b73491d0a405af12d5cde5dcbcf5274edb1549439d4eab46defc7559f2bbb374a427a3342408ddfaca8ef3315b89a8c60391ec1310faaeb44bf27399ff9eb98be88785313aa03f26386fc39f2c32d13f4fc50034e8da16e73597293f244561fb379e146d1c6d8a6741d981343b34a775b81a3696d221a627999af1429817d5011908fdb022a05b4f704dd57e06bf7cb41c58ee9df3004e5151e20a110d4f10d384d87fa7dc446061ba56ba4f5b7bae2d12488f7afa868fbe2be2c00c796fdfa1a5e7f43ee81b82958ad00c6c1646c956fb233e348b5f32a7ceb1544e623a24009037f8de3ad930590b70dbe078d0b085c01af1db4385cc77a502554ebd07f04f20db99e2ed380735762cf37e42e5ab48bf0fbc4b2f815b38b2253a0fa4be64f2ac23e4ef808a4e7358542bed0d5d368239bae0abdf9d5e6c4004a129b52329a2fbe5c58458ed2452d3ea463a519d5dfe32e50ace0fd145de7328648295ed9210f15e14abb1a36bf6e8784b898addc4f447462a39a062f7caf9878759363e93eefa62134e9ac9b2c1946f52c6db6414f012ecce51ee6c5c3ca04b3ec5b9c6616928918857f75a68850e7edcfa592f0dab3c7e9194caabab57c6e3e2861519501c6a43149f3dfc13582e51efab3e0ab1ac68ddb38b0cbc00b34b53686f4da2dacce554b2</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-xray">
       <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
@@ -3322,6 +3380,36 @@ documentation<i class="fa fa-external-link-alt"></i></span><br>
       </tags>
   </entry>
   <entry>
+    <title>XAFS Theory</title>
+    <url>/Core-level-spectroscopy/XAFS/618690954.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="1d507f07bfbf9cfd4bf57e2e77598301f8b30d638b2015fd70c988d213ba59b6">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc120c48a51308fe6588d46e4d2fa3a0d849664431314b3bb27717b8abdc81b3f1360db7bc280f0119d0eb6e37204e7f5de5593d18930a8819f93ef71d8a2bc24fd2290648e7a44237d86cb43f4f2c26b845f77234f8a23ee922e5465075aeadd8be4c52a67c290033d3f2e1c9c84a01071f8f427709661eddd5d26eefb85459ec15e902a73ce86c89ecbf9055f01894c15e347559f6cd4bb3914bf16574073b1dc35a313f3de5f9f6d0e879342329046fa16ee025ad0360958f2387111c090598b2068202ebb236a527b827e87a3f792ff23ef4a98cd9a97de78d7510f0fb1cd8a4449a99095e0d6474c30059b47efd0872a1edf7a95a3108e52bc3f837a09c6376c8d8e6f5a13e7c89c840613c3d8feb95a00c7b040dc7049090512be57e99ae21c426e8c70962bb85c040112a19b325e20f6f1ef7c12bd0b9ff2fc94dd19ee5107c6a9c5bc35d8e1c4c87afee6b162d482b50e34b644e2ef877dab44fcd71e807740ac9ed265f86ff6e9101c911f6d9177753482a47b20ff94c7ad849c8319ef85cdbefe9fcdcb381f96d1b8ca8baae710c27fa4212b347ce4fe41231a0dfa0ee3c5419014f5d04c1a25c79e76c33f798c0deb2ed043815047a914b47e43fa19b662cb2ba41a10e6b6954dc1b2ee92f42c7a35fefabff5efd95e25cdc2399900e599ecfc1d4fe013be45be8d2945318c613b5b1af0c13c61b83b29d4de581e489447e86b125b296a7a19deaa785548467f52dfc6be87bc3b7af9bf7c47a207e29e607e94c553b65b095bae5ba1ac54ef148cadd6ca068d3d4cf9965c32193a3273826c68adc954430aef02fd4180d226762ff6cccd6e2adb1929935aa92ee150a3ada4cdc5391b966b491d92498d6d31a3b7ba5a98ef04c77fce9f6d52bd67e2b9e0fa971fa6523db7b9e907c111f4581e754c8f3166ae69497188419628b6c3b619fbf0d0e587358db04c917fd1fc621be3af95bf3ec25c08bf1327a99d413e7cdbff3dc4ab3c06d401a326a449bd872ee11e90ca9a2ca15612cc09f23b0f505b11af91d9e7bf2e9d91fd6491173c91063631bbda2eccca66b25ea0b46f7878c31ff1d470b34179e2aa3e13f86daf57fbe6121c84fe65c1a2c64af89a7a663e2223e07cdf8a82442519642d0613099dff1ca036c7905ada22247df6a858c5e200bbeebdea14fd6a5e73bfe808b73491d0a405af12d5cde5dcbcf5274edb1549439d4eab46defc7559f2bbb374a427a3342408ddfaca8ef3315b89a8c60391ec1310faaeb44bf27399ff9eb98be88785313aa03f26386fc39f2c32d13f4fc50034e8da16e73597293f244561fb379e146d1c6d8a6741d981343b34a775b81a3696d221a627999af1429817d5011908fdb022a05b4f704dd57e06bf7cb41c58ee9df3004e5151e20a110d4f10d384d87fa7dc446061ba56ba4f5b7bae2d12488f7afa868fbe2be2c00c796fdfa1a5e7f43ee81b82958ad00c6c1646c956fb233e348b5f32a7ceb1544e623a24009037f8de3ad930590b70dbe078d0b085c01af1db4385cc77a502554ebd07f04f20db99e2ed380735762cf37e42e5ab48bf0fbc4b2f815b38b2253a0fa4be64f2ac23e4ef808a4e7358542bed0d5d368239bae0abdf9d5e6c4004a129b52329a2fbe5c58458ed2452d3ea463a519d5dfe32e50ace0fd145de7328648295ed9210f15e14abb1a36bf6e8784b898addc4f447462a39a062f7caf9878759363e93eefa62134e9ac9b2c1946f52c6db6414f012ecce51ee6c5c3ca04b3ec5b9c6616928918857f75a68850e7edcfa592f0dab3c7e9194caabab57c6e3e2861519501c6a43149f3dfc13582e51efab3e0ab1ac68ddb38b0cbc00b34b53686f4da2dacce554b2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Core level spectroscopy</category>
+        <category>XAFS</category>
+      </categories>
+      <tags>
+        <tag>XAFS</tag>
+        <tag>Core level spectrum</tag>
+        <tag>EXAFS</tag>
+        <tag>XANES</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/Tools/Hexo/1243066710.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="/thirdcssjs/hexo-tag-hint.min.css"><p><img src="https://cos.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif" alt="hexo" title="" width="50%"></p>
@@ -3348,65 +3436,6 @@ you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9
         <category>Tools</category>
         <category>Hexo</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Total Scattering School: Practical Applications</title>
-    <url>/Scattering/Pair-Distribution-Function/b43ee344.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="5eb6821d4f3526b9339da6ff431d9a587c4a351f5869442a08b76288b5f35644">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc1fc43c20db73643e83779177f154e11f03f2ce14e7c4433057c7e708e403083d80d443f9dea553825c68b655712213b43f0827ea4f2e4388cd8d48843668be38996ba9474ffa921455fffec1fbd215d2a42ffcc03b061f16459115eaa90254569ae40fcaaa9e2b28b6eba19bcaf85e50474e7959ec08d927ebc126334513072a63ae6d4f5296ab0d1d9cf62a97b6f0d52888fd361687a602d31e7d0d50c0632d9647f21105d6ea84121baf21619f329410b0c2683a3718ce2c8f31becb5946331c55d76c2576b772e01f12bfb050192b69198cd4146db700d725bb2b82a05f58f3541385682457044edea191466e2e3f77c27aaf195811e6020106ee855422fea21aa65ba217fd9d15f8493645812d2d5b024b0d0af05fc1af6c9a33bf4d809c2bbaa178fab980e98bcf88f3b087de721a18bc779cab895fba18f1117135d7994027632c758ccd53f96c9a12a5253138cb871c4f7cf2f54f5f4c1c732b3fcb6bf81ebadb06362f3b872043caf88ab3df180a85bfb1fb860dfa6bcb8975b4ec100e7c248094e6ab1c39fc24549712a6b5ca0e3b407492c4fcdef62a74b1e1dd79ad29dc83d70bac58ad785b6442c2bdadf648fd4b9be4df02e0c87a0b8d3cb9d12adc49d57c23f532886ebd375db702d8658781095a3ff7a2368b65898ddeff3dac4310c96aaf476ca31a0b1057044218fb1e8f3f7e247825eeac98143849c1e5ef377f7e66881844279d0f44314e3b43a779b9ede44088b51074d6710f031cb12302102adb7c7f137e5ab37a8d591b57a9e6d372cfc14a97a6e81fa7c32c25a9430368c5353ebff224ecde99ed3875589e3fcae551cdf293f9f8fbc4ee31ab6b99299733fea62131e449382b1757005447626b804d1645d2fa293651a9a641f347601295c46cdbfda2c74dc76730ee8b948e6566f25a3ceebea5a420f73b129ad31cfe223d7f4406fa4e446b90287c6ac9214be40e644ffb2d6b6c9d4d73e483cbce1f0bf6b0eb340f6073050fcc7a69ce4888f2a8a5e435dfc90bcb4a6fe5a88e5d4c3c0843b3aab5da88767a84d0cf25d0feee07d25b392bade3e5c156baf57b0d651d8dd362c1a8c7360ef5e5e64e1739bcca4dd0c8a67fb416b89ac10009838c876fe63800e166b72ff5674c86388c018e34abc6942a1ebe8eec4bc5bc6d2b180f480aac4065739ec3b705dce79b3d58f08611b75ad7b3a0ddbeb8a150899eb498ad67fd2da61cc7c1c448299adb2678361f495b4c91b6dce00027c8bff2a9cbb55a334295d0fcc9e2c6df5b440841a8039971a49afac7f590bb8baf4ce4a55f3dc5fe55ecbc3c013d341f94f6587dda0c1a96db92932ba2ca97f5c92222820c43dad8b0983550fcfb6f8efc90de6a8239222defe992f07671bcce5467dbf54c88c1693985914d42ad130873120f2d9dadab74e47c6973509d59ab8b969eb377d74e5a53260ad65801d4f1437be162d1bd20224fe2581bfa2a3c706e1c5990ca9881745bcf9a854b6758757dcb84862592613ad7650b974bfaede881c3f97cd74f9b4f8f1899d74eba5c3876ab5035c5f46c235b8e1506c03e894188620e6e82900f5e7481437c77d0f708615b7b4fd22ecc1ffaa5063f06a2988ac18caf8a5a7c4ff6fdbe6405a350cfe640dffc5e383f496c626b54670163fbbc60eae90cfc7c7a5a3db6a8e065a107e8a23529ac7e1c4dedf3284031f6bad381aaa255fb8f278799788af85aafbe51b3335a43ee1a0882cbf1268550b0535529b41855526b8503f8f92eae47c489133ee5d573f957725281be5a4483cc2368f7c3a610b7029049009763d92944f5bbba203a796421a8cabe4cc55b17684e68075690f95b7b217dd8e245e940f6b5f93241e5c14f1d0b6ca912948e36f88d64073f3af8b7752f19b514bf25324f70a2613ce236004d4a60717ec103e308259309bdb49a72524e388b0787be5f0125b579d74d7b537791d2dada71b00d81120eebfab13a985719442f2c46ca551690e4721393049b64670f4ce4ffad3c58312d9e85a6c4e46b96c4503f46680d0bc86e15aadb7fcdfc3b452df842005a01a399dae10bd3ee043a96c3ce5086b66cbc9404760979dd6a4a107836d15d852c2b276fa8870521d88374d9c218ff6da0a04f26e53204693f578a434eca8fba4f7a3abf72e0c7e7bc1b204dd0c69d8dafc82d7b994a79dd6275ac1c39b95d037f64bf54c8a80b24ddae7791adb426ed93a761e7556f47a6081523e87913dcdd8d002bb2d97f95d14b39d2ffaf6638bf7e65434a4b20406723b9f50cd762dc054d4bd00725e31eb06bfb119e8bcac7f8025be016efcba63cfb62c111a779e4701b6ef3d32075a068516edff91cefca6116c08dcca263d613438ddc8f437193a266539e3832737f31703c8c928202e1097beda19f078ea308182d357babfd6f7010313aa8f33b2f9ad306115f93818413dec45382906842ab506eb932ad091cf8a89ca978074b298aecf7e094e26d73e1ddbe537f69d002fbe6eda9dbfa1805f545b063a6eb309420481cf2c9bbc35e4a4917e84bff6ab577db3d618c24e0e64d35491043f83b61e3368479d720696055535eaace3d56abb0fcfc8e74b9d231e1a9714853afc206fe85ee623a8f896071bea38d3c81027b511809ce1bd549e8024080b45cacc16a67e4fe92dff0a355f32c4ab5bce66f7655be86f578db5070d92ee0c8bc7cf150e3e5262b3a49079addf8c3a98a286292300ff3840cd299f08c857310a9bf1f6aac91f0727f2bc541aeed41fde16f4d12de553ba3575cb91a5fe80c2cdea4673e6df3b07dd70bad6c40099165e57f6767a700c8736b3698a56d42975329486384484b2e36d46ee33f1c6b84ec99b8c70464adf868f862c51fb177f9fb914cf5233824d3b5b5a8839b15dda554c8b858f75c04f30a1c5336038fdfbc0e0fc1b1602437021e5a1e2840a93284d35a5a6d15a5b91a7aa208fc2d21ea93b0ff8b1a92857801f3d78d6a786e25621afda74676fe2f9d6d5441e76cf4309260286683af3</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Scattering</category>
-        <category>Pair Distribution Function</category>
-      </categories>
-      <tags>
-        <tag>Total Scattering</tag>
-        <tag>Pair Distribution Functions</tag>
-        <tag>Total Scattering School</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Wavelet analysis of EXAFS: Principle</title>
-    <url>/Core-level-spectroscopy/XAFS/7fe115f0.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="89e14fd174783560b85a657fadce4a66268f914ba7bfd004e0c596d9d11704e9">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d70b240c392a20b9b8c77eae3a11a12f353e48386730b72820c29f88279ddb5c2370c8b5f0261caf75b397d6680a60a441ddaba6cc1535e75da0c5c5bb6c2f8a40da62b6827f68f369937e5e45ae2e83ae219a4a686470d6951d920ae1946cfc7884f2fd8feff83e6fed6e56596c3e6c9508863bcf61655dbaafb31ab00832f703e2cfad30e37520b429855d9a86004cdad7c325c3910dcbf8fab85586a5c35463fe8b646f7c504904f252e90d307a771e91c67fb966656917762212c77a9031af2af01ecd5d674769016e3dd97e2ec10a87596c88850f04676a359c57da7f4b676382148060fd8afdb42d96c96a2ba18a1aa0a3501f6e789fac0f68681857e1e8f4f8325c1826f2198b9b7ed0acc76a10ba36acec1741d7e141c305b6080ee33439b223c7b56af213751415e4aabcdf032d303ab62e4402d3e97af27581de9ff7ba0f10c29e7fd3c5d8ef79074035d689fafd68ba6e5cbbb1d0040816d9c0bc1f072617f71ef0cd230ad4d0d65decd02d3e3616ec1305adbc6549b2654e637ca550f511e27f16ed6cadf6933d60f527dfb40d6aef82aaa7f569c614db38de0590e762bac6be88685234d9a9a9a092860a</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Core level spectroscopy</category>
-        <category>XAFS</category>
-      </categories>
-      <tags>
-        <tag>XAFS</tag>
-        <tag>Core level spectrum</tag>
-        <tag>EXAFS</tag>
-        <tag>XANES</tag>
-      </tags>
   </entry>
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
@@ -3804,35 +3833,6 @@ Journal of Applied Crystallography, 53(3), 699-709.<br>
         <tag>Total Scattering</tag>
         <tag>Small-angle Scattering</tag>
         <tag>diffpy.pdfgetx</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Understanding of Powder Diffraction Patterns</title>
-    <url>/Scattering/Powder-Diffraction/c5c1423e.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="10e88757fe4712425dc962ae3dbe313793004b2c83aa6671ad033c0c83bc8139">798e555ed02f53e69b0aab990bc93ea2d62ae7c61243c01d0ec52d53468d306029b0b27edde7e59018204377d3cb72c863bfa09618d740021f7c8e1b385323f7557a1571baa02d7085a852a72b322c62dd52a44f12cc24294b8c347f2ae46ed623003bd7355ed76ad3c86335882669d7880376d2a9f0fb63a4c0f7ea9c45b7419116d3fa465324a0e0810ce3ccc24bc16e8985cf1f75858603778d7d2539001c040c0ddc271ce916c9495b3ae90970ba4504b8492b1a45a1dace5ef654e6c5cb067878c1a5ddb91e42311a3076c0adc79cb0aab1ffe442ce6394328bb1c704d756cbab1dbfd9a74fbf7a1487d565cb52b2ffaab3776a9a42e706b0f30330199f3141ed8c5b29ae980f514cecf825fac2b7ac368b27cacbe5a77dff0b6dc689bae6e90b18d078fcfe4c6a8c2e06fb14184ec6afa34d45e39d40fb8febe05f8d230873945559a1da8faef8ed30810220a690d4eecfc74ecb72bb03728e9ae196140fa7849a1352563ff1cc24ee5904d892b37faf5a13c44219e3e58dfb396e4ab2d986f4e044d2263fc9ad05b6272ebacf2ac14b1a765a83e7cb0e3f63bffb2ac4cfc7af6aed7dc94a89749656d348ba362c388b9d2d0d8d8a0d3fa8e8fea88e0f7cd10932ad67282c0486709feb508e616f5fae40caf455c4d94c80603455804f078209614e1aafa09f9fa0e3f814f63272a712803d0ff3aa2d90e242b5cffc6a78c089a9f7e09f2eb89d7faa70ef1c6126a390322f049994a9fb93775d92546f3428533c5060125f3faca243d91c88da691c6c92f251a7537b1a7157d90e0007abe93a574809bc7ab8d2f088fbd3e072992a63b56a069903ff6fc991c64dab87ef9fbc6a9deeaa7d50b0bdf700a56d03bfdfca6cfc22a804afdfcd0ee44c3adc9dd66976f1e730e123a243be9fca9333938712880785fb2c1c5535295e55eb7db79f9c792f94a22459e8954350be5e2c614075ab659ddcec66ea11b0f3a408a2171423323204b992ee38a41f8f490df296cd6cbeebe758f7b93ccef66e920e20834a76d97dd397d811473591a695158fa2dec1a87bce3c070e6bb1cbc712663435ae9c861a02cfa56986af3dc141ae3d8f0a12910d83d2706d493be5e066c265f0a6ce3c0ee5d729f2baf60d1e26e7510fdf2d40aad2181cdccd4bf8cfac6b4189abe6ff112ddd2e30218b6842d3ae51bd0413a355a56c9fbb988cb584b61a041a32dde63ef3b147f7bde18b1d0dd718</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-xray">
-      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">Hey, password is required here.</span>
-      </label>
-      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
-        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
-      </svg>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>Scattering</category>
-        <category>Powder Diffraction</category>
-      </categories>
-      <tags>
-        <tag>Powder Diffraction</tag>
-        <tag>X-ray Scattering</tag>
-        <tag>Coherent Scattering</tag>
       </tags>
   </entry>
 </search>
