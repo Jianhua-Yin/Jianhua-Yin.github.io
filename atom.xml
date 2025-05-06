@@ -46,7 +46,7 @@
     <updated>2025-04-18T13:05:07.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;75%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/Faults/Faults_cover.png?imageMogr2/format/avif&quot; alt=&quot;Faults&quot; title=&quot;&quot; width=&quot;75%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;FAULTS is a program designed to refine X-ray powder diffraction (XRD)
 and neutron powder diffraction (NPD) patterns for crystal systems
 containing any type of coherent planar defect.</summary>
@@ -74,7 +74,7 @@ containing any type of coherent planar defect.</summary>
     <updated>2024-05-01T15:18:22.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/EvAX/cover/cover.jpg?imageMogr2/format/avif&quot; alt=&quot;Evolutionary Algorithm for EXAFS analysis&quot; title=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Beyond the first peak: EXAFS analysis using Reverse Monte
 Carlo(&lt;strong&gt;RMC&lt;/strong&gt;).&lt;br&gt;
 The EvAX code is a simulation-based tool designed for the analysis of
@@ -88,9 +88,9 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -162,7 +162,7 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     <updated>2023-11-26T15:06:33.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D COS Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/2DCOSXAS/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D COS Cover&quot; title=&quot;&quot; width=&quot;30%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Two-dimensional Correlation Analysis&lt;/strong&gt; facilitates the
 visualization of complex spectra with numerous overlapping peaks by
 spreading them across a second dimension.&lt;/p&gt;</summary>
@@ -174,9 +174,9 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <category term="2DCOS" scheme="https://www.huaecho.cn/categories/Tools/2DCOS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="2D Correlation Analysis" scheme="https://www.huaecho.cn/tags/2D-Correlation-Analysis/"/>
     
@@ -287,7 +287,7 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <updated>2023-07-15T11:17:45.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;Total Scattering Resource&quot; title=&quot;Total Scattering Resource&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/diff.pdfgetx3/cover/cover.png?imageMogr2/format/avif&quot; alt=&quot;Total Scattering Resource&quot; title=&quot;Total Scattering Resource&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;diffpy.pdfgetx3 is an advanced and powderful software for converting
 &lt;strong&gt;Powder Diffraction&lt;/strong&gt; data to Total Scattering atomic
 &lt;strong&gt;Pair Distribution Funtions&lt;/strong&gt;.&lt;/p&gt;</summary>
@@ -319,7 +319,7 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     <updated>2023-06-30T08:42:09.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/Dioptas/cover.png?imageMogr2/format/avif&quot; alt=&quot;2D Powder Diffraction&quot; title=&quot;2D Powder Diffraction&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Dioptas is an awesome GUI program based on &lt;em&gt;Python&lt;/em&gt;, designed
 for the fast data reduction of &lt;strong&gt;&lt;em&gt;Powder X-ray Diffraction
 images&lt;/em&gt;&lt;/strong&gt;. It provides the capability of
@@ -490,17 +490,17 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
+    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
     <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
+    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
     
     <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
-    
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
-    
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
     <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
     
@@ -527,13 +527,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
     
@@ -560,9 +560,9 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -593,13 +593,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
   </entry>
   
@@ -647,13 +647,13 @@ display phases line positions.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
     <category term="Larch" scheme="https://www.huaecho.cn/tags/Larch/"/>
     
@@ -667,7 +667,7 @@ display phases line positions.&lt;/p&gt;</summary>
     <updated>2023-05-03T15:31:02.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif&quot; alt=&quot;Artemis Software&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/Advancetopicfeff/cover/artemis.png?imageMogr2/format/avif&quot; alt=&quot;Artemis Software&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;There are several advanced techniques and strategies in EXAFS
 analysis, including multi-weight fitting, multi-data fitting, and the
 application of constraint restraints, among others.&lt;/p&gt;</summary>
@@ -679,9 +679,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -704,9 +704,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -729,9 +729,9 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
     
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
     
@@ -754,13 +754,13 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
-    
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
-    
     <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
     
+    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    
     <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    
+    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
     
   </entry>
   
@@ -772,7 +772,7 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <updated>2024-03-24T09:51:04.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/gsas2/gsas2.png?imageMogr2/format/avif&quot; alt=&quot;gsas2&quot; title=&quot;&quot; width=&quot;20%&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/gsas2/gsas2.png?imageMogr2/format/avif&quot; alt=&quot;gsas2&quot; title=&quot;&quot; width=&quot;20%&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -872,7 +872,7 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     <updated>2023-07-25T09:28:17.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif&quot; alt=&quot;powderdiffraction&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/blogimage/powderdiffraction/therory/cover/powderdiffraction.jpg?imageMogr2/format/avif&quot; alt=&quot;powderdiffraction&quot; title=&quot;&quot; width=&quot;40%&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Powder diffraction is an awesome technique using &lt;em&gt;X-ray&lt;/em&gt;,
 &lt;em&gt;neutron&lt;/em&gt;, or &lt;em&gt;electron&lt;/em&gt; diffraction on powder or
 microcrystalline samples for structural characterization of
@@ -905,7 +905,7 @@ materials.&lt;/p&gt;</summary>
       
         
         
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://cos.huaecho.cn/logo/hexo.jpg?imageMogr2/format/avif&quot; alt=&quot;hexo&quot; title=&quot;&quot;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;/thirdcssjs/hexo-tag-hint.min.css&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://huaecho-1257968199.cos.accelerate.myqcloud.com/logo/hexo.jpg?imageMogr2/format/avif&quot;</summary>
         
       
     
