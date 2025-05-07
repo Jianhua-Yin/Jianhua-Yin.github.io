@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hua Echoes</title>
-  <icon>https://www.huaecho.cn/icon.png</icon>
+  <icon>https://jianhua-yin.github.io/icon.png</icon>
   <subtitle>Insights and Notes by Jianhua</subtitle>
-  <link href="https://www.huaecho.cn/atom.xml" rel="self"/>
+  <link href="https://jianhua-yin.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.huaecho.cn/"/>
+  <link href="https://jianhua-yin.github.io/"/>
   <updated>2025-04-18T14:46:19.685Z</updated>
-  <id>https://www.huaecho.cn/</id>
+  <id>https://jianhua-yin.github.io/</id>
   
   <author>
     <name>Yin Jianhua</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Fastosh: XAFS Data Processing</title>
-    <link href="https://www.huaecho.cn/uncategorized/ec14d736.html"/>
-    <id>https://www.huaecho.cn/uncategorized/ec14d736.html</id>
+    <link href="https://jianhua-yin.github.io/uncategorized/ec14d736.html"/>
+    <id>https://jianhua-yin.github.io/uncategorized/ec14d736.html</id>
     <published>2025-04-18T14:46:05.000Z</published>
     <updated>2025-04-18T14:46:19.685Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Faults: XRD/NPD Refinement for Crystal Systems with Planar Defects</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/393ff172.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/393ff172.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/393ff172.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/393ff172.html</id>
     <published>2025-01-24T06:41:08.000Z</published>
     <updated>2025-04-18T13:05:07.000Z</updated>
     
@@ -53,23 +53,23 @@ containing any type of coherent planar defect.</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Faults Simulation" scheme="https://www.huaecho.cn/tags/Faults-Simulation/"/>
+    <category term="Faults Simulation" scheme="https://jianhua-yin.github.io/tags/Faults-Simulation/"/>
     
-    <category term="X-ray Diffraction" scheme="https://www.huaecho.cn/tags/X-ray-Diffraction/"/>
+    <category term="X-ray Diffraction" scheme="https://jianhua-yin.github.io/tags/X-ray-Diffraction/"/>
     
-    <category term="Neutron Diffraction" scheme="https://www.huaecho.cn/tags/Neutron-Diffraction/"/>
+    <category term="Neutron Diffraction" scheme="https://jianhua-yin.github.io/tags/Neutron-Diffraction/"/>
     
   </entry>
   
   <entry>
     <title>EvAX: RMC Refinement for Extracting 3D Structures from EXAFS</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/b8eb1c46.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/b8eb1c46.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/b8eb1c46.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/b8eb1c46.html</id>
     <published>2024-03-09T13:18:22.000Z</published>
     <updated>2024-05-01T15:18:22.000Z</updated>
     
@@ -83,29 +83,29 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="Evolutionary Algorithm" scheme="https://www.huaecho.cn/tags/Evolutionary-Algorithm/"/>
+    <category term="Evolutionary Algorithm" scheme="https://jianhua-yin.github.io/tags/Evolutionary-Algorithm/"/>
     
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
+    <category term="Reverse Monte Carlo" scheme="https://jianhua-yin.github.io/tags/Reverse-Monte-Carlo/"/>
     
-    <category term="EvAX Code" scheme="https://www.huaecho.cn/tags/EvAX-Code/"/>
+    <category term="EvAX Code" scheme="https://jianhua-yin.github.io/tags/EvAX-Code/"/>
     
   </entry>
   
   <entry>
     <title>CTM4XAS: Simulating Core Level Spectra</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/c4379e43.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/c4379e43.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/c4379e43.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/c4379e43.html</id>
     <published>2024-03-05T02:19:51.000Z</published>
     <updated>2024-04-14T16:19:51.000Z</updated>
     
@@ -114,29 +114,29 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
-    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    <category term="XES" scheme="https://jianhua-yin.github.io/tags/XES/"/>
     
-    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    <category term="RIXS" scheme="https://jianhua-yin.github.io/tags/RIXS/"/>
     
-    <category term="TM L-edge" scheme="https://www.huaecho.cn/tags/TM-L-edge/"/>
+    <category term="TM L-edge" scheme="https://jianhua-yin.github.io/tags/TM-L-edge/"/>
     
-    <category term="CTM4XAS" scheme="https://www.huaecho.cn/tags/CTM4XAS/"/>
+    <category term="CTM4XAS" scheme="https://jianhua-yin.github.io/tags/CTM4XAS/"/>
     
   </entry>
   
   <entry>
     <title>ImageJ: Advanced Software for Processing and Analyzing Scientific Images</title>
-    <link href="https://www.huaecho.cn/Tools/Image/d0805113.html"/>
-    <id>https://www.huaecho.cn/Tools/Image/d0805113.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Image/d0805113.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Image/d0805113.html</id>
     <published>2024-01-24T05:46:32.000Z</published>
     <updated>2024-03-04T15:46:32.000Z</updated>
     
@@ -145,19 +145,19 @@ specifically tailored for crystalline and nanocrystalline materials.&lt;/p&gt;</
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Image" scheme="https://www.huaecho.cn/categories/Tools/Image/"/>
+    <category term="Image" scheme="https://jianhua-yin.github.io/categories/Tools/Image/"/>
     
     
-    <category term="ImageJ" scheme="https://www.huaecho.cn/tags/ImageJ/"/>
+    <category term="ImageJ" scheme="https://jianhua-yin.github.io/tags/ImageJ/"/>
     
   </entry>
   
   <entry>
     <title>Application of Two-dimensional correlation Analysis in XAS</title>
-    <link href="https://www.huaecho.cn/Tools/2DCOS/1364141d.html"/>
-    <id>https://www.huaecho.cn/Tools/2DCOS/1364141d.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/2DCOS/1364141d.html"/>
+    <id>https://jianhua-yin.github.io/Tools/2DCOS/1364141d.html</id>
     <published>2023-11-26T15:06:33.000Z</published>
     <updated>2023-11-26T15:06:33.000Z</updated>
     
@@ -169,23 +169,23 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="2DCOS" scheme="https://www.huaecho.cn/categories/Tools/2DCOS/"/>
+    <category term="2DCOS" scheme="https://jianhua-yin.github.io/categories/Tools/2DCOS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="2D Correlation Analysis" scheme="https://www.huaecho.cn/tags/2D-Correlation-Analysis/"/>
+    <category term="2D Correlation Analysis" scheme="https://jianhua-yin.github.io/tags/2D-Correlation-Analysis/"/>
     
   </entry>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with DISCUC</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/4072560629.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/4072560629.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/4072560629.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/4072560629.html</id>
     <published>2023-08-07T15:35:27.000Z</published>
     <updated>2023-08-07T15:35:27.000Z</updated>
     
@@ -194,29 +194,29 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Function/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    <category term="Small-angle Scattering" scheme="https://jianhua-yin.github.io/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    <category term="DISUC" scheme="https://jianhua-yin.github.io/tags/DISUC/"/>
     
-    <category term="DISUC" scheme="https://www.huaecho.cn/tags/DISUC/"/>
+    <category term="PDFs Refinement" scheme="https://jianhua-yin.github.io/tags/PDFs-Refinement/"/>
     
   </entry>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with RMCProfile</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/1047009510.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/1047009510.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/1047009510.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/1047009510.html</id>
     <published>2023-08-01T16:31:53.000Z</published>
     <updated>2023-08-01T16:31:53.000Z</updated>
     
@@ -225,33 +225,33 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Reverse Monte Carlo" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Reverse Monte Carlo" scheme="https://jianhua-yin.github.io/tags/Reverse-Monte-Carlo/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Function/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    <category term="Small-angle Scattering" scheme="https://jianhua-yin.github.io/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    <category term="PDFs Refinement" scheme="https://jianhua-yin.github.io/tags/PDFs-Refinement/"/>
     
-    <category term="Reverse Monte Carlo method" scheme="https://www.huaecho.cn/tags/Reverse-Monte-Carlo-method/"/>
+    <category term="Reverse Monte Carlo method" scheme="https://jianhua-yin.github.io/tags/Reverse-Monte-Carlo-method/"/>
     
-    <category term="RMCProfile" scheme="https://www.huaecho.cn/tags/RMCProfile/"/>
+    <category term="RMCProfile" scheme="https://jianhua-yin.github.io/tags/RMCProfile/"/>
     
   </entry>
   
   <entry>
     <title>Refinement of Pair Distribution Functions with PDFgui</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/2228582188.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/2228582188.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/2228582188.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/2228582188.html</id>
     <published>2023-07-15T16:25:08.000Z</published>
     <updated>2023-07-15T16:25:08.000Z</updated>
     
@@ -260,29 +260,29 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Function/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    <category term="Small-angle Scattering" scheme="https://jianhua-yin.github.io/tags/Small-angle-Scattering/"/>
     
-    <category term="PDFgui" scheme="https://www.huaecho.cn/tags/PDFgui/"/>
+    <category term="PDFs Refinement" scheme="https://jianhua-yin.github.io/tags/PDFs-Refinement/"/>
     
-    <category term="PDFs Refinement" scheme="https://www.huaecho.cn/tags/PDFs-Refinement/"/>
+    <category term="PDFgui" scheme="https://jianhua-yin.github.io/tags/PDFgui/"/>
     
   </entry>
   
   <entry>
     <title>diffpy.pdfgetx: Advanced Programs for Converting Powder Diffraction Data into Total Scattering Pair Distribution Functions</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/2230252193.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/2230252193.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/2230252193.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/2230252193.html</id>
     <published>2023-07-15T11:17:45.000Z</published>
     <updated>2023-07-15T11:17:45.000Z</updated>
     
@@ -294,27 +294,27 @@ spreading them across a second dimension.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Function/"/>
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Small-angle Scattering" scheme="https://www.huaecho.cn/tags/Small-angle-Scattering/"/>
+    <category term="Small-angle Scattering" scheme="https://jianhua-yin.github.io/tags/Small-angle-Scattering/"/>
     
-    <category term="diffpy.pdfgetx" scheme="https://www.huaecho.cn/tags/diffpy-pdfgetx/"/>
+    <category term="diffpy.pdfgetx" scheme="https://jianhua-yin.github.io/tags/diffpy-pdfgetx/"/>
     
   </entry>
   
   <entry>
     <title>Use Dioptas for Efficient 2D Powder Diffraction Data Reduction</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/2312659861.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/2312659861.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/2312659861.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/2312659861.html</id>
     <published>2023-06-30T08:42:09.000Z</published>
     <updated>2023-06-30T08:42:09.000Z</updated>
     
@@ -329,25 +329,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
+    <category term="Two Dimensional XRD" scheme="https://jianhua-yin.github.io/tags/Two-Dimensional-XRD/"/>
     
-    <category term="Dioptas" scheme="https://www.huaecho.cn/tags/Dioptas/"/>
+    <category term="Dioptas" scheme="https://jianhua-yin.github.io/tags/Dioptas/"/>
     
   </entry>
   
   <entry>
     <title>Total Scattering School: Practical Applications</title>
-    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/b43ee344.html"/>
-    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/b43ee344.html</id>
+    <link href="https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/b43ee344.html"/>
+    <id>https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/b43ee344.html</id>
     <published>2023-05-31T07:24:03.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
@@ -356,23 +356,23 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Scattering/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/categories/Scattering/Pair-Distribution-Function/"/>
     
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    <category term="Pair Distribution Functions" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Functions/"/>
     
-    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    <category term="Total Scattering School" scheme="https://jianhua-yin.github.io/tags/Total-Scattering-School/"/>
     
   </entry>
   
   <entry>
     <title>Total Scattering School: Awesome Tools</title>
-    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/cec35b4.html"/>
-    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/cec35b4.html</id>
+    <link href="https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/cec35b4.html"/>
+    <id>https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/cec35b4.html</id>
     <published>2023-05-29T07:23:54.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
@@ -381,25 +381,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Scattering/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/categories/Scattering/Pair-Distribution-Function/"/>
     
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    <category term="Pair Distribution Functions" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Functions/"/>
     
-    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    <category term="Total Scattering School" scheme="https://jianhua-yin.github.io/tags/Total-Scattering-School/"/>
     
-    <category term="Tools" scheme="https://www.huaecho.cn/tags/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/tags/Tools/"/>
     
   </entry>
   
   <entry>
     <title>Total Scattering School: Fundamental Principles</title>
-    <link href="https://www.huaecho.cn/Scattering/Pair-Distribution-Function/9561b636.html"/>
-    <id>https://www.huaecho.cn/Scattering/Pair-Distribution-Function/9561b636.html</id>
+    <link href="https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/9561b636.html"/>
+    <id>https://jianhua-yin.github.io/Scattering/Pair-Distribution-Function/9561b636.html</id>
     <published>2023-05-27T06:55:44.000Z</published>
     <updated>2023-06-15T05:55:44.000Z</updated>
     
@@ -408,23 +408,23 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Scattering/"/>
     
-    <category term="Pair Distribution Function" scheme="https://www.huaecho.cn/categories/Scattering/Pair-Distribution-Function/"/>
+    <category term="Pair Distribution Function" scheme="https://jianhua-yin.github.io/categories/Scattering/Pair-Distribution-Function/"/>
     
     
-    <category term="Total Scattering" scheme="https://www.huaecho.cn/tags/Total-Scattering/"/>
+    <category term="Total Scattering" scheme="https://jianhua-yin.github.io/tags/Total-Scattering/"/>
     
-    <category term="Pair Distribution Functions" scheme="https://www.huaecho.cn/tags/Pair-Distribution-Functions/"/>
+    <category term="Pair Distribution Functions" scheme="https://jianhua-yin.github.io/tags/Pair-Distribution-Functions/"/>
     
-    <category term="Total Scattering School" scheme="https://www.huaecho.cn/tags/Total-Scattering-School/"/>
+    <category term="Total Scattering School" scheme="https://jianhua-yin.github.io/tags/Total-Scattering-School/"/>
     
   </entry>
   
   <entry>
     <title>Fit2D: A Comprehensive Tool for 2D Diffraction Data Processing</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/de093485.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/de093485.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/de093485.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/de093485.html</id>
     <published>2023-04-30T02:41:08.000Z</published>
     <updated>2023-05-01T06:41:08.000Z</updated>
     
@@ -433,25 +433,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Two Dimensional XRD" scheme="https://www.huaecho.cn/tags/Two-Dimensional-XRD/"/>
+    <category term="Two Dimensional XRD" scheme="https://jianhua-yin.github.io/tags/Two-Dimensional-XRD/"/>
     
-    <category term="Fit2D" scheme="https://www.huaecho.cn/tags/Fit2D/"/>
+    <category term="Fit2D" scheme="https://jianhua-yin.github.io/tags/Fit2D/"/>
     
   </entry>
   
   <entry>
     <title>TXM: Transmission X-ray Microscopy</title>
-    <link href="https://www.huaecho.cn/Image/TXM/ce284f68.html"/>
-    <id>https://www.huaecho.cn/Image/TXM/ce284f68.html</id>
+    <link href="https://jianhua-yin.github.io/Image/TXM/ce284f68.html"/>
+    <id>https://jianhua-yin.github.io/Image/TXM/ce284f68.html</id>
     <published>2023-03-24T05:37:51.000Z</published>
     <updated>2024-05-24T09:37:51.000Z</updated>
     
@@ -460,23 +460,23 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Image" scheme="https://www.huaecho.cn/categories/Image/"/>
+    <category term="Image" scheme="https://jianhua-yin.github.io/categories/Image/"/>
     
-    <category term="TXM" scheme="https://www.huaecho.cn/categories/Image/TXM/"/>
+    <category term="TXM" scheme="https://jianhua-yin.github.io/categories/Image/TXM/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="TXM" scheme="https://www.huaecho.cn/tags/TXM/"/>
+    <category term="TXM" scheme="https://jianhua-yin.github.io/tags/TXM/"/>
     
-    <category term="X-ray Imaging" scheme="https://www.huaecho.cn/tags/X-ray-Imaging/"/>
+    <category term="X-ray Imaging" scheme="https://jianhua-yin.github.io/tags/X-ray-Imaging/"/>
     
   </entry>
   
   <entry>
     <title>FDMNES: A Computational Tool for Calculating X-ray Absorption and Emission Spectrum</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/dd36b5d.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/dd36b5d.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/dd36b5d.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/dd36b5d.html</id>
     <published>2023-01-20T11:07:01.000Z</published>
     <updated>2023-07-31T11:40:23.000Z</updated>
     
@@ -485,35 +485,35 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
-    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    <category term="XES" scheme="https://jianhua-yin.github.io/tags/XES/"/>
     
-    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    <category term="RIXS" scheme="https://jianhua-yin.github.io/tags/RIXS/"/>
     
-    <category term="REXS" scheme="https://www.huaecho.cn/tags/REXS/"/>
+    <category term="REXS" scheme="https://jianhua-yin.github.io/tags/REXS/"/>
     
-    <category term="EELS" scheme="https://www.huaecho.cn/tags/EELS/"/>
+    <category term="EELS" scheme="https://jianhua-yin.github.io/tags/EELS/"/>
     
-    <category term="FDMNES" scheme="https://www.huaecho.cn/tags/FDMNES/"/>
+    <category term="FDMNES" scheme="https://jianhua-yin.github.io/tags/FDMNES/"/>
     
   </entry>
   
   <entry>
     <title>FEFF: Advanced Tools for Calculating XAS and EELS Using Green&#39;s Function</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/7cac8507.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/7cac8507.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/7cac8507.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/7cac8507.html</id>
     <published>2023-01-17T14:50:10.000Z</published>
     <updated>2023-07-27T14:00:46.000Z</updated>
     
@@ -522,31 +522,31 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
-    <category term="Muffin-tin Approximation" scheme="https://www.huaecho.cn/tags/Muffin-tin-Approximation/"/>
+    <category term="Muffin-tin Approximation" scheme="https://jianhua-yin.github.io/tags/Muffin-tin-Approximation/"/>
     
-    <category term="Green&#39;s Function" scheme="https://www.huaecho.cn/tags/Green-s-Function/"/>
+    <category term="Green&#39;s Function" scheme="https://jianhua-yin.github.io/tags/Green-s-Function/"/>
     
-    <category term="FEFF" scheme="https://www.huaecho.cn/tags/FEFF/"/>
+    <category term="FEFF" scheme="https://jianhua-yin.github.io/tags/FEFF/"/>
     
   </entry>
   
   <entry>
     <title>Wavelet analysis of EXAFS: Tools</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/5a85aa81.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/5a85aa81.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/5a85aa81.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/5a85aa81.html</id>
     <published>2022-12-11T09:29:12.000Z</published>
     <updated>2024-04-04T06:02:35.000Z</updated>
     
@@ -555,31 +555,31 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="Igor Pro" scheme="https://www.huaecho.cn/tags/Igor-Pro/"/>
+    <category term="Igor Pro" scheme="https://jianhua-yin.github.io/tags/Igor-Pro/"/>
     
-    <category term="Hama" scheme="https://www.huaecho.cn/tags/Hama/"/>
+    <category term="Hama" scheme="https://jianhua-yin.github.io/tags/Hama/"/>
     
-    <category term="Matlab" scheme="https://www.huaecho.cn/tags/Matlab/"/>
+    <category term="Matlab" scheme="https://jianhua-yin.github.io/tags/Matlab/"/>
     
-    <category term="Python" scheme="https://www.huaecho.cn/tags/Python/"/>
+    <category term="Python" scheme="https://jianhua-yin.github.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Wavelet analysis of EXAFS: Principle</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/7fe115f0.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/7fe115f0.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/7fe115f0.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/7fe115f0.html</id>
     <published>2022-12-10T15:29:12.000Z</published>
     <updated>2023-01-01T06:02:35.000Z</updated>
     
@@ -588,25 +588,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
   </entry>
   
   <entry>
     <title>Principles of Resonant inelastic X-ray Scattering</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/RIXS/ea3abef5.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/RIXS/ea3abef5.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/RIXS/ea3abef5.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/RIXS/ea3abef5.html</id>
     <published>2022-12-02T17:16:24.000Z</published>
     <updated>2022-12-04T03:25:30.000Z</updated>
     
@@ -615,25 +615,25 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="RIXS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/RIXS/"/>
+    <category term="RIXS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/RIXS/"/>
     
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="XES" scheme="https://www.huaecho.cn/tags/XES/"/>
+    <category term="XES" scheme="https://jianhua-yin.github.io/tags/XES/"/>
     
-    <category term="RIXS" scheme="https://www.huaecho.cn/tags/RIXS/"/>
+    <category term="RIXS" scheme="https://jianhua-yin.github.io/tags/RIXS/"/>
     
-    <category term="RXES" scheme="https://www.huaecho.cn/tags/RXES/"/>
+    <category term="RXES" scheme="https://jianhua-yin.github.io/tags/RXES/"/>
     
   </entry>
   
   <entry>
     <title>Larch: Comprehensive Program for XAFS Data Processing and Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/XAFS/a747d641.html"/>
-    <id>https://www.huaecho.cn/Tools/XAFS/a747d641.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/XAFS/a747d641.html"/>
+    <id>https://jianhua-yin.github.io/Tools/XAFS/a747d641.html</id>
     <published>2022-11-26T15:43:05.000Z</published>
     <updated>2023-08-26T05:15:05.000Z</updated>
     
@@ -642,27 +642,27 @@ display phases line positions.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Tools/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Tools/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
-    <category term="Larch" scheme="https://www.huaecho.cn/tags/Larch/"/>
+    <category term="Larch" scheme="https://jianhua-yin.github.io/tags/Larch/"/>
     
   </entry>
   
   <entry>
     <title>Advanced Techniques and Strategies in EXAFS Analysis</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/199cdc0d.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/199cdc0d.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/199cdc0d.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/199cdc0d.html</id>
     <published>2022-10-03T12:31:12.000Z</published>
     <updated>2023-05-03T15:31:02.000Z</updated>
     
@@ -674,23 +674,23 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
   </entry>
   
   <entry>
     <title>Identifying Quality EXAFS Data Fitting: Statistical Methods</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/496821b9.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/496821b9.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/496821b9.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/496821b9.html</id>
     <published>2022-10-03T12:10:12.000Z</published>
     <updated>2023-05-03T15:31:12.000Z</updated>
     
@@ -699,23 +699,23 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
   </entry>
   
   <entry>
     <title>Key Parameters in EXAFS Fitting</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/2e792c96.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/2e792c96.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/2e792c96.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/2e792c96.html</id>
     <published>2022-10-01T13:36:12.000Z</published>
     <updated>2024-02-09T10:30:29.000Z</updated>
     
@@ -724,23 +724,23 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
   </entry>
   
   <entry>
     <title>XAFS Theory</title>
-    <link href="https://www.huaecho.cn/Core-level-spectroscopy/XAFS/618690954.html"/>
-    <id>https://www.huaecho.cn/Core-level-spectroscopy/XAFS/618690954.html</id>
+    <link href="https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/618690954.html"/>
+    <id>https://jianhua-yin.github.io/Core-level-spectroscopy/XAFS/618690954.html</id>
     <published>2022-07-10T06:20:14.000Z</published>
     <updated>2023-01-17T03:29:50.000Z</updated>
     
@@ -749,25 +749,25 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Core level spectroscopy" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/"/>
+    <category term="Core level spectroscopy" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/"/>
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/categories/Core-level-spectroscopy/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/categories/Core-level-spectroscopy/XAFS/"/>
     
     
-    <category term="XAFS" scheme="https://www.huaecho.cn/tags/XAFS/"/>
+    <category term="XAFS" scheme="https://jianhua-yin.github.io/tags/XAFS/"/>
     
-    <category term="Core level spectrum" scheme="https://www.huaecho.cn/tags/Core-level-spectrum/"/>
+    <category term="Core level spectrum" scheme="https://jianhua-yin.github.io/tags/Core-level-spectrum/"/>
     
-    <category term="EXAFS" scheme="https://www.huaecho.cn/tags/EXAFS/"/>
+    <category term="EXAFS" scheme="https://jianhua-yin.github.io/tags/EXAFS/"/>
     
-    <category term="XANES" scheme="https://www.huaecho.cn/tags/XANES/"/>
+    <category term="XANES" scheme="https://jianhua-yin.github.io/tags/XANES/"/>
     
   </entry>
   
   <entry>
     <title>GSAS-II: A Modern Open-Source Crystallography Software Package</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/5b81b8ba.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/5b81b8ba.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/5b81b8ba.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/5b81b8ba.html</id>
     <published>2022-04-02T05:51:04.000Z</published>
     <updated>2024-03-24T09:51:04.000Z</updated>
     
@@ -776,25 +776,25 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
+    <category term="Rietveld Refinement" scheme="https://jianhua-yin.github.io/tags/Rietveld-Refinement/"/>
     
-    <category term="GSAS-II" scheme="https://www.huaecho.cn/tags/GSAS-II/"/>
+    <category term="GSAS-II" scheme="https://jianhua-yin.github.io/tags/GSAS-II/"/>
     
   </entry>
   
   <entry>
     <title>FullProf Suite: Crystallographic Programs for Rietveld Analysis</title>
-    <link href="https://www.huaecho.cn/Tools/Scattering/2c78c48.html"/>
-    <id>https://www.huaecho.cn/Tools/Scattering/2c78c48.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Scattering/2c78c48.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Scattering/2c78c48.html</id>
     <published>2022-03-24T16:23:33.000Z</published>
     <updated>2024-05-22T05:23:33.000Z</updated>
     
@@ -803,25 +803,25 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Tools/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Tools/Scattering/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Rietveld Refinement" scheme="https://www.huaecho.cn/tags/Rietveld-Refinement/"/>
+    <category term="Rietveld Refinement" scheme="https://jianhua-yin.github.io/tags/Rietveld-Refinement/"/>
     
-    <category term="FullProf Suite" scheme="https://www.huaecho.cn/tags/FullProf-Suite/"/>
+    <category term="FullProf Suite" scheme="https://jianhua-yin.github.io/tags/FullProf-Suite/"/>
     
   </entry>
   
   <entry>
     <title>Fundamentals of Electrochemical Impedance Spectroscopy (EIS)</title>
-    <link href="https://www.huaecho.cn/Electrochemical-Methods/EIS/a7d2d52d.html"/>
-    <id>https://www.huaecho.cn/Electrochemical-Methods/EIS/a7d2d52d.html</id>
+    <link href="https://jianhua-yin.github.io/Electrochemical-Methods/EIS/a7d2d52d.html"/>
+    <id>https://jianhua-yin.github.io/Electrochemical-Methods/EIS/a7d2d52d.html</id>
     <published>2022-03-14T14:14:12.000Z</published>
     <updated>2024-05-23T14:14:12.000Z</updated>
     
@@ -830,19 +830,19 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Electrochemical Methods" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods/"/>
+    <category term="Electrochemical Methods" scheme="https://jianhua-yin.github.io/categories/Electrochemical-Methods/"/>
     
-    <category term="EIS" scheme="https://www.huaecho.cn/categories/Electrochemical-Methods/EIS/"/>
+    <category term="EIS" scheme="https://jianhua-yin.github.io/categories/Electrochemical-Methods/EIS/"/>
     
     
-    <category term="-EIS -Electrochemical Methods" scheme="https://www.huaecho.cn/tags/EIS-Electrochemical-Methods/"/>
+    <category term="-EIS -Electrochemical Methods" scheme="https://jianhua-yin.github.io/tags/EIS-Electrochemical-Methods/"/>
     
   </entry>
   
   <entry>
     <title>Understanding of Powder Diffraction Patterns</title>
-    <link href="https://www.huaecho.cn/Scattering/Powder-Diffraction/c5c1423e.html"/>
-    <id>https://www.huaecho.cn/Scattering/Powder-Diffraction/c5c1423e.html</id>
+    <link href="https://jianhua-yin.github.io/Scattering/Powder-Diffraction/c5c1423e.html"/>
+    <id>https://jianhua-yin.github.io/Scattering/Powder-Diffraction/c5c1423e.html</id>
     <published>2020-07-01T09:25:11.000Z</published>
     <updated>2023-08-25T09:44:21.000Z</updated>
     
@@ -851,23 +851,23 @@ application of constraint restraints, among others.&lt;/p&gt;</summary>
     
     
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Scattering/"/>
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Scattering/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/categories/Scattering/Powder-Diffraction/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Coherent Scattering" scheme="https://www.huaecho.cn/tags/Coherent-Scattering/"/>
+    <category term="Coherent Scattering" scheme="https://jianhua-yin.github.io/tags/Coherent-Scattering/"/>
     
   </entry>
   
   <entry>
     <title>Principles of Powder Diffraction</title>
-    <link href="https://www.huaecho.cn/Scattering/Powder-Diffraction/2865233054.html"/>
-    <id>https://www.huaecho.cn/Scattering/Powder-Diffraction/2865233054.html</id>
+    <link href="https://jianhua-yin.github.io/Scattering/Powder-Diffraction/2865233054.html"/>
+    <id>https://jianhua-yin.github.io/Scattering/Powder-Diffraction/2865233054.html</id>
     <published>2020-06-25T03:59:17.000Z</published>
     <updated>2023-07-25T09:28:17.000Z</updated>
     
@@ -880,23 +880,23 @@ materials.&lt;/p&gt;</summary>
     
     
     
-    <category term="Scattering" scheme="https://www.huaecho.cn/categories/Scattering/"/>
+    <category term="Scattering" scheme="https://jianhua-yin.github.io/categories/Scattering/"/>
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/categories/Scattering/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/categories/Scattering/Powder-Diffraction/"/>
     
     
-    <category term="Powder Diffraction" scheme="https://www.huaecho.cn/tags/Powder-Diffraction/"/>
+    <category term="Powder Diffraction" scheme="https://jianhua-yin.github.io/tags/Powder-Diffraction/"/>
     
-    <category term="X-ray Scattering" scheme="https://www.huaecho.cn/tags/X-ray-Scattering/"/>
+    <category term="X-ray Scattering" scheme="https://jianhua-yin.github.io/tags/X-ray-Scattering/"/>
     
-    <category term="Coherent Scattering" scheme="https://www.huaecho.cn/tags/Coherent-Scattering/"/>
+    <category term="Coherent Scattering" scheme="https://jianhua-yin.github.io/tags/Coherent-Scattering/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.huaecho.cn/Tools/Hexo/1243066710.html"/>
-    <id>https://www.huaecho.cn/Tools/Hexo/1243066710.html</id>
+    <link href="https://jianhua-yin.github.io/Tools/Hexo/1243066710.html"/>
+    <id>https://jianhua-yin.github.io/Tools/Hexo/1243066710.html</id>
     <published>2018-09-07T04:42:00.000Z</published>
     <updated>2018-09-07T04:42:00.000Z</updated>
     
@@ -911,9 +911,9 @@ materials.&lt;/p&gt;</summary>
     
     
     
-    <category term="Tools" scheme="https://www.huaecho.cn/categories/Tools/"/>
+    <category term="Tools" scheme="https://jianhua-yin.github.io/categories/Tools/"/>
     
-    <category term="Hexo" scheme="https://www.huaecho.cn/categories/Tools/Hexo/"/>
+    <category term="Hexo" scheme="https://jianhua-yin.github.io/categories/Tools/Hexo/"/>
     
     
   </entry>
